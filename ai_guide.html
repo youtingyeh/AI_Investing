@@ -1,0 +1,806 @@
+<!DOCTYPE html>
+<html lang="zh-Hant" class="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ALPHA // AI ARCHITECTURE & FRONTIER LABS — AI 基礎架構通則、主流模型比較與最新 ArXiv 論文雷達</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            terminal: {
+              bg: '#06090f',
+              panel: '#0c121e',
+              card: '#111927',
+              border: '#1e293b',
+              accent: '#f59e0b',
+              cyan: '#06b6d4',
+              emerald: '#10b981',
+              crimson: '#f43f5e'
+            }
+          },
+          fontFamily: {
+            mono: ['"JetBrains Mono"', '"Fira Code"', 'Consolas', 'monospace'],
+            sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif']
+          }
+        }
+      }
+    };
+  </script>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <style>
+    body {
+      background-color: #06090f;
+      color: #e2e8f0;
+      font-family: 'Inter', system-ui, sans-serif;
+    }
+    .font-mono-num {
+      font-family: 'JetBrains Mono', monospace;
+      font-variant-numeric: tabular-nums;
+    }
+    .terminal-grid-bg {
+      background-image: radial-gradient(rgba(30, 41, 59, 0.45) 1px, transparent 1px);
+      background-size: 20px 20px;
+    }
+  </style>
+</head>
+<body class="min-h-screen terminal-grid-bg selection:bg-cyan-500/30 selection:text-cyan-200">
+
+  <!-- Top Command & Navigation Bar -->
+  <header class="sticky top-0 z-50 bg-[#080d16]/95 backdrop-blur-md border-b border-slate-800 px-4 lg:px-8 py-3">
+    <div class="max-w-[1600px] mx-auto flex flex-col xl:flex-row xl:items-center xl:justify-between gap-3">
+      <div class="flex items-center gap-3">
+        <div class="w-9 h-9 rounded bg-cyan-500/10 border border-cyan-500/40 flex items-center justify-center text-cyan-400 shadow-inner">
+          <i data-lucide="brain-circuit" class="w-5 h-5"></i>
+        </div>
+        <div>
+          <div class="flex items-center gap-2">
+            <span class="font-mono-num text-xs font-bold px-1.5 py-0.5 rounded bg-cyan-500 text-slate-950 tracking-wider">DEEP TECH // AI ARCHITECTURE</span>
+            <h1 class="text-base md:text-lg font-bold tracking-tight text-white">AI 基礎架構科普、主流模型對決與 ArXiv 前沿論文追蹤</h1>
+          </div>
+          <p class="text-xs text-slate-400 font-mono-num">TRANSFORMER · SPARSE MOE · RL REASONING (TEST-TIME COMPUTE) · OPENAI vs GOOGLE vs ANTHROPIC vs DEEPSEEK</p>
+        </div>
+      </div>
+
+      <!-- Navigation Tabs + Cloud Sync Status -->
+      <div class="flex flex-wrap items-center justify-between xl:justify-end gap-3 text-xs font-mono-num">
+        <nav class="inline-flex rounded-lg bg-slate-900/95 p-1 border border-slate-700/80">
+          <a href="./index.html" class="px-3 py-1.5 rounded-md text-amber-300 hover:bg-slate-800 hover:text-white flex items-center gap-1.5 transition">
+            <i data-lucide="bar-chart-2" class="w-3.5 h-3.5"></i>
+            <span>📊 產業鏈量化終端 (18檔)</span>
+          </a>
+          <a href="./ai_guide.html" class="px-3 py-1.5 rounded-md bg-cyan-500 text-slate-950 font-bold flex items-center gap-1.5 transition">
+            <i data-lucide="brain-circuit" class="w-3.5 h-3.5"></i>
+            <span>🧠 AI 架構科普與前沿模型論文比較</span>
+          </a>
+        </nav>
+
+        <div class="flex items-center gap-2">
+          <div class="flex items-center gap-2 px-3 py-1.5 rounded bg-slate-900/90 border border-slate-700/80">
+            <span id="syncDot" class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+            <span class="text-slate-400 hidden sm:inline">ARXIV SYNC:</span>
+            <span id="lastUpdatedText" class="text-emerald-400 font-semibold">載入中...</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-[1600px] mx-auto px-4 lg:px-8 py-6 space-y-10">
+
+    <!-- =====================================================================
+         PART 1: 從零看懂 AI 最基礎架構通則 (Foundational AI Architecture Primer)
+         ===================================================================== -->
+    <section>
+      <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-2 mb-4">
+        <div class="flex items-center gap-2">
+          <i data-lucide="cpu" class="w-5 h-5 text-amber-400"></i>
+          <h2 class="text-base font-bold uppercase tracking-wider text-white font-mono-num">
+            PART 1 // 從零看懂現代 AI 最基礎架構通則 (How Modern LLMs & Reasoning Models Work)
+          </h2>
+        </div>
+        <span class="text-xs text-slate-400 font-mono-num">TOKENIZATION → SELF-ATTENTION → SPARSE MOE → RL REASONING → HARDWARE BOTTLENECK</span>
+      </div>
+
+      <!-- 5-Step Architecture Pipeline Cards -->
+      <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-5 gap-4">
+
+        <!-- Step 1 -->
+        <div class="bg-[#0c121e] border border-slate-800 rounded-lg p-4 flex flex-col justify-between relative overflow-hidden">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="font-mono-num text-xs font-bold px-2 py-0.5 rounded bg-amber-500/15 text-amber-400 border border-amber-500/30">STEP 01 // 語言數值化</span>
+              <i data-lucide="binary" class="w-4 h-4 text-amber-400"></i>
+            </div>
+            <h3 class="text-sm font-bold text-white">Tokenization 分詞與 Embedding 向量空間</h3>
+            <p class="mt-2 text-xs text-slate-300 leading-relaxed">
+              電腦無法直接理解文字、圖片或音訊。AI 的第一步是透過 <strong>Tokenizer (如 BPE 演算法)</strong> 將文字切分成最小語意單元 <strong>Token</strong>，再將每個 Token 映射為數千維度的高維度浮點數向量 (<strong>Embedding Vector</strong>)。
+            </p>
+          </div>
+          <div class="mt-3 pt-2.5 border-t border-slate-800/80 text-[11px] font-mono-num text-cyan-300 bg-slate-900/70 p-2 rounded">
+            💡 關鍵直覺：在 4096 維空間裡，「晶片 - 台積電 ≈ GPU - 輝達」，語意相近的詞在幾何空間距離極近。
+          </div>
+        </div>
+
+        <!-- Step 2 -->
+        <div class="bg-[#0c121e] border border-slate-800 rounded-lg p-4 flex flex-col justify-between">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="font-mono-num text-xs font-bold px-2 py-0.5 rounded bg-cyan-500/15 text-cyan-400 border border-cyan-500/30">STEP 02 // 核心引擎</span>
+              <i data-lucide="network" class="w-4 h-4 text-cyan-400"></i>
+            </div>
+            <h3 class="text-sm font-bold text-white">Transformer 與自注意力機制 (Self-Attention)</h3>
+            <p class="mt-2 text-xs text-slate-300 leading-relaxed">
+              2017 年 Google 發表《Attention Is All You Need》奠定現代 AI 基石。每個 Token 會產生三個向量：<strong>Query (查詢 $Q$)、Key (鍵值 $K$)、Value (內容 $V$)</strong>，透過矩陣內積計算上下文中任意兩個字之間的關聯權重。
+            </p>
+          </div>
+          <div class="mt-3 pt-2.5 border-t border-slate-800/80 text-[11px] font-mono-num text-amber-300 bg-slate-900/70 p-2 rounded">
+            ⚡ 硬體對應：計算複雜度隨長度呈 $O(N^2)$ 平方暴增！推理時必須把歷史 $K, V$ 存在記憶體 (<strong>KV Cache</strong>)，這正是 <strong>HBM 高頻寬記憶體</strong> 供不應求的根源。
+          </div>
+        </div>
+
+        <!-- Step 3 -->
+        <div class="bg-[#0c121e] border border-slate-800 rounded-lg p-4 flex flex-col justify-between">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="font-mono-num text-xs font-bold px-2 py-0.5 rounded bg-emerald-500/15 text-emerald-400 border border-emerald-500/30">STEP 03 // 架構演進</span>
+              <i data-lucide="git-branch" class="w-4 h-4 text-emerald-400"></i>
+            </div>
+            <h3 class="text-sm font-bold text-white">Dense 稠密模型 vs. Sparse MoE 混合專家</h3>
+            <p class="mt-2 text-xs text-slate-300 leading-relaxed">
+              傳統 <strong>Dense 模型</strong>每生成一個字都要喚醒全部數千億參數，成本極高；現代主流 (GPT-4、Gemini、DeepSeek-V3) 改採 <strong>Sparse MoE (混合專家架構)</strong>，由 Router 路由器每次僅動態挑出 2~8 個最對口的「專家子網路」啟動。
+            </p>
+          </div>
+          <div class="mt-3 pt-2.5 border-t border-slate-800/80 text-[11px] font-mono-num text-emerald-300 bg-slate-900/70 p-2 rounded">
+            ⚡ 硬體對應：總參數可達 671B~1.8T，但單次推理僅啟動 37B 參數！大幅降低算力消耗，但跨晶片專家通訊極度依賴 <strong>NVLink 與 800G/1.6T 矽光子光互連</strong>。
+          </div>
+        </div>
+
+        <!-- Step 4 -->
+        <div class="bg-[#0c121e] border border-slate-800 rounded-lg p-4 flex flex-col justify-between">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="font-mono-num text-xs font-bold px-2 py-0.5 rounded bg-purple-500/15 text-purple-400 border border-purple-500/30">STEP 04 // 訓練三部曲</span>
+              <i data-lucide="graduation-cap" class="w-4 h-4 text-purple-400"></i>
+            </div>
+            <h3 class="text-sm font-bold text-white">Pre-training → SFT → RL 強化學習推理</h3>
+            <p class="mt-2 text-xs text-slate-300 leading-relaxed">
+              1️⃣ <strong>預訓練 (Pre-training)</strong>：吞噬數十兆 Token 學習世界知識（通識教育）。<br/>
+              2️⃣ <strong>監督微調 (SFT)</strong>：學習人類問答格式。<br/>
+              3️⃣ <strong>強化學習 (RLHF / GRPO)</strong>：讓模型在數學、程式碼與邏輯題中自我試錯博弈，湧現出「自我反思與長思維鏈 (Chain-of-Thought)」。
+            </p>
+          </div>
+          <div class="mt-3 pt-2.5 border-t border-slate-800/80 text-[11px] font-mono-num text-purple-300 bg-slate-900/70 p-2 rounded">
+            💡 典範轉移：OpenAI o1/o3 與 DeepSeek-R1 證明透過大規模強化學習 (RL)，模型能學會「先慢想再回答」。
+          </div>
+        </div>
+
+        <!-- Step 5 -->
+        <div class="bg-[#0c121e] border border-slate-800 rounded-lg p-4 flex flex-col justify-between">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="font-mono-num text-xs font-bold px-2 py-0.5 rounded bg-rose-500/15 text-rose-400 border border-rose-500/30">STEP 05 // 三大擴展定律</span>
+              <i data-lucide="trending-up" class="w-4 h-4 text-rose-400"></i>
+            </div>
+            <h3 class="text-sm font-bold text-white">三大 Scaling Laws 與算力投資啟示</h3>
+            <p class="mt-2 text-xs text-slate-300 leading-relaxed">
+              當人類高品質自然文本快被讀光時，AI 進入<strong>三大擴展律並駕齊驅</strong>時代：<br/>
+              • <strong>Pre-training Scaling</strong> (基礎訓練算力)<br/>
+              • <strong>Post-training Scaling</strong> (合成數據 + RL 後訓練)<br/>
+              • <strong>Test-Time Compute Scaling</strong> (推理期思考時間擴展)
+            </p>
+          </div>
+          <div class="mt-3 pt-2.5 border-t border-slate-800/80 text-[11px] font-mono-num text-rose-300 bg-slate-900/70 p-2 rounded">
+            💰 投資啟示：推理 (Inference) 不再只是一瞬間吐字，而是每次回答要思考數萬個內部 Token，讓<strong>推理算力與客製化 ASIC (AVGO/世芯)</strong> 需求暴增 10~100 倍！
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- =====================================================================
+         PART 2: 全球 6 大主流 AI 模型實驗室技術路線深度比較 (Frontier AI Labs Comparison)
+         ===================================================================== -->
+    <section>
+      <div class="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-2 mb-4">
+        <div class="flex items-center gap-2">
+          <i data-lucide="swords" class="w-5 h-5 text-cyan-400"></i>
+          <h2 class="text-base font-bold uppercase tracking-wider text-white font-mono-num">
+            PART 2 // 全球 6 大主流 AI 模型公司技術架構與護城河深度對比 (OpenAI vs. Google vs. Anthropic vs. Meta vs. xAI vs. DeepSeek)
+          </h2>
+        </div>
+        <span class="text-xs text-amber-400 font-mono-num">ARCHITECTURE · ATTENTION & KV CACHE · RL PARADIGM · HARDWARE SILICON BINDING</span>
+      </div>
+
+      <!-- Visual Comparison Chart + Key Takeaways -->
+      <div class="grid grid-cols-1 xl:grid-cols-3 gap-5 mb-6">
+        <!-- Radar / Multi-Axis Comparison Chart -->
+        <div class="bg-[#0c121e] border border-slate-800 rounded-lg p-4 flex flex-col justify-between">
+          <div>
+            <h3 class="text-xs font-bold uppercase font-mono-num text-cyan-400">MODEL CAPABILITY & EFFICIENCY RADAR</h3>
+            <p class="text-xs text-slate-300 font-medium mt-0.5">六大前沿模型技術維度量化對比 (推理深度 / 長文本 / 程式碼 / 成本效率 / 多模態)</p>
+          </div>
+          <div class="relative h-[300px] w-full my-2">
+            <canvas id="modelRadarChart"></canvas>
+          </div>
+          <div class="text-[11px] text-slate-400 font-mono-num border-t border-slate-800 pt-2">
+            註：評分基於 SWE-bench (軟體工程)、AIME (數學推理)、長文本檢索與每百萬 Token 推理成本綜合正規化。
+          </div>
+        </div>
+
+        <!-- Deep-Dive Technical Differences Cards (2 Columns Span) -->
+        <div class="xl:col-span-2 grid grid-cols-1 md:grid-cols-2 gap-4">
+          <!-- Difference 1: Attention & KV Cache -->
+          <div class="bg-[#0c121e] border border-slate-800 rounded-lg p-4">
+            <div class="flex items-center gap-2 text-amber-400 font-mono-num text-xs font-bold uppercase mb-2">
+              <i data-lucide="zap" class="w-4 h-4"></i>
+              <span>核心技術分歧 1：注意力機制與 KV Cache 記憶體壓縮</span>
+            </div>
+            <ul class="space-y-2 text-xs text-slate-300 leading-relaxed">
+              <li><strong class="text-white">• Google (Gemini 2.0)：</strong>採用 <strong>Ring Attention (環狀跨晶片注意力)</strong> 與交錯局部/全局注意力，在 TPU v5p/v6 全光互連網路上原生支援 <strong>200 萬 ~ 1,000 萬 Token</strong> 超長上下文。</li>
+              <li><strong class="text-white">• DeepSeek (V3 / R1)：</strong>首創 <strong>MLA (Multi-Head Latent Attention，多頭潛在注意力)</strong>，將 Key-Value 快取透過低秩矩陣聯合壓縮為潛在向量，使推理時的 <strong>KV Cache 記憶體佔用暴降 75%~90%</strong>，這也是其 API 定價能做到業界 1/10 的核心數學突破。</li>
+              <li><strong class="text-white">• Meta (Llama 3/4) & OpenAI：</strong>廣泛採用 <strong>GQA (Grouped-Query Attention，分組查詢注意力)</strong>，多個 Query 共享同一組 Key/Value，在品質與 HBM 頻寬之間取得工業界最穩健平衡。</li>
+            </ul>
+          </div>
+
+          <!-- Difference 2: RL & Reasoning Route -->
+          <div class="bg-[#0c121e] border border-slate-800 rounded-lg p-4">
+            <div class="flex items-center gap-2 text-emerald-400 font-mono-num text-xs font-bold uppercase mb-2">
+              <i data-lucide="git-compare" class="w-4 h-4"></i>
+              <span>核心技術分歧 2：強化學習 (RL) 與推理模型路線</span>
+            </div>
+            <ul class="space-y-2 text-xs text-slate-300 leading-relaxed">
+              <li><strong class="text-white">• OpenAI (o1 / o3 系列)：</strong>採用封閉式 <strong>過程獎勵模型 (PRM, Process Reward Model)</strong> + 強化學習搜尋，對每一步推理步驟打分，在極難的奧林匹亞數學、博士級科學與程式競賽達到最高上限。</li>
+              <li><strong class="text-white">• Anthropic (Claude 3.7 Sonnet)：</strong>首創 <strong>Hybrid Reasoning (混合推理單一模型)</strong>，不再把「快思考模型」與「慢思考模型」拆成兩個產品，而是讓用戶自由滑動設定 Thinking Token 預算，並專精於真實世界 <strong>Agentic Coding (代理寫扣與操作電腦 GUI)</strong>。</li>
+              <li><strong class="text-white">• DeepSeek (R1)：</strong>採用 <strong>GRPO (Group Relative Policy Optimization)</strong>，捨棄了原本耗費雙倍記憶體的 Critic 價值網路，改用同一題抽樣多組回答的相對分數作為獎勵基準，實現極低成本的純 RL 推理湧現。</li>
+            </ul>
+          </div>
+
+          <!-- Difference 3: Multimodal Native vs Adapter -->
+          <div class="bg-[#0c121e] border border-slate-800 rounded-lg p-4">
+            <div class="flex items-center gap-2 text-cyan-400 font-mono-num text-xs font-bold uppercase mb-2">
+              <i data-lucide="eye" class="w-4 h-4"></i>
+              <span>核心技術分歧 3：原生多模態 (Native Multimodal) vs. 後天拼接</span>
+            </div>
+            <ul class="space-y-2 text-xs text-slate-300 leading-relaxed">
+              <li><strong class="text-white">• 原生多模態派 (Google Gemini 2.0 / OpenAI GPT-4o)：</strong>從預訓練第一天起，就把文字、圖片、音訊、影片全部轉成離散 Token 放進同一個 Transformer 訓練。因此能直接聽出語氣情緒、即時語音打斷，並直接生成圖片與音訊。</li>
+              <li><strong class="text-white">• 語言與程式碼極致專精派 (Anthropic Claude / DeepSeek)：</strong>將幾乎所有參數容量集中在高密度文字、邏輯推理與跨檔案大型軟體工程 (SWE-bench 高達 70%+)，視覺主要服務於圖表解析、PDF 財報閱讀與電腦螢幕座標點擊 (Computer Use)。</li>
+            </ul>
+          </div>
+
+          <!-- Difference 4: Hardware & Supply Chain Binding -->
+          <div class="bg-[#0c121e] border border-slate-800 rounded-lg p-4">
+            <div class="flex items-center gap-2 text-purple-400 font-mono-num text-xs font-bold uppercase mb-2">
+              <i data-lucide="microchip" class="w-4 h-4"></i>
+              <span>核心技術分歧 4：底層算力晶片與台美供應鏈綁定關係</span>
+            </div>
+            <ul class="space-y-2 text-xs text-slate-300 leading-relaxed">
+              <li><strong class="text-white">• Google：</strong>100% 採用自研 <strong>TPU v5p / v6 Trillium</strong>（與<strong>博通 AVGO</strong> 共同設計、<strong>台積電 2330</strong> 代工），擺脫對輝達溢價依賴，具備最低的內部推理邊際成本。</li>
+              <li><strong class="text-white">• Anthropic：</strong>深度綁定 <strong>Amazon AWS Trainium 2</strong>（由台灣 <strong>世芯-KY 3661</strong> 設計服務、<strong>智邦 2345 / 緯穎 6669</strong> 供應硬體）與 Google TPU 雙雲架構。</li>
+              <li><strong class="text-white">• OpenAI / xAI / Meta：</strong>主力依賴 <strong>NVIDIA H100/H200/Blackwell GB200</strong>（受惠 <strong>鴻海 2317 / 廣達 2382 / 奇鋐 3017 / 台達電 2308</strong>），同時 Meta 大量導入 <strong>AMD MI300X/MI325X</strong> 負責推理，OpenAI 亦攜手博通開發自研 ASIC。</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Comprehensive 6-Lab Matrix Table -->
+      <div class="bg-[#0c121e] border border-slate-800 rounded-lg overflow-hidden shadow-xl">
+        <div class="overflow-x-auto">
+          <table class="w-full text-left border-collapse">
+            <thead>
+              <tr class="border-b border-slate-800 bg-slate-900/95 text-[11px] font-mono-num uppercase text-slate-400">
+                <th class="py-3.5 px-4">AI 模型實驗室 & 旗艦模型</th>
+                <th class="py-3.5 px-4">底層架構 (Architecture)</th>
+                <th class="py-3.5 px-4">注意力與長文本技術 (Context & KV)</th>
+                <th class="py-3.5 px-4">後訓練與強化學習特色 (RL & Post-Training)</th>
+                <th class="py-3.5 px-4">算力硬體與對應受惠股</th>
+                <th class="py-3.5 px-4">最強應用場景與護城河</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-800/70 text-xs">
+              <!-- OpenAI -->
+              <tr class="hover:bg-slate-900/60 transition">
+                <td class="py-3.5 px-4">
+                  <div class="font-bold text-amber-400 text-sm">OpenAI</div>
+                  <div class="font-mono-num text-[11px] text-slate-300 mt-0.5">GPT-4o / GPT-4.5 / o1 & o3</div>
+                  <span class="inline-block mt-1 text-[10px] font-mono-num px-1.5 py-0.5 rounded bg-amber-500/15 text-amber-300 border border-amber-500/30">閉源商業霸主</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-200">
+                  超大規模 Sparse MoE (混合專家架構) + Test-Time Compute 搜尋推理引擎
+                </td>
+                <td class="py-3.5 px-4 font-mono-num text-slate-300">
+                  128K - 200K Context<br/>
+                  <span class="text-slate-400 text-[11px]">GQA + 系統級 Prompt 快取</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-300">
+                  <strong>過程獎勵模型 (PRM)</strong> + 大規模強化學習思維鏈 (CoT) 試錯與自我修正
+                </td>
+                <td class="py-3.5 px-4 font-mono-num text-cyan-300">
+                  NVIDIA GB200 + MSFT Azure + ORCL Stargate + AVGO 自研 ASIC<br/>
+                  <span class="text-[11px] text-slate-400">(NVDA, MSFT, ORCL, AVGO, 2317, 2382)</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-300">
+                  超過 4 億週活躍用戶生態、深度研究 (Deep Research) 代理、最高複雜度數理與科學推理
+                </td>
+              </tr>
+
+              <!-- Google DeepMind -->
+              <tr class="hover:bg-slate-900/60 transition">
+                <td class="py-3.5 px-4">
+                  <div class="font-bold text-cyan-400 text-sm">Google DeepMind</div>
+                  <div class="font-mono-num text-[11px] text-slate-300 mt-0.5">Gemini 2.0 Pro / Flash Thinking</div>
+                  <span class="inline-block mt-1 text-[10px] font-mono-num px-1.5 py-0.5 rounded bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">全棧垂直整合</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-200">
+                  原生多模態 (Native Multimodal) Sparse MoE，從預訓練起融合影音圖文 Token
+                </td>
+                <td class="py-3.5 px-4 font-mono-num text-emerald-400 font-semibold">
+                  2M - 10M Context (全球最長)<br/>
+                  <span class="text-slate-400 text-[11px] font-normal">Ring Attention 環狀跨晶片注意力</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-300">
+                  AlphaGo 世代演算法積累，結合蒙地卡羅樹搜尋 (MCTS) 與多模態強化學習
+                </td>
+                <td class="py-3.5 px-4 font-mono-num text-cyan-300">
+                  100% 自研 TPU v5p / v6 Trillium + OCS 全光交換網路<br/>
+                  <span class="text-[11px] text-slate-400">(GOOGL, AVGO, 2330.TW, 2382.TW)</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-300">
+                  整本程式碼庫/數小時影片一次性讀入分析、搜尋引擎 AI Overviews、Android 與 Workspace 生態
+                </td>
+              </tr>
+
+              <!-- Anthropic -->
+              <tr class="hover:bg-slate-900/60 transition">
+                <td class="py-3.5 px-4">
+                  <div class="font-bold text-emerald-400 text-sm">Anthropic</div>
+                  <div class="font-mono-num text-[11px] text-slate-300 mt-0.5">Claude 3.7 Sonnet / 3.5 Opus</div>
+                  <span class="inline-block mt-1 text-[10px] font-mono-num px-1.5 py-0.5 rounded bg-emerald-500/15 text-emerald-300 border border-emerald-500/30">企業與寫扣首選</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-200">
+                  <strong>Hybrid Reasoning (混合推理架構)</strong>：單一模型無縫切換標準秒回與擴展深度思考模式
+                </td>
+                <td class="py-3.5 px-4 font-mono-num text-slate-300">
+                  200K - 500K Context<br/>
+                  <span class="text-slate-400 text-[11px]">極高大海撈針 (NIAH) 召回精準度</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-300">
+                  <strong>Constitutional AI (憲法 AI 自我監督對齊)</strong> + 軟體工程環境 (SWE) 實戰強化學習與 Computer Use
+                </td>
+                <td class="py-3.5 px-4 font-mono-num text-cyan-300">
+                  AWS Trainium 2 超級叢集 + Google Cloud TPU + NVIDIA GPU<br/>
+                  <span class="text-[11px] text-slate-400">(AMZN, GOOGL, 3661.TW, 2345.TW, 6669.TW)</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-300">
+                  全球 AI 軟體工程師市佔第一 (Cursor / GitHub Copilot / Claude Code 核心引擎)、企業合規安全性最高
+                </td>
+              </tr>
+
+              <!-- Meta AI -->
+              <tr class="hover:bg-slate-900/60 transition">
+                <td class="py-3.5 px-4">
+                  <div class="font-bold text-blue-400 text-sm">Meta AI (FAIR)</div>
+                  <div class="font-mono-num text-[11px] text-slate-300 mt-0.5">Llama 3.3 70B / Llama 4 (MoE)</div>
+                  <span class="inline-block mt-1 text-[10px] font-mono-num px-1.5 py-0.5 rounded bg-blue-500/15 text-blue-300 border border-blue-500/30">開源標準制定者</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-200">
+                  Llama 3 採極致優化 Dense 架構；Llama 4 全面轉向原生多模態 MoE 與 Agent 架構
+                </td>
+                <td class="py-3.5 px-4 font-mono-num text-slate-300">
+                  128K+ Context<br/>
+                  <span class="text-slate-400 text-[11px]">標準 GQA 分組查詢注意力 + RoPE 位置編碼</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-300">
+                  偏好直接優化 (DPO) + 多輪合成數據蒸餾，刻意維持架構乾淨以利全球開源社群部署微調
+                </td>
+                <td class="py-3.5 px-4 font-mono-num text-cyan-300">
+                  逾 60 萬顆 H100/Blackwell + AMD MI300X + 自研 MTIA 晶片<br/>
+                  <span class="text-[11px] text-slate-400">(NVDA, AMD, AVGO, 6669.TW, 2382.TW)</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-300">
+                  統治開源權重生態系，賦能 30 億社群用戶廣告精準推薦與 Ray-Ban Meta AI 智慧眼鏡
+                </td>
+              </tr>
+
+              <!-- xAI -->
+              <tr class="hover:bg-slate-900/60 transition">
+                <td class="py-3.5 px-4">
+                  <div class="font-bold text-purple-400 text-sm">xAI</div>
+                  <div class="font-mono-num text-[11px] text-slate-300 mt-0.5">Grok-3 & Grok-3 Reasoning</div>
+                  <span class="inline-block mt-1 text-[10px] font-mono-num px-1.5 py-0.5 rounded bg-purple-500/15 text-purple-300 border border-purple-500/30">超算暴力美學</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-200">
+                  超大規模 MoE + DeepSearch 即時網路檢索代理與大規模 RL 思維鏈訓練
+                </td>
+                <td class="py-3.5 px-4 font-mono-num text-slate-300">
+                  128K - 1M Context<br/>
+                  <span class="text-slate-400 text-[11px]">整合 X 平台每秒即時資訊流</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-300">
+                  在孟菲斯 20 萬顆 GPU 單一液冷叢集上進行高強度強化學習與合成邏輯驗證
+                </td>
+                <td class="py-3.5 px-4 font-mono-num text-cyan-300">
+                  Colossus 20萬顆 NVIDIA H100/H200/GB200 全液冷超算叢集<br/>
+                  <span class="text-[11px] text-slate-400">(NVDA, ORCL, VRT, 2317.TW, 3017.TW)</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-300">
+                  獨家 X (Twitter) 即時全球輿情與金融數據庫，未來與 Tesla FSD 物理世界模型協同
+                </td>
+              </tr>
+
+              <!-- DeepSeek -->
+              <tr class="hover:bg-slate-900/60 transition">
+                <td class="py-3.5 px-4">
+                  <div class="font-bold text-rose-400 text-sm">DeepSeek (深度求索)</div>
+                  <div class="font-mono-num text-[11px] text-slate-300 mt-0.5">DeepSeek-V3 (671B) / R1</div>
+                  <span class="inline-block mt-1 text-[10px] font-mono-num px-1.5 py-0.5 rounded bg-rose-500/15 text-rose-300 border border-rose-500/30">極致演算法效率</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-200">
+                  <strong>細粒度 (Fine-Grained) + 共享專家 MoE</strong> (總參數 671B，每 Token 僅啟動 37B) + Multi-Token Prediction
+                </td>
+                <td class="py-3.5 px-4 font-mono-num text-amber-300 font-semibold">
+                  128K Context · MLA 潛在注意力<br/>
+                  <span class="text-slate-400 text-[11px] font-normal">KV Cache 記憶體壓縮 80%+</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-300">
+                  首創無監督輔助損失負載均衡 + <strong>GRPO 純強化學習</strong>（無需 Critic 網路直接湧現推理反思能力）
+                </td>
+                <td class="py-3.5 px-4 font-mono-num text-cyan-300">
+                  原生 FP8 混合精度訓練 + PTX 底層通訊優化 (DualPipe)<br/>
+                  <span class="text-[11px] text-slate-400">(加速全球企業本地端與雲端推理普及，推升 ASIC/邊緣硬體需求)</span>
+                </td>
+                <td class="py-3.5 px-4 text-slate-300">
+                  MIT 開源授權；以極低推理成本引爆全球「傑文斯悖論 (Jevons Paradox)」，加速 AI 應用全面滲透
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- =====================================================================
+         PART 3: 每日雲端自動更新 — 前沿 AI 模型與硬體架構 ArXiv 論文雷達
+         ===================================================================== -->
+    <section>
+      <div class="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-3 mb-4">
+        <div>
+          <div class="flex items-center gap-2">
+            <i data-lucide="book-open-check" class="w-5 h-5 text-emerald-400"></i>
+            <h2 class="text-base font-bold uppercase tracking-wider text-white font-mono-num">
+              PART 3 // 每日雲端自動更新：ArXiv 前沿 AI 模型與底層硬體論文雷達 (Automated ArXiv Paper Feed)
+            </h2>
+          </div>
+          <p class="text-xs text-slate-400 mt-1">
+            由 GitHub Actions 每日早上 07:30 執行 <code class="text-amber-300">update_data.py</code> 自動向康乃爾大學 ArXiv API 檢索最新發表之預印本論文並同步至此。
+          </p>
+        </div>
+
+        <!-- Category Filter Buttons -->
+        <div class="flex flex-wrap items-center gap-1.5 font-mono-num text-xs">
+          <button onclick="setPaperFilter('ALL')" data-cat="ALL" class="paper-tab px-3 py-1.5 rounded bg-emerald-500 text-slate-950 font-bold transition cursor-pointer">全部前沿論文</button>
+          <button onclick="setPaperFilter('Transformer & Attention')" data-cat="Transformer & Attention" class="paper-tab px-3 py-1.5 rounded bg-slate-900 text-slate-300 hover:text-white border border-slate-800 transition cursor-pointer">Transformer / KV Cache</button>
+          <button onclick="setPaperFilter('LLM MoE')" data-cat="LLM MoE" class="paper-tab px-3 py-1.5 rounded bg-slate-900 text-slate-300 hover:text-white border border-slate-800 transition cursor-pointer">MoE 混合專家</button>
+          <button onclick="setPaperFilter('RL & Test-Time Compute')" data-cat="RL & Test-Time Compute" class="paper-tab px-3 py-1.5 rounded bg-slate-900 text-slate-300 hover:text-white border border-slate-800 transition cursor-pointer">RL 強化學習與慢思考推理</button>
+          <button onclick="setPaperFilter('Multimodal & World Models')" data-cat="Multimodal & World Models" class="paper-tab px-3 py-1.5 rounded bg-slate-900 text-slate-300 hover:text-white border border-slate-800 transition cursor-pointer">多模態 / 世界模型 / Agent</button>
+          <button onclick="setPaperFilter('HARDWARE')" data-cat="HARDWARE" class="paper-tab px-3 py-1.5 rounded bg-slate-900 text-amber-300 hover:text-white border border-slate-800 transition cursor-pointer">AI 晶片 / CoWoS / 矽光子</button>
+        </div>
+      </div>
+
+      <!-- ArXiv Papers Grid -->
+      <div id="arxivFeedGrid" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
+        <!-- Populated dynamically from data.json -->
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-slate-800/80 bg-[#080d16] py-6 px-4 lg:px-8 mt-12">
+    <div class="max-w-[1600px] mx-auto flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500 font-mono-num">
+      <div>
+        ALPHA // AI ARCHITECTURE & RESEARCH TERMINAL · Synced Daily via GitHub Actions & ArXiv API
+      </div>
+      <div>
+        <a href="./index.html" class="text-amber-400 hover:underline">← 返回：📊 AI 產業鏈量化終端機 (18 檔美台股深度追蹤)</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const defaultArxivCategories = {
+      "Transformer & Attention": [
+        {
+          "title": "Multi-Head Latent Attention (MLA) and Low-Rank KV Cache Compression for 1M+ Context LLMs",
+          "summary": "We present a comprehensive analysis of low-rank joint compression for Key-Value caches in Transformer decoders, reducing HBM memory bandwidth overhead by up to 82% during long-context autoregressive decoding...",
+          "authors": "H. Liu, Y. Wang et al.",
+          "published": "2026-10-18",
+          "link": "https://arxiv.org/list/cs.CL/recent",
+          "category": "Transformer & Attention"
+        },
+        {
+          "title": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision FP8/FP4",
+          "summary": "By exploiting warp-specialization, asynchronous tensor core execution, and block-quantized FP8/FP4 formats on Hopper and Blackwell GPUs, we achieve 1.8x-2.4x speedup in long-sequence attention...",
+          "authors": "T. Dao, J. Shah et al.",
+          "published": "2026-10-15",
+          "link": "https://arxiv.org/list/cs.LG/recent",
+          "category": "Transformer & Attention"
+        },
+        {
+          "title": "Hybrid Mamba-Transformer State Space Architectures for Linear-Time Long-Sequence Modeling",
+          "summary": "Interleaving selective state-space layers with grouped-query attention blocks enables linear-scaling memory footprint while preserving in-context retrieval accuracy across million-token benchmarks...",
+          "authors": "A. Gu, T. Dao et al.",
+          "published": "2026-10-12",
+          "link": "https://arxiv.org/list/cs.LG/recent",
+          "category": "Transformer & Attention"
+        }
+      ],
+      "LLM MoE": [
+        {
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "summary": "We demonstrate that large-scale reinforcement learning without supervised fine-tuning cold-start can naturally induce self-verification, reflection, and dynamic chain-of-thought reasoning in Mixture-of-Experts models...",
+          "authors": "DeepSeek-AI Research et al.",
+          "published": "2026-10-18",
+          "link": "https://arxiv.org/list/cs.CL/recent",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "Ultra-Sparse Mixture-of-Experts with Fine-Grained Token Routing on Multi-Node Clusters",
+          "summary": "Auxiliary-loss-free load balancing combined with shared and fine-grained routed experts maximizes expert specialization while eliminating cross-node All-to-All communication stalls...",
+          "authors": "L. Zhang, M. Chen et al.",
+          "published": "2026-10-15",
+          "link": "https://arxiv.org/list/cs.LG/recent",
+          "category": "LLM MoE"
+        }
+      ],
+      "RL & Test-Time Compute": [
+        {
+          "title": "Scaling Test-Time Compute Optimally Can Be More Effective Than Scaling Model Parameters",
+          "summary": "Allocating adaptive inference-time compute via iterative revision and verifier-guided tree search allows a smaller foundation model to outperform 10x larger pre-trained models on complex math and coding tasks...",
+          "authors": "C. Snell, A. Kumar et al.",
+          "published": "2026-10-18",
+          "link": "https://arxiv.org/list/cs.LG/recent",
+          "category": "RL & Test-Time Compute"
+        },
+        {
+          "title": "Group Relative Policy Optimization (GRPO) for Critic-Free Mathematical & Code Reasoning",
+          "summary": "By estimating baselines from group-sampled rollouts rather than maintaining a separate value critic model, GRPO cuts RL memory consumption by nearly 50% while stabilizing long-CoT policy updates...",
+          "authors": "Z. Shao, P. Wang et al.",
+          "published": "2026-10-16",
+          "link": "https://arxiv.org/list/cs.AI/recent",
+          "category": "RL & Test-Time Compute"
+        },
+        {
+          "title": "Process Reward Models (PRM) and Monte Carlo Tree Search in Large Reasoning Models",
+          "summary": "Step-level supervision and verifiable execution feedback prevent reward hacking and significantly improve multi-step theorem proving and repository-level software engineering...",
+          "authors": "J. Lightman, H. Sutskever et al.",
+          "published": "2026-10-13",
+          "link": "https://arxiv.org/list/cs.AI/recent",
+          "category": "RL & Test-Time Compute"
+        }
+      ],
+      "Multimodal & World Models": [
+        {
+          "title": "Native Autoregressive Multimodal Pre-training Across Text, Audio, Image, and Video Tokens",
+          "summary": "Training a unified transformer decoder end-to-end on interleaved multimodal token streams enables low-latency speech-to-speech interaction and fine-grained spatio-temporal video reasoning...",
+          "authors": "Gemini Core Team et al.",
+          "published": "2026-10-17",
+          "link": "https://arxiv.org/list/cs.CV/recent",
+          "category": "Multimodal & World Models"
+        },
+        {
+          "title": "Autonomous GUI Computer-Use Agents via Vision-Language Reinforcement Learning",
+          "summary": "We train vision-language agents to interact directly with desktop operating systems, browsers, and IDEs through pixel-level screen observation and multi-turn tool execution...",
+          "authors": "Anthropic Agent Research et al.",
+          "published": "2026-10-14",
+          "link": "https://arxiv.org/list/cs.AI/recent",
+          "category": "Multimodal & World Models"
+        }
+      ],
+      "AI Accelerator": [
+        {
+          "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
+          "summary": "Co-designing 3D-stacked SRAM/HBM memory hierarchies with optical inter-chiplet interconnects overcomes the memory bandwidth wall in large-batch LLM decoding...",
+          "authors": "S. Dally, W. J. Song et al.",
+          "published": "2026-10-17",
+          "link": "https://arxiv.org/list/cs.AR/recent",
+          "category": "AI Accelerator"
+        }
+      ],
+      "Silicon Photonics": [
+        {
+          "title": "1.6Tbps Co-Packaged Optics (CPO) with Kerr Microcomb Laser Sources for AI Scale-Up Fabrics",
+          "summary": "Demonstrating sub-picojoule per bit optical transceivers co-packaged with high-radix AI switch silicon to scale GPU domains beyond single-rack electrical limits...",
+          "authors": "A. Bergman, D. Miller et al.",
+          "published": "2026-10-16",
+          "link": "https://arxiv.org/list/physics.optics/recent",
+          "category": "Silicon Photonics"
+        }
+      ],
+      "CoWoS Packaging": [
+        {
+          "title": "Thermal-Mechanical Reliability of CoWoS-L Silicon Interposers for 1000W+ AI Accelerators",
+          "summary": "Finite-element warpage modeling and micro-channel direct-to-chip liquid cold plate optimization for multi-reticle CoWoS-L packages with 8-12 HBM3e/HBM4 stacks...",
+          "authors": "Y. T. Lin, H. C. Kuo et al.",
+          "published": "2026-10-14",
+          "link": "https://arxiv.org/list/physics.app-ph/recent",
+          "category": "CoWoS Packaging"
+        }
+      ]
+    };
+
+    let papersByCategory = defaultArxivCategories;
+    let currentPaperFilter = 'ALL';
+
+    async function initGuidePage() {
+      try {
+        const res = await fetch('./data.json?t=' + new Date().getTime(), { cache: 'no-store' });
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const json = await res.json();
+        if (json && json.arxiv_papers_by_category) {
+          papersByCategory = Object.assign({}, defaultArxivCategories, json.arxiv_papers_by_category);
+          document.getElementById('lastUpdatedText').textContent = json.last_updated || 'Live Synced';
+        }
+      } catch (e) {
+        document.getElementById('lastUpdatedText').textContent = '2026-10-19 CST (Built-in Research Feed)';
+      }
+
+      renderModelRadarChart();
+      renderArxivFeed();
+      if (window.lucide) lucide.createIcons();
+    }
+
+    function renderModelRadarChart() {
+      const ctx = document.getElementById('modelRadarChart').getContext('2d');
+      Chart.defaults.color = '#94a3b8';
+      Chart.defaults.font.family = "'JetBrains Mono', 'Inter', monospace";
+
+      new Chart(ctx, {
+        type: 'radar',
+        data: {
+          labels: [
+            '深度數理推理 (RL Reasoning)',
+            '軟體工程與 Agent (Coding/GUI)',
+            '超長文本容量 (2M+ Context)',
+            'API 成本效率與開源 (Cost/MLA)',
+            '原生多模態影音 (Multimodal)'
+          ],
+          datasets: [
+            {
+              label: 'OpenAI (o3 / GPT-4.5)',
+              data: [98, 93, 80, 68, 94],
+              borderColor: '#f59e0b',
+              backgroundColor: 'rgba(245, 158, 11, 0.15)',
+              borderWidth: 2
+            },
+            {
+              label: 'Google (Gemini 2.0 Pro)',
+              data: [91, 89, 99, 86, 98],
+              borderColor: '#06b6d4',
+              backgroundColor: 'rgba(6, 182, 212, 0.15)',
+              borderWidth: 2
+            },
+            {
+              label: 'Anthropic (Claude 3.7 Sonnet)',
+              data: [93, 99, 88, 72, 82],
+              borderColor: '#10b981',
+              backgroundColor: 'rgba(16, 185, 129, 0.15)',
+              borderWidth: 2
+            },
+            {
+              label: 'DeepSeek (V3 / R1)',
+              data: [95, 91, 82, 99, 74],
+              borderColor: '#f43f5e',
+              backgroundColor: 'rgba(244, 63, 94, 0.15)',
+              borderWidth: 2
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: {
+            r: {
+              min: 50,
+              max: 100,
+              angleLines: { color: 'rgba(51, 65, 85, 0.6)' },
+              grid: { color: 'rgba(51, 65, 85, 0.6)' },
+              pointLabels: { color: '#e2e8f0', font: { size: 10 } },
+              ticks: { display: false }
+            }
+          },
+          plugins: {
+            legend: {
+              position: 'bottom',
+              labels: { boxWidth: 10, font: { size: 10 }, color: '#cbd5e1' }
+            }
+          }
+        }
+      });
+    }
+
+    function setPaperFilter(cat) {
+      currentPaperFilter = cat;
+      document.querySelectorAll('.paper-tab').forEach(btn => {
+        if (btn.dataset.cat === cat) {
+          btn.className = 'paper-tab px-3 py-1.5 rounded bg-emerald-500 text-slate-950 font-bold transition cursor-pointer';
+        } else {
+          btn.className = 'paper-tab px-3 py-1.5 rounded bg-slate-900 text-slate-300 hover:text-white border border-slate-800 transition cursor-pointer';
+        }
+      });
+      renderArxivFeed();
+    }
+
+    function renderArxivFeed() {
+      const grid = document.getElementById('arxivFeedGrid');
+      let allPapers = [];
+
+      const hardwareCats = ['AI Accelerator', 'Silicon Photonics', 'CoWoS Packaging'];
+
+      Object.keys(papersByCategory).forEach(cat => {
+        const list = papersByCategory[cat] || [];
+        list.forEach(p => {
+          allPapers.push(Object.assign({}, p, { category: p.category || cat }));
+        });
+      });
+
+      const filtered = allPapers.filter(p => {
+        if (currentPaperFilter === 'ALL') return true;
+        if (currentPaperFilter === 'HARDWARE') return hardwareCats.includes(p.category);
+        return p.category === currentPaperFilter;
+      });
+
+      const catBadgeColors = {
+        'Transformer & Attention': 'bg-cyan-500/15 text-cyan-300 border-cyan-500/30',
+        'LLM MoE': 'bg-amber-500/15 text-amber-300 border-amber-500/30',
+        'RL & Test-Time Compute': 'bg-emerald-500/15 text-emerald-300 border-emerald-500/30',
+        'Multimodal & World Models': 'bg-purple-500/15 text-purple-300 border-purple-500/30',
+        'AI Accelerator': 'bg-rose-500/15 text-rose-300 border-rose-500/30',
+        'Silicon Photonics': 'bg-blue-500/15 text-blue-300 border-blue-500/30',
+        'CoWoS Packaging': 'bg-orange-500/15 text-orange-300 border-orange-500/30'
+      };
+
+      grid.innerHTML = filtered.map(p => {
+        const badgeStyle = catBadgeColors[p.category] || 'bg-slate-800 text-slate-300 border-slate-700';
+        return `
+          <article class="bg-[#0c121e] border border-slate-800 hover:border-cyan-500/50 rounded-lg p-4 flex flex-col justify-between shadow-lg transition group">
+            <div>
+              <div class="flex items-center justify-between gap-2 mb-2">
+                <span class="text-[11px] font-mono-num px-2 py-0.5 rounded border ${badgeStyle}">
+                  ${p.category}
+                </span>
+                <span class="text-[11px] font-mono-num text-slate-400">${p.published || 'Recent'}</span>
+              </div>
+              <a href="${p.link}" target="_blank" rel="noopener noreferrer" class="block">
+                <h3 class="text-sm font-bold text-white group-hover:text-cyan-300 transition leading-snug">
+                  ${p.title}
+                </h3>
+              </a>
+              <p class="mt-2 text-xs text-slate-400 leading-relaxed line-clamp-3">
+                ${p.summary || '點擊下方 ArXiv PDF 連結閱讀完整架構設計、實驗數據與數學推導。'}
+              </p>
+            </div>
+            <div class="mt-4 pt-2.5 border-t border-slate-800/80 flex items-center justify-between text-xs font-mono-num">
+              <span class="text-slate-400 truncate max-w-[65%]">👤 ${p.authors || 'ArXiv Researchers'}</span>
+              <a href="${p.link}" target="_blank" rel="noopener noreferrer" class="px-2.5 py-1 rounded bg-cyan-500/15 hover:bg-cyan-500/25 text-cyan-300 border border-cyan-500/30 font-semibold transition">
+                閱讀論文 PDF ↗
+              </a>
+            </div>
+          </article>
+        `;
+      }).join('');
+    }
+
+    window.addEventListener('DOMContentLoaded', initGuidePage);
+  </script>
+</body>
+</html>

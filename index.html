@@ -69,33 +69,49 @@
 </head>
 <body class="min-h-screen terminal-grid-bg selection:bg-amber-500/30 selection:text-amber-200">
 
-  <!-- Top Bloomberg/Koyfin Command Bar -->
+  <!-- Top Bloomberg/Koyfin Command Bar with Multi-Page Navigation -->
   <header class="sticky top-0 z-50 bg-[#080d16]/95 backdrop-blur-md border-b border-slate-800 px-4 lg:px-8 py-3">
-    <div class="max-w-[1600px] mx-auto flex flex-col md:flex-row md:items-center md:justify-between gap-3">
-      <div class="flex items-center gap-3">
-        <div class="w-9 h-9 rounded bg-amber-500/10 border border-amber-500/40 flex items-center justify-center text-amber-400 shadow-inner">
-          <i data-lucide="terminal" class="w-5 h-5"></i>
-        </div>
-        <div>
-          <div class="flex items-center gap-2">
-            <span class="font-mono-num text-xs font-bold px-1.5 py-0.5 rounded bg-amber-500 text-slate-950 tracking-wider">BLOOMBERG // KOYFIN PRO</span>
-            <h1 class="text-base md:text-lg font-bold tracking-tight text-white">AI 產業鏈深度投資與技術追蹤終端機</h1>
+    <div class="max-w-[1600px] mx-auto flex flex-col xl:flex-row xl:items-center xl:justify-between gap-3">
+      <div class="flex items-center justify-between">
+        <div class="flex items-center gap-3">
+          <div class="w-9 h-9 rounded bg-amber-500/10 border border-amber-500/40 flex items-center justify-center text-amber-400 shadow-inner">
+            <i data-lucide="terminal" class="w-5 h-5"></i>
           </div>
-          <p class="text-xs text-slate-400 font-mono-num">US & TW SEMICONDUCTOR / HYPERSCALER CAPEX / CREDIT RISK / ARXIV TECH RADAR</p>
+          <div>
+            <div class="flex items-center gap-2">
+              <span class="font-mono-num text-xs font-bold px-1.5 py-0.5 rounded bg-amber-500 text-slate-950 tracking-wider">BLOOMBERG // KOYFIN PRO</span>
+              <h1 class="text-base md:text-lg font-bold tracking-tight text-white">AI 產業鏈深度投資與技術追蹤終端機</h1>
+            </div>
+            <p class="text-xs text-slate-400 font-mono-num">18 US & TW AI LEADERS / HYPERSCALER CAPEX / CREDIT RISK / ARXIV TECH RADAR</p>
+          </div>
         </div>
       </div>
 
-      <!-- Cloud Sync Status & Quick Ticker Bar -->
-      <div class="flex flex-wrap items-center gap-3 text-xs font-mono-num">
-        <div id="syncBadge" class="flex items-center gap-2 px-3 py-1.5 rounded bg-slate-900/90 border border-slate-700/80">
-          <span id="syncDot" class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-          <span class="text-slate-400">LAST CLOUD SYNC:</span>
-          <span id="lastUpdatedText" class="text-emerald-400 font-semibold">載入中...</span>
+      <!-- Navigation Tabs + Cloud Sync Status -->
+      <div class="flex flex-wrap items-center justify-between xl:justify-end gap-3 text-xs font-mono-num">
+        <!-- Page Switcher -->
+        <nav class="inline-flex rounded-lg bg-slate-900/95 p-1 border border-slate-700/80">
+          <a href="./index.html" class="px-3 py-1.5 rounded-md bg-amber-500 text-slate-950 font-bold flex items-center gap-1.5 transition">
+            <i data-lucide="bar-chart-2" class="w-3.5 h-3.5"></i>
+            <span>📊 產業鏈量化終端 (18檔)</span>
+          </a>
+          <a href="./ai_guide.html" class="px-3 py-1.5 rounded-md text-cyan-300 hover:bg-slate-800 hover:text-white flex items-center gap-1.5 transition">
+            <i data-lucide="brain-circuit" class="w-3.5 h-3.5"></i>
+            <span>🧠 AI 架構科普與前沿模型論文比較</span>
+          </a>
+        </nav>
+
+        <div class="flex items-center gap-2">
+          <div id="syncBadge" class="flex items-center gap-2 px-3 py-1.5 rounded bg-slate-900/90 border border-slate-700/80">
+            <span id="syncDot" class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+            <span class="text-slate-400 hidden sm:inline">SYNC:</span>
+            <span id="lastUpdatedText" class="text-emerald-400 font-semibold">載入中...</span>
+          </div>
+          <button onclick="reloadLatestData()" class="px-3 py-1.5 rounded bg-amber-500/10 hover:bg-amber-500/20 text-amber-300 border border-amber-500/30 flex items-center gap-1.5 transition cursor-pointer">
+            <i data-lucide="refresh-cw" class="w-3.5 h-3.5"></i>
+            <span>同步</span>
+          </button>
         </div>
-        <button onclick="reloadLatestData()" class="px-3 py-1.5 rounded bg-amber-500/10 hover:bg-amber-500/20 text-amber-300 border border-amber-500/30 flex items-center gap-1.5 transition cursor-pointer">
-          <i data-lucide="refresh-cw" class="w-3.5 h-3.5"></i>
-          <span>強制雲端同步</span>
-        </button>
       </div>
     </div>
   </header>
@@ -112,7 +128,9 @@
           <i data-lucide="activity" class="w-4 h-4 text-amber-400"></i>
           <h2 class="text-sm font-bold uppercase tracking-wider text-slate-200 font-mono-num">1. 總體經濟與 AI 產業鏈關鍵指標 (Macro & Supply Chain KPIs)</h2>
         </div>
-        <span class="text-xs text-slate-400 font-mono-num">CAPEX TRACKER · COWOS/HBM/CPO BOTTLENECKS · GROSS MARGIN VALUE POOL</span>
+        <a href="./ai_guide.html" class="text-xs text-cyan-400 hover:text-amber-300 font-mono-num flex items-center gap-1 underline underline-offset-4">
+          <span>想了解 Transformer、MoE、RL 推理與 OpenAI/Google/DeepSeek 模型差異？點此前往科普專頁 ↗</span>
+        </a>
       </div>
 
       <div class="grid grid-cols-1 lg:grid-cols-3 gap-4">
@@ -175,17 +193,17 @@
           <div class="mt-3 space-y-2 text-xs font-mono-num">
             <div>
               <div class="flex justify-between mb-0.5">
-                <span class="text-slate-300">上游 (IP / EDA / IC設計)</span>
-                <span class="text-amber-400 font-bold">60% - 85% (Avg 74%)</span>
+                <span class="text-slate-300">上游 (IP 96% / 晶片設計 53-77% / ASIC)</span>
+                <span class="text-amber-400 font-bold">53% - 96% (Avg 76%)</span>
               </div>
               <div class="w-full h-1.5 bg-slate-800 rounded overflow-hidden">
-                <div class="bg-amber-400 h-full" style="width: 76%"></div>
+                <div class="bg-amber-400 h-full" style="width: 78%"></div>
               </div>
             </div>
             <div>
               <div class="flex justify-between mb-0.5">
-                <span class="text-slate-300">中游 (晶圓代工 50-60% | 散熱電源 20-34%)</span>
-                <span class="text-cyan-400 font-bold">24% - 58%</span>
+                <span class="text-slate-300">中游 (晶圓代工 58% | 散熱電源網通 21-37%)</span>
+                <span class="text-cyan-400 font-bold">21% - 58%</span>
               </div>
               <div class="w-full h-1.5 bg-slate-800 rounded overflow-hidden">
                 <div class="bg-cyan-400 h-full" style="width: 52%"></div>
@@ -193,8 +211,8 @@
             </div>
             <div>
               <div class="flex justify-between mb-0.5">
-                <span class="text-slate-300">中游 (AI 伺服器代工組裝 ODM)</span>
-                <span class="text-rose-400 font-bold">5.5% - 15% (Avg 8%)</span>
+                <span class="text-slate-300">中游 (AI 伺服器代工組裝 ODM：鴻海/廣達/緯穎)</span>
+                <span class="text-rose-400 font-bold">6% - 11% (Avg 8.4%)</span>
               </div>
               <div class="w-full h-1.5 bg-slate-800 rounded overflow-hidden">
                 <div class="bg-rose-500 h-full" style="width: 12%"></div>
@@ -203,7 +221,7 @@
             <div>
               <div class="flex justify-between mb-0.5">
                 <span class="text-slate-300">下游 (CSP 雲端巨頭 / AI SaaS)</span>
-                <span class="text-emerald-400 font-bold">50% - 81% (Avg 70%)</span>
+                <span class="text-emerald-400 font-bold">49% - 81% (Avg 70%)</span>
               </div>
               <div class="w-full h-1.5 bg-slate-800 rounded overflow-hidden">
                 <div class="bg-emerald-400 h-full" style="width: 70%"></div>
@@ -225,7 +243,7 @@
         </div>
         <span class="text-xs text-amber-400 font-mono-num flex items-center gap-1">
           <i data-lucide="mouse-pointer-click" class="w-3.5 h-3.5"></i>
-          點擊任一散佈圖氣泡或下方公司卡片，可即時切換「圖表 3：個股財務與 RPO 訂單能見度趨勢」
+          點擊任一散佈圖氣泡或下方 18 家公司卡片，可即時切換「圖表 3：個股財務與 RPO 訂單能見度趨勢」
         </span>
       </div>
 
@@ -235,7 +253,7 @@
           <div class="flex items-center justify-between mb-2">
             <div>
               <h3 class="text-xs font-bold uppercase font-mono-num text-amber-400">CHART 01 // GROSS MARGIN vs. YoY GROWTH</h3>
-              <p class="text-xs text-slate-300 font-medium">毛利率 vs. 營收成長率氣泡圖 (氣泡大小 = 美金市值)</p>
+              <p class="text-xs text-slate-300 font-medium">18 檔標的毛利率 vs. 營收成長率氣泡圖 (氣泡 = 美金市值)</p>
             </div>
             <span class="text-[11px] font-mono-num px-2 py-0.5 rounded bg-slate-900 text-slate-400 border border-slate-700">點擊氣泡連動</span>
           </div>
@@ -243,8 +261,8 @@
             <canvas id="bubbleChart"></canvas>
           </div>
           <div class="mt-2 pt-2 border-t border-slate-800/80 flex items-center justify-between text-[11px] text-slate-400 font-mono-num">
-            <span>左上：高毛利標準制定者 (NVDA/AVGO/PLTR)</span>
-            <span>右下：高營收彈性組裝廠 (廣達/鴻海)</span>
+            <span>右上：高毛利高成長 (ARM/NVDA/AVGO)</span>
+            <span>右下：高營收彈性組裝與ASIC (世芯/緯穎/廣達)</span>
           </div>
         </div>
 
@@ -287,40 +305,36 @@
     </section>
 
     <!-- =====================================================================
-         SECTION 3: 上市公司深度追蹤矩陣 (Public Companies Matrix - 美股 & 台股)
+         SECTION 3: 上市公司深度追蹤矩陣 (Public Companies Matrix - 美股 10 檔 & 台股 8 檔)
          ===================================================================== -->
     <section>
       <div class="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-3 mb-4">
         <div class="flex items-center gap-2">
-          <i data-lucide="Layers" class="w-4 h-4 text-amber-400"></i>
+          <i data-lucide="layers" class="w-4 h-4 text-amber-400"></i>
           <h2 class="text-sm font-bold uppercase tracking-wider text-slate-200 font-mono-num">
-            3. 上市公司深度追蹤矩陣 (Public Companies Matrix — 6 大核心維度深度剖析)
+            3. 上市公司深度追蹤矩陣 (Public Companies Matrix — 美股 10 檔 & 台股 8 檔，共 18 家指標大廠)
           </h2>
         </div>
 
-        <!-- Filter Controls: Market (All / US / TW) & Supply Chain Stream (All / Upstream / Midstream / Downstream) -->
+        <!-- Filter Controls -->
         <div class="flex flex-wrap items-center gap-2">
-          <!-- Market Filter -->
           <div class="inline-flex rounded-md bg-slate-900 p-1 border border-slate-800 text-xs font-mono-num">
-            <button onclick="setMarketFilter('ALL')" data-market="ALL" class="market-btn px-3 py-1 rounded bg-amber-500 text-slate-950 font-bold transition cursor-pointer">全部市場 (12)</button>
-            <button onclick="setMarketFilter('US')" data-market="US" class="market-btn px-3 py-1 rounded text-slate-300 hover:text-white transition cursor-pointer">美股 US (7)</button>
-            <button onclick="setMarketFilter('TW')" data-market="TW" class="market-btn px-3 py-1 rounded text-slate-300 hover:text-white transition cursor-pointer">台股 TW (5)</button>
+            <button onclick="setMarketFilter('ALL')" data-market="ALL" class="market-btn px-3 py-1 rounded bg-amber-500 text-slate-950 font-bold transition cursor-pointer">全部市場 (18)</button>
+            <button onclick="setMarketFilter('US')" data-market="US" class="market-btn px-3 py-1 rounded text-slate-300 hover:text-white transition cursor-pointer">美股 US (10)</button>
+            <button onclick="setMarketFilter('TW')" data-market="TW" class="market-btn px-3 py-1 rounded text-slate-300 hover:text-white transition cursor-pointer">台股 TW (8)</button>
           </div>
 
-          <!-- Stream Filter -->
           <div class="inline-flex rounded-md bg-slate-900 p-1 border border-slate-800 text-xs font-mono-num">
-            <button onclick="setStreamFilter('ALL')" data-stream="ALL" class="stream-btn px-3 py-1 rounded bg-cyan-500 text-slate-950 font-bold transition cursor-pointer">全產業鏈</button>
-            <button onclick="setStreamFilter('Upstream')" data-stream="Upstream" class="stream-btn px-3 py-1 rounded text-slate-300 hover:text-white transition cursor-pointer">上游 (IP/晶片)</button>
-            <button onclick="setStreamFilter('Midstream')" data-stream="Midstream" class="stream-btn px-3 py-1 rounded text-slate-300 hover:text-white transition cursor-pointer">中游 (晶圓/伺服器/電源散熱)</button>
-            <button onclick="setStreamFilter('Downstream')" data-stream="Downstream" class="stream-btn px-3 py-1 rounded text-slate-300 hover:text-white transition cursor-pointer">下游 (CSP/SaaS)</button>
+            <button onclick="setStreamFilter('ALL')" data-stream="ALL" class="stream-btn px-3 py-1 rounded bg-cyan-500 text-slate-950 font-bold transition cursor-pointer">全產業鏈 (18)</button>
+            <button onclick="setStreamFilter('Upstream')" data-stream="Upstream" class="stream-btn px-3 py-1 rounded text-slate-300 hover:text-white transition cursor-pointer">上游：晶片/IP/ASIC (5)</button>
+            <button onclick="setStreamFilter('Midstream')" data-stream="Midstream" class="stream-btn px-3 py-1 rounded text-slate-300 hover:text-white transition cursor-pointer">中游：晶圓/網通/液冷/ODM (8)</button>
+            <button onclick="setStreamFilter('Downstream')" data-stream="Downstream" class="stream-btn px-3 py-1 rounded text-slate-300 hover:text-white transition cursor-pointer">下游：CSP雲端/SaaS (5)</button>
           </div>
         </div>
       </div>
 
       <!-- Matrix Grid -->
-      <div id="companiesMatrixGrid" class="grid grid-cols-1 lg:grid-cols-2 gap-5">
-        <!-- Populated dynamically via JavaScript -->
-      </div>
+      <div id="companiesMatrixGrid" class="grid grid-cols-1 lg:grid-cols-2 gap-5"></div>
     </section>
 
     <!-- =====================================================================
@@ -348,9 +362,7 @@
                 <th class="py-3 px-4">潛在 IPO 時程</th>
               </tr>
             </thead>
-            <tbody id="unicornTableBody" class="divide-y divide-slate-800/70 text-xs">
-              <!-- Populated dynamically -->
-            </tbody>
+            <tbody id="unicornTableBody" class="divide-y divide-slate-800/70 text-xs"></tbody>
           </table>
         </div>
       </div>
@@ -364,19 +376,19 @@
       <div>
         ALPHA // AI SUPPLY CHAIN QUANT TERMINAL · Powered by GitHub Actions, yfinance & ArXiv API
       </div>
-      <div>
-        DISCLAIMER: 僅供量化研究與產業鏈追蹤參考，不構成任何投資買賣建議。
+      <div class="flex items-center gap-4">
+        <a href="./ai_guide.html" class="text-cyan-400 hover:underline">前往：🧠 AI 架構科普與前沿模型研究專頁 →</a>
+        <span>DISCLAIMER: 僅供量化研究與技術追蹤參考</span>
       </div>
     </div>
   </footer>
 
   <!-- =====================================================================
-       JAVASCRIPT ENGINE: DEFAULT FALLBACK DATA + FETCH + CHART.JS RENDERING
+       JAVASCRIPT ENGINE: 18 STOCKS DEFAULT FALLBACK DATA + FETCH + CHART.JS
        ===================================================================== -->
   <script>
-    // 內建完整真實的 defaultData 作為 Fallback，確保未生成 data.json 或本地直接開啟時 100% 正常運作
     const defaultData = {
-      "last_updated": "2026-10-19 07:30:00 CST (Built-in Fallback Data)",
+      "last_updated": "2026-10-19 14:30:00 CST (Built-in 18-Stock Data)",
       "status": "FALLBACK_READY",
       "macro_kpis": {
         "csp_capex": {
@@ -426,8 +438,7 @@
             { "title": "FP4 / Microscaling Formats and High-Radix NVLink Topologies for Next-Gen GPU Clusters", "published": "2026-10-13", "link": "https://arxiv.org/list/cs.DC/recent" }
           ],
           "news": [
-            { "title": "NVIDIA Blackwell Ultra GB300 Racks Enter Volume Production Across Tier-1 Hyperscalers", "link": "https://finance.yahoo.com/quote/NVDA", "publisher": "Reuters", "published": "Today" },
-            { "title": "Sovereign AI Demand Pushes NVIDIA Data Center Backlog to Record Highs Through 2027", "link": "https://finance.yahoo.com/quote/NVDA", "publisher": "Bloomberg", "published": "Yesterday" }
+            { "title": "NVIDIA Blackwell Ultra GB300 Racks Enter Volume Production Across Tier-1 Hyperscalers", "link": "https://finance.yahoo.com/quote/NVDA", "publisher": "Reuters", "published": "Today" }
           ]
         },
         {
@@ -451,12 +462,91 @@
             "rpo_backlog_b": [58.0, 63.5, 68.0, 71.2, 73.5, 76.8]
           },
           "arxiv_papers": [
-            { "title": "1.6Tbps Co-Packaged Optics (CPO) with Kerr Microcomb Laser Sources for AI Scale-Up Fabrics", "published": "2026-10-16", "link": "https://arxiv.org/list/physics.optics/recent" },
-            { "title": "Sub-Picojoule per Bit Silicon Photonic Transceivers for Optical Inter-Chiplet Interconnects", "published": "2026-10-11", "link": "https://arxiv.org/list/physics.optics/recent" }
+            { "title": "1.6Tbps Co-Packaged Optics (CPO) with Kerr Microcomb Laser Sources for AI Scale-Up Fabrics", "published": "2026-10-16", "link": "https://arxiv.org/list/physics.optics/recent" }
           ],
           "news": [
-            { "title": "Broadcom Secures Next-Gen 2nm Custom AI XPU Orders from Top Hyperscale Cloud Providers", "link": "https://finance.yahoo.com/quote/AVGO", "publisher": "WSJ", "published": "Today" },
-            { "title": "1.6T Co-Packaged Optics (CPO) Switch Deployment Accelerates in AI Back-End Networks", "link": "https://finance.yahoo.com/quote/AVGO", "publisher": "Barron's", "published": "Yesterday" }
+            { "title": "Broadcom Secures Next-Gen 2nm Custom AI XPU Orders from Top Hyperscale Cloud Providers", "link": "https://finance.yahoo.com/quote/AVGO", "publisher": "WSJ", "published": "Today" }
+          ]
+        },
+        {
+          "ticker": "AMD", "name": "Advanced Micro Devices, Inc.", "name_zh": "超微 (AMD)", "market": "US", "stream": "Upstream",
+          "stream_label": "上游：開放生態 AI GPU 加速器與伺服器 EPYC CPU 雙雄", "currency": "USD",
+          "price": 156.20, "market_cap_b": 252.0, "market_cap_usd_b": 252.0,
+          "revenue_yoy": 24.2, "gross_margin": 53.5, "operating_margin": 22.8, "fcf_b": 4.2, "debt_to_ebitda": 0.38,
+          "rpo_and_orders": "資料中心 AI GPU 年營收突破 $5.5B 並邁向 $10B+；Microsoft Azure、Meta 與 Oracle 大規模採用 MI300X / MI325X 負責高頻寬 LLM 推理",
+          "credit_rating": "S&P: A / Moody's: A2 (高投資級，淨現金部位穩健)",
+          "credit_risk_status": "極低風險 (Strong Investment Grade)",
+          "tech_moat": [
+            "Instinct MI325X / MI350 (CDNA 4 架構) 搭載 256GB/288GB HBM3e 記憶體容量優勢，專攻超長文本推理",
+            "ROCm 6.x 開源軟體棧與 UALink 超高速互連聯盟挑戰 CUDA 封閉生態",
+            "併購 ZT Systems 強化機櫃級 (Rack-Scale) AI 系統設計與快速部署能力"
+          ],
+          "equity_ecosystem": "與 Meta (Llama 4 推理主力)、Microsoft Copilot、Oracle OCI 深度合作；主導 UALink 與 Ultra Ethernet 開放互連標準",
+          "quarterly_history": {
+            "labels": ["Q1'25", "Q2'25", "Q3'25", "Q4'25", "Q1'26E", "Q2'26E"],
+            "gross_margin": [52.0, 53.0, 53.6, 54.0, 53.5, 54.5],
+            "operating_margin": [21.0, 22.0, 22.5, 23.0, 22.8, 24.0],
+            "rpo_backlog_b": [5.5, 7.2, 8.8, 10.5, 12.0, 14.2]
+          },
+          "arxiv_papers": [
+            { "title": "FP4 / Microscaling Formats and High-Radix NVLink Topologies for Next-Gen GPU Clusters", "published": "2026-10-13", "link": "https://arxiv.org/list/cs.DC/recent" }
+          ],
+          "news": [
+            { "title": "AMD Instinct MI325X & MI350 GPUs Gain Traction in Hyperscaler LLM Inference Clusters", "link": "https://finance.yahoo.com/quote/AMD", "publisher": "Bloomberg", "published": "Today" }
+          ]
+        },
+        {
+          "ticker": "ARM", "name": "Arm Holdings plc", "name_zh": "安謀 (Arm)", "market": "US", "stream": "Upstream",
+          "stream_label": "上游：全球 AI 資料中心 CPU 與邊緣運算矽智財 (IP) 絕對壟斷者", "currency": "USD",
+          "price": 144.80, "market_cap_b": 152.0, "market_cap_usd_b": 152.0,
+          "revenue_yoy": 33.8, "gross_margin": 96.2, "operating_margin": 41.5, "fcf_b": 1.15, "debt_to_ebitda": 0.12,
+          "rpo_and_orders": "剩餘履約價值 (RPO) 達 $2.4B+；Armv9 架構權利金費率翻倍，NVIDIA Grace、AWS Graviton4、Google Axion、MSFT Cobalt 全面採用",
+          "credit_rating": "無長期計息負債 / 帳上淨現金逾 $2.5B (零違約風險)",
+          "credit_risk_status": "極低風險 (Zero Debt / Ultra-High Margin IP)",
+          "tech_moat": [
+            "Armv9 架構與 Neoverse CSS (運算子系統)，將雲端大廠自研伺服器 CPU 開發週期縮短 50%",
+            "高達 96%+ 的軟體級毛利率，每顆 NVIDIA GB200 (內含 36 顆 Grace CPU) 皆貢獻高昂權利金",
+            "從雲端資料中心到 AI 手機、AI PC 與車用 ADAS 的全場景指令集壟斷"
+          ],
+          "equity_ecosystem": "SoftBank 持股約 88%；NVIDIA、Apple、Google、Samsung、TSMC 皆為基石戰略股東與核心授權客戶",
+          "quarterly_history": {
+            "labels": ["Q1'25", "Q2'25", "Q3'25", "Q4'25", "Q1'26E", "Q2'26E"],
+            "gross_margin": [95.8, 96.0, 96.3, 96.5, 96.2, 96.6],
+            "operating_margin": [39.5, 40.2, 41.0, 42.0, 41.5, 43.0],
+            "rpo_backlog_b": [2.0, 2.15, 2.3, 2.4, 2.55, 2.75]
+          },
+          "arxiv_papers": [
+            { "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference", "published": "2026-10-17", "link": "https://arxiv.org/list/cs.AR/recent" }
+          ],
+          "news": [
+            { "title": "Armv9 & Neoverse CSS Royalties Surge as NVIDIA Grace and Cloud Custom CPUs Ramp Up", "link": "https://finance.yahoo.com/quote/ARM", "publisher": "Financial Times", "published": "Today" }
+          ]
+        },
+        {
+          "ticker": "VRT", "name": "Vertiv Holdings Co", "name_zh": "維諦技術 (Vertiv)", "market": "US", "stream": "Midstream",
+          "stream_label": "中游：北美 AI 資料中心液冷溫控與高密度電力基礎設施龍頭", "currency": "USD",
+          "price": 114.50, "market_cap_b": 43.2, "market_cap_usd_b": 43.2,
+          "revenue_yoy": 19.5, "gross_margin": 37.4, "operating_margin": 19.2, "fcf_b": 1.12, "debt_to_ebitda": 1.75,
+          "rpo_and_orders": "在手積壓訂單 (Backlog) 創歷史新高突破 $7.4B (+35% YoY)，訂單出貨比 (Book-to-Bill) 持續維持 1.4x 以上高水位",
+          "credit_rating": "S&P: BB+ / Moody's: Ba1 (強勁現金流推動信評邁向投資級升評軌道)",
+          "credit_risk_status": "穩健去槓桿 (Rising Star 升評候選)",
+          "tech_moat": [
+            "與 NVIDIA 共同開發 GB200 NVL72 機櫃級 130kW+ 液冷與氣冷混合冷卻參考設計",
+            "北美最完整的現場服務工程師團隊 (逾 3,700 名專家)，形成高轉換成本維運護城河",
+            "併購 CoolTera 強化高密度冷卻液分配單元 (CDU) 與二次側管網整合能力"
+          ],
+          "equity_ecosystem": "NVIDIA 全球獨家認證之資料中心電源與冷卻數位雙生 (Digital Twin) 夥伴；深度綁定北美四大 CSP 與主權雲機房",
+          "quarterly_history": {
+            "labels": ["Q1'25", "Q2'25", "Q3'25", "Q4'25", "Q1'26E", "Q2'26E"],
+            "gross_margin": [35.8, 36.5, 37.0, 37.2, 37.4, 38.0],
+            "operating_margin": [17.2, 18.0, 18.8, 19.0, 19.2, 20.1],
+            "rpo_backlog_b": [5.8, 6.3, 6.8, 7.1, 7.4, 7.9]
+          },
+          "arxiv_papers": [
+            { "title": "Thermal-Mechanical Reliability of CoWoS-L Silicon Interposers for 1000W+ AI Accelerators", "published": "2026-10-14", "link": "https://arxiv.org/list/physics.app-ph/recent" }
+          ],
+          "news": [
+            { "title": "Vertiv Order Backlog Hits Record $7.4B Driven by AI Data Center Liquid Cooling Demand", "link": "https://finance.yahoo.com/quote/VRT", "publisher": "Barron's", "published": "Today" }
           ]
         },
         {
@@ -480,12 +570,10 @@
             "rpo_backlog_b": [235.0, 252.0, 269.0, 285.0, 298.0, 312.0]
           },
           "arxiv_papers": [
-            { "title": "DeepSeek-R1 & Test-Time Scaling Laws in Mixture-of-Experts Reasoning Models", "published": "2026-10-15", "link": "https://arxiv.org/list/cs.CL/recent" },
-            { "title": "Ultra-Sparse Mixture-of-Experts with Fine-Grained Token Routing on Multi-Node Clusters", "published": "2026-10-12", "link": "https://arxiv.org/list/cs.LG/recent" }
+            { "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning", "published": "2026-10-18", "link": "https://arxiv.org/list/cs.CL/recent" }
           ],
           "news": [
-            { "title": "Microsoft Commercial RPO Surges Near $300B as Azure AI & Copilot Enterprise Adoption Scales", "link": "https://finance.yahoo.com/quote/MSFT", "publisher": "CNBC", "published": "Today" },
-            { "title": "Microsoft Expands Nuclear & Renewable Power Agreements for Next-Gen AI Supercomputing", "link": "https://finance.yahoo.com/quote/MSFT", "publisher": "Bloomberg", "published": "Yesterday" }
+            { "title": "Microsoft Commercial RPO Surges Near $300B as Azure AI & Copilot Enterprise Adoption Scales", "link": "https://finance.yahoo.com/quote/MSFT", "publisher": "CNBC", "published": "Today" }
           ]
         },
         {
@@ -509,11 +597,10 @@
             "rpo_backlog_b": [64.0, 70.5, 76.2, 81.5, 86.8, 92.4]
           },
           "arxiv_papers": [
-            { "title": "DeepSeek-R1 & Test-Time Scaling Laws in Mixture-of-Experts Reasoning Models", "published": "2026-10-15", "link": "https://arxiv.org/list/cs.CL/recent" }
+            { "title": "Ultra-Sparse Mixture-of-Experts with Fine-Grained Token Routing on Multi-Node Clusters", "published": "2026-10-15", "link": "https://arxiv.org/list/cs.LG/recent" }
           ],
           "news": [
-            { "title": "Google Cloud TPU v6 Trillium Clusters Deliver 4x Training Performance for Gemini 2.0", "link": "https://finance.yahoo.com/quote/GOOGL", "publisher": "TechCrunch", "published": "Today" },
-            { "title": "Alphabet AI Overviews Boost Search Monetization While Cloud Operating Margins Expand", "link": "https://finance.yahoo.com/quote/GOOGL", "publisher": "Financial Times", "published": "Yesterday" }
+            { "title": "Google Cloud TPU v6 Trillium Clusters Deliver 4x Training Performance for Gemini 2.0", "link": "https://finance.yahoo.com/quote/GOOGL", "publisher": "TechCrunch", "published": "Today" }
           ]
         },
         {
@@ -540,8 +627,7 @@
             { "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference", "published": "2026-10-17", "link": "https://arxiv.org/list/cs.AR/recent" }
           ],
           "news": [
-            { "title": "AWS Trainium2 UltraClusters Power Anthropic's Next-Gen Claude Reasoning Models", "link": "https://finance.yahoo.com/quote/AMZN", "publisher": "Bloomberg", "published": "Today" },
-            { "title": "Amazon Commits Over $85B in Annualized CapEx Toward AI Data Centers & Nuclear SMR Power", "link": "https://finance.yahoo.com/quote/AMZN", "publisher": "Reuters", "published": "Yesterday" }
+            { "title": "AWS Trainium2 UltraClusters Power Anthropic's Next-Gen Claude Reasoning Models", "link": "https://finance.yahoo.com/quote/AMZN", "publisher": "Bloomberg", "published": "Today" }
           ]
         },
         {
@@ -568,8 +654,7 @@
             { "title": "FP4 / Microscaling Formats and High-Radix NVLink Topologies for Next-Gen GPU Clusters", "published": "2026-10-13", "link": "https://arxiv.org/list/cs.DC/recent" }
           ],
           "news": [
-            { "title": "Oracle RPO Backlog Jumps 52% to $99B on Massive OpenAI & Stargate GPU Cluster Contracts", "link": "https://finance.yahoo.com/quote/ORCL", "publisher": "Bloomberg", "published": "Today" },
-            { "title": "Credit Analysts Monitor Oracle's 4.2x Debt-to-EBITDA Leverage Amid Aggressive Data Center CapEx", "link": "https://finance.yahoo.com/quote/ORCL", "publisher": "Moody's / WSJ", "published": "Yesterday" }
+            { "title": "Oracle RPO Backlog Jumps 52% to $99B on Massive OpenAI & Stargate GPU Cluster Contracts", "link": "https://finance.yahoo.com/quote/ORCL", "publisher": "Bloomberg", "published": "Today" }
           ]
         },
         {
@@ -593,11 +678,10 @@
             "rpo_backlog_b": [3.4, 3.7, 4.0, 4.3, 4.5, 4.9]
           },
           "arxiv_papers": [
-            { "title": "DeepSeek-R1 & Test-Time Scaling Laws in Mixture-of-Experts Reasoning Models", "published": "2026-10-15", "link": "https://arxiv.org/list/cs.CL/recent" }
+            { "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning", "published": "2026-10-18", "link": "https://arxiv.org/list/cs.CL/recent" }
           ],
           "news": [
-            { "title": "Palantir AIP Bootcamps Drive 77% US Commercial Growth and Record Rule-of-40 Score", "link": "https://finance.yahoo.com/quote/PLTR", "publisher": "CNBC", "published": "Today" },
-            { "title": "US Department of Defense Expands Palantir Maven Smart System AI Contract Across Commands", "link": "https://finance.yahoo.com/quote/PLTR", "publisher": "DefenseScoop", "published": "Yesterday" }
+            { "title": "Palantir AIP Bootcamps Drive 77% US Commercial Growth and Record Rule-of-40 Score", "link": "https://finance.yahoo.com/quote/PLTR", "publisher": "CNBC", "published": "Today" }
           ]
         },
         {
@@ -621,12 +705,91 @@
             "rpo_backlog_b": [1450.0, 1680.0, 1920.0, 2150.0, 2380.0, 2600.0]
           },
           "arxiv_papers": [
-            { "title": "Thermal-Mechanical Reliability of CoWoS-L Silicon Interposers for 1000W+ AI Accelerators", "published": "2026-10-14", "link": "https://arxiv.org/list/physics.app-ph/recent" },
-            { "title": "3D SoIC Hybrid Bonding and Micro-Channel Direct Liquid Cooling for HBM4 Integration", "published": "2026-10-10", "link": "https://arxiv.org/list/cs.AR/recent" }
+            { "title": "Thermal-Mechanical Reliability of CoWoS-L Silicon Interposers for 1000W+ AI Accelerators", "published": "2026-10-14", "link": "https://arxiv.org/list/physics.app-ph/recent" }
           ],
           "news": [
-            { "title": "台積電 CoWoS-L 先進封裝產能倍增仍供不應求，2奈米 N2 與 A16 客戶訂單鎖定至 2027 年", "link": "https://finance.yahoo.com/quote/2330.TW", "publisher": "經濟日報", "published": "Today" },
-            { "title": "TSMC Gross Margin Beats Guidance at 57.8% Driven by AI Accelerator & HPC Wafer Demand", "link": "https://finance.yahoo.com/quote/2330.TW", "publisher": "Nikkei Asia", "published": "Yesterday" }
+            { "title": "台積電 CoWoS-L 先進封裝產能倍增仍供不應求，2奈米 N2 與 A16 客戶訂單鎖定至 2027 年", "link": "https://finance.yahoo.com/quote/2330.TW", "publisher": "經濟日報", "published": "Today" }
+          ]
+        },
+        {
+          "ticker": "3661.TW", "name": "Alchip Technologies, Limited", "name_zh": "世芯-KY (Alchip)", "market": "TW", "stream": "Upstream",
+          "stream_label": "上游：北美 CSP 雲端巨頭客製化 AI ASIC 晶片設計服務龍頭", "currency": "TWD",
+          "price": 2865.0, "market_cap_b": 231.0, "market_cap_usd_b": 7.2,
+          "revenue_yoy": 56.4, "gross_margin": 19.8, "operating_margin": 12.4, "fcf_b": 8.5, "debt_to_ebitda": 0.08,
+          "rpo_and_orders": "AWS Trainium 2 / Inferentia 2.5 量產訂單強勁，並奪下次世代 3nm / 2nm Trainium 3 與北美多家超大規模客戶 NRE 專案",
+          "credit_rating": "零長期負債 / 現金充沛 (GDR 募資與客戶預付款支撐高階 CoWoS 投片)",
+          "credit_risk_status": "極低風險 (Net Cash / Zero Debt)",
+          "tech_moat": [
+            "台積電 3nm / 2nm 與 CoWoS-R / CoWoS-L 超大型晶片後端物理設計 (Backend Design) 良率紀錄保持者",
+            "深度綁定 AWS Annapurna Labs 超過 7 年的合作默契與量產實績",
+            "整合 HBM3e/HBM4 與高速 SerDes 互連 IP 之系統級封裝設計能力"
+          ],
+          "equity_ecosystem": "Amazon (AWS) 為戰略大客戶並透過私募認購持股；台積電 OIP 開放創新平台核心 VCA 夥伴",
+          "quarterly_history": {
+            "labels": ["Q1'25", "Q2'25", "Q3'25", "Q4'25", "Q1'26E", "Q2'26E"],
+            "gross_margin": [18.8, 19.2, 19.5, 19.6, 19.8, 21.0],
+            "operating_margin": [11.5, 11.8, 12.1, 12.2, 12.4, 13.5],
+            "rpo_backlog_b": [38.0, 45.0, 52.0, 58.0, 66.0, 75.0]
+          },
+          "arxiv_papers": [
+            { "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference", "published": "2026-10-17", "link": "https://arxiv.org/list/cs.AR/recent" }
+          ],
+          "news": [
+            { "title": "世芯-KY 奪下北美雲端巨頭次世代 3nm/2nm AI ASIC 大單，量產動能延續至 2027 年", "link": "https://finance.yahoo.com/quote/3661.TW", "publisher": "工商時報", "published": "Today" }
+          ]
+        },
+        {
+          "ticker": "2345.TW", "name": "Accton Technology Corporation", "name_zh": "智邦 (Accton)", "market": "TW", "stream": "Midstream",
+          "stream_label": "中游：全球 400G/800G/1.6T 白牌資料中心交換器與 AI 加速卡龍頭", "currency": "TWD",
+          "price": 698.0, "market_cap_b": 391.0, "market_cap_usd_b": 12.2,
+          "revenue_yoy": 38.2, "gross_margin": 21.4, "operating_margin": 13.8, "fcf_b": 14.5, "debt_to_ebitda": 0.22,
+          "rpo_and_orders": "美系 CSP 客戶 AI 加速器模組與 800G 交換器訂單大爆發，單月營收頻創歷史新高，1.6T 矽光子交換器進入客戶驗證",
+          "credit_rating": "Taiwan Ratings: twAA- (淨現金部位豐厚，營運周轉效率極高)",
+          "credit_risk_status": "極低風險 (Ultra-Safe)",
+          "tech_moat": [
+            "全球白牌資料中心高階交換器市佔第一 (逾 35%)，直接受惠 AI Back-end 網路升級潮",
+            "AWS AI 訓練叢集加速卡模組與高速網路介面獨家代工夥伴",
+            "領先佈局 800G / 1.6T 光學模組與 CPO 共同封裝光學散熱結構設計"
+          ],
+          "equity_ecosystem": "與 Broadcom (Tomahawk 晶片首發夥伴)、Marvell、AWS 及 Meta (OCP 開放運算計畫) 深度綁定",
+          "quarterly_history": {
+            "labels": ["Q1'25", "Q2'25", "Q3'25", "Q4'25", "Q1'26E", "Q2'26E"],
+            "gross_margin": [20.8, 21.1, 21.3, 21.2, 21.4, 22.0],
+            "operating_margin": [12.9, 13.2, 13.5, 13.6, 13.8, 14.4],
+            "rpo_backlog_b": [65.0, 82.0, 98.0, 115.0, 132.0, 150.0]
+          },
+          "arxiv_papers": [
+            { "title": "1.6Tbps Co-Packaged Optics (CPO) with Kerr Microcomb Laser Sources for AI Scale-Up Fabrics", "published": "2026-10-16", "link": "https://arxiv.org/list/physics.optics/recent" }
+          ],
+          "news": [
+            { "title": "智邦 800G 交換器與 AI 加速器模組出貨狂飆，單月營收續創歷史新高", "link": "https://finance.yahoo.com/quote/2345.TW", "publisher": "經濟日報", "published": "Today" }
+          ]
+        },
+        {
+          "ticker": "6669.TW", "name": "Wiwynn Corporation", "name_zh": "緯穎 (Wiwynn)", "market": "TW", "stream": "Midstream",
+          "stream_label": "中游：純血美系 CSP 雲端 AI 伺服器與液冷整機櫃領導大廠", "currency": "TWD",
+          "price": 2480.0, "market_cap_b": 433.0, "market_cap_usd_b": 13.5,
+          "revenue_yoy": 48.6, "gross_margin": 10.6, "operating_margin": 8.1, "fcf_b": 18.2, "debt_to_ebitda": 0.65,
+          "rpo_and_orders": "100% 營收來自超大規模雲端資料中心，AI 伺服器營收佔比突破 50%；Meta、Microsoft 與 AWS ASIC/GPU 整機櫃訂單滿載",
+          "credit_rating": "Taiwan Ratings: twAA- (高 ROE 與高營益率居伺服器 ODM 之冠)",
+          "credit_risk_status": "低風險 (Best-in-Class ODM Margins)",
+          "tech_moat": [
+            "跳過傳統品牌商直接供貨 CSP (Tier-1 Hyperscaler Direct) 商業模式，營益率高達 8%+ 遠超同業",
+            "AWS Trainium 2 伺服器機櫃與 Meta 次世代 AI 機櫃核心共同開發夥伴",
+            "兩相直接液冷 (Two-Phase Direct Liquid Cooling) 與浸沒式冷卻研發領先"
+          ],
+          "equity_ecosystem": "母公司緯創 (3231.TW) 負責前端 GPU 基板 (UBB)，緯穎負責後端整機櫃組裝測試，形成完整上下游整合",
+          "quarterly_history": {
+            "labels": ["Q1'25", "Q2'25", "Q3'25", "Q4'25", "Q1'26E", "Q2'26E"],
+            "gross_margin": [11.1, 10.8, 10.7, 10.5, 10.6, 10.9],
+            "operating_margin": [8.4, 8.0, 8.1, 8.0, 8.1, 8.3],
+            "rpo_backlog_b": [190.0, 235.0, 280.0, 330.0, 385.0, 440.0]
+          },
+          "arxiv_papers": [
+            { "title": "FP4 / Microscaling Formats and High-Radix NVLink Topologies for Next-Gen GPU Clusters", "published": "2026-10-13", "link": "https://arxiv.org/list/cs.DC/recent" }
+          ],
+          "news": [
+            { "title": "緯穎囊括美系三大 CSP AI 伺服器與液冷整機櫃長單，營益率與 ROE 穩居業界冠軍", "link": "https://finance.yahoo.com/quote/6669.TW", "publisher": "經濟日報", "published": "Today" }
           ]
         },
         {
@@ -653,8 +816,7 @@
             { "title": "Thermal-Mechanical Reliability of CoWoS-L Silicon Interposers for 1000W+ AI Accelerators", "published": "2026-10-14", "link": "https://arxiv.org/list/physics.app-ph/recent" }
           ],
           "news": [
-            { "title": "鴻海 GB200 NVL72 液冷整機櫃大舉出貨北美四大 CSP，AI 伺服器營收佔比正式突破五成", "link": "https://finance.yahoo.com/quote/2317.TW", "publisher": "工商時報", "published": "Today" },
-            { "title": "Foxconn Expands Texas & Mexico AI Server Megafactories to Meet Surging Blackwell Demand", "link": "https://finance.yahoo.com/quote/2317.TW", "publisher": "Reuters", "published": "Yesterday" }
+            { "title": "鴻海 GB200 NVL72 液冷整機櫃大舉出貨北美四大 CSP，AI 伺服器營收佔比正式突破五成", "link": "https://finance.yahoo.com/quote/2317.TW", "publisher": "工商時報", "published": "Today" }
           ]
         },
         {
@@ -681,8 +843,7 @@
             { "title": "FP4 / Microscaling Formats and High-Radix NVLink Topologies for Next-Gen GPU Clusters", "published": "2026-10-13", "link": "https://arxiv.org/list/cs.DC/recent" }
           ],
           "news": [
-            { "title": "廣達旗下雲達 (QCT) 美系 CSP 客製化 AI 伺服器訂單滿手，液冷機櫃帶動 ASP 與獲利創高", "link": "https://finance.yahoo.com/quote/2382.TW", "publisher": "經濟日報", "published": "Today" },
-            { "title": "Quanta Computer Ramps Up US Production Capacity for Next-Gen AI Training Racks", "link": "https://finance.yahoo.com/quote/2382.TW", "publisher": "Bloomberg", "published": "Yesterday" }
+            { "title": "廣達旗下雲達 (QCT) 美系 CSP 客製化 AI 伺服器訂單滿手，液冷機櫃帶動 ASP 與獲利創高", "link": "https://finance.yahoo.com/quote/2382.TW", "publisher": "經濟日報", "published": "Today" }
           ]
         },
         {
@@ -709,8 +870,7 @@
             { "title": "3D SoIC Hybrid Bonding and Micro-Channel Direct Liquid Cooling for HBM4 Integration", "published": "2026-10-10", "link": "https://arxiv.org/list/cs.AR/recent" }
           ],
           "news": [
-            { "title": "奇鋐 GB200/GB300 水冷板與分歧管出貨放量，越南廠產能擴充挹注毛利率持續走揚", "link": "https://finance.yahoo.com/quote/3017.TW", "publisher": "工商時報", "published": "Today" },
-            { "title": "AVC Dominates Hyperscaler Liquid Cooling Cold Plate Supply Chain as TDP Surpasses 1200W", "link": "https://finance.yahoo.com/quote/3017.TW", "publisher": "DigiTimes", "published": "Yesterday" }
+            { "title": "奇鋐 GB200/GB300 水冷板與分歧管出貨放量，越南廠產能擴充挹注毛利率持續走揚", "link": "https://finance.yahoo.com/quote/3017.TW", "publisher": "工商時報", "published": "Today" }
           ]
         },
         {
@@ -737,8 +897,7 @@
             { "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference", "published": "2026-10-17", "link": "https://arxiv.org/list/cs.AR/recent" }
           ],
           "news": [
-            { "title": "台達電奪下 NVIDIA 與 CSP 巨頭高壓直流 (HVDC) Power Shelf 及 BBU 備援電源逾五成市佔", "link": "https://finance.yahoo.com/quote/2308.TW", "publisher": "經濟日報", "published": "Today" },
-            { "title": "Delta Electronics Grid-to-Chip Power Solutions Drive Record Gross Margins Above 32%", "link": "https://finance.yahoo.com/quote/2308.TW", "publisher": "Nikkei Asia", "published": "Yesterday" }
+            { "title": "台達電奪下 NVIDIA 與 CSP 巨頭高壓直流 (HVDC) Power Shelf 及 BBU 備援電源逾五成市佔", "link": "https://finance.yahoo.com/quote/2308.TW", "publisher": "經濟日報", "published": "Today" }
           ]
         }
       ],
@@ -754,18 +913,15 @@
       ]
     };
 
-    // Global State
     let appData = defaultData;
     let currentMarketFilter = 'ALL';
     let currentStreamFilter = 'ALL';
     let selectedTickerForChart = 'NVDA';
 
-    // Chart.js Instances
     let bubbleChartInstance = null;
     let leverageChartInstance = null;
     let companyTrendChartInstance = null;
 
-    // 讀取最新 data.json（附帶時間戳記防止快取），若失敗則使用 defaultData
     async function loadTerminalData() {
       try {
         const res = await fetch('./data.json?t=' + new Date().getTime(), { cache: 'no-store' });
@@ -779,7 +935,7 @@
           throw new Error('Invalid JSON schema');
         }
       } catch (err) {
-        console.warn('[Fallback Mode] 尚未偵測到遠端 data.json 或本地直接開啟，啟用內建完整 defaultData:', err.message);
+        console.warn('[Fallback Mode] 使用內建 18 檔完整 defaultData:', err.message);
         appData = defaultData;
         document.getElementById('lastUpdatedText').textContent = defaultData.last_updated;
         document.getElementById('syncDot').className = 'w-2 h-2 rounded-full bg-amber-400';
@@ -798,7 +954,6 @@
       loadTerminalData();
     }
 
-    // 1. 渲染頂部 Macro KPIs
     function renderMacroKPIs() {
       const kpis = appData.macro_kpis || defaultData.macro_kpis;
       if (kpis.csp_capex) {
@@ -815,7 +970,6 @@
       }
     }
 
-    // 2. 初始化下拉選單
     function populateCompanySelector() {
       const sel = document.getElementById('companyChartSelector');
       sel.innerHTML = '';
@@ -828,7 +982,6 @@
       });
     }
 
-    // 3. 繪製 3 大 Chart.js 動態圖表
     function renderAllCharts() {
       Chart.defaults.color = '#94a3b8';
       Chart.defaults.font.family = "'JetBrains Mono', 'Inter', monospace";
@@ -838,7 +991,6 @@
       renderCompanyTrendChart(selectedTickerForChart);
     }
 
-    // 圖表 1：毛利率 vs. 營收成長率散佈氣泡圖
     function renderBubbleChart() {
       const ctx = document.getElementById('bubbleChart').getContext('2d');
       if (bubbleChartInstance) bubbleChartInstance.destroy();
@@ -851,8 +1003,8 @@
 
       const datasets = ['Upstream', 'Midstream', 'Downstream'].map(streamKey => {
         const labelMap = {
-          'Upstream': '上游 (晶片/IP)',
-          'Midstream': '中游 (晶圓/ODM/電源散熱)',
+          'Upstream': '上游 (晶片/IP/ASIC)',
+          'Midstream': '中游 (晶圓/ODM/電源散熱/網通)',
           'Downstream': '下游 (CSP/SaaS)'
         };
         const items = appData.companies.filter(c => c.stream === streamKey);
@@ -861,7 +1013,7 @@
           data: items.map(c => ({
             x: c.revenue_yoy,
             y: c.gross_margin,
-            r: Math.max(6, Math.min(26, Math.sqrt(c.market_cap_usd_b || 50) * 0.45)),
+            r: Math.max(6, Math.min(25, Math.sqrt(c.market_cap_usd_b || 50) * 0.44)),
             ticker: c.ticker,
             name_zh: c.name_zh,
             mcap_usd: c.market_cap_usd_b
@@ -883,16 +1035,11 @@
             if (elements.length > 0) {
               const el = elements[0];
               const pt = bubbleChartInstance.data.datasets[el.datasetIndex].data[el.index];
-              if (pt && pt.ticker) {
-                selectCompanyForChart(pt.ticker);
-              }
+              if (pt && pt.ticker) selectCompanyForChart(pt.ticker);
             }
           },
           plugins: {
-            legend: {
-              position: 'top',
-              labels: { boxWidth: 10, font: { size: 10 }, color: '#cbd5e1' }
-            },
+            legend: { position: 'top', labels: { boxWidth: 10, font: { size: 10 }, color: '#cbd5e1' } },
             tooltip: {
               backgroundColor: 'rgba(12, 18, 30, 0.95)',
               borderColor: '#334155',
@@ -913,7 +1060,7 @@
             y: {
               title: { display: true, text: '毛利率 Gross Margin (%)', color: '#94a3b8', font: { size: 10 } },
               min: 0,
-              max: 90,
+              max: 100,
               grid: { color: 'rgba(30, 41, 59, 0.6)' }
             }
           }
@@ -921,7 +1068,6 @@
       });
     }
 
-    // 圖表 2：雲端與基礎設施大廠財務壓力與槓桿圖 (Bar & Line Combo + 4.2x 紅線)
     function renderLeverageChart() {
       const ctx = document.getElementById('leverageChart').getContext('2d');
       if (leverageChartInstance) leverageChartInstance.destroy();
@@ -979,10 +1125,7 @@
           responsive: true,
           maintainAspectRatio: false,
           plugins: {
-            legend: {
-              position: 'top',
-              labels: { boxWidth: 10, font: { size: 10 }, color: '#cbd5e1' }
-            },
+            legend: { position: 'top', labels: { boxWidth: 10, font: { size: 10 }, color: '#cbd5e1' } },
             tooltip: {
               backgroundColor: 'rgba(12, 18, 30, 0.95)',
               borderColor: '#334155',
@@ -990,8 +1133,7 @@
               callbacks: {
                 afterBody: (items) => {
                   const idx = items[0].dataIndex;
-                  const info = list[idx];
-                  return `信用評級: ${info.credit_rating}`;
+                  return `信用評級: ${list[idx].credit_rating}`;
                 }
               }
             }
@@ -1017,7 +1159,6 @@
       });
     }
 
-    // 圖表 3：個股財務與訂單能見度 (RPO Backlog) 趨勢圖
     function selectCompanyForChart(ticker) {
       selectedTickerForChart = ticker;
       const sel = document.getElementById('companyChartSelector');
@@ -1034,13 +1175,7 @@
       document.getElementById('selectedCompanyRpoNote').textContent =
         `訂單能見度：${company.rpo_and_orders}`;
 
-      const hist = company.quarterly_history || {
-        labels: ["Q1'25", "Q2'25", "Q3'25", "Q4'25", "Q1'26E", "Q2'26E"],
-        gross_margin: [50, 52, 54, 55, 56, 57],
-        operating_margin: [30, 31, 32, 33, 34, 35],
-        rpo_backlog_b: [20, 25, 30, 35, 40, 45]
-      };
-
+      const hist = company.quarterly_history;
       const ctx = document.getElementById('companyTrendChart').getContext('2d');
       if (companyTrendChartInstance) companyTrendChartInstance.destroy();
 
@@ -1085,15 +1220,7 @@
           responsive: true,
           maintainAspectRatio: false,
           plugins: {
-            legend: {
-              position: 'top',
-              labels: { boxWidth: 10, font: { size: 10 }, color: '#cbd5e1' }
-            },
-            tooltip: {
-              backgroundColor: 'rgba(12, 18, 30, 0.95)',
-              borderColor: '#334155',
-              borderWidth: 1
-            }
+            legend: { position: 'top', labels: { boxWidth: 10, font: { size: 10 }, color: '#cbd5e1' } }
           },
           scales: {
             x: { grid: { color: 'rgba(30, 41, 59, 0.5)' } },
@@ -1114,15 +1241,12 @@
       });
     }
 
-    // 4. 篩選器與上市公司 6 大維度深度追蹤矩陣渲染
     function setMarketFilter(market) {
       currentMarketFilter = market;
       document.querySelectorAll('.market-btn').forEach(btn => {
-        if (btn.dataset.market === market) {
-          btn.className = 'market-btn px-3 py-1 rounded bg-amber-500 text-slate-950 font-bold transition cursor-pointer';
-        } else {
-          btn.className = 'market-btn px-3 py-1 rounded text-slate-300 hover:text-white transition cursor-pointer';
-        }
+        btn.className = btn.dataset.market === market
+          ? 'market-btn px-3 py-1 rounded bg-amber-500 text-slate-950 font-bold transition cursor-pointer'
+          : 'market-btn px-3 py-1 rounded text-slate-300 hover:text-white transition cursor-pointer';
       });
       renderCompaniesMatrix();
     }
@@ -1130,11 +1254,9 @@
     function setStreamFilter(stream) {
       currentStreamFilter = stream;
       document.querySelectorAll('.stream-btn').forEach(btn => {
-        if (btn.dataset.stream === stream) {
-          btn.className = 'stream-btn px-3 py-1 rounded bg-cyan-500 text-slate-950 font-bold transition cursor-pointer';
-        } else {
-          btn.className = 'stream-btn px-3 py-1 rounded text-slate-300 hover:text-white transition cursor-pointer';
-        }
+        btn.className = btn.dataset.stream === stream
+          ? 'stream-btn px-3 py-1 rounded bg-cyan-500 text-slate-950 font-bold transition cursor-pointer'
+          : 'stream-btn px-3 py-1 rounded text-slate-300 hover:text-white transition cursor-pointer';
       });
       renderCompaniesMatrix();
     }
@@ -1186,7 +1308,6 @@
         return `
           <article class="bg-[#0c121e] border border-slate-800 hover:border-slate-700 rounded-lg p-5 shadow-lg transition flex flex-col justify-between">
             <div>
-              <!-- Header -->
               <div class="flex flex-wrap items-start justify-between gap-2 pb-3 border-b border-slate-800">
                 <div>
                   <div class="flex items-center gap-2">
@@ -1209,7 +1330,6 @@
                 </div>
               </div>
 
-              <!-- Dimension 1: 核心營收與訂單 -->
               <div class="mt-3">
                 <div class="text-[11px] font-mono-num uppercase text-amber-400 font-bold mb-1.5">1. 核心營收、利潤率與 RPO 在手訂單</div>
                 <div class="grid grid-cols-3 gap-2 font-mono-num text-center bg-slate-900/90 p-2.5 rounded border border-slate-800">
@@ -1231,7 +1351,6 @@
                 </div>
               </div>
 
-              <!-- Dimension 2: 財務健康與信用風險 -->
               <div class="mt-3">
                 <div class="text-[11px] font-mono-num uppercase text-rose-400 font-bold mb-1.5">2. 財務健康度與信用違約風險 (Credit & Leverage)</div>
                 <div class="flex flex-wrap items-center justify-between gap-2 bg-slate-900/80 p-2.5 rounded border border-slate-800 text-xs font-mono-num">
@@ -1245,7 +1364,6 @@
                 </div>
               </div>
 
-              <!-- Dimension 3: 底層技術護城河 -->
               <div class="mt-3">
                 <div class="text-[11px] font-mono-num uppercase text-cyan-400 font-bold mb-1">3. 底層技術護城河 (2nm / CoWoS / CPO / 液冷 / 生態系)</div>
                 <ul class="text-xs text-slate-300 space-y-1 bg-slate-900/50 p-2.5 rounded border border-slate-800/80">
@@ -1253,7 +1371,6 @@
                 </ul>
               </div>
 
-              <!-- Dimension 5: 股權綁定與生態系 -->
               <div class="mt-3">
                 <div class="text-[11px] font-mono-num uppercase text-purple-400 font-bold mb-1">4. 巨頭交叉持股與算力綁定生態系</div>
                 <p class="text-xs text-slate-300 bg-slate-900/50 p-2.5 rounded border border-slate-800/80 leading-relaxed">
@@ -1261,7 +1378,6 @@
                 </p>
               </div>
 
-              <!-- Dimension 4 & 6: ArXiv 論文 & 即時新聞 -->
               <div class="grid grid-cols-1 md:grid-cols-2 gap-3 mt-3">
                 <div>
                   <div class="text-[11px] font-mono-num uppercase text-emerald-400 font-bold mb-1">5. 最新關鍵論文 (ArXiv 動態渲染)</div>
@@ -1282,7 +1398,6 @@
       }).join('');
     }
 
-    // 5. 渲染未上市獨角獸與準 IPO 雷達表
     function renderUnicornTable() {
       const tbody = document.getElementById('unicornTableBody');
       const unicorns = appData.pre_ipo_unicorns || defaultData.pre_ipo_unicorns;
