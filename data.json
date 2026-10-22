@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21 09:48:49 CST (UTC+8)",
+  "last_updated": "2026-10-22 09:40:53 CST (UTC+8)",
   "status": "LIVE_CLOUD_SYNC",
   "macro_kpis": {
     "csp_capex": {
@@ -150,14 +150,14 @@
           71.0
         ]
       },
-      "price": 216.47,
-      "market_cap_b": 5227.1,
+      "price": 221.97,
+      "market_cap_b": 5359.9,
       "revenue_yoy": 105.9,
       "gross_margin": 74.7,
       "operating_margin": 66.2,
       "fcf_b": 41.81,
       "debt_to_ebitda": 0.19,
-      "market_cap_usd_b": 5227.1,
+      "market_cap_usd_b": 5359.9,
       "arxiv_papers": [
         {
           "title": "Ineffective Occupancy in Heterogeneous GPU Clusters: Prediction, Contribution Analysis, and Readiness-Aware Scheduling",
@@ -194,28 +194,28 @@
       ],
       "news": [
         {
-          "title": "These 2 Billionaires Like Nvidia (NVDA). Should You Buy the Dip Ahead of Earnings? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcU1rMWN2eGFCdXlWYXkyT3BoRnZOcXJNM3EtaUtEVk1TeThzQ19PRTZSVlhyYk5DdjkwUHNDS2t5QjVtRExBTjMtRTREdGd4SW5KX0lMa1lTOVE1NDltdXNTSUl1ZXdZQmJyVVdwWGphVERZSDlpUTlVS3lmZzBENmRGSVRWNHhkVDdYb2RyNWZ0dk1CVDVyZ3U4dw?oc=5",
+          "title": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout - NVIDIA Newsroom",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFl2YjlqcF9vQ0s2QkdFMDBxNzdVT29ibDFOOUhxRlZhSDJmY0M4VENxOUNyLVNRdEFEcG54RkdUSHk0X2c4V0xOb1d0UmI3aHdSR0d2V0hRd2lQV0hWcXJfcU5vc0JzcUdOVzFTMl9XQjNaamF6ZTZSdWZuOU15RWVRNnBIMUh4c0ZfVy1JcDhUR0hGczl3UXBmcjc2ekxrVW9YMXdHU3lBYWZBMmxhbE5ScnFYTUhRZ0g1QjBpRmxCQQ?oc=5",
           "publisher": "Google News",
-          "published": "Tue, 20 Oct 2026"
+          "published": "Wed, 21 Oct 2026"
         },
         {
-          "title": "Nvidia: Financial Risks Behind AI Expansion (NASDAQ:NVDA) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGZEY2tuY3I1Z3g4V05lNmFEbVhyX1J5TERsZmtjZDRuakl5SHJyY0k0QlZxeGFBNFJGN1dEc1BoYlhEQjlGdnpFZzNxdmtFN1czRVFCOWozV2gzSGNtZ0xxRG5udEZoQm84YkE4dUNKZVhXNlNwaTZ5UWJneklwbUQ2VVgwOXRYaEhN?oc=5",
+          "title": "NVIDIA Corp.’s (NVDA): Surging AI Demand Across End-Markets Powers Standout Results - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3dDa1JNNGt5c05VYjljSFlUN1dubkVKNjRLWHk5VHBCcXpuQUtMd0pzS2RUTmFWRW82TlJ0THdfYzlUN1FPb3hTdTBxZTVwN0JlRlNuSm5jUHd2bTZ1Z1doRTRMTGhGYkkyd1RaU2hkSnNPUFV3elBYc2tVQ2hmRVREYjB3VWFCZ0dGaEF1M2ZGdmtRbnRV?oc=5",
           "publisher": "Google News",
-          "published": "Mon, 19 Oct 2026"
+          "published": "Wed, 21 Oct 2026"
         },
         {
-          "title": "Amazon Challenges Nvidia’s CUDA Moat With Trainium - Amazon.com (NASDAQ:AMZN), NVIDIA (NASDAQ:NVDA) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzNsTlo2Y1lRYVFJTmNqNjIwdmNfYlozai1DZjFfMzFYMGFySnkwM2ZtN2FiaDNNRFRsV1dRZHYyakIyNUs0d2otZHVQVzVkS1BrT3VfTkNyTzk4bVdOZU1rRDljV3JkRVUtRTFpczNOb2lNNHVHMVF6QVlkVkh0RFMyd0VjRzR5YWZseTRYN1AzbmJGUDBJ?oc=5",
+          "title": "NVIDIA Introduces DSX POD AI Factories to Accelerate Europe’s Infrastructure Deployment - NVIDIA Newsroom",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3B4emVFWHZaWWVtSXgxaDdQanhRQ004RXRPejI0Nm85LUl0ZTdGeEJ1YlE0NXNuVTgyRmQ4Y1hMaEtqV0V2LTRERHN4SnZYTHlyajA3dU83NG11SFdzV3FmM0o2WUJmSnNKZm53cFVZQXhVS0duc2hNaGdIeGRyRXExemo4d2RabjE4cWNxMTZ1SV9vNUdYblFTVFRpd0tVVDhmOGdRcThBSXZvdFFkRGwxRWhjWjRIVGxCMG1R?oc=5",
           "publisher": "Google News",
-          "published": "Mon, 19 Oct 2026"
+          "published": "Wed, 21 Oct 2026"
         },
         {
-          "title": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem - NVIDIA Newsroom",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd2dkbUp0Zi13THRQMU1kMXNIZVktQVN5NVR2cEszemg1RWM1cURfcDBCRGhLMGJfc3NTaW12anhJeGVDb1FfTC1SaHUzcnVUTzBnVmJseHBuUngteFBFLUZQT2FkMzBaTEEzclA0WFJGT0FmZ1htaFFSX1YwNnVTNk1yT0dnNVhzUm9Vbms0U0N0ck5UNVpyUlNZZ2JaQ3NDZ0hHUEw1VE5BMjZ0dGFIX2plWTRqRHRDeG5yQTFnY3pHZlFhcG9Ndw?oc=5",
+          "title": "Amazon's Nvidia Chips Are Sitting in Warehouses Without Power as AI Spending Soars, Business Insider Reports - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzhVVHdfQ3UzVl8zQkhmWFBVZ21UVlNsWUthNTg5NEdNVkJsdVhZaUFydTBIZXlyUl9UOUVEYU12MFJJT1NMMExzSkl3Zks5eTlJLWx6bUtPdFN5RlZVTG50RlNiNVNiUFFJX2RXdzVtSk1lWUJIc1lxdlFZbFIwOVpKU1ZobXpIUFk5WmpDcGlCcEZ6Q3ZIemJPY3pPQUphWm00MkRB?oc=5",
           "publisher": "Google News",
-          "published": "Wed, 09 Sep 2026"
+          "published": "Wed, 21 Oct 2026"
         }
       ]
     },
@@ -278,15 +278,23 @@
           76.8
         ]
       },
-      "price": 334.37,
-      "market_cap_b": 1596.2,
+      "price": 337.8,
+      "market_cap_b": 1612.5,
       "revenue_yoy": 85.5,
       "gross_margin": 75.5,
       "operating_margin": 54.3,
       "fcf_b": 30.6,
       "debt_to_ebitda": 1.14,
-      "market_cap_usd_b": 1596.2,
+      "market_cap_usd_b": 1612.5,
       "arxiv_papers": [
+        {
+          "title": "Microlens-Integrated Grating Couplers for Efficient Free-Space Coupling in Silicon Photonics",
+          "summary": "Grating-coupler arrays are used to couple free-space light into photonic chips, but the space required for tapers and routing waveguides limits their optical fill factor. Microlens arrays can increase the effective fill ...",
+          "authors": "Simon A. Bongarz, Ryosuke Mashiko et al.",
+          "published": "2026-10-20",
+          "link": "http://arxiv.org/pdf/2610.28876v1",
+          "category": "Silicon Photonics"
+        },
         {
           "title": "Green Light: Carbon-Aware Design of Photonic Transformer Accelerators at the Edge",
           "summary": "Migrating transformer inference to the edge requires sustainability considerations that encompass both operation and manufacturing, rather than operational energy alone. Silicon photonics enables high-bandwidth, low-ener...",
@@ -310,14 +318,6 @@
           "published": "2026-10-18",
           "link": "http://arxiv.org/pdf/2610.25382v1",
           "category": "Silicon Photonics"
-        },
-        {
-          "title": "Programmable Preparation of Topological Entangled States",
-          "summary": "Programmable preparation of entangled quantum states is a central requirement for scalable quantum information processing, quantum networking and photonic quantum computing. Topological photonic platforms offer an attrac...",
-          "authors": "M. Javad Zakeri, Alaric Pan et al.",
-          "published": "2026-10-15",
-          "link": "http://arxiv.org/pdf/2610.22738v1",
-          "category": "Silicon Photonics"
         }
       ],
       "news": [
@@ -328,22 +328,22 @@
           "published": "Tue, 20 Oct 2026"
         },
         {
+          "title": "Broadcom’s AI Revenue Surges 221%, But is Growth Becoming Too Dependent on AI Spending? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX081U0VMOFZKZFNTRFladkVFU3FoVy00amNrbHlKaVNxemp1X2hsb3A3bjV3WURTd0hQLWRRcDlwSVIycEw5NEp1ZTFMUU9LSVRUVVIyRmw1eXBKVU1qQ09aWHBFMDNQZzJWa09UeHFTQXQ4SWhiT2EzR29UOGdpUWlNeW4xUGh4OVBrMjAyTFg3MVp4OTBlbkd3?oc=5",
+          "publisher": "Google News",
+          "published": "Wed, 21 Oct 2026"
+        },
+        {
+          "title": "Broadcom: An Effective Hedge Against The AI Cash Crunch (NASDAQ:AVGO) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVk5oMktfajUybmxyNzhvSXFpc3RSdC1GaDVNQnFNTHpJYWFsd1RiU2JSWnNNWVRYRUZGMy1jczdyMjBnSm50bFR4dzE0aWl4UlhwdlFhNWpJUzdfSzA5bElaRkVabS0yeWNDNjJMV1Uyd09TdzExZFc1Ym5FRVNqck81S1JFV1l2QlJPUldaNW9SNFpTZXR0V3pQQQ?oc=5",
+          "publisher": "Google News",
+          "published": "Wed, 21 Oct 2026"
+        },
+        {
           "title": "Broadcom Vs. Micron: Which Semiconductor Stock Wins the AI Sell-Off? - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenRYb0ZkS0VsT0RPOU1XaHpxRE15Mk5kbVIwVXFTN2lQVFY2Z3p4c2pfdnJNd21xZlVTRmV0aFp3dUJhaF83c0tadHI5VVZuSGRrclpNcm44NDFUTms5ZkEwMFZIaGhmZkNxSWZUVk9Vc0xfODFKdGh6MWtSb2RaSm5kNFB0bE1u?oc=5",
           "publisher": "Google News",
           "published": "Mon, 19 Oct 2026"
-        },
-        {
-          "title": "Broadcom secures record-breaking $35 billion AI financing! Wall Street giants step in as the largest private credit asset in history hits the market. - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOTFhN1VvTHZSTmJ3SW5BZTZ6bWU1WElRczlVNUlyc0FFRXFpWE15MnZzRjhjSDVYWFdzalo2bDZKc3N2TlZtUHoyVVZBU0Rub19saC1iSmZxdzdQalVWMlAyMGVodjJsdElnaUxqNXNTZTVhM09MekZ3WUJ0MndZUlJZRnNjRGRQX2MxcUxSdDNxWHcxQ1pLelowSUR2X1V6eDRXdy00VkdjanUtOUs0?oc=5",
-          "publisher": "Google News",
-          "published": "Fri, 16 Oct 2026"
-        },
-        {
-          "title": "AVGO Stock Edges Up Overnight After 10-Year Docomo Deal, But Retail Stays On Edge Over CEO’s AI ‘Casino’ Remarks - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYjU1QTcyQWhiODhoVGRNOE92NEJSSmpqVGdQR3I2ZXB4LW5KNGcyMHVzZVE3OUpDSEJfR2hrTzlFYU50blBUdEt5TDBKTDA0NWZuOXJySzFqT0VEdTFfNVRGNkp6YldvdExZTWNVQ00xWThYMUhuVnRhQVEyeHFZLVM2N25iWUtZY3k1NGI4Y2wzZDZwMUlxRE9nbUxQU3RlaFRURWF0bklURlJTSmJXWUdwcFVNU2pYSjhJVXNyZGpmMnMweHdKX2pCLWV5XzhEWW9PVnN3WlBNUU4zZndXa0NhTGZXaEhKZXh5YXd3WWp4aWZmNFJxQW9hdWM3QQ?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 20 Oct 2026"
         }
       ]
     },
@@ -406,14 +406,14 @@
           14.2
         ]
       },
-      "price": 534.74,
-      "market_cap_b": 872.9,
+      "price": 552.72,
+      "market_cap_b": 902.3,
       "revenue_yoy": 50.1,
       "gross_margin": 55.7,
       "operating_margin": 17.2,
       "fcf_b": 8.84,
       "debt_to_ebitda": 0.45,
-      "market_cap_usd_b": 872.9,
+      "market_cap_usd_b": 902.3,
       "arxiv_papers": [
         {
           "title": "Ineffective Occupancy in Heterogeneous GPU Clusters: Prediction, Contribution Analysis, and Readiness-Aware Scheduling",
@@ -450,28 +450,28 @@
       ],
       "news": [
         {
+          "title": "Advanced Micro Devices Inc Stock (AMD) Moved Up by 3.71% on Oct 21: Facts Behind the Movement - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWDhDUW5OMEp1bVJZYXp1dUNTOVJteUFCX0NjS2hRdFREMDg0aGFrc3pQV2JOZTBpUlZtTnpQSThhLTlSTzlFUTZiOVdfVWpKWmZKRktvX1RlZjF2c3JuNldXR2ExeEJ1cUJsbnFuZGhvMDBTNkNOcGxzemFPb1NNYzRuVWdJZmhLaEE?oc=5",
+          "publisher": "Google News",
+          "published": "Wed, 21 Oct 2026"
+        },
+        {
+          "title": "Advanced Micro Devices (AMD) Stock Plummeted 13% Last Week. Should You Buy the Dip Before Nov. 3? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUlVoTFR4akRJeFNUaVJlU2VDcEktX3ZCc2ZGaWladVNjaVZtdmFXOVNqdlVOU2ZvQnV1dVVYNXNYeUh6dFJGdFV5bjc2NTFDOFJjblpQM1NkMHZzTGExcTdNV212RUQ1VWdLQUI2MnpTRWx6TmRDbXB3VTRoald6c0JDZ0lLZUpSRWZEOUtVcUhza3FGOUhz?oc=5",
+          "publisher": "Google News",
+          "published": "Wed, 21 Oct 2026"
+        },
+        {
           "title": "Why Is Advanced Micro Devices (AMD) Gaining Ground In AI Infrastructure? - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDFNWFI4R2wzZ2VnVUVGc0ZYVkxMRlM3MkdLeWhzUkZCdWZvWDY0Z3VuSkt3cTExb190N3J3SXhidFVxa095cEtJbkNnaU5JX0J5YU84eEZxcWRGalVJczE5LXp3WmtUVFJvRTdVclhCby1PMUpSbGlpYV9RRHdqald1aGVwVkpnZkw4NzRxZjJzeHBrbmpKR0Fn?oc=5",
           "publisher": "Google News",
           "published": "Sun, 18 Oct 2026"
         },
         {
-          "title": "AMD Stock: My Notes On Its 70+ P/E Ratio (NASDAQ:AMD) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbUhSOVFCNG1BeC1iQXpOcW1tT1J3TXk0THdROXZPX1F4dVJiUmpsVkc3YWxGS0hINjdRZWZBLU1jSFkyU3dibDdrNTFzWGhWS2pfbVh4MWpuS0QtcjhvTEhYQU0yT0liWU1jMXMzNHlqQUNicGE0allaWTh4Z2VROVlSNk5FOXZhTlZV?oc=5",
+          "title": "Why Is Advanced Micro Devices Stock Trending Wednesday? - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVRzcl9TV1BVc1ljRENYWmZGRzdTSG00NTNEc0pjWElhUDJqeGQ3dDFhZVA4Vk12cV92cFpEX2JuRllrWjZyeDdwV3FLOFpSblFJVnBDTlMtME41QUY2MndpWWpwUGh4dVBva2RnZ2pyZkE5TnlteENYQ3poUm5WRUZUbEtpOWhDbDVXNGt2VkMtM3lJZEx6WVkxZ0FjLUZVRVhaTVBLQXQ4a1BmNk0zNmJzM0tWdw?oc=5",
           "publisher": "Google News",
-          "published": "Tue, 20 Oct 2026"
-        },
-        {
-          "title": "This Is AMD's Biggest Hurdle in an AI Sell-Off (and No, It's Not Nvidia) - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc0N6RTI2aTBCdTFjaW9NeG9JUEJzLTlUb0JkOEVJYmRyU3NRRDk2MEhONjdjWU5mWDJ6Umd5eVZvVFQ3cENSc2R0dzc1MzZXMnlJQnVTZy1HLTBQeDYyc0U2MTNRbk5RU1pFRUxvcWVZZzlkZFRkczBMYnFiVDVfX3VCY2xDZnZuRVAteEhmUFNjcDBuc1hZ?oc=5",
-          "publisher": "Google News",
-          "published": "Mon, 19 Oct 2026"
-        },
-        {
-          "title": "Advanced Micro Devices, Inc. $AMD Shares Bought by Sumitomo Mitsui DS Asset Management Company Ltd - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZEpBTjFCYnp4Sko1Y0ZlYXNQU1VFM1c0STZ3V29sMm80LTYxY00xcDFINkhOV3cyM3RRRUt5MGxfS3d5ZDN2aGNZbzRzQU1xZHAzaU5PMW5wclVBQUdWeWF2eG5jYXQ1TU9JSXMxN2Z2U0c5Ylg4dW01aC05cU1QbDVwMHdEUFIzUC1DWlhTUU80SllSVWtDMTNsVmIwUmdQSzdNTDg0V1JwZUZYYkZ0cjhLUEFhNktOR0ZCTmY5SjhZSVZyY3p2bWdUWklWTlhrOG5mdk1ZTUxrdy11Y3hjc2FPQU04aXJGQ2VqVw?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 20 Oct 2026"
+          "published": "Wed, 21 Oct 2026"
         }
       ]
     },
@@ -534,14 +534,14 @@
           2.75
         ]
       },
-      "price": 221.06,
-      "market_cap_b": 236.1,
+      "price": 226.59,
+      "market_cap_b": 242.0,
       "revenue_yoy": 22.4,
       "gross_margin": 97.5,
       "operating_margin": 7.6,
       "fcf_b": 1.33,
       "debt_to_ebitda": 0.46,
-      "market_cap_usd_b": 236.1,
+      "market_cap_usd_b": 242.0,
       "arxiv_papers": [
         {
           "title": "Ineffective Occupancy in Heterogeneous GPU Clusters: Prediction, Contribution Analysis, and Readiness-Aware Scheduling",
@@ -662,14 +662,14 @@
           7.9
         ]
       },
-      "price": 203.56,
-      "market_cap_b": 78.4,
+      "price": 212.15,
+      "market_cap_b": 81.7,
       "revenue_yoy": 24.1,
       "gross_margin": 38.0,
       "operating_margin": 20.4,
       "fcf_b": 2.7,
       "debt_to_ebitda": 1.25,
-      "market_cap_usd_b": 78.4,
+      "market_cap_usd_b": 81.7,
       "arxiv_papers": [
         {
           "title": "Can Autonomous Vehicles Keep Their Cool? A Survey of Thermal Side-Channel and Perception Attacks",
@@ -706,28 +706,28 @@
       ],
       "news": [
         {
+          "title": "Vertiv, Nvidia Target 30% More AI Token Output - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDJqbk0ySEdiekdqM1FpMzY4em5BU19qNHdiZ240M0pHNGJJQnYwWGxJTVgyUnpHb0Y2ekJWUXZlRm1xNnVjdFNJWU5BZ3NtNjk3aHNST09ad1QxOUxOYjY4V2xIdWFGT0MzZU14b0h6WEprbnRiZVRidjgxb205X1JYdkcweDNna2FXa0NOZ1ZfZlhJV0NTR2xCUlppMnMxWHdWdWxGS3U?oc=5",
+          "publisher": "Google News",
+          "published": "Wed, 21 Oct 2026"
+        },
+        {
+          "title": "A model suggests AI facility plans could be configured and checked in 3 days, not about 30. - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORWMySTZnQU5NZm9WdVg5NGlyLUJ6eVgza0JlSHZtYVlWRE5XajE5dlltVUdGMlZXa2E5T3VURG5VNE9uUVR1S1BFVHlvc1lIcDhtN0JocVJPd3RIemtvVDV3TVNSVFRWcWRNdnZEVmtFZE5OYUtFNnpSUl9rSmpJak5JZnZxRU16QmdhXzJ3eFZFWmlzQW5nZFptYU13SFF0dldodW80MTVNUGpiczF6dnNIejkwaHBFRXB0WmxB?oc=5",
+          "publisher": "Google News",
+          "published": "Wed, 21 Oct 2026"
+        },
+        {
+          "title": "Vertiv Holdings Co. (VRT) Unveils AI Factory Approach Targeting Faster Deployment, Higher Output - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONXJQX3ZGdWRvRldzZHdTbnBENFZVTHZleFpXamdLc0swUlRMOUp1aFFKXzFCQ3FEV2otWFM4VjNsd3M3Yk5LMkx3LUMtVlJKWjRVaDZKdVdtcEpWTUlGSGtudWRsYnNLRjhVNnFJX1gtbjVrYk8wZUxUR3BvNjZiS012bGhDdThudTMtWDFsLVQ2NE9LREd6T3hfb0V3U2hyYzVfSUhKUk9hamVHeWR6WU80WDVIeVhQYUVzX3JUMjlZWmtuQUxPc0laVlhjOW5FSGd1T3ZESkJSQW1kNWxMeWNYTm1TRWZYbGc?oc=5",
+          "publisher": "Google News",
+          "published": "Wed, 21 Oct 2026"
+        },
+        {
           "title": "Vertiv Holdings Co (VRT) Could Be 54% Undervalued Following AI Data Center Financing Fears - Simply Wall Street",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZldqamtRbUdIbkhNN3VfSW9mS19TRElIdXl1aDBFaEZ6dG1pQ1VvUUYyYUs1Wl9pV0RnR3R6emY3T21Vb25TYU5XT3ZKbzA0RXBmcHRVYlp5SmJYTnBQYUFCbzFBbElKUVplUWtJOFpjSnF0Nko1Zl9nRG1CLWRjMG1ZRHZRVnVFS3ZrMWE3bVNJTTREMHJNZzM0RWZ6UVdNZnZGMkFrN3ZJcl9KTE9FZXktQmtTWGZtN0FfcV92dmVBN01lRXhGN1RZX0hZZVpPcWZGcdIB2gFBVV95cUxObmlLbFZJQzJyWVhBeTJTenE2b1FQXzZYSVhiMHNLdDUtMGUtTjI2M2FwRFNFcFgya21SVWxlTDBwOGxqX2Mtb18weXgtX1B5QmRiQ3BaYnJFWkhPUkNEMlR0LW1YcXpPdGdUeVc5eTVLWkxjR1lpRmozd1pfMjFycFMzVnRaUGxyRTdTUjdWZl9xMV9LaUdwd0RzZHZ0aENTbUVNZnBRbzVYMnAydkZ2aEFMODhldzZoc2lwdDBEb0VTSHAwb0dHX0kwUGIwODFtdW5sNG1teXhTUQ?oc=5",
           "publisher": "Google News",
           "published": "Tue, 20 Oct 2026"
-        },
-        {
-          "title": "Vertiv Stock Falls 11 Days, Analysts See 54% Upside - Vertiv Holdings (NYSE:VRT) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZy1oWl95dFcyWVBfY0lJZFVieXd4MkJEQWtqYzc1bGF6TTM5WUU2VVNzemh2ZkRUNURfd1B6M3cxUWpjSEV0VktBYWt5Q1Bjd3ZYT0NuZTEtb0tsZ1VRYUtvQlZFUDR4U3NFZnVURnpiVGdmTWIwMjUzNVowTmxkSGpFVjBhSXFOUVB5UHNHbHJ4MHlDOThVeVpkdWhhanVLbkxwZnQxS3FEc1U?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 20 Oct 2026"
-        },
-        {
-          "title": "Vertiv Holdings Co (VRT) Unveils AI Deployment Guide As Enterprise Adoption Ramps Up - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX0VuMzBobGRPREY2ajJTVUpCZFZoS0RxeFRUNVNCTXdZV3I3S0JHemFBTkxrbEo2NG4yMUJ6bWpnQjNRRDBRLVh6eDJpUVJOU0NJRmZrMk5UaWp6NGVQRmlDMU81WmdSYnJlQkY3anFuV0cyM1BNQkVRSE9RUnhGc09KV3RsenFZQ0dRa25PdUZxX3IwQXMybS13?oc=5",
-          "publisher": "Google News",
-          "published": "Wed, 14 Oct 2026"
-        },
-        {
-          "title": "Vertiv slides as AI infrastructure selloff and lowered price target weigh on shares - Quiver Quantitative",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOHlLRVktS25YNTZ1QWFfUU9kaDYwcVA1Z01tZmh4VjF5TkVLN0NocVJ1bU5BcmxrVFFWX3hRcG9BVHBpODRjR1dMNkQ0U0F0NlB0akJxUWI3UjhMU0ljRk1tc2RjbUpIQW5GZ1BPTVFxbzdyY3gyOThtNzFBOGZtc1AxVldsVlNGckRxaUZpbGFuS1ZMZ0ZMT1RNRWFYSmlTMWc0czBydElKak00d2p4YlRNdGlYUEk?oc=5",
-          "publisher": "Google News",
-          "published": "Thu, 15 Oct 2026"
         }
       ]
     },
@@ -790,49 +790,55 @@
           312.0
         ]
       },
-      "price": 531.87,
-      "market_cap_b": 3949.4,
+      "price": 532.95,
+      "market_cap_b": 3957.4,
       "revenue_yoy": 17.7,
       "gross_margin": 67.9,
       "operating_margin": 45.1,
       "fcf_b": 16.55,
       "debt_to_ebitda": 0.66,
-      "market_cap_usd_b": 3949.4,
+      "market_cap_usd_b": 3957.4,
       "arxiv_papers": [
         {
-          "title": "Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE",
-          "summary": "As model parameters scale up, sparsely activated Mixture-of-Experts (MoE) approaches have become essential for model scaling. However, mainstream models currently adopt hierarchical architectures, where experts in differ...",
-          "authors": "Ermo Hua, Xiangyu Hong et al.",
-          "published": "2026-10-20",
-          "link": "http://arxiv.org/pdf/2610.27598v1",
+          "title": "A Strong MoE Is All You Need for Process Supervision",
+          "summary": "Process reward models (PRMs) provide fine-grained supervision for multi-step reasoning, yet obtaining reliable process labels remains a central bottleneck. Existing approaches typically rely on human annotation, rollout-...",
+          "authors": "Guanzhi Deng, Zengyan Liu et al.",
+          "published": "2026-10-21",
+          "link": "http://arxiv.org/pdf/2610.29498v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Text-Anchored Modality Experts with Uncertainty-Guided Routing for Multimodal Sentiment Analysis",
-          "summary": "Multimodal sentiment analysis (MSA) aims to understand user-generated videos by integrating multiple modalities. Existing methods often treat modalities as symmetric, overlooking the fact that language provides a dominan...",
-          "authors": "Xiaohua Huang, Bingrui Lei et al.",
-          "published": "2026-10-20",
-          "link": "http://arxiv.org/pdf/2610.27571v1",
+          "title": "CertMoE: Robustness Certification for Mixture-of-Experts LLMs via Routing-Aware Smoothing",
+          "summary": "Provable robustness is a cornerstone of trustworthy machine learning, aiming to guarantee model predictions under adversarial perturbations. Existing certification frameworks, inspired by abstract interpretation or symbo...",
+          "authors": "Qingyue Wang, Yudong Gao et al.",
+          "published": "2026-10-21",
+          "link": "http://arxiv.org/pdf/2610.29395v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Mixture of Censored Partially Linear Experts Models for Symmetric or Asymmetric Data with or without Outlying Observations: A novel approach with two-piece scale-mixture of normal distributions",
-          "summary": "Finite mixture of partially linear model and finite mixture of experts models offer flexible tools for analyzing heterogeneous data, especially when covariates influence subgroup structure. Partially linear models furthe...",
-          "authors": "Mohsen Maleki, Geoffrey J. McLachlan",
-          "published": "2026-10-20",
-          "link": "http://arxiv.org/pdf/2610.27424v1",
+          "title": "GaP-MoE : Explicit Expert Specialization in Mixture-of-Experts via Orthogonal Gradient Accumulation and Projection",
+          "summary": "Sparse Mixture-of-Experts (SMoE) models improve scalability by routing input tokens to only a subset of expert networks, but they often suffer from representation collapse, in which multiple experts converge toward simil...",
+          "authors": "Donghyun Jeong, Yoon-Yeong Kim",
+          "published": "2026-10-21",
+          "link": "http://arxiv.org/pdf/2610.29355v1",
           "category": "LLM MoE"
         },
         {
-          "title": "The Router Already Knows",
-          "summary": "Mixture-of-experts (MoE) models already make a sparse choice for every token: which experts should process it. We ask whether a sparse dictionary should reuse that choice. NR-SAE gives each routed expert a small dictiona...",
-          "authors": "Andrew Bistras, Marty Johnson",
-          "published": "2026-10-20",
-          "link": "http://arxiv.org/pdf/2610.27421v1",
+          "title": "WaFIR: Wavelet-Fourier Mixture-of-Experts with Subband-Adaptive Routing for Blind All-in-One Image Restoration",
+          "summary": "Blind all-in-one image restoration must adapt a shared model to heterogeneous and sometimes mixed degradations without a task label at test time. We introduce WaFIR, a decoder module that decomposes features into Haar su...",
+          "authors": "Trong Nhan Nguyen, Vu Hoang Minh Doan et al.",
+          "published": "2026-10-21",
+          "link": "http://arxiv.org/pdf/2610.29108v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
+        {
+          "title": "Market Re-Rating Aligns Microsoft Corporation’s (MSFT) Valuation with Core AI Fundamentals - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWVNMTM3dzBuUmZvU3VuMzhPQkM3WlNnZ2JOc2lFU203eDAybkRkSldaLU5XRTZMbFJCQTJocC1hVTV3cHViWVVEWHFMdnZ6SGZjNVljcXZ2S2NZanpDRG5xZldLM3NCeVNjQS1yWGNoMzVkUFJXbzVNMlhXRWNybEg5RV9fWkdJT1pINXhsaVJ3cS1zM1RWUENva0Zkc1BIOFZzeUZXQUZ1anc?oc=5",
+          "publisher": "Google News",
+          "published": "Wed, 21 Oct 2026"
+        },
         {
           "title": "Nasdaq-100® Inside the Index: Microsoft Corporation (MSFT) - Nasdaq",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05d0toMjBoZDh1N1ZIVGQyd0ViaDNHcy1xOXRPR3l6NmFQcWdoc2MzX1lxc3cwYUxOTjQ1S1pxYUpUZWJMSTctMlZicEtya2FoOFJHbkM3bDJRRVBZdGdCRUNlQnNPcjJSZFFOV3pRXzZsTXhsbXhr?oc=5",
@@ -840,16 +846,10 @@
           "published": "Tue, 20 Oct 2026"
         },
         {
-          "title": "High Switching Costs Protect Microsoft Corporation (MSFT) in the AI Era - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTN2Qnh1WkRVOE5nRVFfMkhhQlNMQVN3eXR2X3VIZGpsS3JzekRueGtBblU2RXQxMVpraEJEeE5WN1Y4MW94Rk91QkNRYU1XVFZoa0YycC1WQ3hRemIwYnc2YnQyRmNiVUdNOHdIdVIzaWRiNktuMzBVRGtYN3dxZ091clQ1a0lwQVBvUzF5Yk5ZNUNyV0VGMTRyZlRuZHJZTC01azZB?oc=5",
+          "title": "Jim Cramer and Ken Fisher’s AI Pick: Microsoft (MSFT) - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb1pmemlxTW5xT1NRanZxNjRjNG04bF9iSnEwQzV1enVSSWNoR1ZZQVB4QjA3MWFrSnJXTllUTU5fbmUzUDhHZXdSQ3d6LWo3c0Z2Ukp4UFhHUldSUXVsVjdqcWUxczg3X1dfUVFUU2VHR1ViNzd5dHFFODMycEdtdXBDbTUxUHFMU2FfaTlvaEJuYms?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 16 Oct 2026"
-        },
-        {
-          "title": "What Happened to $1,000 Invested in Microsoft Before Its Cloud and AI Boom? - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd0RzSnM5RF9Wd24wZFM3VzZ4S3lLUjZLSUc4STJjbWVzSktNbkF3b19WLXByS0RhSUxlRVYyc3lJSnNQcUJLdUt1X3VBUUVESFFKUUctOHNwVGNxTWRnRV9WNXBaM1VVQmV4eDhyQXlBaUF3RDE0cHlfNWt2RzBiY0JIZURUdjgtdUQ1WmNKY29LV2F2RGhVNHJQWmhlRW9qdk8wVUltbmpUakg4UkJveFY0T0tZT1E?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 20 Oct 2026"
+          "published": "Wed, 21 Oct 2026"
         },
         {
           "title": "If AI Crumbles, Microsoft Wins (NASDAQ:MSFT) - Seeking Alpha",
@@ -918,72 +918,72 @@
           92.4
         ]
       },
-      "price": 340.27,
-      "market_cap_b": 4161.5,
+      "price": 334.76,
+      "market_cap_b": 4094.1,
       "revenue_yoy": 24.2,
       "gross_margin": 60.9,
       "operating_margin": 34.0,
       "fcf_b": 22.67,
       "debt_to_ebitda": 0.7,
-      "market_cap_usd_b": 4161.5,
+      "market_cap_usd_b": 4094.1,
       "arxiv_papers": [
         {
-          "title": "Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE",
-          "summary": "As model parameters scale up, sparsely activated Mixture-of-Experts (MoE) approaches have become essential for model scaling. However, mainstream models currently adopt hierarchical architectures, where experts in differ...",
-          "authors": "Ermo Hua, Xiangyu Hong et al.",
-          "published": "2026-10-20",
-          "link": "http://arxiv.org/pdf/2610.27598v1",
+          "title": "A Strong MoE Is All You Need for Process Supervision",
+          "summary": "Process reward models (PRMs) provide fine-grained supervision for multi-step reasoning, yet obtaining reliable process labels remains a central bottleneck. Existing approaches typically rely on human annotation, rollout-...",
+          "authors": "Guanzhi Deng, Zengyan Liu et al.",
+          "published": "2026-10-21",
+          "link": "http://arxiv.org/pdf/2610.29498v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Text-Anchored Modality Experts with Uncertainty-Guided Routing for Multimodal Sentiment Analysis",
-          "summary": "Multimodal sentiment analysis (MSA) aims to understand user-generated videos by integrating multiple modalities. Existing methods often treat modalities as symmetric, overlooking the fact that language provides a dominan...",
-          "authors": "Xiaohua Huang, Bingrui Lei et al.",
-          "published": "2026-10-20",
-          "link": "http://arxiv.org/pdf/2610.27571v1",
+          "title": "CertMoE: Robustness Certification for Mixture-of-Experts LLMs via Routing-Aware Smoothing",
+          "summary": "Provable robustness is a cornerstone of trustworthy machine learning, aiming to guarantee model predictions under adversarial perturbations. Existing certification frameworks, inspired by abstract interpretation or symbo...",
+          "authors": "Qingyue Wang, Yudong Gao et al.",
+          "published": "2026-10-21",
+          "link": "http://arxiv.org/pdf/2610.29395v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Mixture of Censored Partially Linear Experts Models for Symmetric or Asymmetric Data with or without Outlying Observations: A novel approach with two-piece scale-mixture of normal distributions",
-          "summary": "Finite mixture of partially linear model and finite mixture of experts models offer flexible tools for analyzing heterogeneous data, especially when covariates influence subgroup structure. Partially linear models furthe...",
-          "authors": "Mohsen Maleki, Geoffrey J. McLachlan",
-          "published": "2026-10-20",
-          "link": "http://arxiv.org/pdf/2610.27424v1",
+          "title": "GaP-MoE : Explicit Expert Specialization in Mixture-of-Experts via Orthogonal Gradient Accumulation and Projection",
+          "summary": "Sparse Mixture-of-Experts (SMoE) models improve scalability by routing input tokens to only a subset of expert networks, but they often suffer from representation collapse, in which multiple experts converge toward simil...",
+          "authors": "Donghyun Jeong, Yoon-Yeong Kim",
+          "published": "2026-10-21",
+          "link": "http://arxiv.org/pdf/2610.29355v1",
           "category": "LLM MoE"
         },
         {
-          "title": "The Router Already Knows",
-          "summary": "Mixture-of-experts (MoE) models already make a sparse choice for every token: which experts should process it. We ask whether a sparse dictionary should reuse that choice. NR-SAE gives each routed expert a small dictiona...",
-          "authors": "Andrew Bistras, Marty Johnson",
-          "published": "2026-10-20",
-          "link": "http://arxiv.org/pdf/2610.27421v1",
+          "title": "WaFIR: Wavelet-Fourier Mixture-of-Experts with Subband-Adaptive Routing for Blind All-in-One Image Restoration",
+          "summary": "Blind all-in-one image restoration must adapt a shared model to heterogeneous and sometimes mixed degradations without a task label at test time. We introduce WaFIR, a decoder module that decomposes features into Haar su...",
+          "authors": "Trong Nhan Nguyen, Vu Hoang Minh Doan et al.",
+          "published": "2026-10-21",
+          "link": "http://arxiv.org/pdf/2610.29108v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "Meta vs. Alphabet: Meta Is Better Built for AGI - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVHBnUkNISDZHV1BVQlg5WlBhSnJpamxfWkt5WnUzVk16LTNTclpCYm9ld3dUcE5yN1BHZW0zMlpETmtqWlkzTWJFVWdfRFkyelBEbEZhVm5Jb2JsS3kzM1MxNzdYejBLN1l4T3ZHZXpqQ3Y3QVRrd25HcDZYZ0psRVpncExOaFoxMkdBaTlnblVIdw?oc=5",
+          "title": "Google CEO Admits Cloud Business Is Sacrificing Revenue to Win AI Race - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN3lFV3Q5OW8yd2tHTUZuVUs4VmNEWlBLTGc2cXNfZU10NEhfVXNBYWZXODNRdFBsSDhVN1RwdGo5anBJUnVSd3JEWU9WOHRRVFBJenhSV280Tl9aUm8tTllsN1pkWDU4LXhhMl94UUhpbVRpVTQ2SkVLU1Vwa3hWTTdhNHJncmZsbkJjMnlhQWpLeXEzM0x1T3JEYk9RMjg?oc=5",
           "publisher": "Google News",
-          "published": "Tue, 20 Oct 2026"
+          "published": "Wed, 21 Oct 2026"
         },
         {
-          "title": "Google’s Next AI Chip Is Running Late. Why Marvell May Be Fine - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVDFvUzZYNFgxR3E4c05makh0LVo3OEY3UlozMmlRUVdMcTQ3bHoxRXAtbFc2RjkxdUpKR2gxaEY2N29GV1BFc3Y5bUowb0UzTWtiSWk5UUZiemRPbDIxNkVycGZkcmlCcHRLVTUwWXNXMm54eWpIZ2JwZWJ4Z1F3TzlXWlN1VHlTdVVuUnBGSnNGcW1UbWc?oc=5",
+          "title": "Alphabet Slips 2% Despite NASDAQ Rally as Pichai Says Google Cloud Is Giving Up Revenue for AI Capacity; Amazon Dips, Microsoft Holds Steady - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNUmFwTzgtN0FOZDRWNFQzWTZtd3VJUXdzeG1wcVVMWG02NFg3cWxTUFY4R0xINzNkV0h5a1lkX2VURW5CMVNuZkNYOXVjaHZ6c3paVUJQQlV0NDNQeXdLWHRiWC0xd3VsTUlfUG9GV1BwZTdNd3ZyTXp3dmNxOGxnRVdYLWE0bk8wd3JMejBrLVFzazExcXJmWTM2ank0dmppSk9uOTlDMDJQNmdmWHE2V282VnJqUWYweFdCelpzZEIyRFQzU2d6R0VPblBvZ2VqQlhVelExdEtBOFY1ZjVuSy1TcHBObkgtSXU3X3RVOFBOa0ZkWG9tUG0tQTZPNEViZmpjRlhaSGUza05mVVE?oc=5",
           "publisher": "Google News",
-          "published": "Tue, 20 Oct 2026"
+          "published": "Wed, 21 Oct 2026"
         },
         {
-          "title": "Google Partners With Xcel Energy To Fuel New AI Data Center With Clean Power - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tckhmNDZkcGRuRWNWU0dEWWE1N1VoTWlINHlnQ0pqQXNsUVF1Q3lVZDlzYm1zamRBVlBaT1k0bV9MQmx0ajV1dWZYVy03bUl4WGR2d2FTSC1nM2xLVmM5LWFSTlpkUmpVblZJcU83Ni1SN2dFclNFTUFjMA?oc=5",
+          "title": "Bank of America sees a $300 billion test for Google stock - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTkZrLUtON3kxMXgzWjFkNFVOS29HQlF0WDduT1RGODBNVHBNek1rTUNCak1oWGZjcVlkdTR3a0YtRlVpb3QtTEhGQmFQV3dmOWsyTDZyZElvVFh5ZUpBZDRiVlNPYUpZQXVKamtlUzNuVVEzQjBfa29vaTh1RVRLbW5zMmdIVzFJRmkwVHNVSlVKNDZpYm1mNA?oc=5",
           "publisher": "Google News",
-          "published": "Tue, 20 Oct 2026"
+          "published": "Wed, 21 Oct 2026"
         },
         {
-          "title": "Alphabet Stock Can Soar 22%, J.P. Morgan Says. Why Google Can Defy AI Fears. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91SExKR1JKUTMxSEpGTGxMYkRCX1ZIQ0wwd25pcEJVZ29pc2ZRdlZqN2N6ZHZYdWpVRV9TQkRKUGFwZk4tZFlPMmNQVHFUc25XRTd5YU9QUHVGTm5TQmpRczBYN3ROVjNnUGVQblg2akJKYVJTcG9RQnNLaUY?oc=5",
+          "title": "OpenAI to sell its top models on Google Cloud in latest enterprise push - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcF9EWG9QTDRBLU5tUVpFUXNUVW8wU2s3WVNTY2RnQUd0SEZfaXRyVmhpTFg4dGhuZ1RlN3JpOGVSNmY4VDNOUzFSNG9OVnZGTm1oXzk1VTFjakdIOVcyMm9qN2tPMEVJYjl1TzdtdkpCZjNSRlRZdFVGR3JFSC1mX3prVEJOYWI3aUdBbWx1WW40bUhSZmxJMV9kS01RMHBVc3huVWszcE5MTTA3M2RKTGZyMmpNczhpU3ZRcm5fMFA?oc=5",
           "publisher": "Google News",
-          "published": "Thu, 15 Oct 2026"
+          "published": "Wed, 21 Oct 2026"
         }
       ]
     },
@@ -1046,14 +1046,14 @@
           171.5
         ]
       },
-      "price": 262.63,
-      "market_cap_b": 2832.8,
+      "price": 262.37,
+      "market_cap_b": 2830.0,
       "revenue_yoy": 19.6,
       "gross_margin": 50.8,
       "operating_margin": 13.7,
       "fcf_b": 3.22,
       "debt_to_ebitda": 1.49,
-      "market_cap_usd_b": 2832.8,
+      "market_cap_usd_b": 2830.0,
       "arxiv_papers": [
         {
           "title": "Ineffective Occupancy in Heterogeneous GPU Clusters: Prediction, Contribution Analysis, and Readiness-Aware Scheduling",
@@ -1090,28 +1090,28 @@
       ],
       "news": [
         {
-          "title": "Microsoft vs. Amazon: Is AMZN’s AI Growth Being Undervalued by Investors? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaVN1aEFyQTBhQWZDUHVpa1k4NXE3NW1BMkIyU0dMR3BTQmxtampneWNTQ0U0cktLek02ell4UmlORW1lMVE4Z0ZCQzZYT0tLWVJxbGR5NXdhbUV1Zk9wNllkSnh0bFN5YXlyRC1jNUxjLXVlUGNRNlQ1a1RwZlRYYVQwUE1iZGZRTVIxa1VkT3lTSXZXOVVB?oc=5",
+          "title": "Amazon's Nvidia Chips Are Sitting in Warehouses Without Power as AI Spending Soars, Business Insider Reports - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzhVVHdfQ3UzVl8zQkhmWFBVZ21UVlNsWUthNTg5NEdNVkJsdVhZaUFydTBIZXlyUl9UOUVEYU12MFJJT1NMMExzSkl3Zks5eTlJLWx6bUtPdFN5RlZVTG50RlNiNVNiUFFJX2RXdzVtSk1lWUJIc1lxdlFZbFIwOVpKU1ZobXpIUFk5WmpDcGlCcEZ6Q3ZIemJPY3pPQUphWm00MkRB?oc=5",
+          "publisher": "Google News",
+          "published": "Wed, 21 Oct 2026"
+        },
+        {
+          "title": "Amazon (AMZN): Who Captures the Savings From its Custom AI Chips? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMVFkY05YWVdSOTlVNXNGdnl2NkY5UWJxZUc0WWd1c3RCNTZ2aC00bi1XaUJYTWdzS0EzUWNJUzV1ZHMzaEo3dzlNZjBMeXBfakZELVk0aHJqMnpuT1ZidklGSGxaRDVtMnVuYjRpb1U4TmtXcC16TERmTF81WDUtU2pqaVNSZjYzRTVMb2pOOGFGYVBQM2UtOV9mbThkZnFp?oc=5",
+          "publisher": "Google News",
+          "published": "Thu, 15 Oct 2026"
+        },
+        {
+          "title": "Can Cloud and AI Demand Steer Amazon.com (NASDAQ:AMZN) Through Earnings Week? - Kalkine Media",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQkxDOUhUbF8zYUNHQ0tOU0NwUHNCLV96M1lSM2h2NGgtcmJBZjdGN3FoNWlPZ2xEYWplRG84ckRxVi1YVUk0MFBnT21ueFRmSGRkdW9fMHRNVkVXM1ZBLUJLc2I5V2VxNFpzUmxHODBZblRGQkhiMGhkY1dVdGRrbGRvenFfQUUyUmlPdy1hWEp0NVNZcmhyR3l1QnVERDRwdGV2bTVUSDU2R3Y2WnNMdDZLUWQ?oc=5",
+          "publisher": "Google News",
+          "published": "Wed, 21 Oct 2026"
+        },
+        {
+          "title": "Amazon Challenges Nvidia’s CUDA Moat With Trainium - Amazon.com (NASDAQ:AMZN), NVIDIA (NASDAQ:NVDA) - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzNsTlo2Y1lRYVFJTmNqNjIwdmNfYlozai1DZjFfMzFYMGFySnkwM2ZtN2FiaDNNRFRsV1dRZHYyakIyNUs0d2otZHVQVzVkS1BrT3VfTkNyTzk4bVdOZU1rRDljV3JkRVUtRTFpczNOb2lNNHVHMVF6QVlkVkh0RFMyd0VjRzR5YWZseTRYN1AzbmJGUDBJ?oc=5",
           "publisher": "Google News",
           "published": "Mon, 19 Oct 2026"
-        },
-        {
-          "title": "Amazon Deepens Europe Push With $18 Billion Germany Investment, AWS Expansion - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdDJnNms0bEJMZmM5UWE1Mm5qci1xNWJOTzNydGg1X2tvYWNyby0xZ0ZQS1VBZ3ZrT1d6eWxOejNJLW5maVVGSFlXVUdkR3VpUGs2bmJzQUdJMGpTSTZpTDRXVTM2d2xxanNuUC16MG1jbmVyU0p0eDhOYjE5cVN6X21Sa1FiUHZ0MFVnT1FaLUdIel85WXBoYkZhQkZjd1JMTERlTF83b1ZvWHd0UUtWOHFiVEp2N18zYUhMRmtqZm9xTHl3djZN?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 20 Oct 2026"
-        },
-        {
-          "title": "Amazon Will Be The Final Winner Of The AI Race With Anthropic's Help (NASDAQ:AMZN) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOHZtUkVpQU9sTW14X0xnUmlEMlM0V1ZHSEx3SllLQVl3WVhaSnh4cWtpRXpTZktpRUJ6MmFtX1MxMDF4bUR5ZHk5STZMT0EyQlpZNjJrdVUtTmpiZU9KcjZJVDZ4SjJrSHZtOHZtbERfWXBkTHhZUFNUNUQwOFZWNkx4ZmxaQXlNS1lkZURFOGVuMS1VYjVJeU94Q3RtZklrT1FhT1hNQmhTM2c?oc=5",
-          "publisher": "Google News",
-          "published": "Mon, 12 Oct 2026"
-        },
-        {
-          "title": "Is Amazon.com (NASDAQ:AMZN) Steadying as AI and Cloud Names Rebound? - Kalkine Media",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNzZfNk1tSm9MT1dZdUhUZmFoS1g4ZHp2MnNCTzBlRDliT3FJODdtdXNrUER0cXZIY1B2czlOZC1rbW1vb0hYQ1hGUkdzWXVSMVhEWkV0NVBxZXI3cWxYd2lXTjd5X1dvMWQ1NkwtbFl6Q2sxY0JiRGZrQ1RjOS1aQ0NwcXhZUXd0V2p4X1lfUGZXYVBYZnhTUW0tVHZLNkRkMFFpa1VLeF8?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 20 Oct 2026"
         }
       ]
     },
@@ -1174,14 +1174,14 @@
           108.0
         ]
       },
-      "price": 131.14,
-      "market_cap_b": 397.6,
+      "price": 129.13,
+      "market_cap_b": 391.5,
       "revenue_yoy": 29.6,
       "gross_margin": 64.0,
       "operating_margin": 35.6,
       "fcf_b": -45.85,
       "debt_to_ebitda": 4.91,
-      "market_cap_usd_b": 397.6,
+      "market_cap_usd_b": 391.5,
       "arxiv_papers": [
         {
           "title": "Ineffective Occupancy in Heterogeneous GPU Clusters: Prediction, Contribution Analysis, and Readiness-Aware Scheduling",
@@ -1218,26 +1218,26 @@
       ],
       "news": [
         {
+          "title": "Oracle plans an AI platform for agents that flag construction risks and tailor retail catalogs - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbkI3czUyYVg3Vm9OemNVQjV6NG1rNnFDczJrOC1YNjJIclZyQkFRMUtHeXhQRWdtTldrZDk2a09HdmUzUFpMdHpSbmk3UFBuSW9GZHcxU0NnQVZtZUJPREFXRUQzcjhiaFBlT3F1NVEzUnE2b3VaS3A4ejlsaEZOejJFNVBxVmI3V0FjMHJFNTEtdDEtcF9aUGFpN21XMFY4SGo1UXZCZHBKVkNSQ01YV3R5N3EtYktHSUFTWg?oc=5",
+          "publisher": "Google News",
+          "published": "Wed, 21 Oct 2026"
+        },
+        {
+          "title": "Oracle Stock Is Falling as AI Spending Worries Mount. Most Analysts Think ORCL Could Rebound. - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ29uUjJnLUlrTHp0bVZKcVBsdmxMUWgxTE9oUlNTbk95YWQ0Y2xtdV9jY1c4OUREQWdDdkxXNWNLMVBydXVaOERrbDd5R3B6RTJ0UVVMbGxLV0E2WldCUTZlUTNPd0Y5cmVZWllOUGhzZ2dnR0Y2aFcwUV9ZRGZna2cxTkJDZF9iSjdtTEloVTk1Z1gxS1kxM08xaWUxczdROW9VS0NaNVdzZWx2bmotcnVER2ZDX2ZYSVd3cFc1RmdMMENVMHFoLU9ZWUg5NzRR?oc=5",
+          "publisher": "Google News",
+          "published": "Wed, 21 Oct 2026"
+        },
+        {
+          "title": "AstraZeneca and Oracle collaborate to test AI in clinical trial recruitment - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkJHME9yZmg0MElLSmF6WHZIc3pVMkIxN00wUEFxNGVaa19QTkdaU1Bmel9Ya1FDWTNyWmtMTmEwR0Zna0RmVG1TTHBpT0NCV1VFZEhsb05sQl8tV2kwQXJGWFVzejFBVVRvRjFJQXRuSUdyVDN0VnBWdk1nMnJEeUZUOHVJNF9OeThSOXVGMUhaMEtyZ2N3WmljQXlZb3FI?oc=5",
+          "publisher": "Google News",
+          "published": "Wed, 21 Oct 2026"
+        },
+        {
           "title": "Oracle Is Winning In AI, But It's Still Overvalued (NYSE:ORCL) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVZkdmd5UHNrbTE4ODZNUUU3WS1RSWZmVUtSaHhkUVhwTVhWdUJFX0ZzU0FVczZUa2JXNXIxUjUzZFMtbnY2WG8yWFhHQldmNldEaDRPYkNDX29iTTd2dGZuOWtXVlJYLVU3VjhLLWFrQ2RGdUlQNE5xRlMyb1MzTS10ZVFZc291Y1lRSHM0NlBmcFU?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 20 Oct 2026"
-        },
-        {
-          "title": "Oracle (ORCL) Expands Its AI Healthcare Push With A New Drugmaker Partnership - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdVBmWFRSUmZqYnM1S3Y2TFFIOHZlcTI0M0JqcUFmelY5YmRGakJ0dEc5bVVHc24ydFZWU2tpbjdjVVl0a0hCVEpkZG94bmVReVV6S281VkR4cGpFN0xyNDE1eUFjMVNFYUNYRWZfdnJtdWk5MmZlSHB2Y1ZEY0J1SFZmUm9rRFRnOXRBTkl0OWVmOGV6bTF2Q09n?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 20 Oct 2026"
-        },
-        {
-          "title": "AI may help doctors identify trial candidates sooner. Oracle and AstraZeneca will explore how. - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQWR5aG8wSFBVc2dTZ3VCNExoRWZHcWdsNUxMa1pCOENqQW1nTGdjdW5FQ3JyenB1MFgxXzdCeW01aXdqU2NnQ3lMTklZWko5MDJZX2FmdnR0QkFrU3h6aGU2a1BTb1RqY2NVTUw3Nkc5ZWRXRXhCTzh5UU5HamdyaTBJd0h4YkVnRTk2YWkyYWU0S1F1SERhdXhkOTRFZ3BEY3FMNS16YnZBeFE4THdZS0dZOHFKbnlsOVZF?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 20 Oct 2026"
-        },
-        {
-          "title": "Oracle's AI Demand Is Starting to Show Up - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZjFNV25vYk5wREctd19qM1hNQnpTSi1KcmhpZ3IxMndFUFBKc3RETnNxYzR1ZVQtMTFBcWNfODdkVGJwNHRtRnE4WFVkMVUyZTg3VlhZWkhMYVVPekE4Nkl2RW9jMjNSdXJJa3RGMWZIeTBYMWpfNEtXSGFFU3VzWi1QbDNBLWt1cmprbFlxRjhPc3RRc085UlQtSG85WndFZERr?oc=5",
           "publisher": "Google News",
           "published": "Tue, 20 Oct 2026"
         }
@@ -1302,54 +1302,60 @@
           4.9
         ]
       },
-      "price": 192.6,
-      "market_cap_b": 462.8,
+      "price": 201.72,
+      "market_cap_b": 484.7,
       "revenue_yoy": 92.8,
       "gross_margin": 84.8,
       "operating_margin": 47.1,
       "fcf_b": 2.16,
       "debt_to_ebitda": 0.08,
-      "market_cap_usd_b": 462.8,
+      "market_cap_usd_b": 484.7,
       "arxiv_papers": [
         {
-          "title": "Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE",
-          "summary": "As model parameters scale up, sparsely activated Mixture-of-Experts (MoE) approaches have become essential for model scaling. However, mainstream models currently adopt hierarchical architectures, where experts in differ...",
-          "authors": "Ermo Hua, Xiangyu Hong et al.",
-          "published": "2026-10-20",
-          "link": "http://arxiv.org/pdf/2610.27598v1",
+          "title": "A Strong MoE Is All You Need for Process Supervision",
+          "summary": "Process reward models (PRMs) provide fine-grained supervision for multi-step reasoning, yet obtaining reliable process labels remains a central bottleneck. Existing approaches typically rely on human annotation, rollout-...",
+          "authors": "Guanzhi Deng, Zengyan Liu et al.",
+          "published": "2026-10-21",
+          "link": "http://arxiv.org/pdf/2610.29498v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Text-Anchored Modality Experts with Uncertainty-Guided Routing for Multimodal Sentiment Analysis",
-          "summary": "Multimodal sentiment analysis (MSA) aims to understand user-generated videos by integrating multiple modalities. Existing methods often treat modalities as symmetric, overlooking the fact that language provides a dominan...",
-          "authors": "Xiaohua Huang, Bingrui Lei et al.",
-          "published": "2026-10-20",
-          "link": "http://arxiv.org/pdf/2610.27571v1",
+          "title": "CertMoE: Robustness Certification for Mixture-of-Experts LLMs via Routing-Aware Smoothing",
+          "summary": "Provable robustness is a cornerstone of trustworthy machine learning, aiming to guarantee model predictions under adversarial perturbations. Existing certification frameworks, inspired by abstract interpretation or symbo...",
+          "authors": "Qingyue Wang, Yudong Gao et al.",
+          "published": "2026-10-21",
+          "link": "http://arxiv.org/pdf/2610.29395v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Mixture of Censored Partially Linear Experts Models for Symmetric or Asymmetric Data with or without Outlying Observations: A novel approach with two-piece scale-mixture of normal distributions",
-          "summary": "Finite mixture of partially linear model and finite mixture of experts models offer flexible tools for analyzing heterogeneous data, especially when covariates influence subgroup structure. Partially linear models furthe...",
-          "authors": "Mohsen Maleki, Geoffrey J. McLachlan",
-          "published": "2026-10-20",
-          "link": "http://arxiv.org/pdf/2610.27424v1",
+          "title": "GaP-MoE : Explicit Expert Specialization in Mixture-of-Experts via Orthogonal Gradient Accumulation and Projection",
+          "summary": "Sparse Mixture-of-Experts (SMoE) models improve scalability by routing input tokens to only a subset of expert networks, but they often suffer from representation collapse, in which multiple experts converge toward simil...",
+          "authors": "Donghyun Jeong, Yoon-Yeong Kim",
+          "published": "2026-10-21",
+          "link": "http://arxiv.org/pdf/2610.29355v1",
           "category": "LLM MoE"
         },
         {
-          "title": "The Router Already Knows",
-          "summary": "Mixture-of-experts (MoE) models already make a sparse choice for every token: which experts should process it. We ask whether a sparse dictionary should reuse that choice. NR-SAE gives each routed expert a small dictiona...",
-          "authors": "Andrew Bistras, Marty Johnson",
-          "published": "2026-10-20",
-          "link": "http://arxiv.org/pdf/2610.27421v1",
+          "title": "WaFIR: Wavelet-Fourier Mixture-of-Experts with Subband-Adaptive Routing for Blind All-in-One Image Restoration",
+          "summary": "Blind all-in-one image restoration must adapt a shared model to heterogeneous and sometimes mixed degradations without a task label at test time. We introduce WaFIR, a decoder module that decomposes features into Haar su...",
+          "authors": "Trong Nhan Nguyen, Vu Hoang Minh Doan et al.",
+          "published": "2026-10-21",
+          "link": "http://arxiv.org/pdf/2610.29108v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "How Secure Software Partnership At Palantir Technologies (PLTR) Has Changed Its Investment Story - Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRm02a3BxS3prV1RBY08xRWllRnRKWl8wcWh2VXozRW5NSE5YX3ZZYXpuaU4tUnFNNzJVY0xfUGYySlhJdE9kS1hEQldBZ2tDdGY0SzJiS2FYQjU5NjZndTZ3MzF1UUdLY1I3dG12b2QwOXpuZk9EOU13VVRtbThmd2QxUl91SHR1OHBNM0wwZ1pMODE4bGlZQm1BbUpudWtrbDBTbHU5bFMyb0VUTUg3ZjJhZVdhbEFGZ1R5cExBalkwdXNiUnhYc1U4SDZheUpTTTQ0dEZhdlRoYzF20gHcAUFVX3lxTFBGbTZrcHFLemtXVEFjTzFFaWVGdEpaXzBxaHZVejNFbk1ITlhfdllhem5pTi1ScU03MlVjTF9QZjJKWEl0T2RLWERCV0Fna0N0ZjRLMmJLYVhCNTk2Nmd1NnczMXVRR0tjUjd0bXZvZDA5em5mT0Q5TXdVVG1tOGZ3ZDFSX3VIdHU4cE0zTDBnWkw4MThsaVlCbUFtSm51a2tsMFNsdTlsUzJvRVRNSDdmMmFlV2FsQUZnVHlwTEFqWTB1c2JSeFhzVThINmF5SlNNNDR0RmF2VGhjMXY?oc=5",
+          "title": "Palantir Accelerates Delivery of Sovereign AI to New Wave of Customers - Business Wire",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLV91Yy1KX3lCYmtWeW9zN1Y0OXNXamJFRlJ2czUwTG4teldEbjNJSjBQaFRXbEUxQUNsS1NMNHg0bEozazJmbHNTZTFlOHVrWWxod0tyNWtJZEJyWVNmYnRUNGI2c0lNZzNjUVpUdG9fWkU5YVZ3TTRhMld1cm9PQnp0akszRXY1ekFtNXkxNjlzVVBhclk1UlVNUHhETWdYRDNFa05NUUZiNVVyLWRRbV9CY2c4WTBQQWo4bmhhczBXOGk4OHc?oc=5",
           "publisher": "Google News",
-          "published": "Tue, 20 Oct 2026"
+          "published": "Wed, 21 Oct 2026"
+        },
+        {
+          "title": "Palantir Technologies Inc Stock (PLTR) Moved Up by 3.38% on Oct 21: A Full Analysis - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS2FnT1M4OEhnQjA4UFhkTXc5M25GYWNVV09IcHBfb3hYa3lKdFpGRVhIU2ZlZFYyRjBSVFpyV2xwNFhXVVAyT1QtUmdGNVVDUFVkamxoYWxXQklPNEEzb1pVbjRJd0hwcFprZFdKM1RkYnFRWW5McC03bTN3d2h6X1BIaER2ZUh0OWRr?oc=5",
+          "publisher": "Google News",
+          "published": "Wed, 21 Oct 2026"
         },
         {
           "title": "Palantir: AI In Production While Everyone Else Is Still Piloting - Seeking Alpha",
@@ -1358,16 +1364,10 @@
           "published": "Mon, 19 Oct 2026"
         },
         {
-          "title": "Palantir Stock Forecast: AI Fears, Analyst Targets and PLTR Price Levels - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeUVEa2JLYXk0RHFkTVY2aEFONUlTb3lnY2hPNGdtMTFfMlFsZ1VsOXpad3R2NEdocTREZjN0TmgtbWU3cmZKVVZkVWFsTnFwc3Q1VlI4emI3YnBZeENOMzlVU1o1b1ZONkdPdTBiNk9jeTBVZFo4T1BBbDRUMFJEUDFZbEZZTXBfRWtNVUNmekt5ejhNSkE?oc=5",
+          "title": "Can AI Software Keep Palantir Technologies (NASDAQ:PLTR) in the Spotlight? - Kalkine Media",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeG1TQ3plY29XLXYyUG9jWDhLN1VENGUtZ0E1M3R4LVdDTERJLUJudmsxVUUzQ0J3OGRxSVY1XzZjR1NuUlAwLWQ1WWZKTm41Y2VwX2NQc1NGU1dIZEpJbUo1NnNFNlZtUkNaZjZwaUZ1QmRGLWtKQkRscGVpdjYyQmZGMmJxNFJnd01FQmw3LWlWY3JwRkN4OFZfSE1hUmRYRDFkR2RXRWY3VzQ4RFNFR3VUMzhZYVlvT0Y1STNwQTB0eGZxbEdxTQ?oc=5",
           "publisher": "Google News",
-          "published": "Tue, 20 Oct 2026"
-        },
-        {
-          "title": "Jim Cramer Set A $250 Palantir (PLTR) Share Price Target – Then The Shares Closed 11% Lower During The AI Selloff - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPazc0TjlCbjIyZTktM0Z6ckJ1d2xZVFVyV0ltU1dmWnRpWDhiQ3B2eHNkLXZYRTk2TXFpdlNicGRPTHl1Vmg2R1V0Sjh5OE9XTnp2Zl9tRXZEX1lYOU1MU0xOcmM0NERwajFjSTFLZlk5QTdRU1hkVVZ1VkYwMTVwNkxIY3dPQVhkOW9nMC11QlNma1REOFpN?oc=5",
-          "publisher": "Google News",
-          "published": "Sat, 17 Oct 2026"
+          "published": "Wed, 21 Oct 2026"
         }
       ]
     },
@@ -1430,14 +1430,14 @@
           2600.0
         ]
       },
-      "price": 2425.0,
-      "market_cap_b": 62886.0,
+      "price": 2415.0,
+      "market_cap_b": 62626.7,
       "revenue_yoy": 50.9,
       "gross_margin": 65.8,
       "operating_margin": 58.7,
       "fcf_b": 1203.07,
       "debt_to_ebitda": 0.23,
-      "market_cap_usd_b": 1965.2,
+      "market_cap_usd_b": 1957.1,
       "arxiv_papers": [
         {
           "title": "Can Autonomous Vehicles Keep Their Cool? A Survey of Thermal Side-Channel and Perception Attacks",
@@ -1486,16 +1486,16 @@
           "published": "Sat, 17 Oct 2026"
         },
         {
-          "title": "3 Taiwan AI Semiconductor Stocks Worth Watching After TSMC Earnings - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMzA0RWlxbWNjNXpqUjQ3V2NlZXc0dmt0WWU0LWw4ZmJ3bFFmNU9aNmxlNDFMTXhNdFRsZGphUUFJOFpnTTlrdG1XQ1BhVURaMXpwMjk3Z0ZGZjBKNFRTMHpyaTNaYTRBYlRxVHJCUXhwbVJRUDZYeTI1dzNVUHIxYWhrT1dQZ1pLLTVRb3V2REx0NEVvUVgzdGFBTlE?oc=5",
-          "publisher": "Google News",
-          "published": "Thu, 15 Oct 2026"
-        },
-        {
           "title": "TSMC to invest another $100 billion in US as Q2 profit blows past forecasts - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUk5mYmNUVFNRQ1VkeFE1RHUyQzZEb1YzRncyMVVTR2VSdVZiaFJRM0Q3RWNXZUl6c3JQV2xldkowNmdKUTNzVmZvVGt3NDZjZy1lN0I3S1Y4a2dvT2psbUNvVFhjWW12ckZLREdHeWlweUgzbGJ6UG0za25BRGlpcVlhMkJpRHFkVVFZWWRZeFVIV18xelNBV2x1QWF3aFAyY1NydG1pWmpCWDJNY1ZF?oc=5",
           "publisher": "Google News",
           "published": "Thu, 16 Jul 2026"
+        },
+        {
+          "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Stands to Benefit From Rising Demand for Advanced AI Chips - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmNldGdWQWJnVmxRV3RsdlY3MTNDRG1MMnh3RDhwY3Q4YXhsTG5jVXdoUXV3eDFQMmtHNUZvZjdoano1R0ZDQXdjSHBreExIV2xVM1hxeHN2LTlMalRBeEdmSl9mWXRrTFJOa0tHdllra2hXc2RRekd6aFZCTUFTd0Q5Vm9IeER6ckVONEJ2X05WSkEyak1mUjVlTl9vQUQzVUFEcGpxMmlIRFpEZ2VfRE0yU2Y?oc=5",
+          "publisher": "Google News",
+          "published": "Thu, 15 Oct 2026"
         }
       ]
     },
@@ -1558,14 +1558,14 @@
           75.0
         ]
       },
-      "price": 3820.0,
-      "market_cap_b": 329.7,
+      "price": 3730.0,
+      "market_cap_b": 321.9,
       "revenue_yoy": -16.5,
       "gross_margin": 37.2,
       "operating_margin": 21.6,
       "fcf_b": -2.56,
       "debt_to_ebitda": 0.04,
-      "market_cap_usd_b": 10.3,
+      "market_cap_usd_b": 10.1,
       "arxiv_papers": [
         {
           "title": "Ineffective Occupancy in Heterogeneous GPU Clusters: Prediction, Contribution Analysis, and Readiness-Aware Scheduling",
@@ -1602,7 +1602,7 @@
       ],
       "news": [
         {
-          "title": "Amazon's 20-Year Chip Strategy Takes a Sharp Turn; Alchip Technologies Secures Exclusive Custom Silicon Deal, Stock Hits Limit Up - BigGo Finance",
+          "title": "Amazon's 20-Year Chip Strategy Takes a Sharp Turn; Alchip Technologies Secures Exclusive Custom Silicon Deal, Stock Hits Limit Up - finance.biggo.com",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FSzlObUk4aGJUTDRmODM4eElDdVB3cm91SkJBNWlwMGpTeHVuckJoTFJFVUVyOUoyWFFWelF2Tm1hNDhPUGd3bzY2QkNPczBONkdVdmQ5eldMdV9GYzc4VlYwZ05lbWtzMmlsaDMyRU5pYmF1UXc?oc=5",
           "publisher": "Google News",
           "published": "Thu, 02 Jul 2026"
@@ -1614,7 +1614,7 @@
           "published": "Thu, 22 Jun 2017"
         },
         {
-          "title": "[世芯-KY Q2 2026 Earnings Call] Alchip Q2 Revenue Jumps 82.6% on N3 AI Accelerator Ramp; Management Guides Record Q3 Despite Gross Margin Falling to 34.9% - finance.biggo.com",
+          "title": "[世芯-KY Q2 2026 Earnings Call] Alchip Q2 Revenue Jumps 82.6% on N3 AI Accelerator Ramp; Management Guides Record Q3 Despite Gross Margin Falling to 34.9% - BigGo Finance",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sbzVoNmpwdGI1UTBzeXhMdEg5Yy1Nc18tOGVjOVVIWGpQWDJpdXlPWVJTOVk0a0FXdE1VbXFyWlc4VXEwaldYcnZQUmtWbzNOUnRvZ2pVWnFlRWxYY3M2X0ZR?oc=5",
           "publisher": "Google News",
           "published": "Fri, 14 Aug 2026"
@@ -1686,15 +1686,23 @@
           150.0
         ]
       },
-      "price": 1990.0,
-      "market_cap_b": 1112.2,
+      "price": 1845.0,
+      "market_cap_b": 1031.2,
       "revenue_yoy": 57.6,
       "gross_margin": 18.7,
       "operating_margin": 15.0,
       "fcf_b": 3.02,
       "debt_to_ebitda": 0.21,
-      "market_cap_usd_b": 34.8,
+      "market_cap_usd_b": 32.2,
       "arxiv_papers": [
+        {
+          "title": "Microlens-Integrated Grating Couplers for Efficient Free-Space Coupling in Silicon Photonics",
+          "summary": "Grating-coupler arrays are used to couple free-space light into photonic chips, but the space required for tapers and routing waveguides limits their optical fill factor. Microlens arrays can increase the effective fill ...",
+          "authors": "Simon A. Bongarz, Ryosuke Mashiko et al.",
+          "published": "2026-10-20",
+          "link": "http://arxiv.org/pdf/2610.28876v1",
+          "category": "Silicon Photonics"
+        },
         {
           "title": "Green Light: Carbon-Aware Design of Photonic Transformer Accelerators at the Edge",
           "summary": "Migrating transformer inference to the edge requires sustainability considerations that encompass both operation and manufacturing, rather than operational energy alone. Silicon photonics enables high-bandwidth, low-ener...",
@@ -1718,14 +1726,6 @@
           "published": "2026-10-18",
           "link": "http://arxiv.org/pdf/2610.25382v1",
           "category": "Silicon Photonics"
-        },
-        {
-          "title": "Programmable Preparation of Topological Entangled States",
-          "summary": "Programmable preparation of entangled quantum states is a central requirement for scalable quantum information processing, quantum networking and photonic quantum computing. Topological photonic platforms offer an attrac...",
-          "authors": "M. Javad Zakeri, Alaric Pan et al.",
-          "published": "2026-10-15",
-          "link": "http://arxiv.org/pdf/2610.22738v1",
-          "category": "Silicon Photonics"
         }
       ],
       "news": [
@@ -1748,10 +1748,10 @@
           "published": "Fri, 07 Aug 2026"
         },
         {
-          "title": "Accton Technology stock gains 2.73 percent and reports sales growth - ad-hoc-news.de",
+          "title": "Accton Technology stock gains 2.73 percent and reports sales growth - AD HOC NEWS",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR3M5bFJBbEdkckFHdkZHeGlFZnlQcVh1dHNTWWhPeHlGaEpoSGszbURxYjhONGhiRVZhVktVVzU3TXFxbE9QcnpDVmhGakt3eGhtTnJHNUFmU01fd0w3NzhnZjFRaU5xdHFFdG1PZ2QwTlM4NEx3cERHX2ZKaW5lc1AyMy13SFBkZlRLMml4c2VTWGc2Sm5ZdUNza2M3cmlDTGR3M2JHaVM2VVRzMUZKV0J5My14SHF2YmdsTnhkZUh4OHAwSW9Lejl3?oc=5",
           "publisher": "Google News",
-          "published": "Thu, 08 Oct 2026"
+          "published": "Mon, 10 Aug 2026"
         }
       ]
     },
@@ -1814,14 +1814,14 @@
           440.0
         ]
       },
-      "price": 1995.0,
-      "market_cap_b": 1108.8,
+      "price": 1890.0,
+      "market_cap_b": 1050.5,
       "revenue_yoy": 26.0,
       "gross_margin": 8.2,
       "operating_margin": 7.3,
       "fcf_b": -71.74,
       "debt_to_ebitda": 2.18,
-      "market_cap_usd_b": 34.6,
+      "market_cap_usd_b": 32.8,
       "arxiv_papers": [
         {
           "title": "Ineffective Occupancy in Heterogeneous GPU Clusters: Prediction, Contribution Analysis, and Readiness-Aware Scheduling",
@@ -1942,14 +1942,14 @@
           1380.0
         ]
       },
-      "price": 245.5,
-      "market_cap_b": 3455.2,
+      "price": 248.5,
+      "market_cap_b": 3497.5,
       "revenue_yoy": 40.8,
       "gross_margin": 6.1,
       "operating_margin": 3.8,
       "fcf_b": -182.3,
       "debt_to_ebitda": 3.23,
-      "market_cap_usd_b": 108.0,
+      "market_cap_usd_b": 109.3,
       "arxiv_papers": [
         {
           "title": "Can Autonomous Vehicles Keep Their Cool? A Survey of Thermal Side-Channel and Perception Attacks",
@@ -1989,19 +1989,19 @@
           "title": "Hon Hai Precision Industry Co., Ltd. (2317.TW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6elhNVkthd3I1dnBjWGdJeDJVS29sRk5WUER3ZHpJVGJYbGpWQUU0Wm13VmROTC1UYnRLN2dwaDltazN5TDZRTmh1UVpTNkpuNGFsZ1N3?oc=5",
           "publisher": "Google News",
-          "published": "Sun, 18 Oct 2026"
+          "published": "Wed, 21 Oct 2026"
         },
         {
-          "title": "Hon Hai Precision Industry Co., Ltd. (2317.TW) stock price, news, quote and history - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WcTZTNG51MTZEZUF2cUFuT1g0alhBME9CNXlOSlM2M2VncjVMQ1ZFZ3R5RjFVWmRURVIxZ3lVeG1jcVlrQlZhSUJUNlJSUFBfeEN6VnhR?oc=5",
+          "title": "Nvidia Partner Hon Hai Beats Sales Estimates Due to AI Frenzy - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzVhM0wxN2kzNHYyU2RHM1VVQ3g1UjdYWV80UEgyOFR3YzNqQ000RWpNSTZPTkR0ODA0dEM3UnV3cmVKMGRYbmd4OWZoRnVyck5ldHBVNHZISXlTREZTR3ZaaDJISENDV3NZNmp4V3BaUXVEMTRueTdlSElyWHJDSnpNMUZ1Qi1WdEdfX1d0SGpKdnlrTk5F?oc=5",
           "publisher": "Google News",
-          "published": "Sat, 17 Oct 2026"
+          "published": "Mon, 05 Oct 2026"
         },
         {
-          "title": "Hon Hai's April-June Revenue Surges 40% on AI Demand, But Middle East Tensions Loom - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nWGk1bU5LQWx4VEpxNWFsQmdrcGdqSy1scHpNSWZfbExvQTlseldESWJ6Nlc2RzlmRVN0V1pvblM1V1BPZEcwazJoeW5WeGNMQUJoc2ZXVE5aRXRZbGVSUFBLS0M2U0E1TGtiN0htbzF5WV9YTkE?oc=5",
+          "title": "Hon Hai: Promising Short-To-Medium Term Prospects (OTCMKTS:HNHPF) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYmJGd2xuWDN2MGljY0dBVzUzdmJEQmpMYzk3eTNuaXNuZDZwbUM5QzJkenA2U1pnbWlzd3FzS1E1OTVyQ3ZYazRLS1FacU9nV1oySDB3S3dtOGtMNkgwak40UkRwSzZmSV9qSkFRVWFSM19jZ2I3QlJrNVgyRlRwLTlzclI2eDF3WjBqMWN2NERZMGc?oc=5",
           "publisher": "Google News",
-          "published": "Sun, 05 Jul 2026"
+          "published": "Wed, 10 Jun 2026"
         },
         {
           "title": "Hon Hai's Annual Employee Bonuses Hit Accounts Today; Top Performers Pocket Million-Dollar Payouts - BigGo Finance",
@@ -2070,14 +2070,14 @@
           810.0
         ]
       },
-      "price": 326.5,
-      "market_cap_b": 1338.5,
+      "price": 324.5,
+      "market_cap_b": 1330.3,
       "revenue_yoy": 105.6,
       "gross_margin": 5.5,
       "operating_margin": 3.3,
       "fcf_b": -58.97,
       "debt_to_ebitda": 3.87,
-      "market_cap_usd_b": 41.8,
+      "market_cap_usd_b": 41.6,
       "arxiv_papers": [
         {
           "title": "Ineffective Occupancy in Heterogeneous GPU Clusters: Prediction, Contribution Analysis, and Readiness-Aware Scheduling",
@@ -2120,10 +2120,10 @@
           "published": "Wed, 07 Oct 2026"
         },
         {
-          "title": "Quanta's July Revenue Hits Second-Highest on Record, Surges Over 130% YoY; NT$70.3 Billion Overseas Fundraising Completed Becomes Investor Conference Focus - finance.biggo.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IdV9tcjJTWVg3LVAteEhzNFdUWndWcG9wRWZBSE1Fd0hST1k5dFUzUnNSaEduVnpHNmVXc1pZa1FjSzhxRkNxakdVUXBQM0dETnl2OXRxU3BzR0UxOXFnRHVhbHdkak44OUVjQTFuUHotWTYzSWc?oc=5",
+          "title": "AMD's Lisa Su Makes Whirlwind Taiwan Visit to Lock in Capacity, Reportedly Meets TSMC and Top Server ODMs - BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GODg5STZibGtHZFJOUjRhR19OTjFUQkluVjhFbFBHRzd3X1cyUUxlWktGQmFwdF9CLTFiZUNMQm94TzJiZ3FnSGJhOGlwV1Zla1U5TmZUNEJhWlh1MzZrdDlERXdnbDVKRDRIYkxlWF9jUzhCaUE?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 07 Aug 2026"
+          "published": "Mon, 05 Oct 2026"
         },
         {
           "title": "Bloom Energy and Quanta Computer Expand Partnership to Power AI Revolution - Bloom Energy",
@@ -2198,14 +2198,14 @@
           78.0
         ]
       },
-      "price": 3430.0,
-      "market_cap_b": 1346.4,
+      "price": 3335.0,
+      "market_cap_b": 1309.1,
       "revenue_yoy": 66.0,
       "gross_margin": 28.9,
       "operating_margin": 27.4,
       "fcf_b": 44.54,
       "debt_to_ebitda": 0.62,
-      "market_cap_usd_b": 42.1,
+      "market_cap_usd_b": 40.9,
       "arxiv_papers": [
         {
           "title": "Can Autonomous Vehicles Keep Their Cool? A Survey of Thermal Side-Channel and Perception Attacks",
@@ -2326,14 +2326,14 @@
           350.0
         ]
       },
-      "price": 1640.0,
-      "market_cap_b": 4260.0,
+      "price": 1620.0,
+      "market_cap_b": 4208.0,
       "revenue_yoy": 47.7,
       "gross_margin": 35.5,
       "operating_margin": 16.7,
       "fcf_b": 50.79,
       "debt_to_ebitda": 0.53,
-      "market_cap_usd_b": 133.1,
+      "market_cap_usd_b": 131.5,
       "arxiv_papers": [
         {
           "title": "Ineffective Occupancy in Heterogeneous GPU Clusters: Prediction, Contribution Analysis, and Readiness-Aware Scheduling",
@@ -2382,16 +2382,16 @@
           "published": "Thu, 30 Jul 2026"
         },
         {
-          "title": "AI Ignites Surge: Delta Electronics June Revenue Tops NT$65.6 Billion, Lite-On Hits Nearly 8-Year High - finance.biggo.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LNVJsX0IzOHNxVmVJa2ZLVEdRMXd0R213R3A5X3pIOUpScjRRMUFpWUdtU3NuRVl1ZDZtMDV3SEFPeVdfTV8zY2IzV0xmSkRTUkFYNDRlTkkzcmdXQ01rQ0wyd0o2X1F6Z3YtZGMtdlQteHpjUEE?oc=5",
-          "publisher": "Google News",
-          "published": "Thu, 09 Jul 2026"
-        },
-        {
           "title": "Delta Electronics Says AI Demand Shows No Signs of Cooling, Boosts Capex to NT$70 Billion for Global Expansion - finance.biggo.com",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XdUFtWDhrX3pHcERsVGFIZHotMHY1bVNscDJaXy1zYnZwMTN3a3FOT2VPVzVkdlBSbTYtVmw1cGg5MHM1b3BPNlhRUXh6N0hxZkt5bUJZWFpSaGJfcjd6TmphYzhPT081RlRkZkRUalBLa0lSNkE?oc=5",
           "publisher": "Google News",
           "published": "Thu, 30 Jul 2026"
+        },
+        {
+          "title": "Delta Electronics Surges Nearly 9% After 30% Plunge as 510,000 Shareholders Buy the Dip - finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55VHJRcGtkNW1zdkNIclJlbzBrTEhVS2dkWGM1ZEpTMXNrUlo5N29oWHJsRTJJS25Nbk1IYnFVM0w3QUdhaU9ZMlp2SXNmbm9jZHMyc0N2RGhGX251SlJMYS1PSG92WTRzMWw5dzhrbHlmYm5CVFE?oc=5",
+          "publisher": "Google News",
+          "published": "Sun, 28 Jun 2026"
         }
       ]
     }
@@ -2399,73 +2399,89 @@
   "arxiv_papers_by_category": {
     "LLM MoE": [
       {
-        "title": "Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE",
-        "summary": "As model parameters scale up, sparsely activated Mixture-of-Experts (MoE) approaches have become essential for model scaling. However, mainstream models currently adopt hierarchical architectures, where experts in differ...",
-        "authors": "Ermo Hua, Xiangyu Hong et al.",
-        "published": "2026-10-20",
-        "link": "http://arxiv.org/pdf/2610.27598v1",
+        "title": "A Strong MoE Is All You Need for Process Supervision",
+        "summary": "Process reward models (PRMs) provide fine-grained supervision for multi-step reasoning, yet obtaining reliable process labels remains a central bottleneck. Existing approaches typically rely on human annotation, rollout-...",
+        "authors": "Guanzhi Deng, Zengyan Liu et al.",
+        "published": "2026-10-21",
+        "link": "http://arxiv.org/pdf/2610.29498v1",
         "category": "LLM MoE"
       },
       {
-        "title": "Text-Anchored Modality Experts with Uncertainty-Guided Routing for Multimodal Sentiment Analysis",
-        "summary": "Multimodal sentiment analysis (MSA) aims to understand user-generated videos by integrating multiple modalities. Existing methods often treat modalities as symmetric, overlooking the fact that language provides a dominan...",
-        "authors": "Xiaohua Huang, Bingrui Lei et al.",
-        "published": "2026-10-20",
-        "link": "http://arxiv.org/pdf/2610.27571v1",
+        "title": "CertMoE: Robustness Certification for Mixture-of-Experts LLMs via Routing-Aware Smoothing",
+        "summary": "Provable robustness is a cornerstone of trustworthy machine learning, aiming to guarantee model predictions under adversarial perturbations. Existing certification frameworks, inspired by abstract interpretation or symbo...",
+        "authors": "Qingyue Wang, Yudong Gao et al.",
+        "published": "2026-10-21",
+        "link": "http://arxiv.org/pdf/2610.29395v1",
         "category": "LLM MoE"
       },
       {
-        "title": "Mixture of Censored Partially Linear Experts Models for Symmetric or Asymmetric Data with or without Outlying Observations: A novel approach with two-piece scale-mixture of normal distributions",
-        "summary": "Finite mixture of partially linear model and finite mixture of experts models offer flexible tools for analyzing heterogeneous data, especially when covariates influence subgroup structure. Partially linear models furthe...",
-        "authors": "Mohsen Maleki, Geoffrey J. McLachlan",
-        "published": "2026-10-20",
-        "link": "http://arxiv.org/pdf/2610.27424v1",
+        "title": "GaP-MoE : Explicit Expert Specialization in Mixture-of-Experts via Orthogonal Gradient Accumulation and Projection",
+        "summary": "Sparse Mixture-of-Experts (SMoE) models improve scalability by routing input tokens to only a subset of expert networks, but they often suffer from representation collapse, in which multiple experts converge toward simil...",
+        "authors": "Donghyun Jeong, Yoon-Yeong Kim",
+        "published": "2026-10-21",
+        "link": "http://arxiv.org/pdf/2610.29355v1",
         "category": "LLM MoE"
       },
       {
-        "title": "The Router Already Knows",
-        "summary": "Mixture-of-experts (MoE) models already make a sparse choice for every token: which experts should process it. We ask whether a sparse dictionary should reuse that choice. NR-SAE gives each routed expert a small dictiona...",
-        "authors": "Andrew Bistras, Marty Johnson",
-        "published": "2026-10-20",
-        "link": "http://arxiv.org/pdf/2610.27421v1",
+        "title": "WaFIR: Wavelet-Fourier Mixture-of-Experts with Subband-Adaptive Routing for Blind All-in-One Image Restoration",
+        "summary": "Blind all-in-one image restoration must adapt a shared model to heterogeneous and sometimes mixed degradations without a task label at test time. We introduce WaFIR, a decoder module that decomposes features into Haar su...",
+        "authors": "Trong Nhan Nguyen, Vu Hoang Minh Doan et al.",
+        "published": "2026-10-21",
+        "link": "http://arxiv.org/pdf/2610.29108v1",
         "category": "LLM MoE"
       }
     ],
     "Transformer & Attention": [
       {
-        "title": "Divide-and-Conquer Neural Bayes Estimation for Spatial and Spatiotemporal Point Process Models",
-        "summary": "Spatial and spatiotemporal point process models are widely used to analyze event data across many scientific disciplines, but likelihood-based Bayesian inference is often computationally prohibitive due to intractable li...",
-        "authors": "Bokgyeong Kang, Andrew Zammit-Mangion et al.",
+        "title": "Geometric knowledge spaces, Attention pairing and Architectures",
+        "summary": "In this paper, we propose a geometric approach to deriving attention mechanisms and exploring potential new transformer architectures. We begin by formalizing the notions of knowledge worlds and attention pairings, then ...",
+        "authors": "Shang Xu",
+        "published": "2026-10-21",
+        "link": "http://arxiv.org/pdf/2610.29526v1",
+        "category": "Transformer & Attention"
+      },
+      {
+        "title": "Asymmetric Looped Transformers: Fixed Global Representations for an Iterative Decoder",
+        "summary": "Looped Transformers increase effective depth by repeatedly applying shared layers, offering a way to scale computation without increasing parameter count. However, full-stack looping places context construction and itera...",
+        "authors": "Cheng Liang, Tengfei Zhang et al.",
         "published": "2026-10-20",
-        "link": "http://arxiv.org/pdf/2610.27619v1",
+        "link": "http://arxiv.org/pdf/2610.28489v1",
         "category": "Transformer & Attention"
       },
       {
-        "title": "A Hybrid TFT-NBEATS Framework for Robust Multi-Horizon Photovoltaic Power Forecasting",
-        "summary": "Accurate multi-horizon photovoltaic (PV) power forecasting is essential for grid stability, energy scheduling, and the efficient operation of PVbatterygrid systems. However, existing models often fail to jointly capture ...",
-        "authors": "Shafi Bin Sultan, Sabik Bin Sultan et al.",
-        "published": "2026-10-19",
-        "link": "http://arxiv.org/pdf/2610.27155v1",
+        "title": "RACE: RoPE-Aligned Attention Compression Based on Query-Key Activation Energies",
+        "summary": "Head-dimension compression can reduce the memory required by the key-value (KV) cache, but existing methods often reconstruct full-dimensional representations during inference, adding significant decoding FLOPs overhead....",
+        "authors": "Irene Tenison, Abdulrahman Alabdulkareem et al.",
+        "published": "2026-10-20",
+        "link": "http://arxiv.org/pdf/2610.28385v1",
         "category": "Transformer & Attention"
       },
       {
-        "title": "LEAF: LUT-aware Efficient Attention on FPGAs",
-        "summary": "We introduce Lookup-table (LUT)-aware Efficient Attention on FPGAs (LEAF). LEAF is the first nanosecond-scale LUT-aware transformer for FPGAs. Deploying transformers that are large enough to perform well, small enough to...",
-        "authors": "Arianna Cox, Chang Sun et al.",
-        "published": "2026-10-19",
-        "link": "http://arxiv.org/pdf/2610.27078v1",
-        "category": "Transformer & Attention"
-      },
-      {
-        "title": "Dynamics-Aware Sparse Attention for Efficient Autoregressive Video Diffusion",
-        "summary": "Autoregressive Diffusion Transformers have emerged as a powerful paradigm for long video generation. However, they are often constrained by prohibitive computational overhead and substantial memory footprints. This ineff...",
-        "authors": "Yuanyu He, Zhuokun Chen et al.",
-        "published": "2026-10-19",
-        "link": "http://arxiv.org/pdf/2610.26262v1",
+        "title": "Observation Assimilation Transformer: Probabilistic Weather Analysis from Sparse Station Observations",
+        "summary": "We present the Observation Assimilation Transformer (OAT), a geometry-aware neural process that corrects and refines a prior numerical weather prediction (NWP) field into a high-resolution posterior field by assimilating...",
+        "authors": "Christian Donner, Michele Cattaneo et al.",
+        "published": "2026-10-20",
+        "link": "http://arxiv.org/pdf/2610.28327v2",
         "category": "Transformer & Attention"
       }
     ],
     "RL & Test-Time Compute": [
+      {
+        "title": "ReAPO: Retry-Aware Policy Optimization for Efficient Exploration in LLM Reasoning",
+        "summary": "RLVR improves language-model reasoning, but commonly relies on independent stochastic rollouts for exploration, which can repeatedly sample similar failed strategies. Prior work has seen success with approaches that guid...",
+        "authors": "Nghi Dao, Calder Morton-Ferguson et al.",
+        "published": "2026-10-20",
+        "link": "http://arxiv.org/pdf/2610.28770v1",
+        "category": "RL & Test-Time Compute"
+      },
+      {
+        "title": "Reward Misspecification Degrades Chain-of-Thought Monitorability",
+        "summary": "Monitoring the chain-of-thought (CoT) of language models (LMs) is a key strategy for detecting and preventing misbehaviors for AI safety. As such, it is critical to identify reinforcement learning (RL) practices that lea...",
+        "authors": "Tianyi Lorena Yan, John Hewitt",
+        "published": "2026-10-20",
+        "link": "http://arxiv.org/pdf/2610.28303v1",
+        "category": "RL & Test-Time Compute"
+      },
       {
         "title": "VPFlow: Value-Predictive Planning with Imperfect World Models for Offline Goal Reaching",
         "summary": "Offline goal-conditioned reinforcement learning enables skill acquisition by reaching any goal from any state without dense rewards. Model-based methods allow for planning by scaling test-time compute to solve complex ta...",
@@ -2481,55 +2497,39 @@
         "published": "2026-10-19",
         "link": "http://arxiv.org/pdf/2610.27220v1",
         "category": "RL & Test-Time Compute"
-      },
-      {
-        "title": "Training Natural Schemers: RL Can Amplify Oversight-Conditional Behavior",
-        "summary": "One of the central concerns for the safety of advanced AI is scheming: when a model strategically complies under oversight but pursues its own goals when unobserved. Current demonstrations, such as Anthropic's Alignment ...",
-        "authors": "Bart Jaworski, Nathaniel Mitrani et al.",
-        "published": "2026-10-19",
-        "link": "http://arxiv.org/pdf/2610.26551v1",
-        "category": "RL & Test-Time Compute"
-      },
-      {
-        "title": "Learning to Reason Efficiently with Interventional Step Credit",
-        "summary": "Large reasoning models often produce lengthy chain-of-thought (CoT) traces mixing useful intermediate steps with unnecessary ones. Recent methods explore step-level signals such as attention mass and step entropy to iden...",
-        "authors": "Guanda Li, Xuefeng Bai et al.",
-        "published": "2026-10-19",
-        "link": "http://arxiv.org/pdf/2610.25876v1",
-        "category": "RL & Test-Time Compute"
       }
     ],
     "Multimodal & World Models": [
       {
-        "title": "Quantum-JEPA: Quantum Born Priors for Latent-Action JEPA World Models",
-        "summary": "A single observation can admit several plausible futures, making uncertainty an essential part of world modelling. However, quantum generative models remain underexplored for this task. We introduce Quantum-JEPA, a laten...",
-        "authors": "Zhiyuan Liu, Sicheng Liu et al.",
-        "published": "2026-10-20",
-        "link": "http://arxiv.org/pdf/2610.27921v1",
+        "title": "DisasterRoute: Evidence-Guided Dual-System Routing for Visual Disaster Question Answering",
+        "summary": "Visual question answering from low-altitude UAV imagery must deliver timely and accurate judgments to support disaster response under limited edge computing resources. Routine questions may be answered through direct dec...",
+        "authors": "Tan Zhang, Xing Deng et al.",
+        "published": "2026-10-21",
+        "link": "http://arxiv.org/pdf/2610.29231v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "Staged Continual Adaptation of Multimodal Foundation Models for Japanese Financial Documents",
-        "summary": "Staged post-training of multimodal foundation models chains vision-language alignment, reasoning distillation, and domain tuning, yet how each phase trades capabilities against the others remains under-characterised. Tra...",
-        "authors": "Genshin Kakimoto, Atsushi Yanagisawa",
+        "title": "Can Quantum Layers offer Performance and Security Advantages in Vision-Language Models?",
+        "summary": "As quantum computing moves from the noisy intermediate-scale quantum (NISQ) era toward early fault-tolerant quantum computing (EFTQC), quantum-enhanced AI is shifting from a conceptual idea to experimental research. Quan...",
+        "authors": "Md Khalid Syfullah, Alvi Ataur Khalil",
         "published": "2026-10-20",
-        "link": "http://arxiv.org/pdf/2610.27904v1",
+        "link": "http://arxiv.org/pdf/2610.28964v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "Physical Operating-Condition-Guided Vision-Language Matching for Cavitation Diagnosis in Industrial Pipeline Systems",
-        "summary": "Cavitation diagnosis in industrial pipeline systems is challenging because acoustic responses vary substantially with operating conditions, while similar time-frequency patterns may correspond to different cavitation sta...",
-        "authors": "Yu Sha, Junqi Tao et al.",
+        "title": "Physical Canvas: A Vision Tactile World Model For Robot Policy Evaluation And Learning",
+        "summary": "Evaluating and post-training robot policies through physical interaction is costly and difficult to scale, motivating action-conditioned world models as interactive simulators. However, visually plausible predictions can...",
+        "authors": "Zebin Xing, Yuhang Zheng et al.",
         "published": "2026-10-20",
-        "link": "http://arxiv.org/pdf/2610.27860v1",
+        "link": "http://arxiv.org/pdf/2610.28613v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "GARRET: Generative Feedback for Region Retrieval in Visual Documents",
-        "summary": "Multimodal retrieval-augmented generation over visually rich documents requires evidence at a finer granularity than entire pages. Existing visual retrievers typically index or return full pages, whereas training region-...",
-        "authors": "Weijian Jian, Siyang Chen et al.",
+        "title": "Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning",
+        "summary": "Autoregressive models (ARMs) face a \"Sequentiality Bottleneck\" in reasoning, while diffusion language models (DLMs) offer parallelism but lack semantic coherence. To addresses both limitations, we propose Collaborative R...",
+        "authors": "Wei Cai, Jian Zhao et al.",
         "published": "2026-10-20",
-        "link": "http://arxiv.org/pdf/2610.27829v1",
+        "link": "http://arxiv.org/pdf/2610.28584v1",
         "category": "Multimodal & World Models"
       }
     ],
@@ -2569,6 +2569,14 @@
     ],
     "Silicon Photonics": [
       {
+        "title": "Microlens-Integrated Grating Couplers for Efficient Free-Space Coupling in Silicon Photonics",
+        "summary": "Grating-coupler arrays are used to couple free-space light into photonic chips, but the space required for tapers and routing waveguides limits their optical fill factor. Microlens arrays can increase the effective fill ...",
+        "authors": "Simon A. Bongarz, Ryosuke Mashiko et al.",
+        "published": "2026-10-20",
+        "link": "http://arxiv.org/pdf/2610.28876v1",
+        "category": "Silicon Photonics"
+      },
+      {
         "title": "Green Light: Carbon-Aware Design of Photonic Transformer Accelerators at the Edge",
         "summary": "Migrating transformer inference to the edge requires sustainability considerations that encompass both operation and manufacturing, rather than operational energy alone. Silicon photonics enables high-bandwidth, low-ener...",
         "authors": "Bharat Bhatta, Ishan Thakkar",
@@ -2590,14 +2598,6 @@
         "authors": "Ali Karatutlu, Timuçin Emre Tabaru et al.",
         "published": "2026-10-18",
         "link": "http://arxiv.org/pdf/2610.25382v1",
-        "category": "Silicon Photonics"
-      },
-      {
-        "title": "Programmable Preparation of Topological Entangled States",
-        "summary": "Programmable preparation of entangled quantum states is a central requirement for scalable quantum information processing, quantum networking and photonic quantum computing. Topological photonic platforms offer an attrac...",
-        "authors": "M. Javad Zakeri, Alaric Pan et al.",
-        "published": "2026-10-15",
-        "link": "http://arxiv.org/pdf/2610.22738v1",
         "category": "Silicon Photonics"
       }
     ],
