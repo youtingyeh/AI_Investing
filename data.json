@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31 10:37:21 CST (UTC+8)",
+  "last_updated": "2026-11-01 10:25:09 CST (UTC+8)",
   "status": "LIVE_CLOUD_SYNC",
   "macro_kpis": {
     "csp_capex": {
@@ -54,7 +54,7 @@
       "name": "Microsoft",
       "quarterly_capex_b": 21.4,
       "quarterly_fcf_b": 22.8,
-      "debt_to_ebitda": 0.28,
+      "debt_to_ebitda": 0.65,
       "credit_rating": "AAA / Aaa"
     },
     {
@@ -62,7 +62,7 @@
       "name": "Alphabet",
       "quarterly_capex_b": 17.2,
       "quarterly_fcf_b": 21.5,
-      "debt_to_ebitda": 0.77,
+      "debt_to_ebitda": 0.81,
       "credit_rating": "AA+ / Aa2"
     },
     {
@@ -70,7 +70,7 @@
       "name": "Amazon",
       "quarterly_capex_b": 22.6,
       "quarterly_fcf_b": 18.9,
-      "debt_to_ebitda": 1.49,
+      "debt_to_ebitda": 1.48,
       "credit_rating": "AA / A1"
     },
     {
@@ -200,22 +200,22 @@
           "published": "Mon, 26 Oct 2026"
         },
         {
-          "title": "Apple overtakes Nvidia to become world’s most valuable company amid tech selloff - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUUo1UnZMdW0xT3RnTUhWWlpJMU9IendfMVpXcGttWTEwNHVCa2xFQVRzLWhvOXUwTTRLZkI4dUpfb2cyclVNQzhBODFwbENRRzFPcjB2MnRISWhrbkVNV2VLc2IwWVRoRFNub3FzX0JWclBiTml5VmRSa3FOMHVYaFE2bXU5d1hubjN5Zg?oc=5",
+          "title": "Nvidia Stock Has Dropped Nearly 6% in a Month; Now Jim Cramer Is Asking Why ‘Anything Negative in Tech’ Immediately Crushes NVDA - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWZmNGZfcHpPQ3V5YWpBOV8yTTZ5OFhVbWV2M0VtLUprRzJwRllPbXVMWDVodmFoUG9wYndHZFlVdFc5Q3RIMkwzMzRGWUVhVmh0M3RURjd1VVJCRVpYbGJiTlc4V1pqTGpuWThGVFpCdXdHVWthTEUycVNybkh1STJYeUtXbFQ2YkhvYVUzdV82RFlGRXcxcGVn?oc=5",
+          "publisher": "Google News",
+          "published": "Thu, 29 Oct 2026"
+        },
+        {
+          "title": "Apple overtakes Nvidia to become world’s most valuable company amid tech selloff - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT0RRSF82LUthQzE0cDJYYk1tOGRBRUlzNmI2MGkyNGMwQ2hQNUhnRkFlMTJNNDlwZmdneml4S3gtOUg4MnloLUt1Q3BKaWQwLWc0SU5wdkhuZENqUHlhZlg2TGVCOFVHaU91NmYtLVExTDktVnFiOVE3Z2VVZlMzWGRzdVVDVmRuTXJ4Qg?oc=5",
           "publisher": "Google News",
           "published": "Fri, 30 Oct 2026"
         },
         {
-          "title": "Amazon Taps $80 Billion Supplier Loan Facility to Help Fund AI - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdTlhQXlPZndBNGFjWmU5UWZOSUdyVmFWWjk4NENyQ0JoNDR5Z09JYVpCY281RmVqRGFFdzhiU2FJTzJ4YmdzbjlUNk9VQjJnTkV1dVBFcDd6Q21QRWdnVjVkQzRMOFVzNldGa2JvMmVqV1R5SF9TcjA1a0s4YzFySTN2eXptTlU?oc=5",
+          "title": "Nvidia: Brace For The Worst (NASDAQ:NVDA) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lbHJjLWVWTzd6RXRNb21VMjlkSXR3Rk1SZTZjRDluY29uaUoyMkd0anJFaThUTjFGeXZpUVZBaWRaY3ZiNkJpWEl0T2h3M0JuYjJzZWh6cWJhX3JXUTB4aDR2UG5FdVMtUzUtQ1A2SUtwNy1JX2c?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
-        },
-        {
-          "title": "Nvidia’s AI financing push could sustain infrastructure investment and drive chip demand, Wedbush says - Proactive financial news",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNXY1MUJyMDJEWnd4aDdZVnpIZU1pMmxMWkw3eU1qb2hpQ2dRemlXVjNxNExVTTRmemF2NTZaRUZmYWNRQnVQRW9pZThxMGtYSWlOT3BUVkJ2dWRTSW43SmpIN01WaXlmNlhzOGpxUjFyOG52SlBUa05mVmFDUVRSYjZoM3VFbnBxV3pZcFhfQXhjdFUwN2NWZklaZXZfVDhsanRmeDBJSVNsTmUzOXBiNlQyb1l6cEpjVGNmRnd2UnBsZ29kRU5nLTZPTkN2VFF5M2tlQ2pVYWNBMUNUSUV0SF9ndUh5UUFRWGdsZmRVc2NPUnJVdG05SHVaRW9aTHd4SkE?oc=5",
-          "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
+          "published": "Wed, 28 Oct 2026"
         }
       ]
     },
@@ -322,16 +322,10 @@
       ],
       "news": [
         {
-          "title": "Broadcom Inc Stock (AVGO) Opened Down by 5.16% on Oct 30: What Signal Does It Send? - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU2VIX2kzSW15VzJjMnFaOHJtU3RlZTVlV2g2N3J1a0ZGSkw1ay1wN3VWaGdnZkktR2p5UEN3ZGcwUURCSnRBNlhpLVljUC1qNndLa1c4aXFOam04LThKVUZPQUN0MWZQRUliM1VDQXIyc3YzUjVDbFpjclRuZU1udVJNRTN5cHhZSDMw?oc=5",
+          "title": "Broadcom (AVGO) Sees AI Chip Sales Up 236%, but Who Is Paying? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY3N1WlV4MXRHWl9yLUpRVHpaTlRTd1FUN2NWUHI1S3gycERlTTNoSEo5RXlpaE1IQWtFcWRvMkktcUktQ2Rya1N3WTNhZV83Tnk1eVdKTUhPRFRQVHR2Y2oyS3YwYXRIZXU4V0VJdlhRQWUwWUMteUxmR1FrSWhBUlRCdDhRZ3QyOU03a3R1UE5rSjJI?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
-        },
-        {
-          "title": "Fitch affirms Broadcom at ’A-’ with positive outlook despite AI backstop risks - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONEZTSGNQOGk4R0Mta0tuUTF0MnBfdHhIenlCTHZQN28wUFgxaEVzWFhfRmd5TGhoMGxleXVtdjdTd29VM2JWWHB3RWp2d2JBdXphdmkyZXN1N2xjaGd2QlpzMzdNVW90dXE4aUZCTC03d1hBVHJSVGp1QUtnVTlKZG5fX1lLVUJ4TnF4TnpFUUsxQTV5blJJQjVaUzBBMlZVZlBlUlNVaw?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 27 Oct 2026"
+          "published": "Tue, 20 Oct 2026"
         },
         {
           "title": "Prediction: Wall Street’s Next AI Favorite May Not Be Nvidia - 24/7 Wall St.",
@@ -340,10 +334,16 @@
           "published": "Thu, 29 Oct 2026"
         },
         {
-          "title": "Broadcom Establishes Major AI Rack Lease Backstop - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdTN0dFlSZ0VRX2RjcDh5LXM0YmYxbGFfa0NCbFQxUGgwRUp5NTcwb0FJSFZxRjk5dHdRRGN6aFgxcE1WcDRPZHozT2FYdjZWUFBRbk43bTlOSUFDOGsxc1RiU3VkRmVlTDBqMVBkclJKajVocUtGVmMzSG51Q2t2LUx5YVpDYXl3RGJWNXAyRnY2cUJWMXB2Tm9BZl9DMTBkeXc5a1hZMWY0WWh2dXhuaXA3NHc1a1k3Tjd4N2huRFV1alJjWm52VU1XVVZyNDg?oc=5",
+          "title": "Broadcom Inc Stock (AVGO) Opened Down by 5.16% on Oct 30: What Signal Does It Send? - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU2VIX2kzSW15VzJjMnFaOHJtU3RlZTVlV2g2N3J1a0ZGSkw1ay1wN3VWaGdnZkktR2p5UEN3ZGcwUURCSnRBNlhpLVljUC1qNndLa1c4aXFOam04LThKVUZPQUN0MWZQRUliM1VDQXIyc3YzUjVDbFpjclRuZU1udVJNRTN5cHhZSDMw?oc=5",
           "publisher": "Google News",
-          "published": "Wed, 28 Oct 2026"
+          "published": "Fri, 30 Oct 2026"
+        },
+        {
+          "title": "Broadcom (NASDAQ:AVGO) Stock Surges 4% as US$63 Billion Anthropic AI Financing Fuels Rally - Stocks Down Under",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDV0Y1Ym5pVkhaNVMxbFYyUWFwa3dzMDVKWEt6ZXV4UmxfRjRmZ2I5LU45Qk9rQUxHU2hQSEtrX0ZvcGFyX0swdG4xSVk4djlsNzA2VGFZbUVPMDM4VXlETGY4YTJOTmtLTU91eDl3SFRZeVVrQjQzXzF0cw?oc=5",
+          "publisher": "Google News",
+          "published": "Tue, 27 Oct 2026"
         }
       ]
     },
@@ -462,14 +462,14 @@
           "published": "Fri, 30 Oct 2026"
         },
         {
-          "title": "AMD Expands AI Footprint With Meta: Can It Outpace NVDA & AVGO? - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY1VvZzdLcmItclVZdWlub0l1dWpnY0FheUJ1Qzk3Q3YyaEY4SXh0Z1p3VU8tUFB1bTJZY2diVDZ2SXRsbmdzS3lQMWk5OHJhMzJzZWdTYnpza3BJbEdNQ1VrcnZqbTRNeEtLM0psVVYzVTdqZ08waTlYd1JQYkxOaFNrOUpoQl9SUUNrWkNHcENOemJuOThYOTlxX0lESHVsWTcxeUJGMjRSYVNRNjNLWEllaUhIZw?oc=5",
+          "title": "Advanced Micro Devices' Meta Platforms Partnership Goes Beyond a $1 Billion Investment - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYVJfNnJMdE9Pb1Q3NF81WndtX1J4VW9BUGJtQlkzUmdnZWFTQUlUc1ZwNE00bTNWNzJBNm1vcmU5US1nVm4tZzZxcE9MalBGUVFQdnE0ejJsY2FLLVp4bE5yZ0RpbnBMeFFSSzI4UkM0Xzloamo3OEMxWjBIU2NabHRUblF6ZWdUS0hTN2dIaTBnajQyVjByNGwyZ2hRcVhYUjJXenZ3ZEtXS2hSS000c1BROFlOYnJVTFJOXy1DN3VSYm9ZazAzaXJaOHF2SWtUbE94NTYwaUprZVdmeDg2eVR0WWd6aEVhX3ZuSVlIZTNnaEh5MllYYUUzUFc?oc=5",
           "publisher": "Google News",
           "published": "Fri, 30 Oct 2026"
         },
         {
-          "title": "Advanced Micro Devices Inc Stock (AMD) Moved Down by 9.22% on Oct 30: What Investors Need To Know - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbGFmSmZEYTg3bEM0V004SkFtY1dKdDhpRkY3V3o2TEpQV2dybXR3N1YycWt1bDh1NGJQWGJtemVaYW51N0ctSnpsU09ZckVEVzdydGJpTGJzMUplSHVPZmVjYVVGUFVGRXhUd0JhNzJxUUh6VlNnWEVRazdETmViSWE4dFB4ZFNBMUE?oc=5",
+          "title": "AMD Expands AI Footprint With Meta: Can It Outpace NVDA & AVGO? - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUmhvNGs0QkliZFB6UlMtb3pTd0dsbnMtcU1LR3JObkhBZEFTMUx3czFaVGRZUjdWa2tPcHRMamhwZU8tdFVwUjd3S2tscWNzLU8yTmEwMnlQV1lBZjBPM2JEWlRxa3hsT1p5bjJOY2pjNzczdExOdXFDR1o1bk9RQjJnRHdyaEZiSnRKajZyQTJzWU1rWVJCbzNCd2FOWDhxTjdKXzZqTXBBOHNFZnNUcGF0blI?oc=5",
           "publisher": "Google News",
           "published": "Fri, 30 Oct 2026"
         }
@@ -578,26 +578,26 @@
       ],
       "news": [
         {
+          "title": "Arm Holdings plc (ARM) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyeER6a21ibHl2VXFmY1cydUhIN0wxd0dvVzd3QkIwS0gxZU9PcHJKN0IxMUY3bWZnaWVPQjJjcjNVQ3F6NzFPQndWWlNtZWUy?oc=5",
+          "publisher": "Google News",
+          "published": "Sat, 31 Oct 2026"
+        },
+        {
           "title": "Arm Holdings dragged down by tech slide, slumps 11% (ARM:NASDAQ) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXg3SV9kYXFuT09XU0JZakFfYUtkTFB1S3JaT0ZUekRhQ2M0SU1Pb1JRTkdaNVlkV3E1Qzh1LWpBckxHa0ZVdzYwZWRFM3ZIdTZLRVh1blhWZmJyb1pKejBRa2xLaEtnaW11dndtVFlMbGpjaHRMTE1UQzFFSTdOT2QyLXNQdWZET2FkUUUwZkY?oc=5",
           "publisher": "Google News",
           "published": "Fri, 30 Oct 2026"
         },
         {
-          "title": "Coherent vs. Arm Holdings: Which Tech Stock Offers More Upside Now? - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSzJtQklXSS10MU9GVHFCcWxIVUhqM0prZThFUTZtdkg3cVVIb3cySXp3VldZQ0h0NTBkT2g0cEIxcXMtNlBRXzhMeG9pZlRIZmNkaUtqN0ZfMzdDb3FjUlZKbm56eGIxMVh0b1Rtb040cXB3RXFuOVVIWlZwQVlLV0pSM0d2RE83V0JuRDIxT1Q2cVlMR2dLOTh2M1o3T2Etb3FraVg2LUlxZWVxc3Q0RFNrWHNYVkE1blhr?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 27 Oct 2026"
-        },
-        {
-          "title": "Arm Holdings (ARM) Is Helping Reshape the Future of Computing: Here’s Why - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQREF0RURHUzYzUkhJZG9TRmg0ZmZJTjRQRWUwNm1sZ3VMWmJGa2c4bUU5MTlPNFE2M3l4Nlc1ZGhPYzZxaS02X3JUR1JTQTdoT3NxdjRhOXRXV2xDSHJTUHZRV3ZtTkxPVll4aXYxdC05RzE5VVVnOGhleVR5ZXc4S090cVlmQThjLWJ1NEhNM2t6WHJKRlRBUjdSTHg3QQ?oc=5",
-          "publisher": "Google News",
-          "published": "Mon, 12 Oct 2026"
-        },
-        {
           "title": "Arm Holdings PLC Stock (ARM) Moved Up by 3.06% on Oct 28: What Signal Does It Send? - TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOU1oRVA1SGpwYWVNQmFiSnpncFJqNC1qd0t6LUNoS1JhYTNnaDhBTk5DRUZqa094Q19TY3ByYXRFR0RQUWs1QXp2ZkdBNGxJalUxLVFzUkpad2E2VXZGbWY0blg3bTd4bldPbUIzblRLMzAwR3JpMnBOWWtUQkF2V0VtdEdQMXh4Znc?oc=5",
+          "publisher": "Google News",
+          "published": "Wed, 28 Oct 2026"
+        },
+        {
+          "title": "Arm Holdings: Data Centers Will Continue To Offset Weak Mobile, But Upside Only In My Bull Case - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORGtsbnR0R3lIR1NfVkdNTUx0akF1Y1IwUmI2Zkh5YkZrbXljOEhoWVluLTMyZWZ4Q3BuRHVzTGpsXzdFQU5KRTlCYVFEalhHZkNWQjZ4T0VpS3NUQkI0Y2NJMGRuRWl6TlVVSWxxckxDRF9COFAtVGJSbFF5LWhEY0htR2M4SjNaU3dKMExmTFZyekJ3SExtaVpOTG94S0VSaEhUMFJOQWNOZE5pODdoT0NpdXk1Uk5FYXViN1Ntb29uR1YycHNFOWNVVWY4dU0?oc=5",
           "publisher": "Google News",
           "published": "Wed, 28 Oct 2026"
         }
@@ -666,9 +666,9 @@
       "market_cap_b": 89.5,
       "revenue_yoy": 61.2,
       "gross_margin": 38.1,
-      "operating_margin": 23.0,
-      "fcf_b": 2.98,
-      "debt_to_ebitda": 1.06,
+      "operating_margin": 23.8,
+      "fcf_b": 2.96,
+      "debt_to_ebitda": 1.05,
       "market_cap_usd_b": 89.5,
       "arxiv_papers": [
         {
@@ -712,22 +712,22 @@
           "published": "Tue, 27 Oct 2026"
         },
         {
-          "title": "Vertiv Holdings Co (VRT) Closes $1.45 Billion Deal To Tackle AI Power Bottlenecks - Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWVF5aDZ2aHU2eTNoM0d2ZHpRUkZXV2h5X1BVSUNyOFdhb0wzOGVsbmFnc01sRWhWRGtPZ1NRTktSNlBxQ0F5RXM0cFU1cXZ4U25CYnl3cUt2YTdQektKTV9Xa1poN3d2QktZRmRPZ0JoNmtBZ2dqS18zTWpaZ0Z0eWdLWHJybHJ3aEhvckUza0pOTTBxUVk2aW5HcnRhZ1lQaUNyenF1dWpaQ04tYkNCVVBoX19OM1JaZjhCUEtJVVFSckdFMHZnLWRxckMyQVpOdy1uTNIB2gFBVV95cUxOU0VLVGc4aU1LeENrMXB2c2RacENfVVFGdkFia1l3T21KdnRkV2xrZk4wQjBXZGVIZms4b2ZUNjh3bUZ6TDF5QzhBY0xnMkpOZ0dPX3NIbTBGNUhWalEzRWJqSlE2cU9JdTBON1hCLUNwckY3ZlRFdUt3bzFrdnA4bU5MRnBxSjZlMWxCS0RwS3ltQVNoQUpOQTZnS203QVhNRUF6VHVON1ZIZEZzOEl0Skd6SGtUcnZSc1A1dkl1RVAya1ZGTHhwQlU3NmZNNkJxaWdiVF9fWkc4dw?oc=5",
+          "title": "Vertiv stock surges as AI data center demand fuels higher outlook (VRT:NYSE) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkhpbmlJMTJEZWtLQkJUWHN4aEpiZjMtc3MtSnlfSWhqZTNnLVh5U3dKeWtyYjZya1VVZUg4RmdJOWpHMFh1ZkpFcWVSTDhWZjQyeE5yMVV5UjZlakM5dl9iNkZVUW03ZXV0cnE0SHhPaWlFVDRSSnlHR0pzVHpLSWVjbVpkOTc4aDBRMUt1SVd2aG54Y1I5dHZSUlZuaERQV3Y4Sk13?oc=5",
           "publisher": "Google News",
           "published": "Wed, 28 Oct 2026"
         },
         {
-          "title": "What Is Vertiv Holdings Co (VRT) Really Changing With 14 Day AI Factory Builds? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa1RDa1l1bXZ3WFBxenk0VzNQSW5EQnZmelA2djZCVHEzcVFPaUpqUmg2RjVZQWdidVA2RFI5T2pvVlFkQmF2N1VyVnJCTDh0OVFDS3NiY1VxLUk1SmtIa2dTLTc2QjYyT19JYUtNRVJ5S1JLQU9JZ0NuWk5Oellfb2gxSXlyZDAwSGh2a0h4dTZ3dkhyNW1lVQ?oc=5",
+          "title": "3 Reshoring Stocks Retail Investors Are Watching As AI Infrastructure Spending Grows - Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORUVCNkJDM0VKUXM1U2I2WkUyblpNdEE5THNKV191cUUtMHhZQ2VLVUJVTWlHYW0telVFc2lBUFlzSTNWaHNsQXlJTmZhMEh1czVfb1Bhc2lsTGkzaURKd1Z2Tlo4eFlnV0hfdU5HT0w2UlJEZGlLN1ZOb3B2NDhYLWJHdHBmR1BDRzR1MlIycXJPY0xGSU8wTVFLNHA4X0l4d0M1NnowakM3NVRmTWQ4YURHWmNRNjZ5T2pSYlhQZFpfZTE3TmxmVkJTbDllZlJkSkRJT0Jn0gHbAUFVX3lxTFA5cFJqMXRLQkxpRkNiQ0drUWRZeVkxTTYwellNNjBkcVFvWGdGVWVJb3REOVJta2xKVjJuNXAyaUpDSDNkLWU4SDFVNFA3ZXJrS0hNcm5XSFFvQWZ6czkzQVJIMWI0UTAwRll1VHZaa2M5RkZWajJxcmpBM0poQkZaTVRSWjRvNHlIX2dJZmRPUS1qa0R0SWpqMV9pLU5GNF90SlNKRkNWZVFlQXVXRDRMVDM4UU5fZDQzTERMT3g2bk1hLVBqNmRrVXV3UGdMS05CM1hrNjM5NkZjZw?oc=5",
           "publisher": "Google News",
-          "published": "Thu, 22 Oct 2026"
+          "published": "Sun, 01 Nov 2026"
         },
         {
-          "title": "Vertiv (VRT) Stock Price And Q3 Earnings Part Ways After Margin Surge - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVhTejZTRXF5S1dyNHlyOWFjSERLQmxkLWJXWjBKbmlrZUlhU0RCSVlIS04tcldYNXZ2Mm5xa2kzeTNFUF8td0VmUWZTRDlxTWtOXzYxeVJySHUwaXgxZENNRlRjMm50MFdXekd3RndDbWNuZEFlRVdhREZMOTUzWmRWU2JqUXZDOTFPM1BhRW1WVUpw?oc=5",
+          "title": "Vertiv Expands AI Data Center Footprint: Can It Beat APH and SMCI? - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNazA5UHc0c2N1bWFycDJzYXFVOXZ5cmdjZTFHcHE2YzlzRHRzMjByaGc2VmFlajF6X3Zyc3ZrWlZpX253dEs1alY0ZDQ2VVRKZFotcGp4azRrTzdVWlJ5bDVpSFYyRnJ3VUxSbWFUeFhKQVFTS0hnUHRpTGNJYmo1Zl9ZVjhfU0lLeVFDd1BRVl84YW9sbE5uWi1UUHBnemZVSEtaWDhNZEJmaHA1OVBQU1F0Ym45WWt3OU9N?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
+          "published": "Tue, 27 Oct 2026"
         }
       ]
     },
@@ -795,8 +795,8 @@
       "revenue_yoy": 18.8,
       "gross_margin": 67.7,
       "operating_margin": 49.8,
-      "fcf_b": 13.81,
-      "debt_to_ebitda": 0.28,
+      "fcf_b": 2.99,
+      "debt_to_ebitda": 0.65,
       "market_cap_usd_b": 3875.8,
       "arxiv_papers": [
         {
@@ -834,6 +834,18 @@
       ],
       "news": [
         {
+          "title": "FY27 Q1 - Press Releases - Investor Relations - Microsoft",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaXNEUTdVWndDS3RFQS13VmtYUjYya2J6NTJvOU5rX29OY25MVjd0ZDFrakZJanZ6TXpmYnduckNrQ2FkaUFRaXlaR1ktNXhwdEozTUVGcVUwRDRLa3BjdkUyNDU1Skk3cnA1NnlxQWFBWG5JRUNlNU9UQjFueDM1V2pla21XZmFfWUE?oc=5",
+          "publisher": "Google News",
+          "published": "Sun, 01 Nov 2026"
+        },
+        {
+          "title": "Microsoft’s AI Boom Has A Cost (NASDAQ:MSFT) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yeC0wbFJjNlN5eTFRNks4dGtwUlBBcUZlczVGV25xbHFFTk9qSnFfYnRGQ0I2dm1TeE15dHE2TmFJRFZoeTc1RHhLWjFyNTN4Y25Wc1l5aXpacXVMcF9uS2YtZU1kVXZNLUxjMlpJSkpQQk1MUFNSMQ?oc=5",
+          "publisher": "Google News",
+          "published": "Sat, 31 Oct 2026"
+        },
+        {
           "title": "Azure Growth and Enterprise AI Adoption Drive Microsoft Corp. (MSFT) Higher - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbW1JZHlpTVNJWVhuLVBaRnJuR0luVVRHaXhqMFU4SDdxeWVzZVNEZ19QWWRVWkF1R1IxcVFWcWxyRmlsRnM5ZlFZZ1RnSGduaTBBb3VGT3FiTVFVcTJOYVZIRm5OZnJOakhzVEJPdGVtM3d6dmdDYmlRd3pUcjgxVnlwWFNjYngyVVZIN3ptS05KMEs1cm1WQW5NdjNLYjJqUXc?oc=5",
           "publisher": "Google News",
@@ -842,18 +854,6 @@
         {
           "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout - CNBC",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hSGRFRkVaWUNYZDQ0MC14QVh6c2ZLUjdjbkpNWDV1X0RfZGRFSm1ON3ltUXByMFM0a0tlWkFPY1BDUzhpS1piMFJnR0dUMXBEUlJ5X29hT3dRQWE5UFBrU2tpV2NfY0pqOHJySE80MHBlVnlKbFoxbnRnZ9IBgAFBVV95cUxQUXFfSW5CQVJfdHFVSkpaTVpNUnFuZHcwUkx4MEN2SFE1Q0VjRE10bG83Z0NEeXdJOW5wZ1drdDVOSnlFY3RkbnAzb3AzY0ppYm9qMGtqNFVSU1VjeHY1clB2X3ZKUkJjSG8tX1lHQWVqTGo4al9SeXo3d3NEV1ZQZQ?oc=5",
-          "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
-        },
-        {
-          "title": "Microsoft Reports Rising Cloud Sales That Show Payoff From AI - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFplZTkxUEdqUExRU0N0UHdSdGNtNWZzWVAxd1hrTXZNa3NCQVFXUXJxcW9icjhXZ0x3ZTVNS2NmRVhlT1lEYnQ0a2VPNG5zem1fQWRpTnZNdkNuRkZtdHJkVDUzSlA5MmNZOEF2ZUlCaERpLTdzUFdqUGtqaEMtZFlWRlU5aU5ZMEN3NTU4bjZsMHE2WHFBemx2cEFCcXlpeHRfendMa1Y1b2lFWWQ0?oc=5",
-          "publisher": "Google News",
-          "published": "Thu, 29 Oct 2026"
-        },
-        {
-          "title": "But What If AI Isn’t A Busted Flush? Microsoft Q1 FY6/27 Earnings Review (NASDAQ:MSFT) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdEJHUjFYSG9EY1h4T1YySlo3X3plYkdLMHN0Rzlsb01xQ0hOSGVLUktjcnVqeV9KcTVmZ21jT25sU29FamNRbDVjLU5HNDMtUFRjVUxOSERCZWFGeS1HUnQyNU1zSHlIcUY2NVY4YXlFSDJMaEswVTBhbWVENlF6ZGRTUU9pTEVEWTkwU29WdUxRbk1udkZvbFFlQnZqcmt3amV4SQ?oc=5",
           "publisher": "Google News",
           "published": "Fri, 30 Oct 2026"
         }
@@ -923,8 +923,8 @@
       "revenue_yoy": 24.7,
       "gross_margin": 60.9,
       "operating_margin": 31.8,
-      "fcf_b": 5.52,
-      "debt_to_ebitda": 0.77,
+      "fcf_b": -1.16,
+      "debt_to_ebitda": 0.81,
       "market_cap_usd_b": 3440.4,
       "arxiv_papers": [
         {
@@ -962,22 +962,22 @@
       ],
       "news": [
         {
-          "title": "META_TITLE_QUOTE - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51cTBUdmJTdWRuVFN1QjQxcDh1ZzMtcElOUHNJck5hcVpNSXNzbE9yYjFOakNHMzBDa3Z6ektnUEV4MkYyU1FkNzZ3TXM1S3M?oc=5",
-          "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
-        },
-        {
-          "title": "Markets spooked as Google reports $1 trillion+ AI bill, negative cash flow - Mashable",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WM08weHBqNXRpcThSTEtwWHl6Ny1haWI2bEllTDROU2djVW1PdkowdXJQRG5rY0Y1cEVnVU1xWFZtVUFmUktlRk9iTDd1RXJCUEJjaDh0WDVBczVUVE9xVUtjNDAzRGVWUW9PckdVTW1mWXhxYnQzVDlfX1c?oc=5",
-          "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
-        },
-        {
           "title": "Google Erases a Record $500 Billion as AI Eats Into Sales - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNl94WE51TlQ2Q2dVVTBDNlZZbzF5Mk02UjZRaEJwQnhoM1lGX0dWODk3b1RwZDB1SDVHYmYtOUQzaWJyTEc0ZXlTNmpyQU50WVhaQUpJX3dyMkVFbmgyVXJFVy1fb21TQUxEOXFIWmtzdFEyYVk5SkU3ZGF4LTdnN0EyTlo1NklicFg4TzlpSHYwRE9VYzdUUTZ4N0ZLaG9XWUs1Nm5vM3FfSktn?oc=5",
           "publisher": "Google News",
-          "published": "Wed, 28 Oct 2026"
+          "published": "Thu, 29 Oct 2026"
+        },
+        {
+          "title": "Shares of Google’s parent company just had their worst day ever. Here’s what it means - CNN",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvbkJ5TjFBalI5U2dYTm9ycjZMNTdCdG1qWVNrem80VzB0eDhWejIxV2M0dndPeER2NjFBUFR3VXBDZmYtQ0Q5eWZUUGg5MFNUTFdZZ0FaWU5NRWRabkZpSWhvX254SlJzMExsR2RDemhXY3c?oc=5",
+          "publisher": "Google News",
+          "published": "Thu, 29 Oct 2026"
+        },
+        {
+          "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
+          "publisher": "Google News",
+          "published": "Thu, 29 Oct 2026"
         },
         {
           "title": "Google Shares Fall 10% as Growth in Search Revenue Slows - WSJ",
@@ -1047,13 +1047,13 @@
         ]
       },
       "price": 240.35,
-      "market_cap_b": 2598.4,
-      "revenue_yoy": 19.6,
-      "gross_margin": 50.8,
-      "operating_margin": 13.7,
-      "fcf_b": 3.22,
-      "debt_to_ebitda": 1.49,
-      "market_cap_usd_b": 2598.4,
+      "market_cap_b": 2598.9,
+      "revenue_yoy": 12.1,
+      "gross_margin": 51.4,
+      "operating_margin": 13.9,
+      "fcf_b": -11.55,
+      "debt_to_ebitda": 1.48,
+      "market_cap_usd_b": 2598.9,
       "arxiv_papers": [
         {
           "title": "When Does Heterogeneity Pay Off? Understanding GPU-WSE System Complementarity",
@@ -1090,26 +1090,26 @@
       ],
       "news": [
         {
-          "title": "Amazon Has Bigger Plans for AI Chips: Andy Jassy Says Customers Want Them ‘Outside’ AWS, but Selling Them Comes With a Trade-Off - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNC1NdTdmcmZaUFB4TmNZS2RsQmhiM0ZnRXVZN2xPSHV0RERIR3Z2S3VYVjlzQmZqaE9qZjFNMXVLVkhabWhzVDJIUlJOZG9BVXFERjg3THpzLTRCMjJKbW1kanEzRjZzMjZiNUhxRDFublUwbWZDMkxkLThoblZzcTdjQQ?oc=5",
+          "title": "Gene Munster Warns AI Bots Threaten Amazon, Alphabet - Amazon.com (NASDAQ:AMZN) - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ0dsUjR1VTRfUFpGVVFlOE51N0RSWG5pMllRNFd5d1AwdUdNU0VuMEtPaWRrYk1JcHZaSEZSTmtDTkpUVlZjUElveUJoWXJEZXhNRWZJVWtoUVhoU2RuT01XRnlpZzFtdXJvY2c2VkFLcnRDVDAyTnpPOEZzeU1MUmtHVHVaNGduSzJ3SllSOV9YZTlhdU13RXl5ZzZHZENjRmRGMkNhR2Q1cVg5c0M4Si1DVC1WOEp6U2w4Yw?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
+          "published": "Thu, 29 Oct 2026"
         },
         {
-          "title": "AMZN Stock Set To Drop For Third Straight Week: Amazon Taps $80B Credit Line To Fund AI Capex - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZFAxRkVYN2dQc3dXWTcyNWp0cUhuWm1qUmZoTmpOX296OU1BLWJfdEdoS1ZtVjB3TmExYWxkWE1MOUxoMUdNTHo2Z01la0lia1B1R184U0NZUm5hT1pBMmQ5NG9udVlMQWpIYVZQYUMta0h6NldXcnlyTUdST2Vtd1JtRHlxZWdTcXR0NktkZ25DcUhJbjllVkYybHJzc0NqdFUxMXlLZXk5RlpMYXl2RDhRMUFlaXdVRlJTblRjTnhTeWpBSkJ1bEM0QkJIa1g3Qm9sZDY0ZVdIRE9HZXp3Z1MwdXA0cTA?oc=5",
+          "title": "Amazon (AMZN) vs. MSFT and GOOGL: Can Higher-Margin Businesses Turn Amazon Into an AI-Driven Compounder? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOVpHVm5adVEtZlN2ckg2VFdZcjczX2VRb3ZndnR2WHhzR2lTc2dKTXRMY1Z6R0taSTFGWGZ6ZGtXWTc1d3RweVZWdW1FeFNBQURjSVZHR25pWXc2a1JzQlcxcGRBSUpTM3FhSFJNdzRhUm1aYVFkUWk3U2pwT05FaGNaazhOekFSUld0amZXVjJuMnQt?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
+          "published": "Wed, 28 Oct 2026"
         },
         {
-          "title": "Intel’s Agentic AI Overshadowed By Weak PC Sales; Soft Retail Overshadows Amazon AI; Record Crypto Heist - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOXBUMU11VnVEVUhuajBVNFJlaEt2SFFoUHIwbmRPUTBjZk9UZkZMZDNpaGFSVDhTLUM5UGtMa1NIZzVMZDFzOXlaZms4VHJ1WkpBQ0V0Tldoa213QWdVaEVwN2p0Z1I1LVJyRS1vdDJWMmplMTdRU1o1MllHTnoyV2VnTlVXYkIyY2hpTkNWTGhBRVUzRldEZ1BCY3ZKbDhyNkRkUFUwM1dHcHQ0LVJqNFRGU1Y1NmRQRU42Rk1tNUdWb2czOE5obl81T1JzX3dtaGl1WXJ5VDNMbTg?oc=5",
+          "title": "AMZN Stock Drops 7% As AI Spending Soars Past Expectations, While E-Commerce Growth Cools - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa1V1aGVJUnVrMWptUl83RmlGbmVGNVBPc2VJeGVvZFZaQUIySVRBcmJIb3l4RDMtQklwRlZ6Q2hIMnEtZnZMbDF0SGFMOUF1WkRlZmxqbmJkNEREeHVJMVFoaVBpSmFCQXZHeXlncmtYTUg2ZURldC0tMDNUUTUtV1FmUmVXTlptcTNhM1ZZWndwLVJWUjJfUFpzbnlHcXduTXl2c0ViUk0xdWtWbFhtOHBWOVlCbHl3XzREaEFyWVRRQmZ0ZTdOY0dOQ19kQ3hqZ1lBdkNPR0Nvc0dUZEZqdVN3?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
+          "published": "Thu, 29 Oct 2026"
         },
         {
-          "title": "AMZN Q3 Earnings Call Highlights AWS Growth and AI Spending - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOUdDR2EwTlZVVk9XaEY2X29nWGp1Y0JmaGQ1MXlfbElFUF9VVC1mYTd6aFFfZ0dOSVdXM0hCcC10czF2Zy1GQ2Nkck9BNkxKZ243NXVSakxhWFpBVlBaT1VFVzl5ZV9NM0V2dEZ0UXNqZ1FQOGs5UDJpTUhIdXVnVTREYkdrY19fdDlqUHJsM1U4MnRJNTBSQWRubFJIcWM1NUt5UmVxbmRwVVRKM2tKOHpONGRjZHhCbklUdUFqeTRzWXJnTWJJQkVLZGxUcE85aUJKei1DQXFrSnYy?oc=5",
+          "title": "Amazon Has Bigger Plans for AI Chips: Andy Jassy Says Customers Want Them ‘Outside’ AWS, but Selling Them - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGExTlQzTm4ybm8yenNMZ1JaMEJiUWIzenpMVUx5YjM5ZlQ1NGd4Sno2N2loRlF4T21NQXA5aGpzbnZLRm9GOVVzYXFyOVBfOTVVcWM0UzdGU3paNWczdHgwS0Z2NDB2Yy1wQ1ZkbkxHdHBkY00xalIzeU81UWQtWXJKdktLa3VpM0E?oc=5",
           "publisher": "Google News",
           "published": "Fri, 30 Oct 2026"
         }
@@ -1218,16 +1218,10 @@
       ],
       "news": [
         {
-          "title": "Oracle jumps 11% on expanded AI partnerships (ORCL:NYSE) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVTR0akFpVlJ0OXJFcUp1ZUgxQVk4cHF1eTNlNElSVjdwbkZlSmhsV1hkSGdsS1d1by1pSDZZa29xSVRKU0FKU1ZaQm02M2ZEcEZsVjBNMkxrbjZFRGdzR1F4ZTVhN2wtQnlsck1NSGRsZl9vVTdpajhmempGNXRoLWt6a0xyWWlGYzU1RzlTXy1MRU0?oc=5",
+          "title": "ORCL Stock Has a Solid Base to Build on After Q1, Especially as Oracle Announces Key AI Partnerships - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaVJCUTNYZng0Tkk5NHQxeWx2TnJ4dG5HbktUb1BVeG5SNmhYWHlldHFHOF9UUVFxcGhoR0EwSkdrQUkwTDN5ZlVZWEN3aHdXcHZoZHg1YVpLZXgxTUZOak9IUklwZ2JVTkJmR1NnT0F4ODZpQlRUeXl3Wng2VFowUFNxYlQ3dDRPTHFNOFhMa1hiZkNodG8xSWs0Q2RLSmJMSVdFWWtkYllfbDNCWlZVR1IzZjBkOEpOQ1VpWUNhbDdBWjZXVkhDb0dIT0NxYm9LWFNGMzdCMmtLTU0?oc=5",
           "publisher": "Google News",
-          "published": "Wed, 28 Oct 2026"
-        },
-        {
-          "title": "Oracle Corporation (ORCL) Adds New OCI Networking Capabilities for AI - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPenF6Q0Y2S01peTVnLURuVTBnbk1NNDhqX25WVm1leTZGOEVLTFppZEFmaXVfcllkZzVlVm8xSExlcm8xODlUV2NwYUxxWDl5RDRycGRWZ19Ncl92WmFjX0JBMm9Bak9FMVBNejdqVGdsWnB4WXdlUVFkVFMwSG53NXlMUG9vS3B2aXF4YUdLN2loV19yT0xUSHU1YnJvby1naTVDbkE5MFJ1SW83SHlQN21yT21nM0doaFgyZVU4T192WVZOV25vWQ?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 27 Oct 2026"
+          "published": "Sat, 31 Oct 2026"
         },
         {
           "title": "Oracle stock soars as it promises the AI spending will start paying for itself - Yahoo Finance",
@@ -1236,10 +1230,16 @@
           "published": "Wed, 28 Oct 2026"
         },
         {
-          "title": "'Banks Have Gotten Drunk' on AI Megadeals, USD.AI Co-Founder Says - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVlVPQlBJejYzRF9PYVR0cGZNUXgwVmg5Z3BpS3MzNHk0cktHTFVpRERSMWlHQ1BUOHprUnJSXzBtV2prZnluYnRLRHVYOV82dHppblZkX0haa3psdnRVSXJxNmF3TGdhSVJlRXpMalFlTXhkWl9PZ19BZVQzLVNXNm9OX3dSSkRGd203cXhoNHFGUQ?oc=5",
+          "title": "Oracle jumps 11% on expanded AI partnerships (ORCL:NYSE) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVTR0akFpVlJ0OXJFcUp1ZUgxQVk4cHF1eTNlNElSVjdwbkZlSmhsV1hkSGdsS1d1by1pSDZZa29xSVRKU0FKU1ZaQm02M2ZEcEZsVjBNMkxrbjZFRGdzR1F4ZTVhN2wtQnlsck1NSGRsZl9vVTdpajhmempGNXRoLWt6a0xyWWlGYzU1RzlTXy1MRU0?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
+          "published": "Wed, 28 Oct 2026"
+        },
+        {
+          "title": "Oracle's AI Spending Spree May Finally Have an End in Sight - Oracle (NYSE:ORCL) - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTklndXhlZFNtRGdwdUw1M3YtWVItNFZjU0lKdTFKTmgwUVRxeHFJSGdXUElKSlFSMFdkV3dENGtIZnJGenY4M3ptRC13QTRQZTZSRnZrWER4bm1XclA5TUxHcy1OSHRLZXhyVURVQmw1TS1idHNCc1c3VzAxX1QwVjQ4bGx3dmdnV0Y4TllTdHBBZS1jSm9fZ0l0RVJzdER0ZWR1ZGdWbGhQc1poMnU3Zw?oc=5",
+          "publisher": "Google News",
+          "published": "Thu, 29 Oct 2026"
         }
       ]
     },
@@ -1346,16 +1346,10 @@
       ],
       "news": [
         {
-          "title": "Palantir (PLTR) Stock Gets Fair Value Bump After Analysts Lift AI Driven Targets - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcUhPWUc1bFV5MDRTX09pUnN6S1NpQVFsZmt4NHIwbWtMdkxZeWtVYUd3WTZZMkxQWFF1QXVVQ05uWjA4NHNkVUlIMmNxNU1TVDFtUmk3cE5nd1NzZG1VdDNJcVQxaUlRTWFpeVl0UXlDV1JGanBaTERITHY4SmJCc2VRMTBVQ0Vud25EREU2UmtVNXptUzZQaGJR?oc=5",
+          "title": "Are Wall Street Analysts Predicting Palantir Technologies Stock Will Climb or Sink? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYThBUy1mLU9xTWVWSGZqWnU0cUxRX2FKWVgtLUIxWjNlN1k2aVVJcEh2VUo2d0lEaGZhRW5PQVlLc1pyVkhtX2tQVXF3WlhqTE1XMENHdHF3SVpsSUlLZ2h2NmNYS3BoR2ZIZDNlV1gtM3dpVUVfR0t0YlpEM3A4TXRkSFV0NWdrVlluMDNJbWdNMWhrc196MVE0TWFjbDRibTBUUFBlaVU?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
-        },
-        {
-          "title": "Will Top-Line Improvement Benefit Palantir in Q3 Earnings? - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeFViOFhQNG5EOEFtVVp0eHp0MFlfLXRzM25hYW8zQWRmQUJJSG1SdXdJR0s1dWF4TUR5dXdwQjRtWHVaZXJROGd1NlMxLXRXSkYybnp6S0xnam1Ea2RoTTJLUURQbk1BMllKazFaczNyMC0yVFRkbXN1VjNyczFKY0tBU1lkUl9fLUhZWExkRlJETXhLbXd1RHpGTmk0b2hYdEZQckFwQWxFT3RBQ2MwNkw4RQ?oc=5",
-          "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
+          "published": "Sat, 31 Oct 2026"
         },
         {
           "title": "Palantir: The Trust Layer For Agentic AI Heading Into Q3 Earnings (NASDAQ:PLTR) - Seeking Alpha",
@@ -1368,6 +1362,12 @@
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOFA0eEMzVjlabUUxeWZPOFRNSzJJV1NmU25xd2ZQLUVLM2h3Q09xWWRZT1RUR2RJaEdkMHRZdkZWZGdBeEJkeER3cXBRUGxjV0JYRFlsaEdkb0xrMjk4dmducDJ0XzRCLUhNOUYtRGRfRW5hUnJaeW5JajlEcUp2MDdWWUNkaDhhdXJnUXVpODlYQk1PLURKb0xHZUZ3bGdTdTN0Qjljd1ZkQ0VUOTltX1ZUMFg4M2pzR3V0czgxU0ktVzVzYS1Kem1aeERaSTJzbDdrN2pn?oc=5",
           "publisher": "Google News",
           "published": "Wed, 28 Oct 2026"
+        },
+        {
+          "title": "Will Top-Line Improvement Benefit Palantir in Q3 Earnings? - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeFViOFhQNG5EOEFtVVp0eHp0MFlfLXRzM25hYW8zQWRmQUJJSG1SdXdJR0s1dWF4TUR5dXdwQjRtWHVaZXJROGd1NlMxLXRXSkYybnp6S0xnam1Ea2RoTTJLUURQbk1BMllKazFaczNyMC0yVFRkbXN1VjNyczFKY0tBU1lkUl9fLUhZWExkRlJETXhLbXd1RHpGTmk0b2hYdEZQckFwQWxFT3RBQ2MwNkw4RQ?oc=5",
+          "publisher": "Google News",
+          "published": "Fri, 30 Oct 2026"
         }
       ]
     },
@@ -1474,10 +1474,10 @@
       ],
       "news": [
         {
-          "title": "Taiwan Semiconductor Manufacturing Company Limited (2330.TW) stock price, news, quote and history - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91bDJrWDNGNE1iUENOZUVOcjlGQWszZXNiQXpFazdGV1ZLV1RCRG0tbTFrMEJPTW11b0FhOWRkZFNmUXdWdkZNVkZRemhiVDBpbUFBaGZaQnhxTW9BREdVMWVGWGxzUQ?oc=5",
+          "title": "Bull of the Day: Taiwan Semiconductor Manufacturing Company (TSM) - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWXVkLUFuVlNGdnJwaDVGNlFDM2tVdG45aEpyMVBvOWFwSU1YbENVcV8xR2ZYcUNaS01IOENSYktONXY2V0ZMSk5DLV9jU2NzNXI3alIzdVMyZm40NDFmSlpUOTBScE1qcTlXTkdvSjBiZzA2aXlxbFJSNUozdVNXM0VEYnR2bElIR2g1N2RlRXo3OHJFWS1WZUQ4Z0wzS3NCOTNSMnRCRQ?oc=5",
           "publisher": "Google News",
-          "published": "Thu, 29 Oct 2026"
+          "published": "Tue, 27 Oct 2026"
         },
         {
           "title": "AI Rack Power Consumption Seen Hitting 600 kW; TSMC Says Chip Validation Decided Within Three Months - BigGo Finance",
@@ -1486,16 +1486,16 @@
           "published": "Thu, 29 Oct 2026"
         },
         {
-          "title": "Bull of the Day: Taiwan Semiconductor Manufacturing Company (TSM) - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWXVkLUFuVlNGdnJwaDVGNlFDM2tVdG45aEpyMVBvOWFwSU1YbENVcV8xR2ZYcUNaS01IOENSYktONXY2V0ZMSk5DLV9jU2NzNXI3alIzdVMyZm40NDFmSlpUOTBScE1qcTlXTkdvSjBiZzA2aXlxbFJSNUozdVNXM0VEYnR2bElIR2g1N2RlRXo3OHJFWS1WZUQ4Z0wzS3NCOTNSMnRCRQ?oc=5",
+          "title": "TSMC to raise advanced chip packaging prices by up to 20%, report says - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXprTXl0Q2V4bzI5bEh4M0kwNDNsSzJnOWxFMFVhLUlRWmVWMm5CS2YtVWNXVkEtQWx3S1lNZlVmTWtyNVFRak5ha05XR3VEeW8wVWdJWmdGZkFYMDAxOVpwc2dzTmJqU0ZaVnJvU2pOYm1VM3Q5SGlUOFYzQ2hWdERGdldhUHZ1QnN3WHlOU2tpN0tqSVF5amljQS1WOUk?oc=5",
           "publisher": "Google News",
           "published": "Tue, 27 Oct 2026"
         },
         {
-          "title": "AI Earnings Shock: Taiwan Stocks Plunge More Than 1,400 Points Intraday, TSMC Falls Below NT$2,400 - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PV3d6RzdlY2FUVkY2MUNyemV5RUpmNXNDQkM5WFFaV1VpU19LeW9uT3VOTE05azNHaTdFdno0OXBYWERCYVR1VlY4MXd4UDVCN19mSGpXNjRnQ0ctQ3YwMTJ2a0RyRV90SnRFeHQ4WnFOY01lUUE?oc=5",
+          "title": "TSMC to invest another $100 billion in US as Q2 profit blows past forecasts - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUk5mYmNUVFNRQ1VkeFE1RHUyQzZEb1YzRncyMVVTR2VSdVZiaFJRM0Q3RWNXZUl6c3JQV2xldkowNmdKUTNzVmZvVGt3NDZjZy1lN0I3S1Y4a2dvT2psbUNvVFhjWW12ckZLREdHeWlweUgzbGJ6UG0za25BRGlpcVlhMkJpRHFkVVFZWWRZeFVIV18xelNBV2x1QWF3aFAyY1NydG1pWmpCWDJNY1ZF?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
+          "published": "Thu, 16 Jul 2026"
         }
       ]
     },
@@ -1730,18 +1730,6 @@
       ],
       "news": [
         {
-          "title": "Accton Technology Corporation (2345.TW) stock price, news, quote and history - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjS1hZMkR4N3ZUM2kycnlaY09odkY4MEZVSFU0djhUWWpuQ3NSUXNfMUlyVGk0RkxUcTdFMUE2ejVLUTNUVlN6NEtlb2M4dmpJOGw4WFpn?oc=5",
-          "publisher": "Google News",
-          "published": "Thu, 15 Jun 2017"
-        },
-        {
-          "title": "Accton Technology Corporation (2345.TW) stock price, news, quote and history - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ybWNZMHpoNV9OMTNrcE1qTmI0SFMtOWRzUEVIOFpHNVFZd0tqRHYwVWktZ2FjdnA5UEhQZW11ZFg5bWd6WjJpT2JSbDVodl93YkxKeHdB?oc=5",
-          "publisher": "Google News",
-          "published": "Mon, 12 Jun 2017"
-        },
-        {
           "title": "Compal's July Revenue Hits NT$81 Billion, a Record for the Month; AI Servers to Be Q3's Main Growth Driver - finance.biggo.com",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yLXpTVDRTQmNWZk9vNG1oeTBrVVhOQUhPTXlfUFRWMkVQSC01UldSOVo3OEttWGVyeDZnd1dYaFhCcC11OU12MDZGNlNEbXVBdVhTc3ZkdE1jZ2NzNkhqNGM4YlNUcllac0x0aTdYYjB4UzRlU0E?oc=5",
           "publisher": "Google News",
@@ -1752,6 +1740,18 @@
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RcjhWYnlJYTRlSFY4Tlo0M0ZJaEYxTzB6ZUVRNlp1UHduSF9DdzNyc29zRDJISWRZTkZoSkN1TjZNbXZ0cExWZUtTVmpOUEVTZzI0TThB?oc=5",
           "publisher": "Google News",
           "published": "Thu, 22 Jun 2017"
+        },
+        {
+          "title": "Accton Technology Corporation (2345.TW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14aVc1NGU1S0FOOXJGTG9XVk83ODVWY1V4Q3NhX2dpS3E5a3VFX0tvZ1o4eTdQYTF4RzdSVHJucDJfSmFUZmlndHU2ODMyN1NXaWE1QTBB?oc=5",
+          "publisher": "Google News",
+          "published": "Tue, 06 Jun 2017"
+        },
+        {
+          "title": "Accton Group Appoints Jun Shi as Executive Vice President and Chief Revenue Officer to lead Sales and Business Development - Business Wire",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWklOcnBoa1k2VzJJdGp0Rlg1aENfU3BmOVljdmtMdTZlRlNYY1JRazdUa0FYcTUzUzdiWm9pSldidUxfRzBGNEtSRmlqbnZXSVQwamQ0dENtM0habUdaWXVYdGFnWE1IX0hpN05mMHhSN1ZPNEhhUlBJYUxRZUdsbEVQMWRuVENaUVh0WWh5SENiN0lfc0dSVEVRbGd1Wk9SZjFiVlFzZl91N2hCTEZCMFRsVEw4elF6TmJkYnFJYnVUSG9WVW1LTzNrQVVsQ1lidWhtZ292Tk5GRENqd0NqMF8xRzRLV3ZId0lJb1UyY2lldUFpZkRkaDJBOTF1SnFpZnNidFJLcy1FN0k?oc=5",
+          "publisher": "Google News",
+          "published": "Thu, 11 May 2023"
         }
       ]
     },
@@ -1871,15 +1871,15 @@
         },
         {
           "title": "Wiwynn Corporation (6669.TW) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hUHdZVTlUYk9fNGg5S1ctN3JqVXJDcW0xcnNyeXNXYk82eEoyUEJSWXZwMWtlVlhCN1FsOTljNmRacTVuMGVGWWxqQUk5SHI2VTJ5aEtB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JZVo5MGRJMTllMTlxTXpldlFaYkJ2emVvZThwMW9MVi1NZUV5UVJ5V1MzQnU5QUFCb0s0bl82RUZrMkV1TkNpT1ZXVVdnWlBabzc1amF2dnltbGNqNTNTVFpqbXd1QQ?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 27 Mar 2020"
+          "published": "Wed, 27 Aug 2025"
         },
         {
-          "title": "Wiwynn Opens Advanced Manufacturing Base in Texas, Strengthening Onshore Delivery of AI Servers in North America - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95NU9oQm81ZG9ZY3VwX2Y4RUV2NEFJSU4zNVRkQUE4ODMwTzNpeDRIRmtjSFBTRnphNXJjekZvWm42RDUtNmtDLXB4RjhQeEtJOVh0SWhIWXJkanE4NmUxTkVPdjNTaG10WVZkQk1iZHJsZ1Ewa1E?oc=5",
+          "title": "GPT-6 Astra Ignites AI Compute Reassessment as Wiwynn's Fractional Share Remedy Fails to Quell Investor Anger - BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PbTZmZVpsbktSLUE0ZWlJOUxHcmtiRzF5bG5lRWsyTlYzZFdSbE9xRlBMWVpsUnVhNmVMa1RCRHZhUzduV0I3VXZaaUVDZ090dFl4ZkptWk9rZkJTa1J3c0xnODlQUGY4NGxGMjBXRmdTbjY0U2c?oc=5",
           "publisher": "Google News",
-          "published": "Mon, 14 Sep 2026"
+          "published": "Tue, 08 Sep 2026"
         }
       ]
     },
@@ -1986,16 +1986,16 @@
       ],
       "news": [
         {
-          "title": "Hon Hai Precision Industry Co., Ltd. (2317.TW) stock price, news, quote and history - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WcTZTNG51MTZEZUF2cUFuT1g0alhBME9CNXlOSlM2M2VncjVMQ1ZFZ3R5RjFVWmRURVIxZ3lVeG1jcVlrQlZhSUJUNlJSUFBfeEN6VnhR?oc=5",
-          "publisher": "Google News",
-          "published": "Wed, 28 Oct 2026"
-        },
-        {
           "title": "Hon Hai Precision Industry Co., Ltd. (2317.TW) latest stock news and headlines - Yahoo Finance UK",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yWWUwRzJ6SnNQSGFqSzV1R1ZOOGxMaHJUeG5XN2RYdFhTRERmenZCV3JONXpZaUlQOTBob3NkTWNRVWtvZktsVUFFRjhDQTViN0JVdktzWGZmWjRW?oc=5",
           "publisher": "Google News",
           "published": "Fri, 23 Oct 2026"
+        },
+        {
+          "title": "Young Liu on the AI Bubble: Industry Demand Is Real, Stock Market Valuations Are Another Matter - BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfc0VxZllsZTR4cTdoWkpzR2F0eUtueHV0WTVfR19oTVMyeFZaZ3J5eVZKUWVRLThhbkdnbVd0TDR3MUFLRUVfMUV4RDlUbG9qTkxjR3ZwR0pfS05ieTRyQjJsTTRfcEtDSjlpejNSOHFLU0VVLUE?oc=5",
+          "publisher": "Google News",
+          "published": "Fri, 30 Oct 2026"
         },
         {
           "title": "Asian tech stocks slump as AI rout deepens on disappointing U.S. earnings - Yahoo Finance Australia",
@@ -2004,10 +2004,10 @@
           "published": "Fri, 30 Oct 2026"
         },
         {
-          "title": "Hon Hai: Favorable Short-Term And Long-Term Prospects (HNHAF) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUVNpak9tajNXc1JqZ2IyOHdmSmJvbW9nWkl0c3ZyYld5NGxyMEYxM0VscHJjeVZQRzZWNE5JSmROS240M3hkODA0YW1obWV6QnFYTXB6aUxzaXFBdUN1czlaSlFjLV9COU1wOTJFOTdqNWs3V1ljMjByUTQ2LWxxS0JUME1kUFJTWTVXM2QzbkVaM1JxclJOdg?oc=5",
+          "title": "Musk Personally Denies \"$52 Billion Order\" — Hon Hai's AI Server Ambitions Face New Uncertainty - finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RSmF4VHg0RTdraF9UcmRUTGZuVDhkTWNvQ1VVSTA0S2treGM5ZnJwUGJMRjZQcWRxUC1TNmF6QUhBTTNGRUh4bkN5X2hjRTBESV9UZ3UzejBQRHBFRlA2bUZqME5reDBQRUNJLVprd0RVY2ZtOHc?oc=5",
           "publisher": "Google News",
-          "published": "Thu, 19 Sep 2024"
+          "published": "Sun, 19 Jul 2026"
         }
       ]
     },
@@ -2248,10 +2248,10 @@
           "published": "Wed, 07 Oct 2026"
         },
         {
-          "title": "Asia Vital Components Co., Ltd. (3017.TW) stock price, news, quote and history - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpSkV5RFc0WTFSVklxVVBCVHhzX2U2Zkx3ZkJKZ0xQalhPbDM1Y2tpWjJjd1VENGhyM2pDdDlrTkhHWnhickMwN3A5NnRBZk9veURIU3Jn?oc=5",
+          "title": "Asia Vital Components Co., Ltd. (3017.TW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOaFNxcnVLcnhPOXowQmdwVy1LS3FjUnh6SUxiVVJKSDlSWDU5WmNEVGVpVVp4Vl9nMjNhMlZNV2NEeVRMMWswV0RqcW1GODhsUk56ckVn?oc=5",
           "publisher": "Google News",
-          "published": "Mon, 12 Jun 2017"
+          "published": "Wed, 24 May 2017"
         },
         {
           "title": "AI Data Centers' $7 Trillion Opportunity Sparks Order Surge Across Power and Cooling Supply Chains - BigGo Finance",
@@ -2260,10 +2260,10 @@
           "published": "Wed, 02 Sep 2026"
         },
         {
-          "title": "TWSE Returns to COMPUTEX: The World's Fifth‑Largest Capital Market Powering a Full‑Stack AI Ecosystem - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVEl5MldpLWVyNmgtbkhLWFZIa1c0c1FYZDkzNmxZV2pLVjdBMjFncmk0WVg3N0hpc2RuSlVwbEdueGFIcUNUZTB0ZGZ6OE1KMWY3X3RYUUpVSklLY1hUNHZqUU1HbUNncFYtX1NoWWRmbnIyZHNlNVQ5T3JKM0FURHdFaEpqaGdfbjMw?oc=5",
+          "title": "Asia Vital Components Co., Ltd. (3017.TW) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpSkV5RFc0WTFSVklxVVBCVHhzX2U2Zkx3ZkJKZ0xQalhPbDM1Y2tpWjJjd1VENGhyM2pDdDlrTkhHWnhickMwN3A5NnRBZk9veURIU3Jn?oc=5",
           "publisher": "Google News",
-          "published": "Tue, 26 May 2026"
+          "published": "Mon, 12 Jun 2017"
         }
       ]
     },
@@ -2331,8 +2331,8 @@
       "revenue_yoy": 31.1,
       "gross_margin": 35.3,
       "operating_margin": 16.6,
-      "fcf_b": 72.73,
-      "debt_to_ebitda": 0.59,
+      "fcf_b": 44.52,
+      "debt_to_ebitda": 0.77,
       "market_cap_usd_b": 108.4,
       "arxiv_papers": [
         {
@@ -2373,7 +2373,7 @@
           "title": "Delta Electronics, Inc. (2308.TW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EekNLZTlnb0h1elF3VHF3UTJvVk1qS29CcFJvZUE0a3R1d282WTBHQ2Y0SjF2eEtybklKdlJKNzRtMm1ZSEthRXkzcnhuX091T3RLSkF3?oc=5",
           "publisher": "Google News",
-          "published": "Tue, 27 Oct 2026"
+          "published": "Sat, 31 Oct 2026"
         },
         {
           "title": "Delta Electronics' AI Revenue Share Nears 50%; Chairman Cheng Ping Says Q4 Sales and Margins Will Both Match or Beat Q3 - BigGo Finance",
@@ -2388,10 +2388,10 @@
           "published": "Tue, 27 Oct 2026"
         },
         {
-          "title": "AI Earnings Shock: Taiwan Stocks Plunge More Than 1,400 Points Intraday, TSMC Falls Below NT$2,400 - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PV3d6RzdlY2FUVkY2MUNyemV5RUpmNXNDQkM5WFFaV1VpU19LeW9uT3VOTE05azNHaTdFdno0OXBYWERCYVR1VlY4MXd4UDVCN19mSGpXNjRnQ0ctQ3YwMTJ2a0RyRV90SnRFeHQ4WnFOY01lUUE?oc=5",
+          "title": "[Delta Electronics FY2026 Q2 Earnings Call] First-Half EPS of NT$17.59 Surpasses Any Full-Year Record; AI Revenue Share Breaks 50%, but Component Shortage Risks Escalate - finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xY3RLTjFmUHdmZ2N6M1hSQ21hWXJuVUpoQmpycXR2S3Q2cDJKZ3c2Vm91aFVubUF0NlVwZk5DdVJtajdyM1lxcDhiQnZibzFFMGpQOUVmWHF4Y1c5SnQ3ZVhR?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
+          "published": "Thu, 30 Jul 2026"
         }
       ]
     }
