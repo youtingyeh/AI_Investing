@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02 10:39:55 CST (UTC+8)",
+  "last_updated": "2026-11-03 11:58:37 CST (UTC+8)",
   "status": "LIVE_CLOUD_SYNC",
   "macro_kpis": {
     "csp_capex": {
@@ -70,7 +70,7 @@
       "name": "Amazon",
       "quarterly_capex_b": 22.6,
       "quarterly_fcf_b": 18.9,
-      "debt_to_ebitda": 1.48,
+      "debt_to_ebitda": 1.66,
       "credit_rating": "AA / A1"
     },
     {
@@ -150,49 +150,55 @@
           71.0
         ]
       },
-      "price": 204.64,
-      "market_cap_b": 4941.4,
+      "price": 202.06,
+      "market_cap_b": 4879.1,
       "revenue_yoy": 105.9,
       "gross_margin": 74.7,
       "operating_margin": 66.2,
       "fcf_b": 41.81,
       "debt_to_ebitda": 0.19,
-      "market_cap_usd_b": 4941.4,
+      "market_cap_usd_b": 4879.1,
       "arxiv_papers": [
         {
-          "title": "When Does Heterogeneity Pay Off? Understanding GPU-WSE System Complementarity",
+          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
+          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
+          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41919v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Challenges in the verification of MOSAIX ASIC for ALICE ITS3",
+          "summary": "The MOSAIX is a wafer-scale, full-functionality prototype ASIC for the ALICE Inner Tracking System (ITS3) upgrade, implemented in $65\\,\\text{nm}$ stitching technology. It integrates 144 independently powered pixel matric...",
+          "authors": "Simone Scarfi, Matteo Lupi et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41916v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "MemX: Memory-Aware Automatic Parallelism for Cross-Vendor Heterogeneous GPU Training",
+          "summary": "Cross-vendor heterogeneous GPU clusters are increasingly used for large-scale model training. However, their GPUs differ substantially in compute power, memory capacity, and interconnect characteristics. Existing automat...",
+          "authors": "Lin Meng, Yuzhong Sun et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41525v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Characterizing Performance Tradeoffs in Heterogeneous GPU-Wafer-Scale Accelerator Systems",
           "summary": "As AI accelerator architectures become increasingly diverse, integrating different architectures into a unified system is emerging as a new heterogeneous computing paradigm. GPUs and WSEs differ substantially in compute,...",
           "authors": "Ziyu Hu, Zhijing Ye et al.",
           "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.39222v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "MCCL: Training Pytorch models across a fleet of Macs at Skywalker Sound",
-          "summary": "Skywalker Sound, a premier audio post-production facility, operates more than 200 M4 Max Mac Studios on a 10Gb Ethernet network. When not in use by artists, these machines sit idle, representing massive untapped unified ...",
-          "authors": "Kevin Sasso, Chris Fiegel et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.39029v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "A Case Study of a Multi-Agent Kernel-Optimization Loop That Learns a New AI Accelerator",
-          "summary": "Frontier large language models write correct CUDA kernels for most single-operator benchmark tasks, yet their accuracy collapses on accelerators whose architecture and programming language they have rarely seen. We prese...",
-          "authors": "Byonggon Chun",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38329v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Converting a superseded Raith electron beam pattern generator into an unattended Critical Dimension SEM",
-          "summary": "Design-based metrology of academic electron beam lithography (EBL) is bottlenecked by low-throughput imaging. For integrated photonics, where nanometre-scale structural variation can significantly limit device performanc...",
-          "authors": "Will Gunn, Han-Hao Cheng et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38203v1",
+          "link": "http://arxiv.org/pdf/2610.39222v2",
           "category": "AI Accelerator"
         }
       ],
       "news": [
+        {
+          "title": "META_TITLE_QUOTE - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpVTJIYnhWcW1kNFFKTHNoajhPeE9zSW9lTElhZkZvcEo3MExtQnpIZjBRek95cWJ0XzRKMzBtMHh0Ty1SYVRESUxfRTJ4Zw?oc=5",
+          "publisher": "Google News",
+          "published": "Mon, 02 Nov 2026"
+        },
         {
           "title": "Nvidia: SpaceX Offers An Ignored Bonus (NASDAQ:NVDA) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNemNyVTdEa0psUHdDNVBBU0t2bnM0dzFFTk1ZcFJzTWRHb1lMaG9tM19FZXNoTERHR3ZtbU0tRFQ5RlE3ZF9ydGlXNGJ2UGtycFFrcjk5LU82UFBNRjZrdVVoRnFtaEd2UXYxd1ZUNjBjLVA0WVRIUEE5VlZQamczVW0zYW4?oc=5",
@@ -200,22 +206,16 @@
           "published": "Mon, 02 Nov 2026"
         },
         {
-          "title": "NVIDIA Corporation (NVDA): A Key Beneficiary of Durable Global AI Infrastructure Buildout - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjlkQXNfRXA0dnVTN2VfQUtmeVA4UldwY1k5azREYTBrZWxObU1ReUk5YjlRbnJtaEtFcFF5di1UdDRUdWFlQmNERWlEdS1vZUxEc21pOVFpVGh4aUR4ZDMzcmpXLXJRb3JBeW5hNVJVNXB6Z21Ld0NHR3Y1alNXb2J3MlhfdTI2Q0ZtbjM2LWlGR1pzOEltWF9KRU5oVG9HUDVYQjR3?oc=5",
+          "title": "Tech Selloff Doesn’t Spook Dan Ives for Halloween: Here Are His 6 AI Stock Picks - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVUlzWlBNd18tamphckdNb3JPMXFCRGZXVEtDbEtCQlplVnNNNXNnWHo0SW16emF0dnRWOExLXzdsaHdmSDJabWNtRGRuSVBCMF9ockgxVzdjNXlKaU9uR2FrLW5lbUp2cHFXTTRpRE5KX1RmejAwcmVsOU9XZ1lNYkszQ1BlYjNZaUlBcHA3ZndoZlFZMEJQblVKMlFSR2lTcHViY2t5Rm9mNlBlbDYtV2toQWtrZ3B6a05zSXBXVzRidm42TG5qOWpjUXZfcjFlT0FnRzN2bEdmamlMUXY5RWdZbWE4eHMxVWc?oc=5",
           "publisher": "Google News",
-          "published": "Mon, 26 Oct 2026"
+          "published": "Mon, 02 Nov 2026"
         },
         {
-          "title": "NVIDIA Corp.’s (NVDA): Surging AI Demand Across End-Markets Powers Standout Results - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3dDa1JNNGt5c05VYjljSFlUN1dubkVKNjRLWHk5VHBCcXpuQUtMd0pzS2RUTmFWRW82TlJ0THdfYzlUN1FPb3hTdTBxZTVwN0JlRlNuSm5jUHd2bTZ1Z1doRTRMTGhGYkkyd1RaU2hkSnNPUFV3elBYc2tVQ2hmRVREYjB3VWFCZ0dGaEF1M2ZGdmtRbnRV?oc=5",
+          "title": "Buy Vertiv on Solid Q3 Earnings Guidance to Tap Huge Price Upside - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUZPZGlTbjk2djJXNXUtODhTWklLRnhzMmtwU1FGOHJncDJVaGVySzJ3Uk12b1JvcDl5RUF6U0Noa1lkVmRmOWRZQ2Z0cWRZTWdYUDVLdXVVSGhWNGJFUEpGVnNQMWZlZm1ycFVjSTlGcTdUQnNpQ0dsSkkwZmhHQW82UEY5NFpQdlFWd0pTMnhNNUdMMGpxZmxNUGl6X2pNOTU4cjZTNmJwV25MVUpYeHVnZU10NXc1d0RCeFp3?oc=5",
           "publisher": "Google News",
-          "published": "Wed, 21 Oct 2026"
-        },
-        {
-          "title": "Nvidia Stock Has Dropped Nearly 6% in a Month; Now Jim Cramer Is Asking Why ‘Anything Negative in Tech’ Immediately Crushes NVDA - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWZmNGZfcHpPQ3V5YWpBOV8yTTZ5OFhVbWV2M0VtLUprRzJwRllPbXVMWDVodmFoUG9wYndHZFlVdFc5Q3RIMkwzMzRGWUVhVmh0M3RURjd1VVJCRVpYbGJiTlc4V1pqTGpuWThGVFpCdXdHVWthTEUycVNybkh1STJYeUtXbFQ2YkhvYVUzdV82RFlGRXcxcGVn?oc=5",
-          "publisher": "Google News",
-          "published": "Thu, 29 Oct 2026"
+          "published": "Mon, 02 Nov 2026"
         }
       ]
     },
@@ -278,15 +278,23 @@
           76.8
         ]
       },
-      "price": 326.08,
-      "market_cap_b": 1556.6,
+      "price": 322.23,
+      "market_cap_b": 1538.2,
       "revenue_yoy": 85.5,
       "gross_margin": 75.5,
       "operating_margin": 54.3,
       "fcf_b": 30.6,
       "debt_to_ebitda": 1.14,
-      "market_cap_usd_b": 1556.6,
+      "market_cap_usd_b": 1538.2,
       "arxiv_papers": [
+        {
+          "title": "Optimal Fan-Out and Break-Even Routing Loss in Waveguide-Integrated Ge-on-Si SPAD Arrays",
+          "summary": "Splitting a waveguide mode over several Ge-on-Si single-photon avalanche diodes (SPADs) relieves dead-time saturation but multiplies dark counts. We quantify this trade-off with the asymptotic count-based information rat...",
+          "authors": "Thammarat Yawisit, Pittaya Pannil",
+          "published": "2026-10-31",
+          "link": "http://arxiv.org/pdf/2611.01111v1",
+          "category": "Silicon Photonics"
+        },
         {
           "title": "Versatile Photonic Encoding Platform with Selectable Back Ends for Automotive Edge Processing",
           "summary": "The increasing diversity and computational demands of automotive edge functions require hardware architectures that support heterogeneous processing while limiting implementation complexity and system overhead. We invest...",
@@ -310,14 +318,6 @@
           "published": "2026-10-26",
           "link": "http://arxiv.org/pdf/2610.35410v1",
           "category": "Silicon Photonics"
-        },
-        {
-          "title": "RADICAL: Reconfiguration-Aware Direct-Connect AI Cluster using Spatial-and-Wavelength Selective Switching",
-          "summary": "We present RADICAL, the silicon-photonic-enabled Reconfiguration-Aware Direct-Connect AI Cluster that integrates a custom spatial-and-wavelength selective switch (SWSS) with the Linux network stack. RADICAL deploys a pac...",
-          "authors": "Brett George, Weiyang Wang et al.",
-          "published": "2026-10-22",
-          "link": "http://arxiv.org/pdf/2610.31941v1",
-          "category": "Silicon Photonics"
         }
       ],
       "news": [
@@ -326,6 +326,12 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY3N1WlV4MXRHWl9yLUpRVHpaTlRTd1FUN2NWUHI1S3gycERlTTNoSEo5RXlpaE1IQWtFcWRvMkktcUktQ2Rya1N3WTNhZV83Tnk1eVdKTUhPRFRQVHR2Y2oyS3YwYXRIZXU4V0VJdlhRQWUwWUMteUxmR1FrSWhBUlRCdDhRZ3QyOU03a3R1UE5rSjJI?oc=5",
           "publisher": "Google News",
           "published": "Tue, 20 Oct 2026"
+        },
+        {
+          "title": "Semiconductor Sell-Off: The 1 AI Chip Stock I'd Buy and 1 I'd Avoid - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc1NtNDhrUEFBbFdrX19WUERHbmoxX0xmOTcxRk9QbDUxY1ZtZ1VQb3REb3VWX0xjd2NnQWxxZXEtTmFWMTdLbVFvNENVazlhTVgtVWJEMmExV0lNUUVxcmUxSzROQUFOcWhqMkE3SHJGVnF3WVUyMHZVXzVOUzU1Qll6U01wODdwdnRlM0hmSkdtWGlhbWJn?oc=5",
+          "publisher": "Google News",
+          "published": "Fri, 30 Oct 2026"
         },
         {
           "title": "Prediction: Wall Street’s Next AI Favorite May Not Be Nvidia - 24/7 Wall St.",
@@ -338,12 +344,6 @@
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU2VIX2kzSW15VzJjMnFaOHJtU3RlZTVlV2g2N3J1a0ZGSkw1ay1wN3VWaGdnZkktR2p5UEN3ZGcwUURCSnRBNlhpLVljUC1qNndLa1c4aXFOam04LThKVUZPQUN0MWZQRUliM1VDQXIyc3YzUjVDbFpjclRuZU1udVJNRTN5cHhZSDMw?oc=5",
           "publisher": "Google News",
           "published": "Fri, 30 Oct 2026"
-        },
-        {
-          "title": "Broadcom’s AI Revenue Surges 221%, But is Growth Becoming Too Dependent on AI Spending? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX081U0VMOFZKZFNTRFladkVFU3FoVy00amNrbHlKaVNxemp1X2hsb3A3bjV3WURTd0hQLWRRcDlwSVIycEw5NEp1ZTFMUU9LSVRUVVIyRmw1eXBKVU1qQ09aWHBFMDNQZzJWa09UeHFTQXQ4SWhiT2EzR29UOGdpUWlNeW4xUGh4OVBrMjAyTFg3MVp4OTBlbkd3?oc=5",
-          "publisher": "Google News",
-          "published": "Wed, 21 Oct 2026"
         }
       ]
     },
@@ -406,49 +406,55 @@
           14.2
         ]
       },
-      "price": 504.8,
-      "market_cap_b": 824.1,
+      "price": 466.84,
+      "market_cap_b": 762.1,
       "revenue_yoy": 50.1,
       "gross_margin": 55.7,
       "operating_margin": 17.2,
       "fcf_b": 8.84,
       "debt_to_ebitda": 0.45,
-      "market_cap_usd_b": 824.1,
+      "market_cap_usd_b": 762.1,
       "arxiv_papers": [
         {
-          "title": "When Does Heterogeneity Pay Off? Understanding GPU-WSE System Complementarity",
+          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
+          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
+          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41919v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Challenges in the verification of MOSAIX ASIC for ALICE ITS3",
+          "summary": "The MOSAIX is a wafer-scale, full-functionality prototype ASIC for the ALICE Inner Tracking System (ITS3) upgrade, implemented in $65\\,\\text{nm}$ stitching technology. It integrates 144 independently powered pixel matric...",
+          "authors": "Simone Scarfi, Matteo Lupi et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41916v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "MemX: Memory-Aware Automatic Parallelism for Cross-Vendor Heterogeneous GPU Training",
+          "summary": "Cross-vendor heterogeneous GPU clusters are increasingly used for large-scale model training. However, their GPUs differ substantially in compute power, memory capacity, and interconnect characteristics. Existing automat...",
+          "authors": "Lin Meng, Yuzhong Sun et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41525v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Characterizing Performance Tradeoffs in Heterogeneous GPU-Wafer-Scale Accelerator Systems",
           "summary": "As AI accelerator architectures become increasingly diverse, integrating different architectures into a unified system is emerging as a new heterogeneous computing paradigm. GPUs and WSEs differ substantially in compute,...",
           "authors": "Ziyu Hu, Zhijing Ye et al.",
           "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.39222v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "MCCL: Training Pytorch models across a fleet of Macs at Skywalker Sound",
-          "summary": "Skywalker Sound, a premier audio post-production facility, operates more than 200 M4 Max Mac Studios on a 10Gb Ethernet network. When not in use by artists, these machines sit idle, representing massive untapped unified ...",
-          "authors": "Kevin Sasso, Chris Fiegel et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.39029v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "A Case Study of a Multi-Agent Kernel-Optimization Loop That Learns a New AI Accelerator",
-          "summary": "Frontier large language models write correct CUDA kernels for most single-operator benchmark tasks, yet their accuracy collapses on accelerators whose architecture and programming language they have rarely seen. We prese...",
-          "authors": "Byonggon Chun",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38329v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Converting a superseded Raith electron beam pattern generator into an unattended Critical Dimension SEM",
-          "summary": "Design-based metrology of academic electron beam lithography (EBL) is bottlenecked by low-throughput imaging. For integrated photonics, where nanometre-scale structural variation can significantly limit device performanc...",
-          "authors": "Will Gunn, Han-Hao Cheng et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38203v1",
+          "link": "http://arxiv.org/pdf/2610.39222v2",
           "category": "AI Accelerator"
         }
       ],
       "news": [
+        {
+          "title": "Rack-scale AI: How Dell and AMD are building infrastructure - SiliconANGLE",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUEs0a3NNN0JTS0l1NWxIM1FUZEU5LXA5X25tS3N6Q21XNGZKRGs0NmpBY0pKUDFPNjYwczBrSkM1M0ktTHlVVlhJVGVWVU1UWmk3UnFQaFltR29fZ1lnZ3Y1Z2NsYlpvRi1aeHQ5RUZCUHdzc05ZS19GczUtcjB2VDM3ZjRXbTV1R2N2TDNMTE5tZw?oc=5",
+          "publisher": "Google News",
+          "published": "Mon, 02 Nov 2026"
+        },
         {
           "title": "Advanced Micro Devices (AMD) Lands First GSI Deployment Under AI Compute Deal - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVGRiNXIyLUNIRGthWXhrRmNyTERCOFc5QjB5ZWplVzlqenBma3VzUWZQZEZrTjBZck5obXVLQTV6Qm9vRVlST1BweVR5TWpPak02LVBRY3lTLVkzYXRYUmhKMWVrNzc5QjE2WnBvWlcxQ2FJWWRiOWVjRFZqTjN4cHZSZnI0S1Rzem9WejR0M0ltWFVhWTBaNEp1a1k?oc=5",
@@ -456,22 +462,16 @@
           "published": "Fri, 30 Oct 2026"
         },
         {
-          "title": "AMD Stuck in Bear Market on Circular Investing Fears: Can Earnings Turn the Tide? - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNN0Naalg2ZTluQS1ZSS10LW5uampZS1lZaHpaNVFNVW51dFU3QVRvNGpvbGJiVWtLaEZkMllUZUhPODRLNTk2UjVqUFcwWmRoQkk2R2ZWY1piX1lCcW1uaGJDalc2Nl9yVnp5RERRUkJNZ1phRTZwaEdYd3h6alZPdkxEZVYxOTI0UGZEZDUwT0EyUmQ4TF9QMkxJdzllRWdwWDJpbWhHMGJBUXZWZ040Sno4eFNpWThRa3g5YTd0QUNQdE5kaDBSLXZMcURZaEdBbS1iT19QTjlxWnRHVkE5Rg?oc=5",
+          "title": "AMD, Shopify On Deck Tuesday As AI Spending, Merchant Growth Face Test - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRUoxcWpvN042dTlrdkhGb3NRVVQ0cy11RWtMLVBJbC1FR1dZZi1WS3haZW91MWtLamk5TFBpVHE4QUtMbHZGd1U5V0xBT3FYRTJqeHhYYUZILTY4X1g3dHFyTTM0cHVGX2tqZGFYLUQtZUtCZTRfMF9QbUl1OE1YZGl5blRKOU9sQV9sV2FOanhOb1NibnU3dUZLVHpWWHY4WW5XTTNQYV9VWWtMcFZyQUtoMA?oc=5",
           "publisher": "Google News",
-          "published": "Sun, 01 Nov 2026"
+          "published": "Mon, 02 Nov 2026"
         },
         {
-          "title": "Advanced Micro Devices slides 13% as part of tech selloff (AMD:NASDAQ) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWGV3V2xDR1l0WWdPb1JuRk9WYm81cDQxdFB3NHFXUGZUamIxQzk2MTZ3MFFYSkx1c0VPQTNrT09mdmh5UERtTjZvVTBKRXVPc2NwMHJYMVlfZldGNW9CY2xobXpsTmZjUFRtcDE3dTJwemxHNVRRcU1vcG1uZUZZN1lidjJyWnRXRkVlX2w3ZnVmbEkxcG0yX3FB?oc=5",
+          "title": "Buy, Sell or Hold AMD Stock? Key Tips Ahead of Q3 Earnings - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTTh5aTNybWtadmdBY3MzUW1YaFhWODdOZzhCOGpacVpsTzN0Y2FWVHROUDhfLXo2dFJ3ZlU0WkxoMnowWGVUOHR6Ym9Bb0JyVkFsb0ppVm02ZUwxdF9PbXMtdm9aLW9WZ0NLVE45eEl1Q2hKYkkwY3h6cHFvUnROM05QWlRUSDVlV1ItaS0xbS1rdFV6bzg4a0dDVF9vMEFLUG56M3R3MVd3b2tLTEh1WU5R?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
-        },
-        {
-          "title": "Advanced Micro Devices' Meta Platforms Partnership Goes Beyond a $1 Billion Investment - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYVJfNnJMdE9Pb1Q3NF81WndtX1J4VW9BUGJtQlkzUmdnZWFTQUlUc1ZwNE00bTNWNzJBNm1vcmU5US1nVm4tZzZxcE9MalBGUVFQdnE0ejJsY2FLLVp4bE5yZ0RpbnBMeFFSSzI4UkM0Xzloamo3OEMxWjBIU2NabHRUblF6ZWdUS0hTN2dIaTBnajQyVjByNGwyZ2hRcVhYUjJXenZ3ZEtXS2hSS000c1BROFlOYnJVTFJOXy1DN3VSYm9ZazAzaXJaOHF2SWtUbE94NTYwaUprZVdmeDg2eVR0WWd6aEVhX3ZuSVlIZTNnaEh5MllYYUUzUFc?oc=5",
-          "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
+          "published": "Mon, 02 Nov 2026"
         }
       ]
     },
@@ -534,49 +534,61 @@
           2.75
         ]
       },
-      "price": 205.97,
-      "market_cap_b": 220.0,
+      "price": 196.79,
+      "market_cap_b": 210.2,
       "revenue_yoy": 22.4,
       "gross_margin": 97.5,
       "operating_margin": 7.6,
       "fcf_b": 1.33,
       "debt_to_ebitda": 0.46,
-      "market_cap_usd_b": 220.0,
+      "market_cap_usd_b": 210.2,
       "arxiv_papers": [
         {
-          "title": "When Does Heterogeneity Pay Off? Understanding GPU-WSE System Complementarity",
+          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
+          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
+          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41919v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Challenges in the verification of MOSAIX ASIC for ALICE ITS3",
+          "summary": "The MOSAIX is a wafer-scale, full-functionality prototype ASIC for the ALICE Inner Tracking System (ITS3) upgrade, implemented in $65\\,\\text{nm}$ stitching technology. It integrates 144 independently powered pixel matric...",
+          "authors": "Simone Scarfi, Matteo Lupi et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41916v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "MemX: Memory-Aware Automatic Parallelism for Cross-Vendor Heterogeneous GPU Training",
+          "summary": "Cross-vendor heterogeneous GPU clusters are increasingly used for large-scale model training. However, their GPUs differ substantially in compute power, memory capacity, and interconnect characteristics. Existing automat...",
+          "authors": "Lin Meng, Yuzhong Sun et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41525v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Characterizing Performance Tradeoffs in Heterogeneous GPU-Wafer-Scale Accelerator Systems",
           "summary": "As AI accelerator architectures become increasingly diverse, integrating different architectures into a unified system is emerging as a new heterogeneous computing paradigm. GPUs and WSEs differ substantially in compute,...",
           "authors": "Ziyu Hu, Zhijing Ye et al.",
           "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.39222v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "MCCL: Training Pytorch models across a fleet of Macs at Skywalker Sound",
-          "summary": "Skywalker Sound, a premier audio post-production facility, operates more than 200 M4 Max Mac Studios on a 10Gb Ethernet network. When not in use by artists, these machines sit idle, representing massive untapped unified ...",
-          "authors": "Kevin Sasso, Chris Fiegel et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.39029v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "A Case Study of a Multi-Agent Kernel-Optimization Loop That Learns a New AI Accelerator",
-          "summary": "Frontier large language models write correct CUDA kernels for most single-operator benchmark tasks, yet their accuracy collapses on accelerators whose architecture and programming language they have rarely seen. We prese...",
-          "authors": "Byonggon Chun",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38329v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Converting a superseded Raith electron beam pattern generator into an unattended Critical Dimension SEM",
-          "summary": "Design-based metrology of academic electron beam lithography (EBL) is bottlenecked by low-throughput imaging. For integrated photonics, where nanometre-scale structural variation can significantly limit device performanc...",
-          "authors": "Will Gunn, Han-Hao Cheng et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38203v1",
+          "link": "http://arxiv.org/pdf/2610.39222v2",
           "category": "AI Accelerator"
         }
       ],
       "news": [
+        {
+          "title": "AI Earnings: 3 Reports to Watch This Week - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOGFUT3hoa3lVRU1DU2I5ZVVmYnRFNmpkTlRwVlJyTTBVOWJyWXlMb0tMYlJFTW44bFFsbDJYNVFsWVdZUkRSelZrYnQzXzZNSzdwWTJRWGRZY2NSaHlieXlrS0QydFQxVXowcWh4dkVDTnBJZVEyQzhXYTNJZUNnYWhIZW5pb25iVFAzVmFJX20wQjBLcEl5MFc5bjU?oc=5",
+          "publisher": "Google News",
+          "published": "Mon, 02 Nov 2026"
+        },
+        {
+          "title": "Arm Stock Forecast: ARM Tests $267 After 34% Growth and DreamBig Deal - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0xXWWdHQlY4MnBTTE8yNGVmY2ZBM3JyTHlSWS1BaFpTSmxFdjZXSGZyMThfX0pZTlFteV93TldXS2NudTRKX3RWeXk1RlBzRDAtR2F1MDVYLTc3OWZISHVyVTlfWFdXSE5yYmtsYkRhTUgwa214ZVZHNWttQ2JHaTAxVHZBd2RndEpTX2cyY05uNVM1aXhxSTRzOUc0ZXRnRjhOZ29HN2lqU21EZm9DQ3ctalJTTVBkYVE?oc=5",
+          "publisher": "Google News",
+          "published": "Sun, 01 Nov 2026"
+        },
         {
           "title": "Arm Holdings dragged down by tech slide, slumps 11% (ARM:NASDAQ) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXg3SV9kYXFuT09XU0JZakFfYUtkTFB1S3JaT0ZUekRhQ2M0SU1Pb1JRTkdaNVlkV3E1Qzh1LWpBckxHa0ZVdzYwZWRFM3ZIdTZLRVh1blhWZmJyb1pKejBRa2xLaEtnaW11dndtVFlMbGpjaHRMTE1UQzFFSTdOT2QyLXNQdWZET2FkUUUwZkY?oc=5",
@@ -588,18 +600,6 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQjFLYWExVFh2QUkzeGs0OElKck0wNVF0U0JoekQ0VUhuUld6Sk5RVVZZeWR2bk9DT1VZVEVaTUxJVEQ3T05lN2JGUUlJczBLZmROaUZfcV9DV09EUFVIR2FHdWRXZHduR2tlbnZDM3hOMGl4SmZZQUxja2dRZkJsblJKenhzQmFZbm5KeTJfVWdSeVM5SlFOVGVFVWo?oc=5",
           "publisher": "Google News",
           "published": "Mon, 12 Oct 2026"
-        },
-        {
-          "title": "Coherent vs. Arm Holdings: Which Tech Stock Offers More Upside Now? - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUDcyOXRUcUU5Mzk4X2lnQkxoV0FKYUt5M3dpdDduc3FyM1oyMDljN2tZOGdwZjFLSWVDZHpzcGdLUFhWT3duY0tPbFhub3JKREpraXZ0aWRVM043WnhPWEhDTjk0ZUc0c25DeWx1cHF3OW9iZHBoT3hsVEw3Z3F0UFN5VmtTU2RvN2pXZEk3bTRhTzVxMkdPMmVjZGVBWURwal9qdTZiRjV2SEdXdkNTSUNXTUprb0sxd0pzVg?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 27 Oct 2026"
-        },
-        {
-          "title": "Arm Holdings PLC Stock (ARM) Moved Up by 3.06% on Oct 28: What Signal Does It Send? - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOU1oRVA1SGpwYWVNQmFiSnpncFJqNC1qd0t6LUNoS1JhYTNnaDhBTk5DRUZqa094Q19TY3ByYXRFR0RQUWs1QXp2ZkdBNGxJalUxLVFzUkpad2E2VXZGbWY0blg3bTd4bldPbUIzblRLMzAwR3JpMnBOWWtUQkF2V0VtdEdQMXh4Znc?oc=5",
-          "publisher": "Google News",
-          "published": "Wed, 28 Oct 2026"
         }
       ]
     },
@@ -662,14 +662,14 @@
           7.9
         ]
       },
-      "price": 232.5,
-      "market_cap_b": 89.5,
+      "price": 224.24,
+      "market_cap_b": 86.3,
       "revenue_yoy": 61.2,
       "gross_margin": 38.1,
       "operating_margin": 23.8,
       "fcf_b": 2.96,
       "debt_to_ebitda": 1.05,
-      "market_cap_usd_b": 89.5,
+      "market_cap_usd_b": 86.3,
       "arxiv_papers": [
         {
           "title": "FrontGI: Architecture-Aware Parallel GNN Inference on Chiplet-Based Multicore Systems",
@@ -706,28 +706,28 @@
       ],
       "news": [
         {
-          "title": "Is Vertiv Holdings Co (VRT) Undervalued As Q3 Growth And AI Launches Draw Focus? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOazBZQk9HTVVjc0txX1NlbVhjUDNld1BrLXhZS3hTY1lyYXBIMkNVN01sMVYyVFhWYm5oeW53WV9qYjEyTk9GNk52cHNDaGdRT2x4czhKT2hqT2Zmalk3dl9PUlAydVpPMEtoVjNVNDMxTFFXYmNGaTA4akNROFE0UFVlbHVNazRqa3hPTEo4Ti1GLTRmTDdPOU94dHlHeWNQ?oc=5",
+          "title": "Vertiv Holdings Co (VRT) Was Among Clough Capital’s Industrial Detractors in Q3 2026 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZEU2Ui0tZFA1NTdyQjJhQTRsMm1LcHJncDRLb002ZFJuQUFoZDM0TUR1M3JvNHBROS0yT2NabjQ0eVU4VGRKNVNEX1ZGMTlZTHhLQS1RVHgwMUVZRGREcFZvOFJyaWpyR1V0QlNUZURUQTBzdEdDMUduQVppUlVwSXNRWlhDalpfTkJF?oc=5",
           "publisher": "Google News",
-          "published": "Tue, 27 Oct 2026"
+          "published": "Mon, 02 Nov 2026"
         },
         {
-          "title": "Vertiv stock surges as AI data center demand fuels higher outlook (VRT:NYSE) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkhpbmlJMTJEZWtLQkJUWHN4aEpiZjMtc3MtSnlfSWhqZTNnLVh5U3dKeWtyYjZya1VVZUg4RmdJOWpHMFh1ZkpFcWVSTDhWZjQyeE5yMVV5UjZlakM5dl9iNkZVUW03ZXV0cnE0SHhPaWlFVDRSSnlHR0pzVHpLSWVjbVpkOTc4aDBRMUt1SVd2aG54Y1I5dHZSUlZuaERQV3Y4Sk13?oc=5",
+          "title": "Vertiv: AI Panic Creates Golden Buying Opportunity (Rating Upgrade) (NYSE:VRT) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVFlOHZoQ2d4Q3docWplb3dWWHN6TDZxTTA5NWJpZ1FQNHVrUmF4aE1nOWhWdGNjSVd4Tnc5ZHd4VzB5QkNxOGZlN1Z3U0gtRlltWVVuRzd6UTBYcVN3aG5iZjdJcHg4MEQ0aFNzTlhDNGdDc3pGZDJtN050Xzg4eDlBdEdBSFRVWTZ5NEpDVmVSU2d6WDRjMVBFNEpLOWV1YnlkQVVaWXZzUHk2TWxWMw?oc=5",
           "publisher": "Google News",
-          "published": "Wed, 28 Oct 2026"
+          "published": "Tue, 03 Nov 2026"
         },
         {
-          "title": "Vertiv Expands AI Data Center Footprint: Can It Beat APH and SMCI? - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNazA5UHc0c2N1bWFycDJzYXFVOXZ5cmdjZTFHcHE2YzlzRHRzMjByaGc2VmFlajF6X3Zyc3ZrWlZpX253dEs1alY0ZDQ2VVRKZFotcGp4azRrTzdVWlJ5bDVpSFYyRnJ3VUxSbWFUeFhKQVFTS0hnUHRpTGNJYmo1Zl9ZVjhfU0lLeVFDd1BRVl84YW9sbE5uWi1UUHBnemZVSEtaWDhNZEJmaHA1OVBQU1F0Ym45WWt3OU9N?oc=5",
+          "title": "Buy Vertiv on Solid Q3 Earnings Guidance to Tap Huge Price Upside - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPc2R1TnV4UUdkNFBHTnFyOFVFOTMyU1R6X00yVDZKeFo0NEsxNnNZUXR4TXpwMzVJNGdOaGJYdjAxQ0dMZHNNUWxjMUNLYWdYWGdibjZIOXJLVk1YR1FWZnJzdTZrbjIwYzN2OGc0bDlOM2NjbXBFcXN2ZDgxOWhLcnZPZWRDMEF5TkRsbDZGMnQxQlVjZ0UyTS1GN3NWMERKZGFwbDhlX0Fsc0F3VW0zaHRYU0NjSGFYYU5YWndBZGYwN3NSTW13X3dld2lwN0JsaU5SalNpS0RwS21iOXNXdVV3NTgwRW8?oc=5",
           "publisher": "Google News",
-          "published": "Tue, 27 Oct 2026"
+          "published": "Tue, 03 Nov 2026"
         },
         {
-          "title": "Why Is Vertiv Holdings Co (VRT) Expanding Into Grid And Liquid Cooling? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNUpUSExPMGZNbGNlZFRpalFUV3Fsa1lDdVRISHhhQ1RTZTBwZmdPaXVUR2NpX05md1BEYTlhLWM4U19yWUhhcFhkakhnUjh0Y25JeFl3VENtQ29obk9sR0gza2JFVGlxQjJFWjBpTGNuOHkydllHMXI1a01wRlBtcVFTM1lfbk5JcVRpMXJScjU?oc=5",
+          "title": "Should You Buy, Sell, or Hold Vertiv Stock Post Q3 Earnings? - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVN5OGdHNVFCTWhyVURNdjFBRy1IenRpT3JXNEtJbWE0R3lNTmxQc0VmNmgzQkN3dzZmLXRnOE41ZFl0SXgtMWtpR2x2WExzWjJEaUVSNERxVDlRVFVNbTRoUmNuNk5HRTNwWVE5Rm1TbFBtdmJLaUhZdnUwdVBvOF9kcTdxY29oRVgyeTBkTzR0Z2E2bG5fdmk0QTJsR1RNeWdHYVZXWnl5MU9HSE1XU0VMbw?oc=5",
           "publisher": "Google News",
-          "published": "Wed, 28 Oct 2026"
+          "published": "Mon, 02 Nov 2026"
         }
       ]
     },
@@ -790,72 +790,72 @@
           312.0
         ]
       },
-      "price": 521.91,
-      "market_cap_b": 3875.8,
+      "price": 507.12,
+      "market_cap_b": 3766.0,
       "revenue_yoy": 18.8,
       "gross_margin": 67.7,
       "operating_margin": 49.8,
       "fcf_b": 2.99,
       "debt_to_ebitda": 0.65,
-      "market_cap_usd_b": 3875.8,
+      "market_cap_usd_b": 3766.0,
       "arxiv_papers": [
         {
-          "title": "Experts Exhibit Structured Redundancy: Structure-Preserving Expert Pruning for Mixture-of-Experts Large Language Models",
-          "summary": "Sparse MoE mechanism significantly improves the trade-off between model capacity and inference efficiency. However, practical deployment still requires storing all experts, resulting in substantial memory overhead. We sh...",
-          "authors": "Tian Wang, Yongding Tao et al.",
+          "title": "HiGenTrans: Hierarchical LLM Knowledge Transfer for Generative Recommendation",
+          "summary": "Generative recommendation promises to simplify conventional multi-stage recommender systems by generating item Semantic IDs (SIDs) autoregressively. However, two obstacles limit its effective- ness in industrial settings...",
+          "authors": "Zhuohang Jiang, Yuxin Chen et al.",
+          "published": "2026-10-31",
+          "link": "http://arxiv.org/pdf/2611.01129v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "Answer Correction with Verifiable Rewards: A Gemma-Family Study of Multi-View Driving QA",
+          "summary": "Multi-camera driving question answering provides a discrete test of vision-language models, but post-training gains can reflect changed selected answers or improved answer extraction. We investigate this distinction with...",
+          "authors": "T N Rickesh, Pranav Vinodh et al.",
+          "published": "2026-10-31",
+          "link": "http://arxiv.org/pdf/2611.00828v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "Integer-Exact Microscaling: Running MXFP4 Language Models on INT8 Matrix Units",
+          "summary": "On hardware whose fastest matrix datapath is INT8$\\times$INT8, such as the Neural Accelerators of Apple's M5 GPUs, 4-bit weights must become INT8 operands. Existing MXFP4 kernels already map FP4 (E2M1) values to integers...",
+          "authors": "Shinyoung Kang, Junhyung Ahn et al.",
+          "published": "2026-10-31",
+          "link": "http://arxiv.org/pdf/2611.00486v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "PRISM-Net: Dynamic Routing Network with VLM-Guided Disentangled Attribute Distillation for Explainable Fine-Grained Product Retrieval",
+          "summary": "Fine-grained visual product retrieval in large-scale e-commerce multimedia systems demands discriminative representations capable of simultaneously resolving macro-level category semantics and micro-level visual attribut...",
+          "authors": "Chung-Ming Lo, Che-Wei Chang",
           "published": "2026-10-30",
-          "link": "http://arxiv.org/pdf/2610.41236v1",
-          "category": "LLM MoE"
-        },
-        {
-          "title": "Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned Mixture-of-Experts LLMs",
-          "summary": "As Mixture-of-Experts (MoE) large language models are increasingly deployed in distributed environments, from federated learning to edge-cloud systems, their architecture harbors an underexplored landscape of security vu...",
-          "authors": "Fei Wang, Baochun Li et al.",
-          "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.41039v1",
-          "category": "LLM MoE"
-        },
-        {
-          "title": "Multi-View MoE: Letting Every Router Shape Expert Computation",
-          "summary": "Sparse mixture-of-experts (MoE) models expand parameter capacity by activating a small subset of experts per token. Expert selection directly affects model capabilities under a fixed active-expert budget. Dense evaluatio...",
-          "authors": "Zelin Zhao, Tianchi Ma et al.",
-          "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.40577v1",
-          "category": "LLM MoE"
-        },
-        {
-          "title": "On the Fundamental Limits of Prefill-Based Decoding Length Prediction",
-          "summary": "Predicting how many tokens a large language model (LLM) will decode, using only prefill-phase hidden states, is a key primitive for inference scheduling. We show that current benchmarks conflate predictor quality with ta...",
-          "authors": "Haowen Shi, Xuzhe Yan et al.",
-          "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.40541v1",
+          "link": "http://arxiv.org/pdf/2611.00458v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
+          "title": "Microsoft Corporation (MSFT) Delivers Strong Azure Growth as AI Demand Exceeds Supply - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVhoYmtlZjVaYkFjNy1oNkJqMDA1d1E0MGRCbjF4Sk5weHRGVDhHTFhubDJkMmpmOEFYTnJLZGp2Nmg0TXpiTDZtVk1hZXdiSEpaVUZUYnpvOFZPUUxLU28ydGpRMzlIeTJKNWFaVlVsbjk2N1YzTWl6bEdCMVNFUWR5U0l1RjgwTXgtenowT0o1dmlVcU8xTDlGS2tPeXpBSVFOdER0S1pfQQ?oc=5",
+          "publisher": "Google News",
+          "published": "Mon, 02 Nov 2026"
+        },
+        {
+          "title": "Microsoft Corp.’s (MSFT) AI Advantage: Scale, Trust, and Economic Value - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0hrdUNkMEMwbE5ibl80WlQxNHdWWHRxODdNYTBEbWNsOFRSVHpzWF9FdTVHbEtENWx5M2lsTDd6cER2MGlHLVhCUkV5cDhXS05uaHpSSVpHRHd0VDhDZFZWNUkyMnBXRU9JTE9iZUdpUG16dk0xN3ZGcllDUEgzcF9EanZ5X3RHVU1xWnc0OUtnZ2lTME1sUjV4RUo?oc=5",
+          "publisher": "Google News",
+          "published": "Mon, 02 Nov 2026"
+        },
+        {
           "title": "FY27 Q1 - Press Releases - Investor Relations - Microsoft",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaXNEUTdVWndDS3RFQS13VmtYUjYya2J6NTJvOU5rX29OY25MVjd0ZDFrakZJanZ6TXpmYnduckNrQ2FkaUFRaXlaR1ktNXhwdEozTUVGcVUwRDRLa3BjdkUyNDU1Skk3cnA1NnlxQWFBWG5JRUNlNU9UQjFueDM1V2pla21XZmFfWUE?oc=5",
           "publisher": "Google News",
-          "published": "Sun, 01 Nov 2026"
+          "published": "Tue, 03 Nov 2026"
         },
         {
-          "title": "Microsoft’s AI Boom Has A Cost (NASDAQ:MSFT) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yeC0wbFJjNlN5eTFRNks4dGtwUlBBcUZlczVGV25xbHFFTk9qSnFfYnRGQ0I2dm1TeE15dHE2TmFJRFZoeTc1RHhLWjFyNTN4Y25Wc1l5aXpacXVMcF9uS2YtZU1kVXZNLUxjMlpJSkpQQk1MUFNSMQ?oc=5",
+          "title": "Lumen and Microsoft expand collaboration to co-sell enterprise AI-ready networks - Microsoft Source",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb3FNSGwyLVlBeXJWZHR3MG1sWklORnp0RE0tYW5YM1E4elBvSkQwcXllZllNT2dsN3pUR244anVjSmhFVjVYbTJxUGpiNzhPRkpjS1hQLUk0d2VOcjk0UWRMZ3R1cEo0S1VGbkJFOEZ5VTc0ckxEZW5mZnNoVXgwY2pWSkFFdmlVQjZ2X0RGbEM0VC1VUTIzbG5YRjQtOFRyWHhjNWU0Q3NVUGl3VDN1RUQ2Ni1rRHNacTVhMkVsRTkycTRz?oc=5",
           "publisher": "Google News",
-          "published": "Sat, 31 Oct 2026"
-        },
-        {
-          "title": "Azure Growth and Enterprise AI Adoption Drive Microsoft Corp. (MSFT) Higher - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbW1JZHlpTVNJWVhuLVBaRnJuR0luVVRHaXhqMFU4SDdxeWVzZVNEZ19QWWRVWkF1R1IxcVFWcWxyRmlsRnM5ZlFZZ1RnSGduaTBBb3VGT3FiTVFVcTJOYVZIRm5OZnJOakhzVEJPdGVtM3d6dmdDYmlRd3pUcjgxVnlwWFNjYngyVVZIN3ptS05KMEs1cm1WQW5NdjNLYjJqUXc?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 27 Oct 2026"
-        },
-        {
-          "title": "Microsoft Reports Rising Cloud Sales That Show Payoff From AI - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFplZTkxUEdqUExRU0N0UHdSdGNtNWZzWVAxd1hrTXZNa3NCQVFXUXJxcW9icjhXZ0x3ZTVNS2NmRVhlT1lEYnQ0a2VPNG5zem1fQWRpTnZNdkNuRkZtdHJkVDUzSlA5MmNZOEF2ZUlCaERpLTdzUFdqUGtqaEMtZFlWRlU5aU5ZMEN3NTU4bjZsMHE2WHFBemx2cEFCcXlpeHRfendMa1Y1b2lFWWQ0?oc=5",
-          "publisher": "Google News",
-          "published": "Thu, 29 Oct 2026"
+          "published": "Mon, 02 Nov 2026"
         }
       ]
     },
@@ -918,66 +918,66 @@
           92.4
         ]
       },
-      "price": 279.84,
-      "market_cap_b": 3440.4,
+      "price": 278.99,
+      "market_cap_b": 3429.9,
       "revenue_yoy": 24.7,
       "gross_margin": 60.9,
       "operating_margin": 31.8,
       "fcf_b": -1.16,
       "debt_to_ebitda": 0.81,
-      "market_cap_usd_b": 3440.4,
+      "market_cap_usd_b": 3429.9,
       "arxiv_papers": [
         {
-          "title": "Experts Exhibit Structured Redundancy: Structure-Preserving Expert Pruning for Mixture-of-Experts Large Language Models",
-          "summary": "Sparse MoE mechanism significantly improves the trade-off between model capacity and inference efficiency. However, practical deployment still requires storing all experts, resulting in substantial memory overhead. We sh...",
-          "authors": "Tian Wang, Yongding Tao et al.",
+          "title": "HiGenTrans: Hierarchical LLM Knowledge Transfer for Generative Recommendation",
+          "summary": "Generative recommendation promises to simplify conventional multi-stage recommender systems by generating item Semantic IDs (SIDs) autoregressively. However, two obstacles limit its effective- ness in industrial settings...",
+          "authors": "Zhuohang Jiang, Yuxin Chen et al.",
+          "published": "2026-10-31",
+          "link": "http://arxiv.org/pdf/2611.01129v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "Answer Correction with Verifiable Rewards: A Gemma-Family Study of Multi-View Driving QA",
+          "summary": "Multi-camera driving question answering provides a discrete test of vision-language models, but post-training gains can reflect changed selected answers or improved answer extraction. We investigate this distinction with...",
+          "authors": "T N Rickesh, Pranav Vinodh et al.",
+          "published": "2026-10-31",
+          "link": "http://arxiv.org/pdf/2611.00828v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "Integer-Exact Microscaling: Running MXFP4 Language Models on INT8 Matrix Units",
+          "summary": "On hardware whose fastest matrix datapath is INT8$\\times$INT8, such as the Neural Accelerators of Apple's M5 GPUs, 4-bit weights must become INT8 operands. Existing MXFP4 kernels already map FP4 (E2M1) values to integers...",
+          "authors": "Shinyoung Kang, Junhyung Ahn et al.",
+          "published": "2026-10-31",
+          "link": "http://arxiv.org/pdf/2611.00486v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "PRISM-Net: Dynamic Routing Network with VLM-Guided Disentangled Attribute Distillation for Explainable Fine-Grained Product Retrieval",
+          "summary": "Fine-grained visual product retrieval in large-scale e-commerce multimedia systems demands discriminative representations capable of simultaneously resolving macro-level category semantics and micro-level visual attribut...",
+          "authors": "Chung-Ming Lo, Che-Wei Chang",
           "published": "2026-10-30",
-          "link": "http://arxiv.org/pdf/2610.41236v1",
-          "category": "LLM MoE"
-        },
-        {
-          "title": "Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned Mixture-of-Experts LLMs",
-          "summary": "As Mixture-of-Experts (MoE) large language models are increasingly deployed in distributed environments, from federated learning to edge-cloud systems, their architecture harbors an underexplored landscape of security vu...",
-          "authors": "Fei Wang, Baochun Li et al.",
-          "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.41039v1",
-          "category": "LLM MoE"
-        },
-        {
-          "title": "Multi-View MoE: Letting Every Router Shape Expert Computation",
-          "summary": "Sparse mixture-of-experts (MoE) models expand parameter capacity by activating a small subset of experts per token. Expert selection directly affects model capabilities under a fixed active-expert budget. Dense evaluatio...",
-          "authors": "Zelin Zhao, Tianchi Ma et al.",
-          "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.40577v1",
-          "category": "LLM MoE"
-        },
-        {
-          "title": "On the Fundamental Limits of Prefill-Based Decoding Length Prediction",
-          "summary": "Predicting how many tokens a large language model (LLM) will decode, using only prefill-phase hidden states, is a key primitive for inference scheduling. We show that current benchmarks conflate predictor quality with ta...",
-          "authors": "Haowen Shi, Xuzhe Yan et al.",
-          "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.40541v1",
+          "link": "http://arxiv.org/pdf/2611.00458v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "Markets spooked as Google reports $1 trillion+ AI bill, negative cash flow - Mashable",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WM08weHBqNXRpcThSTEtwWHl6Ny1haWI2bEllTDROU2djVW1PdkowdXJQRG5rY0Y1cEVnVU1xWFZtVUFmUktlRk9iTDd1RXJCUEJjaDh0WDVBczVUVE9xVUtjNDAzRGVWUW9PckdVTW1mWXhxYnQzVDlfX1c?oc=5",
+          "title": "META_TITLE_QUOTE - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51cTBUdmJTdWRuVFN1QjQxcDh1ZzMtcElOUHNJck5hcVpNSXNzbE9yYjFOakNHMzBDa3Z6ektnUEV4MkYyU1FkNzZ3TXM1S3M?oc=5",
           "publisher": "Google News",
-          "published": "Sun, 01 Nov 2026"
-        },
-        {
-          "title": "Why Did Alphabet (GOOGL) Shares Fall After Its $500 Billion Value Wipeout? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWljZDdUS0l6cHpEVmtJYWlLNm5IdFN0RnV6ZmhuLThjODQ4aXhiQl95UE1Pa3ptY1pGRUVrQm5EWVh0SzN5aEVaUF9rUjVBU1YyZHhtMlBRem45b01lY3IwdFZkdmNxWU9LcWVEQTZTM2hjcWVrdmJaRDZDaFlzUWFHVlBNNjBSS0tJQ1MyMk8wazVMLVRCTFJB?oc=5",
-          "publisher": "Google News",
-          "published": "Sun, 01 Nov 2026"
+          "published": "Mon, 02 Nov 2026"
         },
         {
           "title": "Google Erases a Record $500 Billion as AI Eats Into Sales - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNl94WE51TlQ2Q2dVVTBDNlZZbzF5Mk02UjZRaEJwQnhoM1lGX0dWODk3b1RwZDB1SDVHYmYtOUQzaWJyTEc0ZXlTNmpyQU50WVhaQUpJX3dyMkVFbmgyVXJFVy1fb21TQUxEOXFIWmtzdFEyYVk5SkU3ZGF4LTdnN0EyTlo1NklicFg4TzlpSHYwRE9VYzdUUTZ4N0ZLaG9XWUs1Nm5vM3FfSktn?oc=5",
           "publisher": "Google News",
           "published": "Thu, 29 Oct 2026"
+        },
+        {
+          "title": "Alphabet Earnings Raised Serious Concerns For Google Search (NASDAQ:GOOGL) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0FTbUVHQm1NVl9xdWEwR21yU2REUEtVQTlsNnJNSXdQRGNyQzVaYUh2MHAxemNJcXFfZEhtOWJEWURmeU5sSHdRak9saW9aRV9ram5pTkdfeGlnU0ppS1k0Um5ud00tamZEV3FKdGdUR0ZGaVZJMGlqSHMtd0tVTDViUXQ4QkYxcmNKMzdNM1dyWk92WmR0SW1lem8yYi1ZZmc?oc=5",
+          "publisher": "Google News",
+          "published": "Mon, 02 Nov 2026"
         },
         {
           "title": "Shares of Google’s parent company just had their worst day ever. Here’s what it means - CNN",
@@ -1046,72 +1046,72 @@
           171.5
         ]
       },
-      "price": 240.35,
-      "market_cap_b": 2598.9,
+      "price": 245.63,
+      "market_cap_b": 2656.0,
       "revenue_yoy": 12.1,
       "gross_margin": 51.4,
       "operating_margin": 13.9,
-      "fcf_b": -11.14,
-      "debt_to_ebitda": 1.48,
-      "market_cap_usd_b": 2598.9,
+      "fcf_b": -34.73,
+      "debt_to_ebitda": 1.66,
+      "market_cap_usd_b": 2656.0,
       "arxiv_papers": [
         {
-          "title": "When Does Heterogeneity Pay Off? Understanding GPU-WSE System Complementarity",
+          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
+          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
+          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41919v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Challenges in the verification of MOSAIX ASIC for ALICE ITS3",
+          "summary": "The MOSAIX is a wafer-scale, full-functionality prototype ASIC for the ALICE Inner Tracking System (ITS3) upgrade, implemented in $65\\,\\text{nm}$ stitching technology. It integrates 144 independently powered pixel matric...",
+          "authors": "Simone Scarfi, Matteo Lupi et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41916v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "MemX: Memory-Aware Automatic Parallelism for Cross-Vendor Heterogeneous GPU Training",
+          "summary": "Cross-vendor heterogeneous GPU clusters are increasingly used for large-scale model training. However, their GPUs differ substantially in compute power, memory capacity, and interconnect characteristics. Existing automat...",
+          "authors": "Lin Meng, Yuzhong Sun et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41525v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Characterizing Performance Tradeoffs in Heterogeneous GPU-Wafer-Scale Accelerator Systems",
           "summary": "As AI accelerator architectures become increasingly diverse, integrating different architectures into a unified system is emerging as a new heterogeneous computing paradigm. GPUs and WSEs differ substantially in compute,...",
           "authors": "Ziyu Hu, Zhijing Ye et al.",
           "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.39222v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "MCCL: Training Pytorch models across a fleet of Macs at Skywalker Sound",
-          "summary": "Skywalker Sound, a premier audio post-production facility, operates more than 200 M4 Max Mac Studios on a 10Gb Ethernet network. When not in use by artists, these machines sit idle, representing massive untapped unified ...",
-          "authors": "Kevin Sasso, Chris Fiegel et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.39029v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "A Case Study of a Multi-Agent Kernel-Optimization Loop That Learns a New AI Accelerator",
-          "summary": "Frontier large language models write correct CUDA kernels for most single-operator benchmark tasks, yet their accuracy collapses on accelerators whose architecture and programming language they have rarely seen. We prese...",
-          "authors": "Byonggon Chun",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38329v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Converting a superseded Raith electron beam pattern generator into an unattended Critical Dimension SEM",
-          "summary": "Design-based metrology of academic electron beam lithography (EBL) is bottlenecked by low-throughput imaging. For integrated photonics, where nanometre-scale structural variation can significantly limit device performanc...",
-          "authors": "Will Gunn, Han-Hao Cheng et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38203v1",
+          "link": "http://arxiv.org/pdf/2610.39222v2",
           "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Amazon Has Bigger Plans for AI Chips: Andy Jassy Says Customers Want Them ‘Outside’ AWS, but Selling Them - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGExTlQzTm4ybm8yenNMZ1JaMEJiUWIzenpMVUx5YjM5ZlQ1NGd4Sno2N2loRlF4T21NQXA5aGpzbnZLRm9GOVVzYXFyOVBfOTVVcWM0UzdGU3paNWczdHgwS0Z2NDB2Yy1wQ1ZkbkxHdHBkY00xalIzeU81UWQtWXJKdktLa3VpM0E?oc=5",
+          "title": "Amazon Vs. Alphabet: The $420B AI Capex Squeeze Leaves Both At Hold (NASDAQ:AMZN) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMTBOdW1vN1RWbkxOVXY0bl96c1U5R2hPbE12Y2VJdkJySDRfeDg5ZjRUOWpSb3c0WjdTWVdEME4tdkhjenlJOTlsa1ZFWE0tQVo5REtZRWZWOXBfeUtYaDVQSjFYZmFoTjgyZDdYejNXTFlQV21QWmtnRGhJVVVkNHhCSDR3VkxOX2xpdFJzbzZ3MkN6NE1OSlBMZGh1eFc3NlF1TTFIN1U?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
+          "published": "Mon, 02 Nov 2026"
         },
         {
-          "title": "Amazon (AMZN) vs. MSFT and GOOGL: Can Higher-Margin Businesses Turn Amazon Into an AI-Driven Compounder? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOVpHVm5adVEtZlN2ckg2VFdZcjczX2VRb3ZndnR2WHhzR2lTc2dKTXRMY1Z6R0taSTFGWGZ6ZGtXWTc1d3RweVZWdW1FeFNBQURjSVZHR25pWXc2a1JzQlcxcGRBSUpTM3FhSFJNdzRhUm1aYVFkUWk3U2pwT05FaGNaazhOekFSUld0amZXVjJuMnQt?oc=5",
+          "title": "Amazon's $2 Billion Data Center Faces Election Day Threat as Voters Weigh 41 AI Infrastructure Measures - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM1NfMTB2VDl0LWVvNURwZVNOdnhxWWhhMF8xRWJqWWR5TDREbHQzZm8xOTA0T1BLcUhsVjFVSkNBb1Jsa0J1dllUTTN0bzByX1JtOG5DQkZGczNjdGRPcWJxbDRwb1JTY3RlMFdMak5KZTFKNE1xQlBaWVZhWTJWaFp6V0QwaURuMV9EdzJZRmk3VUt3?oc=5",
           "publisher": "Google News",
-          "published": "Wed, 28 Oct 2026"
+          "published": "Mon, 02 Nov 2026"
         },
         {
-          "title": "Key facts: Amazon.com, Inc. keeps $220B 2026 capex; AWS +39% YoY - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObVJQTXZFQkJxZjhjcjVJZUNqTUtfNlZPYnFaSDFmem03Q2dVLWxkeEVHMDB4bE5aX3ZFd0tCcTVtczdUanhSSlhwUC1oSlVwbXV6RC0taGhCX19oaGdaSVRNOUE5YzhLVWRPamJkaDR2aVRyLU91cU5RamIyMW5GNDg0OGQzY0RWaUdKNWpfVVVKYmtpLVhMVW5NZVRPOVhzWjg1enhzLW4tdk5vaU5qZTNiU2dSZTFHTFR3?oc=5",
+          "title": "Amazon.com Inc Stock (AMZN) Opened Up by 4.06% on Nov 2: What Investors Need To Know - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcGtxbHRyMkZpMVVQVE1qc3Q3eFZRLU9FaV91Sll4WC1kNHFuR0prdDRZUGxQQUp2bmwxMFVacEV2dkprczRIR2NkV1ByUTBRdENsb2ZBMklMSlp4azhZZjk3WVRReXNfLTdDVG9yQWp3V3JMRDVkT1V6X1U4ZVFEY0JyYWNfQXJwQ1hZ?oc=5",
           "publisher": "Google News",
-          "published": "Sun, 01 Nov 2026"
+          "published": "Mon, 02 Nov 2026"
         },
         {
-          "title": "Amazon Stock Takes a Beating, but Munster Sees AI Powerhouse, Jim Cramer Calls Earnings ‘Very, Very Good’ - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkR0WFFnTmNidWJMNXlUcUszNzNweTBnNVdlV09UQkZDeFV0dVdwXzJCSGJwc1ZRYXU0WC1GbkJlQVJzYXBKT0xuMVZIY0RRcFRfUmJoVmNpZmxXczFGVEpOcGV3ZnlyeFpCa2xVOHZXWjRnN3loRWdENmdud2V3U0k1NmVGVkh5?oc=5",
+          "title": "Amazon.com, Inc. (AMZN) stock price, news, quote and history - Yahoo Finance Australia",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pVXRlZmRBMHBhSTdxWUU2RG93TFF1dTZUYlBuWjZ6cXNuaVlyRnJyc2VNSVRJTnF3VkRQYm90Yi1ReFd6WnZWdTVQcjE3VHEwa3c?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
+          "published": "Sat, 31 Oct 2026"
         }
       ]
     },
@@ -1174,72 +1174,72 @@
           108.0
         ]
       },
-      "price": 130.67,
-      "market_cap_b": 396.1,
+      "price": 119.22,
+      "market_cap_b": 361.4,
       "revenue_yoy": 29.6,
       "gross_margin": 64.0,
       "operating_margin": 35.6,
       "fcf_b": -45.85,
       "debt_to_ebitda": 4.91,
-      "market_cap_usd_b": 396.1,
+      "market_cap_usd_b": 361.4,
       "arxiv_papers": [
         {
-          "title": "When Does Heterogeneity Pay Off? Understanding GPU-WSE System Complementarity",
+          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
+          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
+          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41919v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Challenges in the verification of MOSAIX ASIC for ALICE ITS3",
+          "summary": "The MOSAIX is a wafer-scale, full-functionality prototype ASIC for the ALICE Inner Tracking System (ITS3) upgrade, implemented in $65\\,\\text{nm}$ stitching technology. It integrates 144 independently powered pixel matric...",
+          "authors": "Simone Scarfi, Matteo Lupi et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41916v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "MemX: Memory-Aware Automatic Parallelism for Cross-Vendor Heterogeneous GPU Training",
+          "summary": "Cross-vendor heterogeneous GPU clusters are increasingly used for large-scale model training. However, their GPUs differ substantially in compute power, memory capacity, and interconnect characteristics. Existing automat...",
+          "authors": "Lin Meng, Yuzhong Sun et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41525v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Characterizing Performance Tradeoffs in Heterogeneous GPU-Wafer-Scale Accelerator Systems",
           "summary": "As AI accelerator architectures become increasingly diverse, integrating different architectures into a unified system is emerging as a new heterogeneous computing paradigm. GPUs and WSEs differ substantially in compute,...",
           "authors": "Ziyu Hu, Zhijing Ye et al.",
           "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.39222v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "MCCL: Training Pytorch models across a fleet of Macs at Skywalker Sound",
-          "summary": "Skywalker Sound, a premier audio post-production facility, operates more than 200 M4 Max Mac Studios on a 10Gb Ethernet network. When not in use by artists, these machines sit idle, representing massive untapped unified ...",
-          "authors": "Kevin Sasso, Chris Fiegel et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.39029v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "A Case Study of a Multi-Agent Kernel-Optimization Loop That Learns a New AI Accelerator",
-          "summary": "Frontier large language models write correct CUDA kernels for most single-operator benchmark tasks, yet their accuracy collapses on accelerators whose architecture and programming language they have rarely seen. We prese...",
-          "authors": "Byonggon Chun",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38329v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Converting a superseded Raith electron beam pattern generator into an unattended Critical Dimension SEM",
-          "summary": "Design-based metrology of academic electron beam lithography (EBL) is bottlenecked by low-throughput imaging. For integrated photonics, where nanometre-scale structural variation can significantly limit device performanc...",
-          "authors": "Will Gunn, Han-Hao Cheng et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38203v1",
+          "link": "http://arxiv.org/pdf/2610.39222v2",
           "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Is Oracle Stock Worth Buying as Autonomous Database Use Keeps Growing? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVTJ4QVJGUUc5VkFJR2ZkZXhicTZnNF9mLVpwbkV6R29LS1dqeHRVWnlrcGZreWtENTNUazNjb3JJdDlEY2NKSUdHdDR2b1RxelhkM0NDYWVHY0o5a3VFUFFWNk40NzNrSXdXOV94VmlBUklKMHR1dVhydnJKZWpSQnAyMnhVdDhUOWZtMjlOdGh3Tkgtd3BURUdRTnFNODdyelNB?oc=5",
+          "title": "Oracle taps investors for $20 billion to finance AI expansion - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OVGUyeXVqQlVYMEx3TEhEVHY5ekZLX3paamdqNUF1ek80VE9RZVhuSFl2d3dsVkF6T2JyVFdJdF8xR1FuWU5EdU9OWG03SmRoLUloaEFCc3pGLXFxN0FyOUNnVkM3T3prb1NMYXBOanNGT2RMYjNxcTZsdUEwbGs?oc=5",
           "publisher": "Google News",
-          "published": "Wed, 28 Oct 2026"
+          "published": "Mon, 02 Nov 2026"
         },
         {
-          "title": "ORCL Stock Has a Solid Base to Build on After Q1, Especially as Oracle Announces Key AI Partnerships - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaVJCUTNYZng0Tkk5NHQxeWx2TnJ4dG5HbktUb1BVeG5SNmhYWHlldHFHOF9UUVFxcGhoR0EwSkdrQUkwTDN5ZlVZWEN3aHdXcHZoZHg1YVpLZXgxTUZOak9IUklwZ2JVTkJmR1NnT0F4ODZpQlRUeXl3Wng2VFowUFNxYlQ3dDRPTHFNOFhMa1hiZkNodG8xSWs0Q2RLSmJMSVdFWWtkYllfbDNCWlZVR1IzZjBkOEpOQ1VpWUNhbDdBWjZXVkhDb0dIT0NxYm9LWFNGMzdCMmtLTU0?oc=5",
+          "title": "Oracle (NYSE: ORCL) stock price forecast: $20 bn AI financing raises debt and dilution risks - Beinsure",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZnE4TGhjaGdOV2x6THE2UG9LbTU4Q2tBQmFTVTFMYXItTEx5N2puT0ZCVnV3MUE5dHpSRFRIWEY0QlJkZnhCcy1jWHdJTFplY2Fzal9UUGFmYkZxTUxPWGtYRVNZenRrZXNwVG1pY1pwaVZ1UUtVRUZaREg3b2M1TjJTSmp1OEtTemYyRA?oc=5",
           "publisher": "Google News",
-          "published": "Sat, 31 Oct 2026"
+          "published": "Mon, 02 Nov 2026"
         },
         {
-          "title": "Oracle jumps 11% on expanded AI partnerships (ORCL:NYSE) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVTR0akFpVlJ0OXJFcUp1ZUgxQVk4cHF1eTNlNElSVjdwbkZlSmhsV1hkSGdsS1d1by1pSDZZa29xSVRKU0FKU1ZaQm02M2ZEcEZsVjBNMkxrbjZFRGdzR1F4ZTVhN2wtQnlsck1NSGRsZl9vVTdpajhmempGNXRoLWt6a0xyWWlGYzU1RzlTXy1MRU0?oc=5",
+          "title": "Oracle : Our commitment to openness in AI data center communities - www.marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdzdQRXU3ZHVla0tSUS1OTWQyX2h2MHhwTndwX1NIY3Y0UzNKUGpYT2hoZlVibHYxUXBLZlRMdC15SVIzVVhvNkYzb0k3YVZEOG1kNWVlaFAtVlctTGIzUFdOdVVveW9QNUdabFVobDhscGpFRHFLYWJGbEx4bWw0ak45WnNDSzNnZ0lCUGg3YXFlc2E1RGk2OUN6ZU1JWFlLbkFWdE1jbVNNY1hrbGRub1dMTlpWcVE?oc=5",
           "publisher": "Google News",
-          "published": "Wed, 28 Oct 2026"
+          "published": "Tue, 03 Nov 2026"
         },
         {
-          "title": "Oracle's AI Spending Spree May Finally Have an End in Sight - Oracle (NYSE:ORCL) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTklndXhlZFNtRGdwdUw1M3YtWVItNFZjU0lKdTFKTmgwUVRxeHFJSGdXUElKSlFSMFdkV3dENGtIZnJGenY4M3ptRC13QTRQZTZSRnZrWER4bm1XclA5TUxHcy1OSHRLZXhyVURVQmw1TS1idHNCc1c3VzAxX1QwVjQ4bGx3dmdnV0Y4TllTdHBBZS1jSm9fZ0l0RVJzdER0ZWR1ZGdWbGhQc1poMnU3Zw?oc=5",
+          "title": "Oracle is raising $20 billion in new bonds and stock to fund its AI buildout - Quartz",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TdGk5UWduQndyZWR4U2g0aWtSVjYxV2NOZFFmRWUxNVQwTGxVRFRqeTFJQUxkeXJobkxrLWFNSWJURy0wcExUUUdnR2ViQ1phTF9TUG1jY0R6b1N5TVV5VkpzM3M1WTg5a1E?oc=5",
           "publisher": "Google News",
-          "published": "Thu, 29 Oct 2026"
+          "published": "Mon, 02 Nov 2026"
         }
       ]
     },
@@ -1302,72 +1302,72 @@
           4.9
         ]
       },
-      "price": 184.11,
-      "market_cap_b": 442.4,
+      "price": 178.34,
+      "market_cap_b": 428.6,
       "revenue_yoy": 92.8,
       "gross_margin": 84.8,
       "operating_margin": 47.1,
       "fcf_b": 2.16,
       "debt_to_ebitda": 0.08,
-      "market_cap_usd_b": 442.4,
+      "market_cap_usd_b": 428.6,
       "arxiv_papers": [
         {
-          "title": "Experts Exhibit Structured Redundancy: Structure-Preserving Expert Pruning for Mixture-of-Experts Large Language Models",
-          "summary": "Sparse MoE mechanism significantly improves the trade-off between model capacity and inference efficiency. However, practical deployment still requires storing all experts, resulting in substantial memory overhead. We sh...",
-          "authors": "Tian Wang, Yongding Tao et al.",
+          "title": "HiGenTrans: Hierarchical LLM Knowledge Transfer for Generative Recommendation",
+          "summary": "Generative recommendation promises to simplify conventional multi-stage recommender systems by generating item Semantic IDs (SIDs) autoregressively. However, two obstacles limit its effective- ness in industrial settings...",
+          "authors": "Zhuohang Jiang, Yuxin Chen et al.",
+          "published": "2026-10-31",
+          "link": "http://arxiv.org/pdf/2611.01129v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "Answer Correction with Verifiable Rewards: A Gemma-Family Study of Multi-View Driving QA",
+          "summary": "Multi-camera driving question answering provides a discrete test of vision-language models, but post-training gains can reflect changed selected answers or improved answer extraction. We investigate this distinction with...",
+          "authors": "T N Rickesh, Pranav Vinodh et al.",
+          "published": "2026-10-31",
+          "link": "http://arxiv.org/pdf/2611.00828v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "Integer-Exact Microscaling: Running MXFP4 Language Models on INT8 Matrix Units",
+          "summary": "On hardware whose fastest matrix datapath is INT8$\\times$INT8, such as the Neural Accelerators of Apple's M5 GPUs, 4-bit weights must become INT8 operands. Existing MXFP4 kernels already map FP4 (E2M1) values to integers...",
+          "authors": "Shinyoung Kang, Junhyung Ahn et al.",
+          "published": "2026-10-31",
+          "link": "http://arxiv.org/pdf/2611.00486v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "PRISM-Net: Dynamic Routing Network with VLM-Guided Disentangled Attribute Distillation for Explainable Fine-Grained Product Retrieval",
+          "summary": "Fine-grained visual product retrieval in large-scale e-commerce multimedia systems demands discriminative representations capable of simultaneously resolving macro-level category semantics and micro-level visual attribut...",
+          "authors": "Chung-Ming Lo, Che-Wei Chang",
           "published": "2026-10-30",
-          "link": "http://arxiv.org/pdf/2610.41236v1",
-          "category": "LLM MoE"
-        },
-        {
-          "title": "Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned Mixture-of-Experts LLMs",
-          "summary": "As Mixture-of-Experts (MoE) large language models are increasingly deployed in distributed environments, from federated learning to edge-cloud systems, their architecture harbors an underexplored landscape of security vu...",
-          "authors": "Fei Wang, Baochun Li et al.",
-          "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.41039v1",
-          "category": "LLM MoE"
-        },
-        {
-          "title": "Multi-View MoE: Letting Every Router Shape Expert Computation",
-          "summary": "Sparse mixture-of-experts (MoE) models expand parameter capacity by activating a small subset of experts per token. Expert selection directly affects model capabilities under a fixed active-expert budget. Dense evaluatio...",
-          "authors": "Zelin Zhao, Tianchi Ma et al.",
-          "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.40577v1",
-          "category": "LLM MoE"
-        },
-        {
-          "title": "On the Fundamental Limits of Prefill-Based Decoding Length Prediction",
-          "summary": "Predicting how many tokens a large language model (LLM) will decode, using only prefill-phase hidden states, is a key primitive for inference scheduling. We show that current benchmarks conflate predictor quality with ta...",
-          "authors": "Haowen Shi, Xuzhe Yan et al.",
-          "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.40541v1",
+          "link": "http://arxiv.org/pdf/2611.00458v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "Palantir Technologies (PLTR) Deepens Sovereign AI Deployments Across Sensitive Industries - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZEc4RHBfUENTc3FkdTFxdkZVRE1ocW5MVER4R3I5bzdpZ2dzQTFDNHBTaGNsSnhsTXpwVnV5Z3NfSU5wQnFBSEhYMXRlVmJmbXU5dzI4d1lVbEl6WEgzRHhVa2o5SjI1N3dpbHlwRVo0REtVOU8wbDRIcEwzeUZfSHQtM0FZZVl3ZktoUkR4cjdMMGFZcWIxWHJmT0FrWGFsUC1vMjJud2NPQm1v?oc=5",
+          "title": "‘Captain Of The Football Team’: Alex Karp Says Palantir’s AI Appeal Is Surging - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQay1URmxNcFVjbG1DYTBTSTRKZWJMLXhYUU9Wb01udHNwS21sUlJMalp2V0ZxVjRMRkFhbW5pNjNUTnItS2laaU96SHhOTXRHNkhRNXVZUGg0U0YwbThxNVJJT3U5S2FnQUdFVG1KSDRoNHRwdXo3LU5GYm93VTJiT2lJaFNLb1cxR1dGWmp2Q1JRMkJCU3ZVM0ZWT3A?oc=5",
           "publisher": "Google News",
-          "published": "Sun, 01 Nov 2026"
+          "published": "Tue, 03 Nov 2026"
         },
         {
-          "title": "Apple, Palantir On Deck Monday As AI Demand, iPhone Growth Face Test - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzE3cVN4bGdJU2QxZ3ZFUWlJN29pM2ZJUWNRNExGNklTVktzRlFkVzcxRHpmR19vRzRvRmh0MnpabnFWdTNfMTI1d0R3NFFuN1hNUEY2Zm95NE5zS1E2MXZQdWpFbDBtUHNhZFZFUkx2c2VaekQ3S1hmU2w1ZFNvQVhLbG1GR18tcmIwOWlDS1lBUHJKcXBmT0c5dkVBOXVQUHVOcTc2VmRHOTFVSjFUYQ?oc=5",
+          "title": "Palantir earnings reveal a major AI turning point - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT0p1V1dvOTdvNldLNUVzdVZRcjh2TTJRQ1JtQzg5eDZQaWEtNmxUZGJlSnktSFhtc1BZNTg3OW80Y3Qtd0xmSl9KWm1Md2NITXlZWDMwUnhMZVR6OXpDU01RbGlpaHRYSGZZMF9ZUEE5WHpfaHVVWXNXbmtKbDREMGJCcTFNQjZJaDVLZXdhbWFaSE52UGpv?oc=5",
           "publisher": "Google News",
-          "published": "Sun, 01 Nov 2026"
+          "published": "Mon, 02 Nov 2026"
         },
         {
-          "title": "Palantir (PLTR) Stock Gets Fair Value Bump After Analysts Lift AI Driven Targets - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcUhPWUc1bFV5MDRTX09pUnN6S1NpQVFsZmt4NHIwbWtMdkxZeWtVYUd3WTZZMkxQWFF1QXVVQ05uWjA4NHNkVUlIMmNxNU1TVDFtUmk3cE5nd1NzZG1VdDNJcVQxaUlRTWFpeVl0UXlDV1JGanBaTERITHY4SmJCc2VRMTBVQ0Vud25EREU2UmtVNXptUzZQaGJR?oc=5",
+          "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wdkIzdGt1UWFvU0E0ZUlmQWhkdG5GaWJvZVc4UDZYaHFnYU9yOWNkdU5xekxFTDJWTERpcDJSN2VIcWI0M01qYlBHSVRhU2FBaE1VOEU1VHJodFgtX2FhYm5IQjBnMkpDSWNlWktFWmlrdFRJSlHSAXtBVV95cUxQVzlMd0xTcFNwb2dGc3dTR1RLYzVWUV9qcGFmRV9TM19rVm9uLWY5OTBkVXRHVFhPa0REbko0dENhaDBNbHduU2pwN2lkT0p3Tll6N0ZPeEQ1emphekVOdlYxSHM4b0NUalZaZGZmM2J6aTVfcnJ4UHQycEU?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
+          "published": "Mon, 02 Nov 2026"
         },
         {
-          "title": "Palantir stock skyrockets 29%, narrowly missing its best day ever after 'otherworldly' results - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdHBrdnFrOTU4RUotWl9EYmYyMVljRU5UYXlCNDN3NHZFSVdHTEwtamZXYUJMOHJocWVGTWFnRGVxZTVCbmNpWEN0TmcxbXN6S001a0FteGpMdWhGREt2d1lNY1JhbGFUbGVfM3NCSGFvcC00Zko1ZkIxbkwtQkZyMjd30gGHAUFVX3lxTFAwT0txNmtSSTN3NlNrS0xTWDRRdGhVU1Z5ZkZoWEg1WDhvT2k0QXZuNGlEWjNRdnBsODNMSHVwWmVsQ0U4dUtTemg0UjJWMUlfTzd1djBwT2g4WXZuWTMzaVJEb0p2SXFyc1ZYOFVpYWZyRm5JeUVYb1VMYTBlS1Z1OUlmcFozUQ?oc=5",
+          "title": "Palantir's U.S. Revenue Soars 119% as Commercial Revenue Surpasses Government Revenue for the First Time. Here's Why Its Growth Is Still Surging, Even as Other AI Stocks Falter - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNLU5YRmNuSTB1TThlOUY4TXpfQzh6b3lIbGJYd3F2Z0dBZV84Z2tUYW0tZmVwS2RZNnREZmxnd3h3MkNMNXFyRVdsTXZkX0QtSVl3Wi00aXVwX2tXNWpqeEIxNXFVY0J2QUdvbW5aMFhhN0h5UDU4c1FxNlVETVlRQkRDb09VN3lrWE1kWTV4OUdFTnlSVGJIMmp5M0ZBbG5QblJHbEZ0V1h6bTdoVmo0UjMza19obktENkZtQnhzdmdQQVRGdTBSdkk0SnZtY3I1MUdYbmVnY1pJUkRDMFdtZ3JXZWstd0ZzVXJkLUtwMnJ4TEpyaUg0VGF3eVlKY3RoZFNSdlB4TVBJQ0J1R3NjNU1mdS1ubU5TTDF0RXFfUFdSSkRoZkxUVFF2eGFYVUt3bldETkVIRQ?oc=5",
           "publisher": "Google News",
-          "published": "Tue, 04 Aug 2026"
+          "published": "Mon, 02 Nov 2026"
         }
       ]
     },
@@ -1430,14 +1430,14 @@
           2600.0
         ]
       },
-      "price": 2340.0,
-      "market_cap_b": 60681.7,
+      "price": 2315.0,
+      "market_cap_b": 60033.4,
       "revenue_yoy": 50.9,
       "gross_margin": 65.8,
       "operating_margin": 58.7,
       "fcf_b": 1203.07,
       "debt_to_ebitda": 0.23,
-      "market_cap_usd_b": 1896.3,
+      "market_cap_usd_b": 1876.0,
       "arxiv_papers": [
         {
           "title": "FrontGI: Architecture-Aware Parallel GNN Inference on Chiplet-Based Multicore Systems",
@@ -1474,6 +1474,12 @@
       ],
       "news": [
         {
+          "title": "Taiwan Semiconductor Manufacturing Company Limited (2330.TW) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91bDJrWDNGNE1iUENOZUVOcjlGQWszZXNiQXpFazdGV1ZLV1RCRG0tbTFrMEJPTW11b0FhOWRkZFNmUXdWdkZNVkZRemhiVDBpbUFBaGZaQnhxTW9BREdVMWVGWGxzUQ?oc=5",
+          "publisher": "Google News",
+          "published": "Mon, 02 Nov 2026"
+        },
+        {
           "title": "Betting $1,000 of Spare Cash on AI: Foreign Media Sees Long-Term Value in TSMC and ASML Over the Next Decade - BigGo Finance",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4eXhvcUhsSFpkQVF6Um9CU093VWNkUGhLZGhBcDNCMG5nc2FCREhNV1pjelk1Y2JHWExoLVRCRllGODgzLXBCQ0NucXl3N3VucDFBMzZtMnF0ODlSb0sxc1JhMTdxZkZqLW5yeVgzZi1vem9lOUE?oc=5",
           "publisher": "Google News",
@@ -1486,16 +1492,10 @@
           "published": "Tue, 27 Oct 2026"
         },
         {
-          "title": "Intel's Near 30% Plunge Sparks Storm: Taiwan Stocks Open Down Over 800 Points, TSMC Falls Below NT$2,325 - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qbllVNENSbEhJeERXM0pMV3NOT0dCUE55T3hYYVpNS19vcGI2cXROUXpLeFFMSllVazRJbG04bWhBVlozN05PV092Ml9INGhPYjM2VWlnaXU1NVZpMmF4QS0wXzFhRERyMEtadmlqWHhVc1ZkTlE?oc=5",
+          "title": "TSMC to invest another $100 billion in US as Q2 profit blows past forecasts - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUk5mYmNUVFNRQ1VkeFE1RHUyQzZEb1YzRncyMVVTR2VSdVZiaFJRM0Q3RWNXZUl6c3JQV2xldkowNmdKUTNzVmZvVGt3NDZjZy1lN0I3S1Y4a2dvT2psbUNvVFhjWW12ckZLREdHeWlweUgzbGJ6UG0za25BRGlpcVlhMkJpRHFkVVFZWWRZeFVIV18xelNBV2x1QWF3aFAyY1NydG1pWmpCWDJNY1ZF?oc=5",
           "publisher": "Google News",
-          "published": "Mon, 02 Nov 2026"
-        },
-        {
-          "title": "TSMC to raise advanced chip packaging prices by up to 20%, report says - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXprTXl0Q2V4bzI5bEh4M0kwNDNsSzJnOWxFMFVhLUlRWmVWMm5CS2YtVWNXVkEtQWx3S1lNZlVmTWtyNVFRak5ha05XR3VEeW8wVWdJWmdGZkFYMDAxOVpwc2dzTmJqU0ZaVnJvU2pOYm1VM3Q5SGlUOFYzQ2hWdERGdldhUHZ1QnN3WHlOU2tpN0tqSVF5amljQS1WOUk?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 27 Oct 2026"
+          "published": "Thu, 16 Jul 2026"
         }
       ]
     },
@@ -1558,45 +1558,45 @@
           75.0
         ]
       },
-      "price": 3425.0,
-      "market_cap_b": 295.6,
+      "price": 3200.0,
+      "market_cap_b": 276.2,
       "revenue_yoy": -16.5,
       "gross_margin": 37.2,
       "operating_margin": 21.6,
       "fcf_b": -2.56,
       "debt_to_ebitda": 0.04,
-      "market_cap_usd_b": 9.2,
+      "market_cap_usd_b": 8.6,
       "arxiv_papers": [
         {
-          "title": "When Does Heterogeneity Pay Off? Understanding GPU-WSE System Complementarity",
+          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
+          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
+          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41919v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Challenges in the verification of MOSAIX ASIC for ALICE ITS3",
+          "summary": "The MOSAIX is a wafer-scale, full-functionality prototype ASIC for the ALICE Inner Tracking System (ITS3) upgrade, implemented in $65\\,\\text{nm}$ stitching technology. It integrates 144 independently powered pixel matric...",
+          "authors": "Simone Scarfi, Matteo Lupi et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41916v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "MemX: Memory-Aware Automatic Parallelism for Cross-Vendor Heterogeneous GPU Training",
+          "summary": "Cross-vendor heterogeneous GPU clusters are increasingly used for large-scale model training. However, their GPUs differ substantially in compute power, memory capacity, and interconnect characteristics. Existing automat...",
+          "authors": "Lin Meng, Yuzhong Sun et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41525v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Characterizing Performance Tradeoffs in Heterogeneous GPU-Wafer-Scale Accelerator Systems",
           "summary": "As AI accelerator architectures become increasingly diverse, integrating different architectures into a unified system is emerging as a new heterogeneous computing paradigm. GPUs and WSEs differ substantially in compute,...",
           "authors": "Ziyu Hu, Zhijing Ye et al.",
           "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.39222v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "MCCL: Training Pytorch models across a fleet of Macs at Skywalker Sound",
-          "summary": "Skywalker Sound, a premier audio post-production facility, operates more than 200 M4 Max Mac Studios on a 10Gb Ethernet network. When not in use by artists, these machines sit idle, representing massive untapped unified ...",
-          "authors": "Kevin Sasso, Chris Fiegel et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.39029v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "A Case Study of a Multi-Agent Kernel-Optimization Loop That Learns a New AI Accelerator",
-          "summary": "Frontier large language models write correct CUDA kernels for most single-operator benchmark tasks, yet their accuracy collapses on accelerators whose architecture and programming language they have rarely seen. We prese...",
-          "authors": "Byonggon Chun",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38329v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Converting a superseded Raith electron beam pattern generator into an unattended Critical Dimension SEM",
-          "summary": "Design-based metrology of academic electron beam lithography (EBL) is bottlenecked by low-throughput imaging. For integrated photonics, where nanometre-scale structural variation can significantly limit device performanc...",
-          "authors": "Will Gunn, Han-Hao Cheng et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38203v1",
+          "link": "http://arxiv.org/pdf/2610.39222v2",
           "category": "AI Accelerator"
         }
       ],
@@ -1686,15 +1686,23 @@
           150.0
         ]
       },
-      "price": 1595.0,
-      "market_cap_b": 891.5,
+      "price": 1525.0,
+      "market_cap_b": 852.3,
       "revenue_yoy": 57.6,
       "gross_margin": 18.7,
       "operating_margin": 15.0,
       "fcf_b": 3.02,
       "debt_to_ebitda": 0.21,
-      "market_cap_usd_b": 27.9,
+      "market_cap_usd_b": 26.6,
       "arxiv_papers": [
+        {
+          "title": "Optimal Fan-Out and Break-Even Routing Loss in Waveguide-Integrated Ge-on-Si SPAD Arrays",
+          "summary": "Splitting a waveguide mode over several Ge-on-Si single-photon avalanche diodes (SPADs) relieves dead-time saturation but multiplies dark counts. We quantify this trade-off with the asymptotic count-based information rat...",
+          "authors": "Thammarat Yawisit, Pittaya Pannil",
+          "published": "2026-10-31",
+          "link": "http://arxiv.org/pdf/2611.01111v1",
+          "category": "Silicon Photonics"
+        },
         {
           "title": "Versatile Photonic Encoding Platform with Selectable Back Ends for Automotive Edge Processing",
           "summary": "The increasing diversity and computational demands of automotive edge functions require hardware architectures that support heterogeneous processing while limiting implementation complexity and system overhead. We invest...",
@@ -1718,17 +1726,15 @@
           "published": "2026-10-26",
           "link": "http://arxiv.org/pdf/2610.35410v1",
           "category": "Silicon Photonics"
-        },
-        {
-          "title": "RADICAL: Reconfiguration-Aware Direct-Connect AI Cluster using Spatial-and-Wavelength Selective Switching",
-          "summary": "We present RADICAL, the silicon-photonic-enabled Reconfiguration-Aware Direct-Connect AI Cluster that integrates a custom spatial-and-wavelength selective switch (SWSS) with the Linux network stack. RADICAL deploys a pac...",
-          "authors": "Brett George, Weiyang Wang et al.",
-          "published": "2026-10-22",
-          "link": "http://arxiv.org/pdf/2610.31941v1",
-          "category": "Silicon Photonics"
         }
       ],
       "news": [
+        {
+          "title": "Compal's July Revenue Hits NT$81 Billion, a Record for the Month; AI Servers to Be Q3's Main Growth Driver - finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yLXpTVDRTQmNWZk9vNG1oeTBrVVhOQUhPTXlfUFRWMkVQSC01UldSOVo3OEttWGVyeDZnd1dYaFhCcC11OU12MDZGNlNEbXVBdVhTc3ZkdE1jZ2NzNkhqNGM4YlNUcllac0x0aTdYYjB4UzRlU0E?oc=5",
+          "publisher": "Google News",
+          "published": "Fri, 07 Aug 2026"
+        },
         {
           "title": "Accton Technology Corporation (2345.TW) stock price, news, quote and history - Yahoo Finance UK",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RcjhWYnlJYTRlSFY4Tlo0M0ZJaEYxTzB6ZUVRNlp1UHduSF9DdzNyc29zRDJISWRZTkZoSkN1TjZNbXZ0cExWZUtTVmpOUEVTZzI0TThB?oc=5",
@@ -1742,16 +1748,10 @@
           "published": "Thu, 11 May 2023"
         },
         {
-          "title": "Compal's July Revenue Hits NT$81 Billion, a Record for the Month; AI Servers to Be Q3's Main Growth Driver - finance.biggo.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yLXpTVDRTQmNWZk9vNG1oeTBrVVhOQUhPTXlfUFRWMkVQSC01UldSOVo3OEttWGVyeDZnd1dYaFhCcC11OU12MDZGNlNEbXVBdVhTc3ZkdE1jZ2NzNkhqNGM4YlNUcllac0x0aTdYYjB4UzRlU0E?oc=5",
+          "title": "Accton Technology (TWSE:2345) - Stock Analysis - Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40Mm4zTlhLcjZqencxcGhIOVh5ZXJaSXltTW9qQmI5OHdHSktKSHlmczFnMnFneUhsUkFnRWRPZUlEQUJmRU9SLU05R3dJcW15NHgtcnZaRXFocUhjVGVrMmYxazVvNFdVWGJvd09GcmJTMnZjVEZvUWpzYw?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 07 Aug 2026"
-        },
-        {
-          "title": "Accton Technology Corporation (2345.TW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14aVc1NGU1S0FOOXJGTG9XVk83ODVWY1V4Q3NhX2dpS3E5a3VFX0tvZ1o4eTdQYTF4RzdSVHJucDJfSmFUZmlndHU2ODMyN1NXaWE1QTBB?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 06 Jun 2017"
+          "published": "Mon, 03 May 2021"
         }
       ]
     },
@@ -1814,45 +1814,45 @@
           440.0
         ]
       },
-      "price": 1795.0,
-      "market_cap_b": 997.7,
+      "price": 1800.0,
+      "market_cap_b": 1000.4,
       "revenue_yoy": 26.0,
       "gross_margin": 8.2,
       "operating_margin": 7.3,
       "fcf_b": -71.74,
       "debt_to_ebitda": 2.18,
-      "market_cap_usd_b": 31.2,
+      "market_cap_usd_b": 31.3,
       "arxiv_papers": [
         {
-          "title": "When Does Heterogeneity Pay Off? Understanding GPU-WSE System Complementarity",
+          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
+          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
+          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41919v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Challenges in the verification of MOSAIX ASIC for ALICE ITS3",
+          "summary": "The MOSAIX is a wafer-scale, full-functionality prototype ASIC for the ALICE Inner Tracking System (ITS3) upgrade, implemented in $65\\,\\text{nm}$ stitching technology. It integrates 144 independently powered pixel matric...",
+          "authors": "Simone Scarfi, Matteo Lupi et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41916v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "MemX: Memory-Aware Automatic Parallelism for Cross-Vendor Heterogeneous GPU Training",
+          "summary": "Cross-vendor heterogeneous GPU clusters are increasingly used for large-scale model training. However, their GPUs differ substantially in compute power, memory capacity, and interconnect characteristics. Existing automat...",
+          "authors": "Lin Meng, Yuzhong Sun et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41525v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Characterizing Performance Tradeoffs in Heterogeneous GPU-Wafer-Scale Accelerator Systems",
           "summary": "As AI accelerator architectures become increasingly diverse, integrating different architectures into a unified system is emerging as a new heterogeneous computing paradigm. GPUs and WSEs differ substantially in compute,...",
           "authors": "Ziyu Hu, Zhijing Ye et al.",
           "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.39222v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "MCCL: Training Pytorch models across a fleet of Macs at Skywalker Sound",
-          "summary": "Skywalker Sound, a premier audio post-production facility, operates more than 200 M4 Max Mac Studios on a 10Gb Ethernet network. When not in use by artists, these machines sit idle, representing massive untapped unified ...",
-          "authors": "Kevin Sasso, Chris Fiegel et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.39029v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "A Case Study of a Multi-Agent Kernel-Optimization Loop That Learns a New AI Accelerator",
-          "summary": "Frontier large language models write correct CUDA kernels for most single-operator benchmark tasks, yet their accuracy collapses on accelerators whose architecture and programming language they have rarely seen. We prese...",
-          "authors": "Byonggon Chun",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38329v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Converting a superseded Raith electron beam pattern generator into an unattended Critical Dimension SEM",
-          "summary": "Design-based metrology of academic electron beam lithography (EBL) is bottlenecked by low-throughput imaging. For integrated photonics, where nanometre-scale structural variation can significantly limit device performanc...",
-          "authors": "Will Gunn, Han-Hao Cheng et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38203v1",
+          "link": "http://arxiv.org/pdf/2610.39222v2",
           "category": "AI Accelerator"
         }
       ],
@@ -1871,15 +1871,15 @@
         },
         {
           "title": "Wiwynn Corporation (6669.TW) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hUHdZVTlUYk9fNGg5S1ctN3JqVXJDcW0xcnNyeXNXYk82eEoyUEJSWXZwMWtlVlhCN1FsOTljNmRacTVuMGVGWWxqQUk5SHI2VTJ5aEtB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JZVo5MGRJMTllMTlxTXpldlFaYkJ2emVvZThwMW9MVi1NZUV5UVJ5V1MzQnU5QUFCb0s0bl82RUZrMkV1TkNpT1ZXVVdnWlBabzc1amF2dnltbGNqNTNTVFpqbXd1QQ?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 27 Mar 2020"
+          "published": "Wed, 27 Aug 2025"
         },
         {
-          "title": "GPT-6 Astra Ignites AI Compute Reassessment as Wiwynn's Fractional Share Remedy Fails to Quell Investor Anger - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PbTZmZVpsbktSLUE0ZWlJOUxHcmtiRzF5bG5lRWsyTlYzZFdSbE9xRlBMWVpsUnVhNmVMa1RCRHZhUzduV0I3VXZaaUVDZ090dFl4ZkptWk9rZkJTa1J3c0xnODlQUGY4NGxGMjBXRmdTbjY0U2c?oc=5",
+          "title": "Wiwynn Opens Advanced Manufacturing Base in Texas, Strengthening Onshore Delivery of AI Servers in North America - BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95NU9oQm81ZG9ZY3VwX2Y4RUV2NEFJSU4zNVRkQUE4ODMwTzNpeDRIRmtjSFBTRnphNXJjekZvWm42RDUtNmtDLXB4RjhQeEtJOVh0SWhIWXJkanE4NmUxTkVPdjNTaG10WVZkQk1iZHJsZ1Ewa1E?oc=5",
           "publisher": "Google News",
-          "published": "Tue, 08 Sep 2026"
+          "published": "Mon, 14 Sep 2026"
         }
       ]
     },
@@ -1942,14 +1942,14 @@
           1380.0
         ]
       },
-      "price": 249.0,
-      "market_cap_b": 3504.5,
+      "price": 246.5,
+      "market_cap_b": 3469.3,
       "revenue_yoy": 40.8,
       "gross_margin": 6.1,
       "operating_margin": 3.8,
       "fcf_b": -182.3,
       "debt_to_ebitda": 3.23,
-      "market_cap_usd_b": 109.5,
+      "market_cap_usd_b": 108.4,
       "arxiv_papers": [
         {
           "title": "FrontGI: Architecture-Aware Parallel GNN Inference on Chiplet-Based Multicore Systems",
@@ -1998,16 +1998,16 @@
           "published": "Fri, 30 Oct 2026"
         },
         {
+          "title": "Hon Hai Posts Q1 EPS of NT$3.56, Achieves Triple Margin Improvement; AI Rack Shipments to Climb Quarter by Quarter - finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zX2RmSzVEaGU1S0htZzlJblczNGVGT1dzS2l3WGRoNUdCQUZraUVZYXpuRWstSGVqeW85aVVObU1xY2JvN2ktV1kydW1jTnZTSXYyMXMzbExGSmpHV2hnWA?oc=5",
+          "publisher": "Google News",
+          "published": "Thu, 14 May 2026"
+        },
+        {
           "title": "Hon Hai: Favorable Short-Term And Long-Term Prospects (HNHAF) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUVNpak9tajNXc1JqZ2IyOHdmSmJvbW9nWkl0c3ZyYld5NGxyMEYxM0VscHJjeVZQRzZWNE5JSmROS240M3hkODA0YW1obWV6QnFYTXB6aUxzaXFBdUN1czlaSlFjLV9COU1wOTJFOTdqNWs3V1ljMjByUTQ2LWxxS0JUME1kUFJTWTVXM2QzbkVaM1JxclJOdg?oc=5",
           "publisher": "Google News",
           "published": "Thu, 19 Sep 2024"
-        },
-        {
-          "title": "Hon Hai Precision Industry Co., Ltd. (2317.TW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6elhNVkthd3I1dnBjWGdJeDJVS29sRk5WUER3ZHpJVGJYbGpWQUU0Wm13VmROTC1UYnRLN2dwaDltazN5TDZRTmh1UVpTNkpuNGFsZ1N3?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 23 May 2017"
         }
       ]
     },
@@ -2070,45 +2070,45 @@
           810.0
         ]
       },
-      "price": 317.5,
-      "market_cap_b": 1301.6,
+      "price": 313.5,
+      "market_cap_b": 1285.2,
       "revenue_yoy": 105.6,
       "gross_margin": 5.5,
       "operating_margin": 3.3,
       "fcf_b": -58.97,
       "debt_to_ebitda": 3.87,
-      "market_cap_usd_b": 40.7,
+      "market_cap_usd_b": 40.2,
       "arxiv_papers": [
         {
-          "title": "When Does Heterogeneity Pay Off? Understanding GPU-WSE System Complementarity",
+          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
+          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
+          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41919v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Challenges in the verification of MOSAIX ASIC for ALICE ITS3",
+          "summary": "The MOSAIX is a wafer-scale, full-functionality prototype ASIC for the ALICE Inner Tracking System (ITS3) upgrade, implemented in $65\\,\\text{nm}$ stitching technology. It integrates 144 independently powered pixel matric...",
+          "authors": "Simone Scarfi, Matteo Lupi et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41916v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "MemX: Memory-Aware Automatic Parallelism for Cross-Vendor Heterogeneous GPU Training",
+          "summary": "Cross-vendor heterogeneous GPU clusters are increasingly used for large-scale model training. However, their GPUs differ substantially in compute power, memory capacity, and interconnect characteristics. Existing automat...",
+          "authors": "Lin Meng, Yuzhong Sun et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41525v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Characterizing Performance Tradeoffs in Heterogeneous GPU-Wafer-Scale Accelerator Systems",
           "summary": "As AI accelerator architectures become increasingly diverse, integrating different architectures into a unified system is emerging as a new heterogeneous computing paradigm. GPUs and WSEs differ substantially in compute,...",
           "authors": "Ziyu Hu, Zhijing Ye et al.",
           "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.39222v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "MCCL: Training Pytorch models across a fleet of Macs at Skywalker Sound",
-          "summary": "Skywalker Sound, a premier audio post-production facility, operates more than 200 M4 Max Mac Studios on a 10Gb Ethernet network. When not in use by artists, these machines sit idle, representing massive untapped unified ...",
-          "authors": "Kevin Sasso, Chris Fiegel et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.39029v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "A Case Study of a Multi-Agent Kernel-Optimization Loop That Learns a New AI Accelerator",
-          "summary": "Frontier large language models write correct CUDA kernels for most single-operator benchmark tasks, yet their accuracy collapses on accelerators whose architecture and programming language they have rarely seen. We prese...",
-          "authors": "Byonggon Chun",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38329v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Converting a superseded Raith electron beam pattern generator into an unattended Critical Dimension SEM",
-          "summary": "Design-based metrology of academic electron beam lithography (EBL) is bottlenecked by low-throughput imaging. For integrated photonics, where nanometre-scale structural variation can significantly limit device performanc...",
-          "authors": "Will Gunn, Han-Hao Cheng et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38203v1",
+          "link": "http://arxiv.org/pdf/2610.39222v2",
           "category": "AI Accelerator"
         }
       ],
@@ -2126,16 +2126,16 @@
           "published": "Wed, 07 Jun 2017"
         },
         {
-          "title": "Quanta Launches Overseas Fundraising, GDR Issuance Could Raise Over NT$77 Billion - finance.biggo.com",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtMHpBby1DZmxUVFBGaW5YMUFMWlVNVUlnQWNCMnF0Q1VhUkpvWjBybFdnRVNDUjE4ekk2dFVjQmpYVUlLbDN2LTNmb0ljUHZQcnNSWmV3cHRRSk4tZVk5dQ?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 16 Jun 2026"
-        },
-        {
           "title": "Bloom Energy and Quanta Expand Partnership for AI Revolution - Fuel Cells Works",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWW53QjRsemJKM1hxR1kwYkNmTDJOZG5vWGlxczdGMkM3N0psUXBsOHBET2NCYWRNTVB1T1lhZUdWOEdBdjFLTjVtMTAyNEZFRDJ1RDhoNmlxRlBtMTVQb0d5dzMxM214Rkx0V1d2MmxWaGdkbmFBazFhMGRiZm1GUUpUY2xXUVU5VmhDbm1reVAwWnRwNmtyb0VLOW41LURTX3JBaE5lRk5CaVlUZnpJZWtjek5sLUQwWmJHTm1PMFY0VGs?oc=5",
           "publisher": "Google News",
           "published": "Mon, 11 Nov 2024"
+        },
+        {
+          "title": "Bloom Energy and Quanta Computer Expand Partnership to Power AI Revolution - Bloom Energy",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRElodExaRGppVzVCYjk1amVab3J2RWgzZE0tbUFWb2hMRXhLWGU4QTFPM1ZiNFpSRktPczFXcFVQbHpHZ2UwWGkwVHN4RVpKRm56YlZiNUgyWEc3ai1iN2NtbUVrM0NDVloyU1M1LWF2dENBQTdHeDd4NnZ2QUJ1QlFEdlhyczhsSVZTempIWTdVUjA4X3loUUw1ZGZhZGhWT0FoVE1HeHBUamxx?oc=5",
+          "publisher": "Google News",
+          "published": "Thu, 07 Nov 2024"
         }
       ]
     },
@@ -2198,14 +2198,14 @@
           78.0
         ]
       },
-      "price": 3025.0,
-      "market_cap_b": 1187.4,
+      "price": 2970.0,
+      "market_cap_b": 1165.9,
       "revenue_yoy": 66.0,
       "gross_margin": 28.9,
       "operating_margin": 27.4,
       "fcf_b": 44.54,
       "debt_to_ebitda": 0.62,
-      "market_cap_usd_b": 37.1,
+      "market_cap_usd_b": 36.4,
       "arxiv_papers": [
         {
           "title": "FrontGI: Architecture-Aware Parallel GNN Inference on Chiplet-Based Multicore Systems",
@@ -2242,28 +2242,28 @@
       ],
       "news": [
         {
+          "title": "Asia Vital Components Co., Ltd. (3017.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sd1NJSDJFcUtZS19peDhvcnRkb3JSMXFtZVZxRVdMUExLTU5naGQ4UjdCVmhhSXlOVDg3Uk14YXJhRXRwWWlhRTZ6Rml1R1Z0dlpUVFJXeEQ1ZGZoUm9ULUEyUEFCdw?oc=5",
+          "publisher": "Google News",
+          "published": "Sat, 31 Oct 2026"
+        },
+        {
           "title": "Taiwan's Investigation Bureau Searches Xinzhuang Plant; Asia Vital Components and Fositek Say Operations, Finances Unaffected - BigGo Finance",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IYlZqejBfalMzYlFmQ3dmMEIyWExabzNjRTJJQjFnLUhjSGdnbmVLa2kyR3ZyM2NSVDRzX3oxVVllWGdjV1FHdVo5bV81S1RlOHFoZWh4QVhuY1I1MUxFdWQzeTFpM0VTZDJac0FxdkJ6V0NrNmc?oc=5",
           "publisher": "Google News",
           "published": "Wed, 07 Oct 2026"
         },
         {
-          "title": "Asia Vital Components Co., Ltd. (3017.TW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOaFNxcnVLcnhPOXowQmdwVy1LS3FjUnh6SUxiVVJKSDlSWDU5WmNEVGVpVVp4Vl9nMjNhMlZNV2NEeVRMMWswV0RqcW1GODhsUk56ckVn?oc=5",
+          "title": "TWSE Returns to COMPUTEX: The World's Fifth‑Largest Capital Market Powering a Full‑Stack AI Ecosystem - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVEl5MldpLWVyNmgtbkhLWFZIa1c0c1FYZDkzNmxZV2pLVjdBMjFncmk0WVg3N0hpc2RuSlVwbEdueGFIcUNUZTB0ZGZ6OE1KMWY3X3RYUUpVSklLY1hUNHZqUU1HbUNncFYtX1NoWWRmbnIyZHNlNVQ5T3JKM0FURHdFaEpqaGdfbjMw?oc=5",
           "publisher": "Google News",
-          "published": "Wed, 24 May 2017"
+          "published": "Tue, 26 May 2026"
         },
         {
-          "title": "Asia Vital Components Co., Ltd. (3017.TW) stock price, news, quote and history - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpSkV5RFc0WTFSVklxVVBCVHhzX2U2Zkx3ZkJKZ0xQalhPbDM1Y2tpWjJjd1VENGhyM2pDdDlrTkhHWnhickMwN3A5NnRBZk9veURIU3Jn?oc=5",
+          "title": "Goldman Sachs Raises AI Server Outlook, Sees Rack-Scale Market Hitting $1 Trillion by 2028 - BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyVEJISjNmX1lQRmRhR1g0YVhhTGQxNF9SdGstTDVJWWJJUHVPcXNFXzVwNDA5TFpqOTZBdHp4TGpjOC1QMXkxbjdaYm12cWg2d0tUZnZEVzFzQlNVblB1TFE2dFI5aWdFSHBEVXcwTjlsNFNNVFE?oc=5",
           "publisher": "Google News",
-          "published": "Mon, 12 Jun 2017"
-        },
-        {
-          "title": "Asia Vital Components Co., Ltd. (3017.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sd1NJSDJFcUtZS19peDhvcnRkb3JSMXFtZVZxRVdMUExLTU5naGQ4UjdCVmhhSXlOVDg3Uk14YXJhRXRwWWlhRTZ6Rml1R1Z0dlpUVFJXeEQ1ZGZoUm9ULUEyUEFCdw?oc=5",
-          "publisher": "Google News",
-          "published": "Sat, 31 Oct 2026"
+          "published": "Mon, 19 Oct 2026"
         }
       ]
     },
@@ -2326,54 +2326,54 @@
           350.0
         ]
       },
-      "price": 1320.0,
-      "market_cap_b": 3428.8,
+      "price": 1295.0,
+      "market_cap_b": 3363.8,
       "revenue_yoy": 31.1,
       "gross_margin": 35.3,
       "operating_margin": 16.6,
       "fcf_b": 44.52,
       "debt_to_ebitda": 0.77,
-      "market_cap_usd_b": 107.2,
+      "market_cap_usd_b": 105.1,
       "arxiv_papers": [
         {
-          "title": "When Does Heterogeneity Pay Off? Understanding GPU-WSE System Complementarity",
+          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
+          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
+          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41919v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Challenges in the verification of MOSAIX ASIC for ALICE ITS3",
+          "summary": "The MOSAIX is a wafer-scale, full-functionality prototype ASIC for the ALICE Inner Tracking System (ITS3) upgrade, implemented in $65\\,\\text{nm}$ stitching technology. It integrates 144 independently powered pixel matric...",
+          "authors": "Simone Scarfi, Matteo Lupi et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41916v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "MemX: Memory-Aware Automatic Parallelism for Cross-Vendor Heterogeneous GPU Training",
+          "summary": "Cross-vendor heterogeneous GPU clusters are increasingly used for large-scale model training. However, their GPUs differ substantially in compute power, memory capacity, and interconnect characteristics. Existing automat...",
+          "authors": "Lin Meng, Yuzhong Sun et al.",
+          "published": "2026-10-30",
+          "link": "http://arxiv.org/pdf/2610.41525v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Characterizing Performance Tradeoffs in Heterogeneous GPU-Wafer-Scale Accelerator Systems",
           "summary": "As AI accelerator architectures become increasingly diverse, integrating different architectures into a unified system is emerging as a new heterogeneous computing paradigm. GPUs and WSEs differ substantially in compute,...",
           "authors": "Ziyu Hu, Zhijing Ye et al.",
           "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.39222v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "MCCL: Training Pytorch models across a fleet of Macs at Skywalker Sound",
-          "summary": "Skywalker Sound, a premier audio post-production facility, operates more than 200 M4 Max Mac Studios on a 10Gb Ethernet network. When not in use by artists, these machines sit idle, representing massive untapped unified ...",
-          "authors": "Kevin Sasso, Chris Fiegel et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.39029v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "A Case Study of a Multi-Agent Kernel-Optimization Loop That Learns a New AI Accelerator",
-          "summary": "Frontier large language models write correct CUDA kernels for most single-operator benchmark tasks, yet their accuracy collapses on accelerators whose architecture and programming language they have rarely seen. We prese...",
-          "authors": "Byonggon Chun",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38329v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Converting a superseded Raith electron beam pattern generator into an unattended Critical Dimension SEM",
-          "summary": "Design-based metrology of academic electron beam lithography (EBL) is bottlenecked by low-throughput imaging. For integrated photonics, where nanometre-scale structural variation can significantly limit device performanc...",
-          "authors": "Will Gunn, Han-Hao Cheng et al.",
-          "published": "2026-10-28",
-          "link": "http://arxiv.org/pdf/2610.38203v1",
+          "link": "http://arxiv.org/pdf/2610.39222v2",
           "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Delta Electronics, Inc. (2308.TW) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jMDJoTHRRVFJ6YVpuTlljNzJoZnJ2aklMTHJvcTYwWDJNalRQWkZZVzdyTldkSlFKTXRKaFhuQ2RkdFFLajNiN09rQ2RZSC1xQnBaWkRn?oc=5",
+          "title": "Delta Electronics, Inc. (2308.TW) stock price, news, quote and history - Yahoo Finance Australia",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5udFBXYW9mZ1p0ODRHbEFieUJ6aHhQcGpHOW5SZHY5blFYNU9EVXRDSS1iMmxXX2kxc0RnMzl1RWVFemNBUmNVNnQ2VHlXMGFGdVdCOWNB?oc=5",
           "publisher": "Google News",
-          "published": "Sat, 31 Oct 2026"
+          "published": "Fri, 30 Oct 2026"
         },
         {
           "title": "Delta Electronics, Inc. (2308.TW) latest stock news and headlines – Yahoo Finance - Yahoo Finance Singapore",
@@ -2382,16 +2382,16 @@
           "published": "Fri, 30 Oct 2026"
         },
         {
-          "title": "Delta Electronics' AI Revenue Share Nears 50%; Chairman Cheng Ping Says Q4 Sales and Margins Will Both Match or Beat Q3 - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjNkkxMXhqQnB5UWJjaUdoaXJjTUt2VDlReXM2Rk5VUWhsS1RpbXd0V1FIb1RaNm5pUXFxUzdkTVNaRHJDWmllQmR1aVU5OXM5VG1pcHZTT3FrQ1hZYk5GM0hZQ2dVMkEtRW5tekppSU1rZUxfMWc?oc=5",
+          "title": "[Delta Electronics FY2026 Q2 Earnings Call] First-Half EPS of NT$17.59 Surpasses Any Full-Year Record; AI Revenue Share Breaks 50%, but Component Shortage Risks Escalate - finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xY3RLTjFmUHdmZ2N6M1hSQ21hWXJuVUpoQmpycXR2S3Q2cDJKZ3c2Vm91aFVubUF0NlVwZk5DdVJtajdyM1lxcDhiQnZibzFFMGpQOUVmWHF4Y1c5SnQ3ZVhR?oc=5",
           "publisher": "Google News",
-          "published": "Thu, 29 Oct 2026"
+          "published": "Thu, 30 Jul 2026"
         },
         {
-          "title": "AI Earnings Shock: Taiwan Stocks Plunge More Than 1,400 Points Intraday, TSMC Falls Below NT$2,400 - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PV3d6RzdlY2FUVkY2MUNyemV5RUpmNXNDQkM5WFFaV1VpU19LeW9uT3VOTE05azNHaTdFdno0OXBYWERCYVR1VlY4MXd4UDVCN19mSGpXNjRnQ0ctQ3YwMTJ2a0RyRV90SnRFeHQ4WnFOY01lUUE?oc=5",
+          "title": "AI Power Demand Surge: Delta Electronics' August Revenue Hits NT$64.5 Billion Record High; Lite-On Technology Reaches 8-Year Peak - BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03YWhnQnA2Q0w2ckUza3o1UzAwRUdIYk9uZWREZm8yaWJtYklrVTBHLUVidVloa3RHZXNNWHNFQmNTVXZnU2dCN0VlWnJlSmV3OE1NRU5wVXhKNVhEZE9NdmppOTlLQXFUVTBUMTkyQjFCZmFGaXc?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 30 Oct 2026"
+          "published": "Wed, 09 Sep 2026"
         }
       ]
     }
@@ -2399,73 +2399,97 @@
   "arxiv_papers_by_category": {
     "LLM MoE": [
       {
-        "title": "Experts Exhibit Structured Redundancy: Structure-Preserving Expert Pruning for Mixture-of-Experts Large Language Models",
-        "summary": "Sparse MoE mechanism significantly improves the trade-off between model capacity and inference efficiency. However, practical deployment still requires storing all experts, resulting in substantial memory overhead. We sh...",
-        "authors": "Tian Wang, Yongding Tao et al.",
+        "title": "HiGenTrans: Hierarchical LLM Knowledge Transfer for Generative Recommendation",
+        "summary": "Generative recommendation promises to simplify conventional multi-stage recommender systems by generating item Semantic IDs (SIDs) autoregressively. However, two obstacles limit its effective- ness in industrial settings...",
+        "authors": "Zhuohang Jiang, Yuxin Chen et al.",
+        "published": "2026-10-31",
+        "link": "http://arxiv.org/pdf/2611.01129v1",
+        "category": "LLM MoE"
+      },
+      {
+        "title": "Answer Correction with Verifiable Rewards: A Gemma-Family Study of Multi-View Driving QA",
+        "summary": "Multi-camera driving question answering provides a discrete test of vision-language models, but post-training gains can reflect changed selected answers or improved answer extraction. We investigate this distinction with...",
+        "authors": "T N Rickesh, Pranav Vinodh et al.",
+        "published": "2026-10-31",
+        "link": "http://arxiv.org/pdf/2611.00828v1",
+        "category": "LLM MoE"
+      },
+      {
+        "title": "Integer-Exact Microscaling: Running MXFP4 Language Models on INT8 Matrix Units",
+        "summary": "On hardware whose fastest matrix datapath is INT8$\\times$INT8, such as the Neural Accelerators of Apple's M5 GPUs, 4-bit weights must become INT8 operands. Existing MXFP4 kernels already map FP4 (E2M1) values to integers...",
+        "authors": "Shinyoung Kang, Junhyung Ahn et al.",
+        "published": "2026-10-31",
+        "link": "http://arxiv.org/pdf/2611.00486v1",
+        "category": "LLM MoE"
+      },
+      {
+        "title": "PRISM-Net: Dynamic Routing Network with VLM-Guided Disentangled Attribute Distillation for Explainable Fine-Grained Product Retrieval",
+        "summary": "Fine-grained visual product retrieval in large-scale e-commerce multimedia systems demands discriminative representations capable of simultaneously resolving macro-level category semantics and micro-level visual attribut...",
+        "authors": "Chung-Ming Lo, Che-Wei Chang",
         "published": "2026-10-30",
-        "link": "http://arxiv.org/pdf/2610.41236v1",
-        "category": "LLM MoE"
-      },
-      {
-        "title": "Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned Mixture-of-Experts LLMs",
-        "summary": "As Mixture-of-Experts (MoE) large language models are increasingly deployed in distributed environments, from federated learning to edge-cloud systems, their architecture harbors an underexplored landscape of security vu...",
-        "authors": "Fei Wang, Baochun Li et al.",
-        "published": "2026-10-29",
-        "link": "http://arxiv.org/pdf/2610.41039v1",
-        "category": "LLM MoE"
-      },
-      {
-        "title": "Multi-View MoE: Letting Every Router Shape Expert Computation",
-        "summary": "Sparse mixture-of-experts (MoE) models expand parameter capacity by activating a small subset of experts per token. Expert selection directly affects model capabilities under a fixed active-expert budget. Dense evaluatio...",
-        "authors": "Zelin Zhao, Tianchi Ma et al.",
-        "published": "2026-10-29",
-        "link": "http://arxiv.org/pdf/2610.40577v1",
-        "category": "LLM MoE"
-      },
-      {
-        "title": "On the Fundamental Limits of Prefill-Based Decoding Length Prediction",
-        "summary": "Predicting how many tokens a large language model (LLM) will decode, using only prefill-phase hidden states, is a key primitive for inference scheduling. We show that current benchmarks conflate predictor quality with ta...",
-        "authors": "Haowen Shi, Xuzhe Yan et al.",
-        "published": "2026-10-29",
-        "link": "http://arxiv.org/pdf/2610.40541v1",
+        "link": "http://arxiv.org/pdf/2611.00458v1",
         "category": "LLM MoE"
       }
     ],
     "Transformer & Attention": [
       {
-        "title": "BiHashFormer: Hash-Driven Dual-Branch Transformer for Efficient Object Detection in HRW Shots",
-        "summary": "Recent advances in gigapixel-level imaging have brought High-Resolution Wide shots to the forefront of research. However, these images present significant challenges: extreme sparsity of foreground, gigapixel-level resol...",
-        "authors": "Jingchen Huang, Wenxi Li et al.",
-        "published": "2026-10-29",
-        "link": "http://arxiv.org/pdf/2610.39937v1",
+        "title": "Fast and Exact Relative-Position Attention via Structure-Aware Kernels",
+        "summary": "Relative-position attention mechanisms offer compelling alternatives to RoPE across various transformer architectures, delivering superior performance in domains such as audio. These mechanisms typically modify attention...",
+        "authors": "Delyan Boychev, Ivo Petrov et al.",
+        "published": "2026-10-31",
+        "link": "http://arxiv.org/pdf/2611.01182v1",
         "category": "Transformer & Attention"
       },
       {
-        "title": "A learning-based method of automatic music transcription",
-        "summary": "Automatic Music Transcription (AMT) seeks to convert acoustic music recordings into symbolic musical notation, a process that remains remarkably difficult for polyphonic piano due to concurrent polyphony, harmonic partia...",
-        "authors": "Phu-Anh-Tai Do, Huu-Hoang Nguyen et al.",
-        "published": "2026-10-29",
-        "link": "http://arxiv.org/pdf/2610.39255v1",
+        "title": "Solvable dynamics model of in-context learning",
+        "summary": "Pretrained Transformer architectures display a surprising in-context learning ability without additional training. How the learning process guides the network to achieve this intriguing capability remains unsolved. In th...",
+        "authors": "Ruoran Bai, Haiping Huang",
+        "published": "2026-10-31",
+        "link": "http://arxiv.org/pdf/2611.00921v1",
         "category": "Transformer & Attention"
       },
       {
-        "title": "Grounding Long Financial Text with Semantically-Enriched Tables via Multimodal Learning",
-        "summary": "We propose a multimodal transformer framework for efficiently modeling long1 financial documents that combine structured tabular data with noisy, unstructured2 textual disclosures. The framework represents financial tabl...",
-        "authors": "Xiaoyu Hu",
-        "published": "2026-10-27",
-        "link": "http://arxiv.org/pdf/2610.37913v1",
+        "title": "ACCT: Asymmetric Cross-LLM Context Transfer",
+        "summary": "In real-world deployments, large language model (LLM) systems are increasingly evolving from single-model invocation toward heterogeneous deployments in which different models are dynamically invoked for inference. When ...",
+        "authors": "Yuzhe Liu, Haolin Tian et al.",
+        "published": "2026-10-30",
+        "link": "http://arxiv.org/pdf/2610.42116v1",
         "category": "Transformer & Attention"
       },
       {
-        "title": "Selective and Hybrid-State Communication for Latent Multi-Agent Systems",
-        "summary": "Efficient communication remains a major bottleneck in large language model multiagent systems. Latent communication reduces repeated natural-language exchange by transferring internal model states between agents, but the...",
-        "authors": "Miles Liao, Aaron Smieszek et al.",
-        "published": "2026-10-27",
-        "link": "http://arxiv.org/pdf/2610.37779v1",
+        "title": "Dynamical Memory Transformer: Selective Recurrent Memories with Constant Cost Attention",
+        "summary": "Transformers retain an explicit history of the sequence, allowing attention to directly retrieve past representations. However, the size of the KV-Cache and the cost of a new token increase with the context length. State...",
+        "authors": "Yannis Bendi-Ouis, Xavier Hinaut",
+        "published": "2026-10-30",
+        "link": "http://arxiv.org/pdf/2610.41850v1",
         "category": "Transformer & Attention"
       }
     ],
     "RL & Test-Time Compute": [
+      {
+        "title": "CheXPoT: Post-Hoc Visual Verification and Correction of VLM-Generated Radiology Reports",
+        "summary": "Vision-language models (VLMs) have shown promise for chest radiograph report generation, but adoption remains limited because of hallucinated findings that are not grounded in the image. Correcting these hallucinations a...",
+        "authors": "Joey Guo, Rayan Ansari et al.",
+        "published": "2026-10-31",
+        "link": "http://arxiv.org/pdf/2611.00785v1",
+        "category": "RL & Test-Time Compute"
+      },
+      {
+        "title": "Enhancing Language Model Reasoning with Structured Multi-Level Modeling",
+        "summary": "Inference-time scaling enhances a model's reasoning by extending its chain-of-thought (CoT). However, existing approaches typically rely on a single policy trained with outcome-reward reinforcement learning (RL), which o...",
+        "authors": "Siheng Xiong, Ali Payani et al.",
+        "published": "2026-10-31",
+        "link": "http://arxiv.org/pdf/2611.00616v1",
+        "category": "RL & Test-Time Compute"
+      },
+      {
+        "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+        "summary": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image ge...",
+        "authors": "Byungwoo Jeon, Yoonwoo Jeong et al.",
+        "published": "2026-10-30",
+        "link": "http://arxiv.org/pdf/2610.42149v1",
+        "category": "RL & Test-Time Compute"
+      },
       {
         "title": "RTL-Interact: Training EDA-Interactive Models for Multi-Task RTL Design",
         "summary": "Large language models offer a promising route to register-transfer-level (RTL) design, but reliable implementations require checking and revision based on electronic design automation (EDA) tools' feedback. Existing RTL-...",
@@ -2473,63 +2497,39 @@
         "published": "2026-10-30",
         "link": "http://arxiv.org/pdf/2610.41225v1",
         "category": "RL & Test-Time Compute"
-      },
-      {
-        "title": "H$^2$R: Hierarchical Hint-Based Reward for Mathematical Reasoning via Reinforcement Learning",
-        "summary": "Reinforcement Learning with Verifiable Rewards has shown great promise in enhancing mathematical reasoning in large language models. However, existing approaches provide limited intermediate supervision for complex, mult...",
-        "authors": "He Tu, Siye Li et al.",
-        "published": "2026-10-29",
-        "link": "http://arxiv.org/pdf/2610.39934v1",
-        "category": "RL & Test-Time Compute"
-      },
-      {
-        "title": "VideoLVR: Latent Visual Reasoning over Grounded Video Evidence",
-        "summary": "Chain-of-thought reasoning has substantially advanced video understanding in multimodal large language models (MLLMs). However, language-based reasoning traces do not provide a reliable mechanism for models to revisit re...",
-        "authors": "Shilong Li, Xingyuan Bu et al.",
-        "published": "2026-10-27",
-        "link": "http://arxiv.org/pdf/2610.37613v1",
-        "category": "RL & Test-Time Compute"
-      },
-      {
-        "title": "VGIQA: Fine-Grained Image Quality Assessment with Visual Grounding Rewards",
-        "summary": "Image quality assessment (IQA) aims to evaluate the perceptual visual quality of images. Recently, the rapid development of Multi-modal Large Language Models (MLLMs) has significantly advanced the IQA field. By integrati...",
-        "authors": "Weichang Wang, Liyu Chen et al.",
-        "published": "2026-10-27",
-        "link": "http://arxiv.org/pdf/2610.37186v1",
-        "category": "RL & Test-Time Compute"
       }
     ],
     "Multimodal & World Models": [
       {
-        "title": "WebOverlay: High-Throughput Vision-Only Distillation for Extreme Aspect-Ratio Web Overlay Detection",
-        "summary": "Web overlays, such as cookie consent banners, newsletter prompts, and age gates, obstruct automated web crawlers and degrade downstream document representations. While proprietary multimodal Large Language Models (MLLMs)...",
-        "authors": "Jiannan Huang, Jerry Ding et al.",
-        "published": "2026-10-29",
-        "link": "http://arxiv.org/pdf/2610.41037v1",
+        "title": "Words Before Pixels: Selective Modality Routing for Vision-Language Model Unlearning",
+        "summary": "Vision-language model (VLM) unlearning is often treated as an objective-design problem: given multimodal forget data, the goal is to optimize a loss that removes undesirable behavior while preserving retained capabilitie...",
+        "authors": "Laura Yao, Haochen Zhang et al.",
+        "published": "2026-10-31",
+        "link": "http://arxiv.org/pdf/2611.00608v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "FieldGuideRAG: Image-Grounded GraphRAG for Fine-Grained Recognition with Vision-Language Models",
-        "summary": "We present FieldGuideRAG, a training-free GraphRAG method in which a vision-language model, or VLM, recognizes fine-grained species by comparing the query with real photographs stored on the nodes of a knowledge graph. M...",
-        "authors": "Jiacheng Ding, Yanliang Qi et al.",
-        "published": "2026-10-29",
-        "link": "http://arxiv.org/pdf/2610.40971v1",
+        "title": "SIEVE: Preserving Cross-Image Evidence via Depth-Aware Token Compression",
+        "summary": "Multi-image vision-language models (VLMs) incur substantial computation when processing long visual sequences. Compressing these sequences must preserve complementary evidence across images and keep tokens from different...",
+        "authors": "Nitish Shukla, Surgan Jandial et al.",
+        "published": "2026-10-30",
+        "link": "http://arxiv.org/pdf/2611.00351v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing",
-        "summary": "How effectively can vision-language-action (VLA) models learn diverse language-conditioned behaviors as training data scales? Investigating this question requires large and varied robot datasets, whose collection on phys...",
-        "authors": "Xiangyu Xu, Bangshuai Peng et al.",
-        "published": "2026-10-29",
-        "link": "http://arxiv.org/pdf/2610.40532v1",
+        "title": "GAVAGAI: Referential Alignment for Infant-Scale Vision-Language Models via Balanced Optimal Transport",
+        "summary": "A child learns which words name which things from roughly 100 million words of input. Vision-language models trained at a comparable scale bind words to referents far less reliably, and we argue that part of the gap is s...",
+        "authors": "Rajdeep Pal, Jotiraditya Banerjee et al.",
+        "published": "2026-10-30",
+        "link": "http://arxiv.org/pdf/2611.00319v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "ScienceJudge: Pattern Perturbation Augmentation for Sentence-Level Scientific Claim Verification",
-        "summary": "Sentence-level scientific claim verification determines whether each sentence in an AI-generated scientific paragraph is supported by a given multimodal evidence bundle. Fine-grained reporting errors often preserve fluen...",
-        "authors": "Chuhai Cai, Xin Chen et al.",
-        "published": "2026-10-29",
-        "link": "http://arxiv.org/pdf/2610.40238v1",
+        "title": "Pix2Evidence: A Multimodal RAG System for Text and Visual Evidence",
+        "summary": "Retrieval-augmented generation (RAG) over visually rich documents must find both relevant content and the evidence that supports an answer. Screenshot retrieval preserves images and page structure, but written facts with...",
+        "authors": "Ziniu Liu, Xiaoyang Chen et al.",
+        "published": "2026-10-30",
+        "link": "http://arxiv.org/pdf/2610.41335v1",
         "category": "Multimodal & World Models"
       }
     ],
@@ -2569,6 +2569,14 @@
     ],
     "Silicon Photonics": [
       {
+        "title": "Optimal Fan-Out and Break-Even Routing Loss in Waveguide-Integrated Ge-on-Si SPAD Arrays",
+        "summary": "Splitting a waveguide mode over several Ge-on-Si single-photon avalanche diodes (SPADs) relieves dead-time saturation but multiplies dark counts. We quantify this trade-off with the asymptotic count-based information rat...",
+        "authors": "Thammarat Yawisit, Pittaya Pannil",
+        "published": "2026-10-31",
+        "link": "http://arxiv.org/pdf/2611.01111v1",
+        "category": "Silicon Photonics"
+      },
+      {
         "title": "Versatile Photonic Encoding Platform with Selectable Back Ends for Automotive Edge Processing",
         "summary": "The increasing diversity and computational demands of automotive edge functions require hardware architectures that support heterogeneous processing while limiting implementation complexity and system overhead. We invest...",
         "authors": "Isamu Takai, Makoto Nakai et al.",
@@ -2591,47 +2599,39 @@
         "published": "2026-10-26",
         "link": "http://arxiv.org/pdf/2610.35410v1",
         "category": "Silicon Photonics"
-      },
-      {
-        "title": "RADICAL: Reconfiguration-Aware Direct-Connect AI Cluster using Spatial-and-Wavelength Selective Switching",
-        "summary": "We present RADICAL, the silicon-photonic-enabled Reconfiguration-Aware Direct-Connect AI Cluster that integrates a custom spatial-and-wavelength selective switch (SWSS) with the Linux network stack. RADICAL deploys a pac...",
-        "authors": "Brett George, Weiyang Wang et al.",
-        "published": "2026-10-22",
-        "link": "http://arxiv.org/pdf/2610.31941v1",
-        "category": "Silicon Photonics"
       }
     ],
     "AI Accelerator": [
       {
-        "title": "When Does Heterogeneity Pay Off? Understanding GPU-WSE System Complementarity",
+        "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
+        "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
+        "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
+        "published": "2026-10-30",
+        "link": "http://arxiv.org/pdf/2610.41919v1",
+        "category": "AI Accelerator"
+      },
+      {
+        "title": "Challenges in the verification of MOSAIX ASIC for ALICE ITS3",
+        "summary": "The MOSAIX is a wafer-scale, full-functionality prototype ASIC for the ALICE Inner Tracking System (ITS3) upgrade, implemented in $65\\,\\text{nm}$ stitching technology. It integrates 144 independently powered pixel matric...",
+        "authors": "Simone Scarfi, Matteo Lupi et al.",
+        "published": "2026-10-30",
+        "link": "http://arxiv.org/pdf/2610.41916v1",
+        "category": "AI Accelerator"
+      },
+      {
+        "title": "MemX: Memory-Aware Automatic Parallelism for Cross-Vendor Heterogeneous GPU Training",
+        "summary": "Cross-vendor heterogeneous GPU clusters are increasingly used for large-scale model training. However, their GPUs differ substantially in compute power, memory capacity, and interconnect characteristics. Existing automat...",
+        "authors": "Lin Meng, Yuzhong Sun et al.",
+        "published": "2026-10-30",
+        "link": "http://arxiv.org/pdf/2610.41525v1",
+        "category": "AI Accelerator"
+      },
+      {
+        "title": "Characterizing Performance Tradeoffs in Heterogeneous GPU-Wafer-Scale Accelerator Systems",
         "summary": "As AI accelerator architectures become increasingly diverse, integrating different architectures into a unified system is emerging as a new heterogeneous computing paradigm. GPUs and WSEs differ substantially in compute,...",
         "authors": "Ziyu Hu, Zhijing Ye et al.",
         "published": "2026-10-29",
-        "link": "http://arxiv.org/pdf/2610.39222v1",
-        "category": "AI Accelerator"
-      },
-      {
-        "title": "MCCL: Training Pytorch models across a fleet of Macs at Skywalker Sound",
-        "summary": "Skywalker Sound, a premier audio post-production facility, operates more than 200 M4 Max Mac Studios on a 10Gb Ethernet network. When not in use by artists, these machines sit idle, representing massive untapped unified ...",
-        "authors": "Kevin Sasso, Chris Fiegel et al.",
-        "published": "2026-10-28",
-        "link": "http://arxiv.org/pdf/2610.39029v1",
-        "category": "AI Accelerator"
-      },
-      {
-        "title": "A Case Study of a Multi-Agent Kernel-Optimization Loop That Learns a New AI Accelerator",
-        "summary": "Frontier large language models write correct CUDA kernels for most single-operator benchmark tasks, yet their accuracy collapses on accelerators whose architecture and programming language they have rarely seen. We prese...",
-        "authors": "Byonggon Chun",
-        "published": "2026-10-28",
-        "link": "http://arxiv.org/pdf/2610.38329v1",
-        "category": "AI Accelerator"
-      },
-      {
-        "title": "Converting a superseded Raith electron beam pattern generator into an unattended Critical Dimension SEM",
-        "summary": "Design-based metrology of academic electron beam lithography (EBL) is bottlenecked by low-throughput imaging. For integrated photonics, where nanometre-scale structural variation can significantly limit device performanc...",
-        "authors": "Will Gunn, Han-Hao Cheng et al.",
-        "published": "2026-10-28",
-        "link": "http://arxiv.org/pdf/2610.38203v1",
+        "link": "http://arxiv.org/pdf/2610.39222v2",
         "category": "AI Accelerator"
       }
     ]
