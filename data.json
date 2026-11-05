@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04 11:06:15 CST (UTC+8)",
+  "last_updated": "2026-11-05 11:36:25 CST (UTC+8)",
   "status": "LIVE_CLOUD_SYNC",
   "macro_kpis": {
     "csp_capex": {
@@ -150,15 +150,31 @@
           71.0
         ]
       },
-      "price": 206.69,
-      "market_cap_b": 4990.9,
+      "price": 200.13,
+      "market_cap_b": 4832.5,
       "revenue_yoy": 105.9,
       "gross_margin": 74.7,
       "operating_margin": 66.2,
       "fcf_b": 41.81,
       "debt_to_ebitda": 0.19,
-      "market_cap_usd_b": 4990.9,
+      "market_cap_usd_b": 4832.5,
       "arxiv_papers": [
+        {
+          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
+          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
+          "authors": "J. Liu, R. Mao et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.05810v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Ta-based S-I-S junctions for integrated superconducting Electronics",
+          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
+          "authors": "Trent Borman, Cameron Bullock et al.",
+          "published": "2026-11-03",
+          "link": "http://arxiv.org/pdf/2611.04982v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "A RISC-V Simulator for the Tenstorrent Tensix Architecture",
           "summary": "RISC-V based AI accelerators have become popular and not only for AI and ML, but also as vehicles for exploring HPC workloads more generally. Tenstorrent are one example, and whilst they document their Tensix architectur...",
@@ -174,48 +190,32 @@
           "published": "2026-11-03",
           "link": "http://arxiv.org/pdf/2611.04280v1",
           "category": "AI Accelerator"
-        },
-        {
-          "title": "Ferroelectric Switching in x-cut MgO-doped Thin-Film Lithium Niobate: Implications for Periodic Poling and Domain-Wall Electronics",
-          "summary": "Thin-film lithium niobate (TFLN) revives a mature ferroelectric as a wafer-scale platform for integrated photonics and, increasingly, for domain-wall electronics such as nonvolatile memories and memristors. Both applicat...",
-          "authors": "Niels Staal, Michael Rüsing et al.",
-          "published": "2026-11-01",
-          "link": "http://arxiv.org/pdf/2611.02233v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
-          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
-          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
-          "published": "2026-10-30",
-          "link": "http://arxiv.org/pdf/2610.41919v1",
-          "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "This AI Boom is not 1999 all over again — and here's why",
-          "link": "https://finance.yahoo.com/video/this-ai-boom-is-not-1999-all-over-again--and-heres-why-151849805.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-03"
+          "title": "Dow, S&P 500, Nasdaq Futures Mixed After A Democratic Sweep In Midterms: NVDA, MU, SNDK, NBIS, IREN In Focus",
+          "link": "https://stocktwits.com/news-articles/markets/equity/dow-nasdaq-sp500-futures-mixed-democratic-sweep-nvda-mu-sndk-nbis-iren-stocks/cNG1cuLR9E7",
+          "publisher": "Stocktwits",
+          "published": "2026-11-05"
         },
         {
-          "title": "Stock Market Election Night: Dow Futures Fall, Techs Tumble In Blue Wave; AMD, Arista Rise On Earnings",
-          "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-04"
-        },
-        {
-          "title": "There's a 99% Chance That Democrats Retake the House, and History Says This Shift Will Have a Huge Impact on Stocks",
-          "link": "https://www.fool.com/investing/2026/11/03/99-chance-democrats-retake-the-house-history-says-shift-will-have-huge-impact-on-stocks/",
+          "title": "Could Investing $400 per Month in VTI Make You a Millionaire? Here's the Math.",
+          "link": "https://www.fool.com/investing/2026/11/04/could-investing-400-per-month-in-vti-make-you-a-mi/",
           "publisher": "Motley Fool",
-          "published": "2026-11-04"
+          "published": "2026-11-05"
         },
         {
-          "title": "Should You Buy Alphabet Stock After Anthropic Raised Its Google Commitment to $121 Billion?",
-          "link": "https://www.fool.com/investing/2026/11/03/should-you-buy-alphabet-stock-after-anthropic-raised-its-google-commitment-to-usd121-billion/",
+          "title": "The Election Day Revolt That Threatens America’s AI Boom",
+          "link": "https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-05"
+        },
+        {
+          "title": "Why Intuit Stock Jumped 24% in October",
+          "link": "https://www.fool.com/investing/2026/11/04/why-intuit-stock-jumped-24-in-october/",
           "publisher": "Motley Fool",
-          "published": "2026-11-04"
+          "published": "2026-11-05"
         }
       ]
     },
@@ -278,14 +278,14 @@
           76.8
         ]
       },
-      "price": 332.13,
-      "market_cap_b": 1585.5,
+      "price": 325.48,
+      "market_cap_b": 1553.7,
       "revenue_yoy": 85.5,
       "gross_margin": 75.5,
       "operating_margin": 54.3,
       "fcf_b": 30.6,
       "debt_to_ebitda": 1.14,
-      "market_cap_usd_b": 1585.5,
+      "market_cap_usd_b": 1553.7,
       "arxiv_papers": [
         {
           "title": "From Fabrication Disorder to Quantum-Protocol Yield in Inverse-Designed Silicon Photonic Beam Splitters",
@@ -322,28 +322,28 @@
       ],
       "news": [
         {
-          "title": "What Is Broadcom (AVGO) Changing In AI Security And Fraud Defense?",
-          "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-changing-ai-security-001741357.html",
-          "publisher": "Simply Wall St.",
+          "title": "Is Broadcom Stock a Buy After Marvell's $115 Billion Deal?",
+          "link": "https://www.fool.com/investing/2026/11/04/is-broadcom-stock-a-buy-after-marvell-s-usd115-billion-deal/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-05"
+        },
+        {
+          "title": "Steve Weiss Says the Midterms Just Put a Lid on AI Spending. Here’s Who Could Get Hurt",
+          "link": "https://247wallst.com/investing/2026/11/04/steve-weiss-says-the-midterms-just-put-a-lid-on-ai-spending-heres-who-could-get-hurt/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-05"
+        },
+        {
+          "title": "Marvell Sinks 7% as Democratic Sweep Hits AI Data-Center Stocks",
+          "link": "https://www.tikr.com/blog/marvell-sinks-7-as-democratic-sweep-hits-ai-data-center-stocks?ref=yahoofinance&tlnk=yf-261104-c3963v6x",
+          "publisher": "TIKR",
           "published": "2026-11-04"
         },
         {
-          "title": "Stock Market Today, Nov. 3: Marvell Shares Edge Higher After Premarket Drop on $115 Billion Lumentum Deal",
-          "link": "https://www.fool.com/coverage/stock-market-today/2026/11/03/stock-market-today-nov-3-marvell-shares-edge-higher-after-premarket-drop-on-usd115-billion-lumentum-deal/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-03"
-        },
-        {
-          "title": "AMD Earnings Show Big Tech Can’t Get Enough AI Chips",
-          "link": "https://www.barrons.com/articles/amd-earnings-stock-price-7c8d5465?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-03"
-        },
-        {
-          "title": "US tech stocks recover after selloff spooks investors over AI spending",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/us-tech-stocks-recover-selloff-221845320.html",
-          "publisher": "The Guardian",
-          "published": "2026-11-03"
+          "title": "Broadcom Inc. (AVGO) Stock Slides as Market Rises: Facts to Know Before You Trade",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-stock-slides-214502619.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04"
         }
       ]
     },
@@ -406,15 +406,31 @@
           14.2
         ]
       },
-      "price": 483.9,
-      "market_cap_b": 790.0,
+      "price": 488.78,
+      "market_cap_b": 797.9,
       "revenue_yoy": 50.1,
       "gross_margin": 55.7,
       "operating_margin": 17.2,
       "fcf_b": 8.84,
       "debt_to_ebitda": 0.45,
-      "market_cap_usd_b": 790.0,
+      "market_cap_usd_b": 797.9,
       "arxiv_papers": [
+        {
+          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
+          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
+          "authors": "J. Liu, R. Mao et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.05810v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Ta-based S-I-S junctions for integrated superconducting Electronics",
+          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
+          "authors": "Trent Borman, Cameron Bullock et al.",
+          "published": "2026-11-03",
+          "link": "http://arxiv.org/pdf/2611.04982v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "A RISC-V Simulator for the Tenstorrent Tensix Architecture",
           "summary": "RISC-V based AI accelerators have become popular and not only for AI and ML, but also as vehicles for exploring HPC workloads more generally. Tenstorrent are one example, and whilst they document their Tensix architectur...",
@@ -430,48 +446,32 @@
           "published": "2026-11-03",
           "link": "http://arxiv.org/pdf/2611.04280v1",
           "category": "AI Accelerator"
-        },
-        {
-          "title": "Ferroelectric Switching in x-cut MgO-doped Thin-Film Lithium Niobate: Implications for Periodic Poling and Domain-Wall Electronics",
-          "summary": "Thin-film lithium niobate (TFLN) revives a mature ferroelectric as a wafer-scale platform for integrated photonics and, increasingly, for domain-wall electronics such as nonvolatile memories and memristors. Both applicat...",
-          "authors": "Niels Staal, Michael Rüsing et al.",
-          "published": "2026-11-01",
-          "link": "http://arxiv.org/pdf/2611.02233v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
-          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
-          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
-          "published": "2026-10-30",
-          "link": "http://arxiv.org/pdf/2610.41919v1",
-          "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "AMD's Lisa Su: Q3 was 'largest and most profitable in our history'",
-          "link": "https://finance.yahoo.com/video/amds-lisa-su-q3-was-largest-and-most-profitable-in-our-history-222718914.html",
+          "title": "Market reaction to changes in Congress, AMD earnings, and where to find value in healthcare stocks",
+          "link": "https://finance.yahoo.com/video/market-reaction-to-changes-in-congress-amd-earnings-and-where-to-find-value-in-healthcare-stocks-185012443.html",
           "publisher": "Yahoo Finance Video",
-          "published": "2026-11-03"
+          "published": "2026-11-04"
         },
         {
-          "title": "AMD stock rises after Q3 earnings beat, as data center revenue climbs 97%",
-          "link": "https://finance.yahoo.com/technology/article/amd-stock-rises-after-q3-earnings-beat-as-data-center-revenue-climbs-97-213907282.html",
+          "title": "AMD stock flat following strong Q3 earnings beat, as data center revenue climbs 97%",
+          "link": "https://finance.yahoo.com/technology/article/amd-stock-flat-following-strong-q3-earnings-beat-as-data-center-revenue-climbs-97-154919989.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-02"
         },
         {
-          "title": "Stock market today: Dow slips, S&P and Nasdaq gain as chip stocks rally, focus shifts to midterm elections",
-          "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-03"
+          "title": "AMD: Why investors should take another look",
+          "link": "https://finance.yahoo.com/video/amd-why-investors-should-take-another-look-153957725.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-04"
         },
         {
-          "title": "AMD beats Q3 estimates with data center business booming",
-          "link": "https://finance.yahoo.com/video/amd-beats-q3-estimates-with-data-center-business-booming-212830094.html",
+          "title": "Post-election gridlock might be a bullish sign for Apple,",
+          "link": "https://finance.yahoo.com/video/post-election-gridlock-might-be-a-bullish-sign-for-apple-150824062.html",
           "publisher": "Yahoo Finance Video",
-          "published": "2026-11-03"
+          "published": "2026-11-04"
         }
       ]
     },
@@ -534,15 +534,31 @@
           2.75
         ]
       },
-      "price": 202.49,
-      "market_cap_b": 216.3,
+      "price": 191.8,
+      "market_cap_b": 204.8,
       "revenue_yoy": 22.4,
       "gross_margin": 97.5,
       "operating_margin": 7.6,
       "fcf_b": 1.33,
       "debt_to_ebitda": 0.46,
-      "market_cap_usd_b": 216.3,
+      "market_cap_usd_b": 204.8,
       "arxiv_papers": [
+        {
+          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
+          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
+          "authors": "J. Liu, R. Mao et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.05810v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Ta-based S-I-S junctions for integrated superconducting Electronics",
+          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
+          "authors": "Trent Borman, Cameron Bullock et al.",
+          "published": "2026-11-03",
+          "link": "http://arxiv.org/pdf/2611.04982v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "A RISC-V Simulator for the Tenstorrent Tensix Architecture",
           "summary": "RISC-V based AI accelerators have become popular and not only for AI and ML, but also as vehicles for exploring HPC workloads more generally. Tenstorrent are one example, and whilst they document their Tensix architectur...",
@@ -558,48 +574,32 @@
           "published": "2026-11-03",
           "link": "http://arxiv.org/pdf/2611.04280v1",
           "category": "AI Accelerator"
-        },
-        {
-          "title": "Ferroelectric Switching in x-cut MgO-doped Thin-Film Lithium Niobate: Implications for Periodic Poling and Domain-Wall Electronics",
-          "summary": "Thin-film lithium niobate (TFLN) revives a mature ferroelectric as a wafer-scale platform for integrated photonics and, increasingly, for domain-wall electronics such as nonvolatile memories and memristors. Both applicat...",
-          "authors": "Niels Staal, Michael Rüsing et al.",
-          "published": "2026-11-01",
-          "link": "http://arxiv.org/pdf/2611.02233v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
-          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
-          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
-          "published": "2026-10-30",
-          "link": "http://arxiv.org/pdf/2610.41919v1",
-          "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Earnings live updates: Duolingo stock jumps on user growth, upbeat guidance",
-          "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-02"
+          "title": "Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-05"
         },
         {
-          "title": "Q4 QQQ Roadmap: Navigating AI Turbulence & Market Headwinds",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/q4-qqq-roadmap-navigating-ai-212600565.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03"
+          "title": "What ARM (ARM) Said on Its Q2 Earnings Call",
+          "link": "https://www.marketbeat.com/instant-alerts/transcript-what-arm-arm-said-on-its-q2-earnings-call-2026-11-04/?utm_source=yahoofinance&utm_medium=yahoofinance",
+          "publisher": "MarketBeat",
+          "published": "2026-11-05"
         },
         {
-          "title": "Ahead of Arm Earnings, Here's What Barchart Data Says Comes Next for ARM Stock",
-          "link": "https://www.barchart.com/story/news/8627905/ahead-of-arm-earnings-here-s-what-barchart-data-says-comes-next-for-arm-stock",
-          "publisher": "Barchart",
-          "published": "2026-11-03"
+          "title": "Arm (ARM) Stock Looks About Right After Its 254% Run",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/arm-arm-stock-looks-254-002540526.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-05"
         },
         {
-          "title": "Arm Stocks Rise 3.94% Ahead of November 4 Earnings Test",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/arm-stocks-rise-3-94-181723719.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-03"
+          "title": "Qualcomm’s Stock Falls After It Warns Chip Margins Are Getting Squeezed",
+          "link": "https://www.barrons.com/articles/qualcomm-earnings-stock-price-e0d72311?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-04"
         }
       ]
     },
@@ -662,14 +662,14 @@
           7.9
         ]
       },
-      "price": 235.97,
-      "market_cap_b": 90.9,
+      "price": 205.55,
+      "market_cap_b": 79.1,
       "revenue_yoy": 61.2,
       "gross_margin": 38.1,
       "operating_margin": 23.8,
       "fcf_b": 2.96,
       "debt_to_ebitda": 1.05,
-      "market_cap_usd_b": 90.9,
+      "market_cap_usd_b": 79.1,
       "arxiv_papers": [
         {
           "title": "FrontGI: Architecture-Aware Parallel GNN Inference on Chiplet-Based Multicore Systems",
@@ -706,28 +706,28 @@
       ],
       "news": [
         {
-          "title": "Eaton Just Dropped 16% in a Month. Is It Time to Sell, or Load Up?",
-          "link": "https://www.tikr.com/blog/eaton-just-dropped-16-in-a-month-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261103-gcvfxvqm",
+          "title": "Vistra Sinks 16% in a Week to a New 52-Week Low. Is the Texas Selloff Overdone?",
+          "link": "https://www.tikr.com/blog/vistra-sinks-16-in-a-week-to-a-new-52-week-low-is-the-texas-selloff-overdone?ref=yahoofinance&tlnk=yf-261104-5m6ff8g9",
           "publisher": "TIKR",
-          "published": "2026-11-03"
+          "published": "2026-11-05"
         },
         {
-          "title": "Vistra Gains 5% as Talen Guides 2027 EBITDA Up 26% on “Strong PJM Fundamentals”",
-          "link": "https://www.tikr.com/blog/vistra-gains-5-as-talen-guides-2027-ebitda-up-26-on-strong-pjm-fundamentals?ref=yahoofinance&tlnk=yf-261103-gv5cj647",
-          "publisher": "TIKR",
-          "published": "2026-11-03"
+          "title": "Steve Weiss Says the Midterms Just Put a Lid on AI Spending. Here’s Who Could Get Hurt",
+          "link": "https://247wallst.com/investing/2026/11/04/steve-weiss-says-the-midterms-just-put-a-lid-on-ai-spending-heres-who-could-get-hurt/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-05"
         },
         {
-          "title": "Oracle Rebounds 5% as $20 Billion Raise Prices: Baird Says It’s “Exactly What They Previewed”",
-          "link": "https://www.tikr.com/blog/oracle-rebounds-5-as-20-billion-raise-prices-baird-says-its-exactly-what-they-previewed?ref=yahoofinance&tlnk=yf-261103-5x3cpp3f",
+          "title": "Alphabet Gains 3%, Amazon Up 6% as Big Tech Leads Post-Midterm Rebound",
+          "link": "https://www.tikr.com/blog/alphabet-gains-3-amazon-up-6-as-big-tech-leads-post-midterm-rebound?ref=yahoofinance&tlnk=yf-261104-hc676726",
           "publisher": "TIKR",
-          "published": "2026-11-03"
+          "published": "2026-11-04"
         },
         {
-          "title": "Vertiv Soars 6%, Eaton Up 7% as Bernstein Calls Election-Day Data Center Fears Overblown",
-          "link": "https://www.tikr.com/blog/vertiv-soars-6-eaton-up-7-as-bernstein-calls-election-day-data-center-fears-overblown?ref=yahoofinance&tlnk=yf-261103-x4mxr52x",
-          "publisher": "TIKR",
-          "published": "2026-11-03"
+          "title": "Why a Democratic Sweep Is Crushing GE Vernova and More Industrial Stocks",
+          "link": "https://www.barrons.com/articles/ge-vernova-vertiv-eaton-ai-industrials-stocks-bf41f4bc?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-04"
         }
       ]
     },
@@ -790,72 +790,72 @@
           312.0
         ]
       },
-      "price": 520.99,
-      "market_cap_b": 3869.0,
+      "price": 555.8,
+      "market_cap_b": 4127.5,
       "revenue_yoy": 18.8,
       "gross_margin": 67.7,
       "operating_margin": 49.8,
       "fcf_b": 2.99,
       "debt_to_ebitda": 0.65,
-      "market_cap_usd_b": 3869.0,
+      "market_cap_usd_b": 4127.5,
       "arxiv_papers": [
         {
-          "title": "Accelerating Offloading-Based MoE Inference by Interleaving Concurrent Requests",
-          "summary": "Expert offloading enables large mixture-of-experts (MoE) language models to run locally, but conventional batching stalls the GPU while missing experts are fetched. A popular remedy, known as prefetching, is to predict w...",
-          "authors": "Hongseung Yu, In Gim et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04794v1",
+          "title": "Analysis of Local Open-Weight LLM Agents on Vulnerability-Reproduction Tasks",
+          "summary": "Open-weight language models that fit on a single consumer GPU are becoming capable on a growing range of tasks, and they matter because they can run locally without sending the code to a hosted service. Vulnerability rep...",
+          "authors": "Jorge García-Carrasco, Javier Sanchis et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.06257v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation",
-          "summary": "Learning robust manipulation policies for diverse everyday objects remains challenging because objects with different materials exhibit distinct deformation and contact dynamics. While diffusion policies provide a powerf...",
-          "authors": "Can Wang, Qiyuan Qiao et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04493v1",
+          "title": "SafeStart: Mitigating the Overlooked Safety Cost of Active Expert Reduction in MoE LLM Serving",
+          "summary": "Mixture-of-Experts (MoE) language models send each token through a few of many expert subnetworks. Serving methods make these models faster by running even fewer experts per token, and they are validated on accuracy benc...",
+          "authors": "Erfan Baghaei Potraghloo, Saeid Shokoufa et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.06147v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Aligning Training and Rollout Policies for End-to-End FP4 RL on Mixture-of-Experts LLMs",
-          "summary": "In this work, we study end-to-end FP4 reinforcement learning (RL) post-training for Mixture-of-Experts (MoE) large language models. Recent work on FP4 RL has introduced effective recovery recipes that restore accuracy un...",
-          "authors": "Hei Yi Mak, Hoang Le et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04376v1",
+          "title": "vExpert: Virtualizing Expert Storage for Adaptive Load Balancing in Distributed MoE Inference",
+          "summary": "Mixture-of-Experts (MoE) models have become prevailing, yet their distributed deployment suffers from severe dynamic load imbalance due to the conflict between static expert placement and inherent routing dynamism. While...",
+          "authors": "Wenxun Wang, Xiuhong Li et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.06057v1",
           "category": "LLM MoE"
         },
         {
-          "title": "GC-MoE: Overlapping Expert-Parallel Token Dispatch with FP8/FP4 Grouped GEMM via CUDA Green Contexts",
-          "summary": "Under expert parallelism, mixture-of-experts (MoE) layers pay all-to-all token dispatch, grouped GEMMs, and a combine step in every layer. In decode each rank holds only 1-256 tokens: dispatch latency and weight traffic ...",
-          "authors": "Yong Li, Kan Liu et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04222v1",
+          "title": "Intra-Architecture Source Attribution for Stable Diffusion: A New Task with Benchmark Dataset and Baseline",
+          "summary": "Designing systems that attribute a generated image to its source model has lately become a major area of AI research. Most existing datasets and systems related to image source attribution are targeted towards the detect...",
+          "authors": "Ashutosh Dayal, Mallika Garg et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.06000v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "Stock Market Election Night: Dow Futures Fall, Techs Tumble In Blue Wave; AMD, Arista Rise On Earnings",
-          "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
+          "title": "Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck",
+          "link": "https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-04"
+        },
+        {
+          "title": "Texas data centers face uncertain future after Hinojosa wins governor’s race",
+          "link": "https://finance.yahoo.com/technology/articles/texas-data-centers-face-uncertain-172340564.html",
+          "publisher": "Reuters",
+          "published": "2026-11-05"
+        },
+        {
+          "title": "Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-04"
+          "published": "2026-11-05"
         },
         {
-          "title": "Microsoft (MSFT) Deepens Enterprise AI Networking Partnership",
-          "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-deepens-enterprise-ai-020744358.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04"
-        },
-        {
-          "title": "AMD Earnings Show Big Tech Can’t Get Enough AI Chips",
-          "link": "https://www.barrons.com/articles/amd-earnings-stock-price-7c8d5465?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-03"
-        },
-        {
-          "title": "Do You Know How Much of Your 401(k) Is Riding on the AI Trade Voters Want Paused?",
-          "link": "https://247wallst.com/personal-finance/2026/11/03/do-you-know-how-much-of-your-401k-is-riding-on-the-ai-trade-voters-want-paused/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-03"
+          "title": "Arista Networks stock gets fresh backing from Jim Cramer and Wall Street",
+          "link": "https://www.thestreet.com/investing/stocks/arista-networks-stock-gets-fresh-backing-from-jim-cramer-and-wall-street-anet",
+          "publisher": "TheStreet",
+          "published": "2026-11-05"
         }
       ]
     },
@@ -918,72 +918,72 @@
           92.4
         ]
       },
-      "price": 280.03,
-      "market_cap_b": 3442.7,
+      "price": 288.93,
+      "market_cap_b": 3552.1,
       "revenue_yoy": 24.7,
       "gross_margin": 60.9,
       "operating_margin": 31.8,
       "fcf_b": -1.16,
       "debt_to_ebitda": 0.81,
-      "market_cap_usd_b": 3442.7,
+      "market_cap_usd_b": 3552.1,
       "arxiv_papers": [
         {
-          "title": "Accelerating Offloading-Based MoE Inference by Interleaving Concurrent Requests",
-          "summary": "Expert offloading enables large mixture-of-experts (MoE) language models to run locally, but conventional batching stalls the GPU while missing experts are fetched. A popular remedy, known as prefetching, is to predict w...",
-          "authors": "Hongseung Yu, In Gim et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04794v1",
+          "title": "Analysis of Local Open-Weight LLM Agents on Vulnerability-Reproduction Tasks",
+          "summary": "Open-weight language models that fit on a single consumer GPU are becoming capable on a growing range of tasks, and they matter because they can run locally without sending the code to a hosted service. Vulnerability rep...",
+          "authors": "Jorge García-Carrasco, Javier Sanchis et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.06257v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation",
-          "summary": "Learning robust manipulation policies for diverse everyday objects remains challenging because objects with different materials exhibit distinct deformation and contact dynamics. While diffusion policies provide a powerf...",
-          "authors": "Can Wang, Qiyuan Qiao et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04493v1",
+          "title": "SafeStart: Mitigating the Overlooked Safety Cost of Active Expert Reduction in MoE LLM Serving",
+          "summary": "Mixture-of-Experts (MoE) language models send each token through a few of many expert subnetworks. Serving methods make these models faster by running even fewer experts per token, and they are validated on accuracy benc...",
+          "authors": "Erfan Baghaei Potraghloo, Saeid Shokoufa et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.06147v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Aligning Training and Rollout Policies for End-to-End FP4 RL on Mixture-of-Experts LLMs",
-          "summary": "In this work, we study end-to-end FP4 reinforcement learning (RL) post-training for Mixture-of-Experts (MoE) large language models. Recent work on FP4 RL has introduced effective recovery recipes that restore accuracy un...",
-          "authors": "Hei Yi Mak, Hoang Le et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04376v1",
+          "title": "vExpert: Virtualizing Expert Storage for Adaptive Load Balancing in Distributed MoE Inference",
+          "summary": "Mixture-of-Experts (MoE) models have become prevailing, yet their distributed deployment suffers from severe dynamic load imbalance due to the conflict between static expert placement and inherent routing dynamism. While...",
+          "authors": "Wenxun Wang, Xiuhong Li et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.06057v1",
           "category": "LLM MoE"
         },
         {
-          "title": "GC-MoE: Overlapping Expert-Parallel Token Dispatch with FP8/FP4 Grouped GEMM via CUDA Green Contexts",
-          "summary": "Under expert parallelism, mixture-of-experts (MoE) layers pay all-to-all token dispatch, grouped GEMMs, and a combine step in every layer. In decode each rank holds only 1-256 tokens: dispatch latency and weight traffic ...",
-          "authors": "Yong Li, Kan Liu et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04222v1",
+          "title": "Intra-Architecture Source Attribution for Stable Diffusion: A New Task with Benchmark Dataset and Baseline",
+          "summary": "Designing systems that attribute a generated image to its source model has lately become a major area of AI research. Most existing datasets and systems related to image source attribution are targeted towards the detect...",
+          "authors": "Ashutosh Dayal, Mallika Garg et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.06000v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "SpaceX Could Match Google’s 27-Year Data Center Buildout In 18 Months, Outpace Even Chinese Rivals: SemiAnalysis",
-          "link": "https://stocktwits.com/news-articles/markets/equity/spacex-match-google-data-center-buildout-18-months-outpace-chinese-rivals-semianalysis/cNGhvkaR9dV",
-          "publisher": "Stocktwits",
+          "title": "Three reasons stocks are moving higher after the midterms",
+          "link": "https://finance.yahoo.com/video/three-reasons-stocks-are-moving-higher-after-the-midterms-152243298.html",
+          "publisher": "Yahoo Finance Video",
           "published": "2026-11-04"
         },
         {
-          "title": "Should You Buy Alphabet Stock After Anthropic Raised Its Google Commitment to $121 Billion?",
-          "link": "https://www.fool.com/investing/2026/11/03/should-you-buy-alphabet-stock-after-anthropic-raised-its-google-commitment-to-usd121-billion/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-04"
+          "title": "Texas data centers face uncertain future after Hinojosa wins governor’s race",
+          "link": "https://finance.yahoo.com/technology/articles/texas-data-centers-face-uncertain-172340564.html",
+          "publisher": "Reuters",
+          "published": "2026-11-05"
         },
         {
-          "title": "Zohran Mamdani Says Google Uses ‘Monopoly Power’ to Push AI Into Schools: Corporations Shouldn’t ‘Dictate’ How We Teach Children",
-          "link": "https://finance.yahoo.com/technology/ai/articles/zohran-mamdani-says-google-uses-013616818.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-04"
+          "title": "Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-05"
         },
         {
-          "title": "People Inc (PPLI) Q3 2026 Earnings Call Highlights: Digital Revenue Extends Growth Streak to 12 ...",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/people-inc-ppli-q3-2026-010554012.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-04"
+          "title": "Has Alphabet (GOOGL) Fallen Far Enough To Back Its Cash Flow Value?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-fallen-far-enough-021308291.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-05"
         }
       ]
     },
@@ -1046,15 +1046,31 @@
           171.5
         ]
       },
-      "price": 250.69,
-      "market_cap_b": 2710.7,
+      "price": 266.03,
+      "market_cap_b": 2876.6,
       "revenue_yoy": 12.1,
       "gross_margin": 51.4,
       "operating_margin": 13.9,
       "fcf_b": -34.73,
       "debt_to_ebitda": 1.66,
-      "market_cap_usd_b": 2710.7,
+      "market_cap_usd_b": 2876.6,
       "arxiv_papers": [
+        {
+          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
+          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
+          "authors": "J. Liu, R. Mao et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.05810v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Ta-based S-I-S junctions for integrated superconducting Electronics",
+          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
+          "authors": "Trent Borman, Cameron Bullock et al.",
+          "published": "2026-11-03",
+          "link": "http://arxiv.org/pdf/2611.04982v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "A RISC-V Simulator for the Tenstorrent Tensix Architecture",
           "summary": "RISC-V based AI accelerators have become popular and not only for AI and ML, but also as vehicles for exploring HPC workloads more generally. Tenstorrent are one example, and whilst they document their Tensix architectur...",
@@ -1070,48 +1086,32 @@
           "published": "2026-11-03",
           "link": "http://arxiv.org/pdf/2611.04280v1",
           "category": "AI Accelerator"
-        },
-        {
-          "title": "Ferroelectric Switching in x-cut MgO-doped Thin-Film Lithium Niobate: Implications for Periodic Poling and Domain-Wall Electronics",
-          "summary": "Thin-film lithium niobate (TFLN) revives a mature ferroelectric as a wafer-scale platform for integrated photonics and, increasingly, for domain-wall electronics such as nonvolatile memories and memristors. Both applicat...",
-          "authors": "Niels Staal, Michael Rüsing et al.",
-          "published": "2026-11-01",
-          "link": "http://arxiv.org/pdf/2611.02233v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
-          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
-          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
-          "published": "2026-10-30",
-          "link": "http://arxiv.org/pdf/2610.41919v1",
-          "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Binance deposits overtake withdrawals, and the SEC creates crypto FAQs on governance",
-          "link": "https://finance.yahoo.com/video/binance-deposits-overtake-withdrawals-sec-170000882.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-03"
-        },
-        {
-          "title": "McDonald's and Qualcomm earnings, ADP labor data: What to Watch",
-          "link": "https://finance.yahoo.com/video/mcdonalds-qualcomm-earnings-adp-labor-010000492.html",
+          "title": "Three reasons stocks are moving higher after the midterms",
+          "link": "https://finance.yahoo.com/video/three-reasons-stocks-are-moving-higher-after-the-midterms-152243298.html",
           "publisher": "Yahoo Finance Video",
           "published": "2026-11-04"
         },
         {
-          "title": "Anthropic S-1: Record Growth, but is the IPO a Buy?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-1-record-growth-ipo-005900863.html",
-          "publisher": "Zacks",
+          "title": "Why tech earnings are facing an unprecedented high bar",
+          "link": "https://finance.yahoo.com/video/why-tech-earnings-facing-unprecedented-130000959.html",
+          "publisher": "Yahoo Finance Video",
           "published": "2026-11-04"
         },
         {
-          "title": "CrowdStrike (CRWD) stock trades down, here is why",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-stock-trades-down-234936695.html",
-          "publisher": "StockStory",
-          "published": "2026-11-03"
+          "title": "Usana Health Sciences Inc (USNA) (Q3 2026) Earnings Call Highlights: Haya Subscriber Growth and ...",
+          "link": "https://finance.yahoo.com/healthcare/articles/usana-health-sciences-inc-usna-031116158.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-05"
+        },
+        {
+          "title": "Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-05"
         }
       ]
     },
@@ -1174,15 +1174,31 @@
           108.0
         ]
       },
-      "price": 126.19,
-      "market_cap_b": 382.5,
+      "price": 123.73,
+      "market_cap_b": 375.1,
       "revenue_yoy": 29.6,
       "gross_margin": 64.0,
       "operating_margin": 35.6,
       "fcf_b": -45.85,
       "debt_to_ebitda": 4.91,
-      "market_cap_usd_b": 382.5,
+      "market_cap_usd_b": 375.1,
       "arxiv_papers": [
+        {
+          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
+          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
+          "authors": "J. Liu, R. Mao et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.05810v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Ta-based S-I-S junctions for integrated superconducting Electronics",
+          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
+          "authors": "Trent Borman, Cameron Bullock et al.",
+          "published": "2026-11-03",
+          "link": "http://arxiv.org/pdf/2611.04982v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "A RISC-V Simulator for the Tenstorrent Tensix Architecture",
           "summary": "RISC-V based AI accelerators have become popular and not only for AI and ML, but also as vehicles for exploring HPC workloads more generally. Tenstorrent are one example, and whilst they document their Tensix architectur...",
@@ -1198,48 +1214,32 @@
           "published": "2026-11-03",
           "link": "http://arxiv.org/pdf/2611.04280v1",
           "category": "AI Accelerator"
-        },
-        {
-          "title": "Ferroelectric Switching in x-cut MgO-doped Thin-Film Lithium Niobate: Implications for Periodic Poling and Domain-Wall Electronics",
-          "summary": "Thin-film lithium niobate (TFLN) revives a mature ferroelectric as a wafer-scale platform for integrated photonics and, increasingly, for domain-wall electronics such as nonvolatile memories and memristors. Both applicat...",
-          "authors": "Niels Staal, Michael Rüsing et al.",
-          "published": "2026-11-01",
-          "link": "http://arxiv.org/pdf/2611.02233v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
-          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
-          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
-          "published": "2026-10-30",
-          "link": "http://arxiv.org/pdf/2610.41919v1",
-          "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "CrowdStrike (CRWD) stock trades down, here is why",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-stock-trades-down-234936695.html",
-          "publisher": "StockStory",
-          "published": "2026-11-03"
-        },
-        {
-          "title": "Cloudflare, MongoDB, Datadog, JFrog, and Elastic shares plummet, what you need to know",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-mongodb-datadog-jfrog-elastic-234136948.html",
-          "publisher": "StockStory",
-          "published": "2026-11-03"
-        },
-        {
-          "title": "Oracle Stock Faces Questions After $20 Billion AI Funding Plan",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-faces-questions-20-231707584.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-03"
-        },
-        {
-          "title": "Cerebras Sinks 11% in a Week to a New 52-Week Low. UBS Still Sees 159% Upside",
-          "link": "https://www.tikr.com/blog/cerebras-sinks-11-in-a-week-to-a-new-52-week-low-ubs-still-sees-159-upside?ref=yahoofinance&tlnk=yf-261103-vchxmc7p",
+          "title": "Oracle Just Dropped 14% in a Week. Is It Time to Sell, or Load Up?",
+          "link": "https://www.tikr.com/blog/oracle-just-dropped-14-in-a-week-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261104-6q8763c6",
           "publisher": "TIKR",
-          "published": "2026-11-03"
+          "published": "2026-11-05"
+        },
+        {
+          "title": "Stock Market Today, Nov. 4: Oracle Falls on Canceled $7 Billion Tencent Chip-Leasing Deal",
+          "link": "https://www.fool.com/coverage/stock-market-today/2026/11/04/stock-market-today-nov-4-oracle-falls-on-canceled-7-billion-tencent-chip-leasing-deal/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-04"
+        },
+        {
+          "title": "Oracle (ORCL) Stock Slides as Market Rises: Facts to Know Before You Trade",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-stock-slides-market-214502640.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04"
+        },
+        {
+          "title": "After the midterms, Big Tech’s AI data center problem is only getting bigger",
+          "link": "https://finance.yahoo.com/technology/ai/articles/midterms-big-tech-ai-data-211836294.html",
+          "publisher": "Fortune",
+          "published": "2026-11-04"
         }
       ]
     },
@@ -1302,72 +1302,72 @@
           4.9
         ]
       },
-      "price": 175.4,
-      "market_cap_b": 421.5,
-      "revenue_yoy": 92.8,
-      "gross_margin": 84.8,
-      "operating_margin": 47.1,
-      "fcf_b": 2.16,
-      "debt_to_ebitda": 0.08,
-      "market_cap_usd_b": 421.5,
+      "price": 171.7,
+      "market_cap_b": 413.7,
+      "revenue_yoy": 95.9,
+      "gross_margin": 84.7,
+      "operating_margin": 46.9,
+      "fcf_b": 2.65,
+      "debt_to_ebitda": 0.07,
+      "market_cap_usd_b": 413.7,
       "arxiv_papers": [
         {
-          "title": "Accelerating Offloading-Based MoE Inference by Interleaving Concurrent Requests",
-          "summary": "Expert offloading enables large mixture-of-experts (MoE) language models to run locally, but conventional batching stalls the GPU while missing experts are fetched. A popular remedy, known as prefetching, is to predict w...",
-          "authors": "Hongseung Yu, In Gim et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04794v1",
+          "title": "Analysis of Local Open-Weight LLM Agents on Vulnerability-Reproduction Tasks",
+          "summary": "Open-weight language models that fit on a single consumer GPU are becoming capable on a growing range of tasks, and they matter because they can run locally without sending the code to a hosted service. Vulnerability rep...",
+          "authors": "Jorge García-Carrasco, Javier Sanchis et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.06257v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation",
-          "summary": "Learning robust manipulation policies for diverse everyday objects remains challenging because objects with different materials exhibit distinct deformation and contact dynamics. While diffusion policies provide a powerf...",
-          "authors": "Can Wang, Qiyuan Qiao et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04493v1",
+          "title": "SafeStart: Mitigating the Overlooked Safety Cost of Active Expert Reduction in MoE LLM Serving",
+          "summary": "Mixture-of-Experts (MoE) language models send each token through a few of many expert subnetworks. Serving methods make these models faster by running even fewer experts per token, and they are validated on accuracy benc...",
+          "authors": "Erfan Baghaei Potraghloo, Saeid Shokoufa et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.06147v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Aligning Training and Rollout Policies for End-to-End FP4 RL on Mixture-of-Experts LLMs",
-          "summary": "In this work, we study end-to-end FP4 reinforcement learning (RL) post-training for Mixture-of-Experts (MoE) large language models. Recent work on FP4 RL has introduced effective recovery recipes that restore accuracy un...",
-          "authors": "Hei Yi Mak, Hoang Le et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04376v1",
+          "title": "vExpert: Virtualizing Expert Storage for Adaptive Load Balancing in Distributed MoE Inference",
+          "summary": "Mixture-of-Experts (MoE) models have become prevailing, yet their distributed deployment suffers from severe dynamic load imbalance due to the conflict between static expert placement and inherent routing dynamism. While...",
+          "authors": "Wenxun Wang, Xiuhong Li et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.06057v1",
           "category": "LLM MoE"
         },
         {
-          "title": "GC-MoE: Overlapping Expert-Parallel Token Dispatch with FP8/FP4 Grouped GEMM via CUDA Green Contexts",
-          "summary": "Under expert parallelism, mixture-of-experts (MoE) layers pay all-to-all token dispatch, grouped GEMMs, and a combine step in every layer. In decode each rank holds only 1-256 tokens: dispatch latency and weight traffic ...",
-          "authors": "Yong Li, Kan Liu et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04222v1",
+          "title": "Intra-Architecture Source Attribution for Stable Diffusion: A New Task with Benchmark Dataset and Baseline",
+          "summary": "Designing systems that attribute a generated image to its source model has lately become a major area of AI research. Most existing datasets and systems related to image source attribution are targeted towards the detect...",
+          "authors": "Ashutosh Dayal, Mallika Garg et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.06000v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "Palantir beats Q3 earnings estimates, stock falls over worries of slowing revenue growth",
-          "link": "https://finance.yahoo.com/markets/stocks/article/palantir-beats-q3-estimates-raises-full-year-revenue-outlook-as-us-commercial-sales-top-us-government-revenue-for-the-first-time-234245540.html",
+          "title": "Palantir faces $185 question Wall Street cannot settle",
+          "link": "https://www.thestreet.com/investing/palantir-citigroup-jefferies-very-different-price-targets-question-wall-street-cannot-settle",
+          "publisher": "TheStreet",
+          "published": "2026-11-05"
+        },
+        {
+          "title": "Earnings live updates: Cava stock falls after cyclospora outbreak dented Q3 results",
+          "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-02"
         },
         {
-          "title": "Mid-term facts & refrigerator hacks, tech sell-off continues, Binance CEO addresses issues",
-          "link": "https://finance.yahoo.com/video/mid-term-facts--refrigerator-hacks-tech-sell-off-continues-binance-ceo-addresses-issues-151217552.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-03"
+          "title": "Bank Stock Looks To Finance Breakout As Market Perks Up",
+          "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/esquire-financial-esq-bank-stocks-to-watch-in-troubled-market/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-04"
         },
         {
-          "title": "Palantir is one stock to look at once the sell-off settles",
-          "link": "https://finance.yahoo.com/video/palantir-is-one-stock-to-look-at-once-the-sell-off-settles-150713073.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-03"
-        },
-        {
-          "title": "Stocks continue sell-off as AI worries mount, Wall Street braces for midterms, Palantir outlook",
-          "link": "https://finance.yahoo.com/video/stocks-continue-sell-off-as-ai-worries-mount-wall-street-braces-for-midterms-palantir-outlook-144158687.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-03"
+          "title": "Cathie Wood buys $10.9 million of tumbling tech stock",
+          "link": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-10-9-million-of-tumbling-tech-stock-palantir-pltr",
+          "publisher": "TheStreet",
+          "published": "2026-11-04"
         }
       ]
     },
@@ -1430,14 +1430,14 @@
           2600.0
         ]
       },
-      "price": 2270.0,
-      "market_cap_b": 58866.5,
+      "price": 2265.0,
+      "market_cap_b": 58736.8,
       "revenue_yoy": 50.9,
       "gross_margin": 65.8,
       "operating_margin": 58.7,
       "fcf_b": 1203.07,
       "debt_to_ebitda": 0.23,
-      "market_cap_usd_b": 1839.6,
+      "market_cap_usd_b": 1835.5,
       "arxiv_papers": [
         {
           "title": "FrontGI: Architecture-Aware Parallel GNN Inference on Chiplet-Based Multicore Systems",
@@ -1474,28 +1474,28 @@
       ],
       "news": [
         {
-          "title": "Pinnacle West Capital Corporation Q3 2026 Earnings Call Summary",
-          "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-pinnacle-west-capital-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-          "publisher": "Moby",
-          "published": "2026-11-03"
+          "title": "TSMC Is Up 30% in a Year and 19% Off Its High: Take Profits, or Buy More?",
+          "link": "https://www.tikr.com/blog/tsmc-is-up-30-in-a-year-and-19-off-its-high-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261104-9x47mx2m",
+          "publisher": "TIKR",
+          "published": "2026-11-05"
         },
         {
-          "title": "Taiwan Semi or Broadcom: If I Could Only Own 1 for the Next 5 Years, It Would Be This",
-          "link": "https://www.fool.com/investing/2026/11/03/taiwan-semi-or-broadcom-if-i-could-only-own-1-for/",
+          "title": "TSMC Stocks Move Lower as November Sales Data Face a $53.3 Billion Quarterly Hurdle",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-move-lower-november-151537685.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-04"
+        },
+        {
+          "title": "Better AI Semiconductor Monopoly Stock: Taiwan Semiconductor vs. ASML",
+          "link": "https://www.fool.com/investing/2026/11/04/better-ai-semiconductor-monopoly-stock-taiwan-semi/",
           "publisher": "Motley Fool",
-          "published": "2026-11-03"
+          "published": "2026-11-04"
         },
         {
-          "title": "Until Next Gen Computing Implodes I’ll Keep Buying Taiwan Semiconductor",
-          "link": "https://247wallst.com/investing/2026/11/03/until-next-gen-computing-implodes-ill-keep-buying-taiwan-semiconductor/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-03"
-        },
-        {
-          "title": "AI Stocks Lose $5 Trillion in 3 Weeks as Hedge Funds Go Underweight AI for the First Time Since 2023",
-          "link": "https://247wallst.com/investing/2026/11/03/ai-stocks-lose-5-trillion-in-3-weeks-as-hedge-funds-go-underweight-ai-for-the-first-time-since-2023/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-03"
+          "title": "4 Semiconductor Stocks to Buy as Q3 Sales Soar on Robust AI Demand",
+          "link": "https://finance.yahoo.com/technology/articles/4-semiconductor-stocks-buy-q3-134400671.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04"
         }
       ]
     },
@@ -1558,8 +1558,8 @@
           75.0
         ]
       },
-      "price": 3060.0,
-      "market_cap_b": 264.1,
+      "price": 3065.0,
+      "market_cap_b": 264.5,
       "revenue_yoy": -16.5,
       "gross_margin": 37.2,
       "operating_margin": 21.6,
@@ -1567,6 +1567,22 @@
       "debt_to_ebitda": 0.04,
       "market_cap_usd_b": 8.3,
       "arxiv_papers": [
+        {
+          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
+          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
+          "authors": "J. Liu, R. Mao et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.05810v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Ta-based S-I-S junctions for integrated superconducting Electronics",
+          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
+          "authors": "Trent Borman, Cameron Bullock et al.",
+          "published": "2026-11-03",
+          "link": "http://arxiv.org/pdf/2611.04982v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "A RISC-V Simulator for the Tenstorrent Tensix Architecture",
           "summary": "RISC-V based AI accelerators have become popular and not only for AI and ML, but also as vehicles for exploring HPC workloads more generally. Tenstorrent are one example, and whilst they document their Tensix architectur...",
@@ -1581,22 +1597,6 @@
           "authors": "Sangyup Lee, Xiao Liu et al.",
           "published": "2026-11-03",
           "link": "http://arxiv.org/pdf/2611.04280v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Ferroelectric Switching in x-cut MgO-doped Thin-Film Lithium Niobate: Implications for Periodic Poling and Domain-Wall Electronics",
-          "summary": "Thin-film lithium niobate (TFLN) revives a mature ferroelectric as a wafer-scale platform for integrated photonics and, increasingly, for domain-wall electronics such as nonvolatile memories and memristors. Both applicat...",
-          "authors": "Niels Staal, Michael Rüsing et al.",
-          "published": "2026-11-01",
-          "link": "http://arxiv.org/pdf/2611.02233v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
-          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
-          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
-          "published": "2026-10-30",
-          "link": "http://arxiv.org/pdf/2610.41919v1",
           "category": "AI Accelerator"
         }
       ],
@@ -1686,14 +1686,14 @@
           150.0
         ]
       },
-      "price": 1455.0,
-      "market_cap_b": 813.2,
+      "price": 1430.0,
+      "market_cap_b": 799.2,
       "revenue_yoy": 57.6,
       "gross_margin": 18.7,
       "operating_margin": 15.0,
       "fcf_b": 3.02,
       "debt_to_ebitda": 0.21,
-      "market_cap_usd_b": 25.4,
+      "market_cap_usd_b": 25.0,
       "arxiv_papers": [
         {
           "title": "From Fabrication Disorder to Quantum-Protocol Yield in Inverse-Designed Silicon Photonic Beam Splitters",
@@ -1814,15 +1814,31 @@
           440.0
         ]
       },
-      "price": 1750.0,
-      "market_cap_b": 972.7,
+      "price": 1690.0,
+      "market_cap_b": 939.3,
       "revenue_yoy": 26.0,
       "gross_margin": 8.2,
       "operating_margin": 7.3,
       "fcf_b": -71.74,
       "debt_to_ebitda": 2.18,
-      "market_cap_usd_b": 30.4,
+      "market_cap_usd_b": 29.4,
       "arxiv_papers": [
+        {
+          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
+          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
+          "authors": "J. Liu, R. Mao et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.05810v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Ta-based S-I-S junctions for integrated superconducting Electronics",
+          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
+          "authors": "Trent Borman, Cameron Bullock et al.",
+          "published": "2026-11-03",
+          "link": "http://arxiv.org/pdf/2611.04982v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "A RISC-V Simulator for the Tenstorrent Tensix Architecture",
           "summary": "RISC-V based AI accelerators have become popular and not only for AI and ML, but also as vehicles for exploring HPC workloads more generally. Tenstorrent are one example, and whilst they document their Tensix architectur...",
@@ -1837,22 +1853,6 @@
           "authors": "Sangyup Lee, Xiao Liu et al.",
           "published": "2026-11-03",
           "link": "http://arxiv.org/pdf/2611.04280v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Ferroelectric Switching in x-cut MgO-doped Thin-Film Lithium Niobate: Implications for Periodic Poling and Domain-Wall Electronics",
-          "summary": "Thin-film lithium niobate (TFLN) revives a mature ferroelectric as a wafer-scale platform for integrated photonics and, increasingly, for domain-wall electronics such as nonvolatile memories and memristors. Both applicat...",
-          "authors": "Niels Staal, Michael Rüsing et al.",
-          "published": "2026-11-01",
-          "link": "http://arxiv.org/pdf/2611.02233v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
-          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
-          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
-          "published": "2026-10-30",
-          "link": "http://arxiv.org/pdf/2610.41919v1",
           "category": "AI Accelerator"
         }
       ],
@@ -1942,14 +1942,14 @@
           1380.0
         ]
       },
-      "price": 240.0,
-      "market_cap_b": 3377.8,
+      "price": 239.0,
+      "market_cap_b": 3363.7,
       "revenue_yoy": 40.8,
       "gross_margin": 6.1,
       "operating_margin": 3.8,
       "fcf_b": -182.3,
       "debt_to_ebitda": 3.23,
-      "market_cap_usd_b": 105.6,
+      "market_cap_usd_b": 105.1,
       "arxiv_papers": [
         {
           "title": "FrontGI: Architecture-Aware Parallel GNN Inference on Chiplet-Based Multicore Systems",
@@ -1986,6 +1986,12 @@
       ],
       "news": [
         {
+          "title": "The Apple Supply Chain Faces Its Biggest Test Yet",
+          "link": "https://www.barrons.com/articles/apple-supply-chain-chip-shortage-e08436a0?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-04"
+        },
+        {
           "title": "Foxconn: AI Will Boost Consumer Electronics",
           "link": "https://finance.yahoo.com/video/foxconn-ai-boost-consumer-electronics-165623901.html",
           "publisher": "Bloomberg",
@@ -2000,12 +2006,6 @@
         {
           "title": "Foxconn unveils three new EV models as it expands contract manufacturing push",
           "link": "https://finance.yahoo.com/technology/articles/foxconn-unveils-three-ev-models-051010944.html",
-          "publisher": "Investing.com",
-          "published": "2026-10-30"
-        },
-        {
-          "title": "Asian tech stocks slump as AI rout deepens on disappointing U.S. earnings",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/asian-tech-stocks-slump-ai-044824243.html",
           "publisher": "Investing.com",
           "published": "2026-10-30"
         }
@@ -2070,15 +2070,31 @@
           810.0
         ]
       },
-      "price": 304.0,
-      "market_cap_b": 1246.3,
+      "price": 306.0,
+      "market_cap_b": 1254.5,
       "revenue_yoy": 105.6,
       "gross_margin": 5.5,
       "operating_margin": 3.3,
       "fcf_b": -58.97,
       "debt_to_ebitda": 3.87,
-      "market_cap_usd_b": 38.9,
+      "market_cap_usd_b": 39.2,
       "arxiv_papers": [
+        {
+          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
+          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
+          "authors": "J. Liu, R. Mao et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.05810v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Ta-based S-I-S junctions for integrated superconducting Electronics",
+          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
+          "authors": "Trent Borman, Cameron Bullock et al.",
+          "published": "2026-11-03",
+          "link": "http://arxiv.org/pdf/2611.04982v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "A RISC-V Simulator for the Tenstorrent Tensix Architecture",
           "summary": "RISC-V based AI accelerators have become popular and not only for AI and ML, but also as vehicles for exploring HPC workloads more generally. Tenstorrent are one example, and whilst they document their Tensix architectur...",
@@ -2093,22 +2109,6 @@
           "authors": "Sangyup Lee, Xiao Liu et al.",
           "published": "2026-11-03",
           "link": "http://arxiv.org/pdf/2611.04280v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Ferroelectric Switching in x-cut MgO-doped Thin-Film Lithium Niobate: Implications for Periodic Poling and Domain-Wall Electronics",
-          "summary": "Thin-film lithium niobate (TFLN) revives a mature ferroelectric as a wafer-scale platform for integrated photonics and, increasingly, for domain-wall electronics such as nonvolatile memories and memristors. Both applicat...",
-          "authors": "Niels Staal, Michael Rüsing et al.",
-          "published": "2026-11-01",
-          "link": "http://arxiv.org/pdf/2611.02233v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
-          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
-          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
-          "published": "2026-10-30",
-          "link": "http://arxiv.org/pdf/2610.41919v1",
           "category": "AI Accelerator"
         }
       ],
@@ -2198,14 +2198,14 @@
           78.0
         ]
       },
-      "price": 2765.0,
-      "market_cap_b": 1085.4,
+      "price": 2625.0,
+      "market_cap_b": 1030.4,
       "revenue_yoy": 66.0,
       "gross_margin": 28.9,
       "operating_margin": 27.4,
       "fcf_b": 44.54,
       "debt_to_ebitda": 0.62,
-      "market_cap_usd_b": 33.9,
+      "market_cap_usd_b": 32.2,
       "arxiv_papers": [
         {
           "title": "FrontGI: Architecture-Aware Parallel GNN Inference on Chiplet-Based Multicore Systems",
@@ -2242,28 +2242,28 @@
       ],
       "news": [
         {
-          "title": "Asia Vital Components Co., Ltd. (3017.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sd1NJSDJFcUtZS19peDhvcnRkb3JSMXFtZVZxRVdMUExLTU5naGQ4UjdCVmhhSXlOVDg3Uk14YXJhRXRwWWlhRTZ6Rml1R1Z0dlpUVFJXeEQ1ZGZoUm9ULUEyUEFCdw?oc=5",
-          "publisher": "Google News",
-          "published": "Sat, 31 Oct 2026"
-        },
-        {
-          "title": "Taiwan Stocks Plunge Over 10%, Negative Deviation From Moving Averages Hits Largest Since July; Analysts Say Oversold Rebound Conditions Are Brewing, Name Three Thermal-Cooling Leaders - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5cTF0T3Y3TVhBV19yOTYtXzduTGhvTGJZUllubzRFR1NHU1NpcmNBV0ZXU1J1bkNUenltOU5rZlpTenZ4UldqV1BNMkVwMVVjUjl0NkpTQXlGNWJRLUFYSlN6ZEpGemRHUXVJczAzRFlXX0pKUEE?oc=5",
-          "publisher": "Google News",
-          "published": "Wed, 04 Nov 2026"
-        },
-        {
           "title": "Taiwan's Investigation Bureau Searches Xinzhuang Plant; Asia Vital Components and Fositek Say Operations, Finances Unaffected - BigGo Finance",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IYlZqejBfalMzYlFmQ3dmMEIyWExabzNjRTJJQjFnLUhjSGdnbmVLa2kyR3ZyM2NSVDRzX3oxVVllWGdjV1FHdVo5bV81S1RlOHFoZWh4QVhuY1I1MUxFdWQzeTFpM0VTZDJac0FxdkJ6V0NrNmc?oc=5",
           "publisher": "Google News",
           "published": "Wed, 07 Oct 2026"
         },
         {
-          "title": "TWSE Returns to COMPUTEX: The World's Fifth‑Largest Capital Market Powering a Full‑Stack AI Ecosystem - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVEl5MldpLWVyNmgtbkhLWFZIa1c0c1FYZDkzNmxZV2pLVjdBMjFncmk0WVg3N0hpc2RuSlVwbEdueGFIcUNUZTB0ZGZ6OE1KMWY3X3RYUUpVSklLY1hUNHZqUU1HbUNncFYtX1NoWWRmbnIyZHNlNVQ5T3JKM0FURHdFaEpqaGdfbjMw?oc=5",
+          "title": "Asia Vital Components Co., Ltd. (3017.TW) stock price, news, quote and history - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lTGtzdnJzbkVOcnJ5aC1XajF3OGdYN1pLTnJkZG5zS3g5QXlSWGVLTDZqR0xWNTdtV3NQTDlzR1hsaFpHRWQ2MzJ2ZGkyaTEzSjJlSGhB?oc=5",
           "publisher": "Google News",
-          "published": "Tue, 26 May 2026"
+          "published": "Sat, 02 Jun 2018"
+        },
+        {
+          "title": "AI Data Centers' $7 Trillion Opportunity Sparks Order Surge Across Power and Cooling Supply Chains - BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yQ1B0a3JZYzJzYUVkdVBzanRheU4yQkV1M2N6bm1nVjJhOHFNdE02NURRaTZYZzhCSWNwZERHU1hEZXF1ODBkN1EzTG9maUpaT0cwS29adGtVN1dhNzZVQk1QSENaZURMc2JENmtPM3ZFbTd1SUE?oc=5",
+          "publisher": "Google News",
+          "published": "Wed, 02 Sep 2026"
+        },
+        {
+          "title": "3017 Stock Price and Chart — TWSE:3017 - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44Zks2V3Rnc2lfTHRZVWFad1I4b0hmaXBDMmdGUkVCeEttTEZHdWZiQ0lHNmNWUGVLMmMxTTBGVlhpemNZVGNrTkhxRmJfY2pveFRJUExzYkVpdw?oc=5",
+          "publisher": "Google News",
+          "published": "Mon, 11 Sep 2017"
         }
       ]
     },
@@ -2326,15 +2326,31 @@
           350.0
         ]
       },
-      "price": 1210.0,
-      "market_cap_b": 3143.0,
+      "price": 1150.0,
+      "market_cap_b": 2987.2,
       "revenue_yoy": 31.1,
       "gross_margin": 35.3,
       "operating_margin": 16.6,
       "fcf_b": 44.52,
       "debt_to_ebitda": 0.77,
-      "market_cap_usd_b": 98.2,
+      "market_cap_usd_b": 93.3,
       "arxiv_papers": [
+        {
+          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
+          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
+          "authors": "J. Liu, R. Mao et al.",
+          "published": "2026-11-04",
+          "link": "http://arxiv.org/pdf/2611.05810v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Ta-based S-I-S junctions for integrated superconducting Electronics",
+          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
+          "authors": "Trent Borman, Cameron Bullock et al.",
+          "published": "2026-11-03",
+          "link": "http://arxiv.org/pdf/2611.04982v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "A RISC-V Simulator for the Tenstorrent Tensix Architecture",
           "summary": "RISC-V based AI accelerators have become popular and not only for AI and ML, but also as vehicles for exploring HPC workloads more generally. Tenstorrent are one example, and whilst they document their Tensix architectur...",
@@ -2349,22 +2365,6 @@
           "authors": "Sangyup Lee, Xiao Liu et al.",
           "published": "2026-11-03",
           "link": "http://arxiv.org/pdf/2611.04280v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Ferroelectric Switching in x-cut MgO-doped Thin-Film Lithium Niobate: Implications for Periodic Poling and Domain-Wall Electronics",
-          "summary": "Thin-film lithium niobate (TFLN) revives a mature ferroelectric as a wafer-scale platform for integrated photonics and, increasingly, for domain-wall electronics such as nonvolatile memories and memristors. Both applicat...",
-          "authors": "Niels Staal, Michael Rüsing et al.",
-          "published": "2026-11-01",
-          "link": "http://arxiv.org/pdf/2611.02233v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
-          "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
-          "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
-          "published": "2026-10-30",
-          "link": "http://arxiv.org/pdf/2610.41919v1",
           "category": "AI Accelerator"
         }
       ],
@@ -2399,39 +2399,55 @@
   "arxiv_papers_by_category": {
     "LLM MoE": [
       {
-        "title": "Accelerating Offloading-Based MoE Inference by Interleaving Concurrent Requests",
-        "summary": "Expert offloading enables large mixture-of-experts (MoE) language models to run locally, but conventional batching stalls the GPU while missing experts are fetched. A popular remedy, known as prefetching, is to predict w...",
-        "authors": "Hongseung Yu, In Gim et al.",
-        "published": "2026-11-03",
-        "link": "http://arxiv.org/pdf/2611.04794v1",
+        "title": "Analysis of Local Open-Weight LLM Agents on Vulnerability-Reproduction Tasks",
+        "summary": "Open-weight language models that fit on a single consumer GPU are becoming capable on a growing range of tasks, and they matter because they can run locally without sending the code to a hosted service. Vulnerability rep...",
+        "authors": "Jorge García-Carrasco, Javier Sanchis et al.",
+        "published": "2026-11-04",
+        "link": "http://arxiv.org/pdf/2611.06257v1",
         "category": "LLM MoE"
       },
       {
-        "title": "Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation",
-        "summary": "Learning robust manipulation policies for diverse everyday objects remains challenging because objects with different materials exhibit distinct deformation and contact dynamics. While diffusion policies provide a powerf...",
-        "authors": "Can Wang, Qiyuan Qiao et al.",
-        "published": "2026-11-03",
-        "link": "http://arxiv.org/pdf/2611.04493v1",
+        "title": "SafeStart: Mitigating the Overlooked Safety Cost of Active Expert Reduction in MoE LLM Serving",
+        "summary": "Mixture-of-Experts (MoE) language models send each token through a few of many expert subnetworks. Serving methods make these models faster by running even fewer experts per token, and they are validated on accuracy benc...",
+        "authors": "Erfan Baghaei Potraghloo, Saeid Shokoufa et al.",
+        "published": "2026-11-04",
+        "link": "http://arxiv.org/pdf/2611.06147v1",
         "category": "LLM MoE"
       },
       {
-        "title": "Aligning Training and Rollout Policies for End-to-End FP4 RL on Mixture-of-Experts LLMs",
-        "summary": "In this work, we study end-to-end FP4 reinforcement learning (RL) post-training for Mixture-of-Experts (MoE) large language models. Recent work on FP4 RL has introduced effective recovery recipes that restore accuracy un...",
-        "authors": "Hei Yi Mak, Hoang Le et al.",
-        "published": "2026-11-03",
-        "link": "http://arxiv.org/pdf/2611.04376v1",
+        "title": "vExpert: Virtualizing Expert Storage for Adaptive Load Balancing in Distributed MoE Inference",
+        "summary": "Mixture-of-Experts (MoE) models have become prevailing, yet their distributed deployment suffers from severe dynamic load imbalance due to the conflict between static expert placement and inherent routing dynamism. While...",
+        "authors": "Wenxun Wang, Xiuhong Li et al.",
+        "published": "2026-11-04",
+        "link": "http://arxiv.org/pdf/2611.06057v1",
         "category": "LLM MoE"
       },
       {
-        "title": "GC-MoE: Overlapping Expert-Parallel Token Dispatch with FP8/FP4 Grouped GEMM via CUDA Green Contexts",
-        "summary": "Under expert parallelism, mixture-of-experts (MoE) layers pay all-to-all token dispatch, grouped GEMMs, and a combine step in every layer. In decode each rank holds only 1-256 tokens: dispatch latency and weight traffic ...",
-        "authors": "Yong Li, Kan Liu et al.",
-        "published": "2026-11-03",
-        "link": "http://arxiv.org/pdf/2611.04222v1",
+        "title": "Intra-Architecture Source Attribution for Stable Diffusion: A New Task with Benchmark Dataset and Baseline",
+        "summary": "Designing systems that attribute a generated image to its source model has lately become a major area of AI research. Most existing datasets and systems related to image source attribution are targeted towards the detect...",
+        "authors": "Ashutosh Dayal, Mallika Garg et al.",
+        "published": "2026-11-04",
+        "link": "http://arxiv.org/pdf/2611.06000v1",
         "category": "LLM MoE"
       }
     ],
     "Transformer & Attention": [
+      {
+        "title": "Runway Characters: Serving a 57B Video Diffusion Transformer for Real-Time Conversation",
+        "summary": "Conversational video characters must generate video as fast as it plays, for one user at a time: at 24 fps, a sustained 166.7 ms per four-frame chunk at batch size one, with only a few chunks of buffering. We describe th...",
+        "authors": "Rohan Agarwal, Robin Andeer et al.",
+        "published": "2026-11-03",
+        "link": "http://arxiv.org/pdf/2611.05642v1",
+        "category": "Transformer & Attention"
+      },
+      {
+        "title": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers",
+        "summary": "Looped transformers are a parameter-efficient alternative to standard transformers for language modeling. By reapplying the same layers across multiple loop steps, recent looped language models match the performance of n...",
+        "authors": "Minsoo Cheong, Sungjoo Yoo",
+        "published": "2026-11-03",
+        "link": "http://arxiv.org/pdf/2611.05304v1",
+        "category": "Transformer & Attention"
+      },
       {
         "title": "A Parametric Linear Conic Projection for Structured Sparse Attention",
         "summary": "In this paper, we introduce the Cone Alignment Index (CAI), a scale-invariant sparsity measure associated with a Lorentz-cone geometry. We provide a probabilistic analysis of the distribution of the CAI score, including ...",
@@ -2447,25 +2463,25 @@
         "published": "2026-11-03",
         "link": "http://arxiv.org/pdf/2611.04433v1",
         "category": "Transformer & Attention"
-      },
-      {
-        "title": "Beyond Compression Ratio: High-Throughput KV Compression for Disaggregated LLM Serving",
-        "summary": "KV cache compression reduces the communication volume of disaggregated large language model serving, but its practical benefit depends not only on compression ratio and model quality, but also on how efficiently the comp...",
-        "authors": "Junhong Wu, Zedong Liu et al.",
-        "published": "2026-11-03",
-        "link": "http://arxiv.org/pdf/2611.04382v1",
-        "category": "Transformer & Attention"
-      },
-      {
-        "title": "LiSA: Linear Stochastic Attention for Long-Range Visual Modeling",
-        "summary": "Self-attention has become the standard for modern sequence modeling, enabling Transformers to model long-range dependencies across a wide range of modalities. Despite these advances, its quadratic cost with respect to se...",
-        "authors": "Sahar Dastani, Fereshteh Shakeri et al.",
-        "published": "2026-11-03",
-        "link": "http://arxiv.org/pdf/2611.04216v1",
-        "category": "Transformer & Attention"
       }
     ],
     "RL & Test-Time Compute": [
+      {
+        "title": "Learning When to Think Aloud in Latent Reasoning",
+        "summary": "Latent Chain-of-Thought (CoT) reasoning improves efficiency by shifting intermediate computation into continuous hidden states. However, fully latent methods often struggle on precision-critical tasks such as mathematica...",
+        "authors": "Zhehao Zhou, Tongrui Su et al.",
+        "published": "2026-11-04",
+        "link": "http://arxiv.org/pdf/2611.06108v1",
+        "category": "RL & Test-Time Compute"
+      },
+      {
+        "title": "Reward Budgeting Reduces Premature Convergence in Reinforcement Learning for LLM Reasoning",
+        "summary": "RL for LLM reasoning often reaches an early performance plateau as the policy distribution becomes increasingly sharp. Recent work has studied policy entropy as both a diagnostic and a control signal for this behavior. I...",
+        "authors": "Mengni Jia, Mengyu Zhou et al.",
+        "published": "2026-11-04",
+        "link": "http://arxiv.org/pdf/2611.05942v1",
+        "category": "RL & Test-Time Compute"
+      },
       {
         "title": "BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery",
         "summary": "Large Reasoning Models (LRMs) achieve strong performance on complex tasks by generating explicit Chain-of-Thought (CoT) reasoning, but the safety implications of this intermediate reasoning surface remain underexplored. ...",
@@ -2481,55 +2497,39 @@
         "published": "2026-11-02",
         "link": "http://arxiv.org/pdf/2611.03627v1",
         "category": "RL & Test-Time Compute"
-      },
-      {
-        "title": "CheXPoT: Post-Hoc Visual Verification and Correction of VLM-Generated Radiology Reports",
-        "summary": "Vision-language models (VLMs) have shown promise for chest radiograph report generation, but adoption remains limited because of hallucinated findings that are not grounded in the image. Correcting these hallucinations a...",
-        "authors": "Joey Guo, Rayan Ansari et al.",
-        "published": "2026-10-31",
-        "link": "http://arxiv.org/pdf/2611.00785v1",
-        "category": "RL & Test-Time Compute"
-      },
-      {
-        "title": "Enhancing Language Model Reasoning with Structured Multi-Level Modeling",
-        "summary": "Inference-time scaling enhances a model's reasoning by extending its chain-of-thought (CoT). However, existing approaches typically rely on a single policy trained with outcome-reward reinforcement learning (RL), which o...",
-        "authors": "Siheng Xiong, Ali Payani et al.",
-        "published": "2026-10-31",
-        "link": "http://arxiv.org/pdf/2611.00616v1",
-        "category": "RL & Test-Time Compute"
       }
     ],
     "Multimodal & World Models": [
       {
-        "title": "Hybrid Particle-Voxel Dynamics for Multimodal 3D World Simulation",
-        "summary": "Predicting how the world evolves in response to robot actions is central to policy learning, evaluation, and planning. However, many action-conditioned world models predict future observations in 2D image or video space ...",
-        "authors": "Jimmy Wang, Yifan Chou et al.",
-        "published": "2026-11-03",
-        "link": "http://arxiv.org/pdf/2611.04492v1",
+        "title": "DreamRealm: Exploring and Materializing Hallucination Worlds for Trustworthy Vision-Language Models",
+        "summary": "Multimodal large language models (MLLMs) remain prone to visual hallucinations when correct responses depend on subtle visual details. One line of post-training methods constructs visual contrasts through image retrieval...",
+        "authors": "Benlei Cui, Chunyang Chai et al.",
+        "published": "2026-11-04",
+        "link": "http://arxiv.org/pdf/2611.06433v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "Entropy-Gated Dynamic Rectification for Object Hallucination in Large Vision-Language Models",
-        "summary": "Large Vision-Language Models (LVLMs) routinely name objects that are absent from the image. Latent steering can reduce this failure in one model forward pass, but a fixed gate treats early and late decoding steps by the ...",
-        "authors": "Riasad Alvi, Md. Asaduzzaman Shuvo et al.",
-        "published": "2026-11-03",
-        "link": "http://arxiv.org/pdf/2611.04438v1",
+        "title": "A Systematic Benchmark for Evaluating Multimodal Personalized Reasoning of Vision-Language Models",
+        "summary": "People often make decisions by holistically reasoning over heterogeneous forms of personal information. In this paper, we study the relatively underexplored capability of multimodal personalized reasoning in multimodal l...",
+        "authors": "Dohyun Kim, Junyong Lhim et al.",
+        "published": "2026-11-04",
+        "link": "http://arxiv.org/pdf/2611.06259v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "DiMuRe: Diagnosis-Guided Multilevel Recovery for Robotic Task Execution",
-        "summary": "Disturbances can invalidate the conditions required by a robot's next action even when much of its task program remains useful. A recovery system must therefore choose a response suited to the current state. We present D...",
-        "authors": "Renkai Yi, Yuwei Wu et al.",
-        "published": "2026-11-03",
-        "link": "http://arxiv.org/pdf/2611.04226v1",
+        "title": "Annotator-Free Object Detection via Foundation Model Collaboration",
+        "summary": "Object detection research remains constrained by high annotation costs and the closed-set assumptions of supervised models, limiting scalability to novel categories. We present a target-dataset annotation-free object det...",
+        "authors": "Yasiru Ranasinghe, Vishal M. Patel",
+        "published": "2026-11-04",
+        "link": "http://arxiv.org/pdf/2611.06195v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials",
-        "summary": "Recent work has improved computer-use agents (CUAs) by combining retrieved task-relevant tutorials and look-ahead planning using world models with MLLM judges. However, the contribution of each component -- tutorials, th...",
-        "authors": "Anh Nguyen, Tianyi Xu et al.",
-        "published": "2026-11-02",
-        "link": "http://arxiv.org/pdf/2611.04073v1",
+        "title": "Grounding in the Dark: Text-Only Training for Zero-Shot Video Temporal Localization",
+        "summary": "Video-LLMs are typically trained on paired video-text data for temporal tasks, yet collecting precise temporal annotations and training on large-scale video datasets are both costly. We investigate whether a text-only LL...",
+        "authors": "Divyanshu Mishra, Sabine Sternig et al.",
+        "published": "2026-11-04",
+        "link": "http://arxiv.org/pdf/2611.06149v1",
         "category": "Multimodal & World Models"
       }
     ],
@@ -2603,6 +2603,22 @@
     ],
     "AI Accelerator": [
       {
+        "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
+        "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
+        "authors": "J. Liu, R. Mao et al.",
+        "published": "2026-11-04",
+        "link": "http://arxiv.org/pdf/2611.05810v1",
+        "category": "AI Accelerator"
+      },
+      {
+        "title": "Ta-based S-I-S junctions for integrated superconducting Electronics",
+        "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
+        "authors": "Trent Borman, Cameron Bullock et al.",
+        "published": "2026-11-03",
+        "link": "http://arxiv.org/pdf/2611.04982v1",
+        "category": "AI Accelerator"
+      },
+      {
         "title": "A RISC-V Simulator for the Tenstorrent Tensix Architecture",
         "summary": "RISC-V based AI accelerators have become popular and not only for AI and ML, but also as vehicles for exploring HPC workloads more generally. Tenstorrent are one example, and whilst they document their Tensix architectur...",
         "authors": "Nick Brown, Daniyal Arshad",
@@ -2616,22 +2632,6 @@
         "authors": "Sangyup Lee, Xiao Liu et al.",
         "published": "2026-11-03",
         "link": "http://arxiv.org/pdf/2611.04280v1",
-        "category": "AI Accelerator"
-      },
-      {
-        "title": "Ferroelectric Switching in x-cut MgO-doped Thin-Film Lithium Niobate: Implications for Periodic Poling and Domain-Wall Electronics",
-        "summary": "Thin-film lithium niobate (TFLN) revives a mature ferroelectric as a wafer-scale platform for integrated photonics and, increasingly, for domain-wall electronics such as nonvolatile memories and memristors. Both applicat...",
-        "authors": "Niels Staal, Michael Rüsing et al.",
-        "published": "2026-11-01",
-        "link": "http://arxiv.org/pdf/2611.02233v1",
-        "category": "AI Accelerator"
-      },
-      {
-        "title": "Matching Workloads to Blackwell: Power-Resolved Benchmarking of NVIDIA B200 and B300 across HPC and AI Workloads",
-        "summary": "We evaluate NVIDIA B200 and B300 (Blackwell Ultra) GPUs on two independent eight-GPU clusters, spanning computer-vision inference and training, LLM inference with Llama-3-8B and 70B~\\cite{llama3}, and six production HPC ...",
-        "authors": "Mohsen Zand, Trung Dac Nguyen et al.",
-        "published": "2026-10-30",
-        "link": "http://arxiv.org/pdf/2610.41919v1",
         "category": "AI Accelerator"
       }
     ]
