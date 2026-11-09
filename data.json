@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08 10:37:30 CST (UTC+8)",
+  "last_updated": "2026-11-09 10:52:20 CST (UTC+8)",
   "status": "LIVE_CLOUD_SYNC",
   "macro_kpis": {
     "csp_capex": {
@@ -194,28 +194,28 @@
       ],
       "news": [
         {
-          "title": "Trump's Recent Warning Is Sending Shockwaves Through Wall Street. Here's What It Could Mean for Your Retirement Savings.",
-          "link": "https://www.fool.com/investing/2026/11/07/trumps-recent-warning-is-sending-shockwaves-throug/",
-          "publisher": "Motley Fool",
+          "title": "Nvidia's board launches investigation into CEO Jensen Huang's affair with an alleged Chinese spy",
+          "link": "https://finance.yahoo.com/markets/article/nvidias-jensen-huang-admits-to-affair-after-allegations-of-romance-with-chinese-spy-report-205122263.html",
+          "publisher": "Yahoo Finance",
           "published": "2026-11-08"
         },
         {
-          "title": "The 1 Investing Habit That Separates Stock Market Millionaires From Everyone Else",
-          "link": "https://www.fool.com/investing/2026/11/07/the-1-investing-habit-that-separates-stock-market/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08"
+          "title": "Dow Jones Futures Rise As Nvidia Probes CEO Jensen Huang Spying Case",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-probes-ceo-jensen-huang-espionage/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-09"
         },
         {
-          "title": "Alphabet's $15 Billion Investment in Malaysia Data Centers Shows That Midterm Results Won't Stop the AI Boom",
-          "link": "https://www.fool.com/investing/2026/11/07/alphabets-15-billion-investment-in-malaysia-data-c/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08"
+          "title": "Nvidia Board Launches Probe In CEO Jensen Huang Spying Case",
+          "link": "https://www.investors.com/news/technology/nvidia-board-launches-probe-in-ceo-jensen-huang-spying-case/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-09"
         },
         {
-          "title": "AMD Stock Just Fell Below the Price I Said I'd Pay for It.",
-          "link": "https://www.fool.com/investing/2026/11/07/amd-stock-just-fell-below-the-price-i-said-i-d-pay-for-it/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08"
+          "title": "South Korea says Nvidia issues won't affect contracted GPU supplies",
+          "link": "https://finance.yahoo.com/technology/articles/south-korea-says-nvidia-issues-022650481.html",
+          "publisher": "Reuters",
+          "published": "2026-11-09"
         }
       ]
     },
@@ -288,6 +288,14 @@
       "market_cap_usd_b": 1402.0,
       "arxiv_papers": [
         {
+          "title": "An Ultra-Low-Noise Tunable TIA in 45nm Silicon Photonics for Electro-Optical Ultrasound Data Acquisition",
+          "summary": "This paper presents the design and experimental characterization of a 32-channel, WDM-compatible electronic-photonic receiver array fabricated in the GlobalFoundries 45nm monolithic silicon photonics process. Optimized f...",
+          "authors": "Marziyeh Rezaei, Sridhar Singhal et al.",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.08826v1",
+          "category": "Silicon Photonics"
+        },
+        {
           "title": "Multi-Channel Non-Abelian Edge Pumping via Multi-Degeneracy Encircling",
           "summary": "Non-Abelian operations enable sequence-dependent control of light, yet experimental realizations in wave systems have remained confined to local bulk or same-boundary modes and have often required fragile gap-closing deg...",
           "authors": "Qingyang Mo, Jiacheng Sun et al.",
@@ -310,40 +318,32 @@
           "published": "2026-10-31",
           "link": "http://arxiv.org/pdf/2611.01111v1",
           "category": "Silicon Photonics"
-        },
-        {
-          "title": "Versatile Photonic Encoding Platform with Selectable Back Ends for Automotive Edge Processing",
-          "summary": "The increasing diversity and computational demands of automotive edge functions require hardware architectures that support heterogeneous processing while limiting implementation complexity and system overhead. We invest...",
-          "authors": "Isamu Takai, Makoto Nakai et al.",
-          "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.39337v1",
-          "category": "Silicon Photonics"
         }
       ],
       "news": [
         {
-          "title": "Jim Cramer sends a strong signal to Nvidia stock investors",
-          "link": "https://www.thestreet.com/investing/stocks/jim-cramer-sends-a-strong-signal-to-nvidia-stock-investors",
-          "publisher": "TheStreet",
-          "published": "2026-11-07"
-        },
-        {
-          "title": "The Artificial Intelligence (AI) Boom Is Far From Over. Here Are 4 Potential Long-Term Winners",
-          "link": "https://www.fool.com/investing/2026/11/07/the-artificial-intelligence-ai-boom-is-far-from-over-here-are-4-potential-long-term-winners/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07"
-        },
-        {
-          "title": "Wall Street May Have Lost $2.5 Trillion, but This 30% Warning Could Be an Even Bigger Problem for AI Stocks",
-          "link": "https://247wallst.com/investing/2026/11/07/wall-street-may-have-lost-2-5-trillion-but-this-30-warning-could-be-an-even-bigger-problem-for-ai-stocks/",
+          "title": "David Sacks Warns the AI Data Center Pipeline Could Dry Up. Here’s What’s at Stake",
+          "link": "https://247wallst.com/investing/2026/11/08/david-sacks-warns-the-ai-data-center-pipeline-could-dry-up-heres-whats-at-stake/",
           "publisher": "24/7 Wall St.",
-          "published": "2026-11-07"
+          "published": "2026-11-09"
         },
         {
-          "title": "What Is Behind The Rebound In Qualcomm Stock?",
-          "link": "https://www.trefis.com/stock/qcom/articles/623744/what-is-behind-the-rebound-in-qualcomm-stock/2026-11-07",
-          "publisher": "Trefis",
-          "published": "2026-11-07"
+          "title": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today?",
+          "link": "https://www.fool.com/investing/2026/11/08/amd-or-nvidia-which-ai-chip-stock-would-i-buy-with/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08"
+        },
+        {
+          "title": "Anthropic’s $895 Billion AI Gamble Could Become Wall Street’s Next Debt Nightmare",
+          "link": "https://247wallst.com/investing/2026/11/08/anthropics-895-billion-ai-gamble-could-become-wall-streets-next-debt-nightmare/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-08"
+        },
+        {
+          "title": "America’s AI Spending Boom Just Crossed a Staggering $1 Trillion Milestone",
+          "link": "https://247wallst.com/investing/2026/11/08/americas-ai-spending-boom-just-crossed-a-staggering-1-trillion-milestone/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-08"
         }
       ]
     },
@@ -450,28 +450,28 @@
       ],
       "news": [
         {
-          "title": "AMD Stock Just Fell Below the Price I Said I'd Pay for It.",
-          "link": "https://www.fool.com/investing/2026/11/07/amd-stock-just-fell-below-the-price-i-said-i-d-pay-for-it/",
+          "title": "AMD: 3 Key Takeaways for Long-Term Investors",
+          "link": "https://www.fool.com/earnings/takeaways/2026/11/08/amd-3-key-takeaways-for-long-term-investors/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09"
+        },
+        {
+          "title": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today?",
+          "link": "https://www.fool.com/investing/2026/11/08/amd-or-nvidia-which-ai-chip-stock-would-i-buy-with/",
           "publisher": "Motley Fool",
           "published": "2026-11-08"
         },
         {
-          "title": "NVIDIA And 2 Other AI Stocks To Watch",
-          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-2-other-ai-stocks-231249303.html",
+          "title": "What Is Meta Platforms (META) Facing As Legal Risks Rise And AI Deals Expand?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-facing-legal-220633031.html",
           "publisher": "Simply Wall St.",
-          "published": "2026-11-07"
+          "published": "2026-11-08"
         },
         {
-          "title": "Core Scientific Is Quitting Bitcoin Mining as It Now Makes About 92% of Its Revenue Renting to AI Customers",
-          "link": "https://247wallst.com/investing/2026/11/07/core-scientific-is-quitting-bitcoin-mining-as-it-now-makes-about-92-of-its-revenue-renting-to-ai-customers/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-07"
-        },
-        {
-          "title": "Jim Cramer sends a strong signal to Nvidia stock investors",
-          "link": "https://www.thestreet.com/investing/stocks/jim-cramer-sends-a-strong-signal-to-nvidia-stock-investors",
-          "publisher": "TheStreet",
-          "published": "2026-11-07"
+          "title": "AMD Stock Dropped 11% Last Week. Is Intel’s PC Warning Really That Bad?",
+          "link": "https://www.tikr.com/blog/amd-stock-dropped-11-last-week-is-intels-pc-warning-really-that-bad?ref=yahoofinance&tlnk=yf-261108-jq3xv862",
+          "publisher": "TIKR",
+          "published": "2026-11-08"
         }
       ]
     },
@@ -578,6 +578,12 @@
       ],
       "news": [
         {
+          "title": "Intel, Arm, and Marvell Have Each Been Cut in Half Since June. Only 1 Is a Stock I'd Buy Now.",
+          "link": "https://www.fool.com/investing/2026/11/08/intel-arm-and-marvell-have-each-been-cut-in-half-since-june-only-1-is-a-stock-i-d-buy-now/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08"
+        },
+        {
           "title": "Arm (ARM) Stock Sees Modest Fair Value Cut As Analysts Trim Multiples",
           "link": "https://finance.yahoo.com/markets/stocks/articles/arm-arm-stock-sees-modest-021256821.html",
           "publisher": "Simply Wall St.",
@@ -593,12 +599,6 @@
           "title": "AI Wants “Every Scrap of RAM.” Qualcomm and Arm Just Showed Who Pays the Bill",
           "link": "https://www.tikr.com/blog/ai-wants-every-scrap-of-ram-qualcomm-and-arm-just-showed-who-pays-the-bill?ref=yahoofinance&tlnk=yf-261107-72q2vv83",
           "publisher": "TIKR",
-          "published": "2026-11-07"
-        },
-        {
-          "title": "Think Arm Is Too Expensive? 1 Thing You Need To Understand About the Chip Stock",
-          "link": "https://www.fool.com/investing/2026/11/06/think-arm-is-too-expensive-1-thing-you-need-to-understand-about-the-chip-stock/",
-          "publisher": "Motley Fool",
           "published": "2026-11-07"
         }
       ]
@@ -706,6 +706,18 @@
       ],
       "news": [
         {
+          "title": "David Sacks Warns the AI Data Center Pipeline Could Dry Up. Here’s What’s at Stake",
+          "link": "https://247wallst.com/investing/2026/11/08/david-sacks-warns-the-ai-data-center-pipeline-could-dry-up-heres-whats-at-stake/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09"
+        },
+        {
+          "title": "America’s AI Spending Boom Just Crossed a Staggering $1 Trillion Milestone",
+          "link": "https://247wallst.com/investing/2026/11/08/americas-ai-spending-boom-just-crossed-a-staggering-1-trillion-milestone/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-08"
+        },
+        {
           "title": "Texas Data Center Freeze: Is Vistra a Better Buy Than Vertiv?",
           "link": "https://247wallst.com/investing/2026/11/07/texas-data-center-freeze-is-vistra-a-better-buy-than-vertiv/",
           "publisher": "24/7 Wall St.",
@@ -715,18 +727,6 @@
           "title": "NVIDIA And 2 Other AI Stocks To Watch",
           "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-2-other-ai-stocks-231249303.html",
           "publisher": "Simply Wall St.",
-          "published": "2026-11-07"
-        },
-        {
-          "title": "Vertiv (VRT) Stock Looks Below Fair Value After Recent Deals",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/vertiv-vrt-stock-looks-below-181453440.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07"
-        },
-        {
-          "title": "Are You Sure You Understand Vertiv Stock's Risk?",
-          "link": "https://www.trefis.com/stock/vrt/articles/623222/are-you-sure-you-understand-vertiv-stocks-risk/2026-11-06",
-          "publisher": "Trefis",
           "published": "2026-11-07"
         }
       ]
@@ -800,6 +800,22 @@
       "market_cap_usd_b": 3940.4,
       "arxiv_papers": [
         {
+          "title": "AlterNet: Adaptive-Depth Mixture-of-Experts with Learned Halting for Elastic Inference",
+          "summary": "Most LLM architectures have fixed compute demands determined at training time. We propose a novel architecture that combines the Mixture-of-Experts architecture with shallow experts and a novel dynamic-depth system to ma...",
+          "authors": "Alexander Kastius",
+          "published": "2026-11-05",
+          "link": "http://arxiv.org/pdf/2611.08741v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "AutoParallel: Composable, PyTorch-Native Automatic Parallelism for Production Training",
+          "summary": "Training large models requires multiple interacting forms of parallelism. As models and clusters scale, finding and maintaining efficient parallelization plans becomes essential for training performance. Diverse model ar...",
+          "authors": "Kaijian Wang, Sanket Purandare et al.",
+          "published": "2026-11-05",
+          "link": "http://arxiv.org/pdf/2611.08660v1",
+          "category": "LLM MoE"
+        },
+        {
           "title": "Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling",
           "summary": "Medical 3D scans and reports are inherently hierarchical, with diagnostic cues concentrated in specific anatomical regions across multiple levels of organization. Yet, most medical vision-language models ignore this stru...",
           "authors": "Gizem Mert, Szymon Płotka et al.",
@@ -814,48 +830,32 @@
           "published": "2026-11-05",
           "link": "http://arxiv.org/pdf/2611.08089v1",
           "category": "LLM MoE"
-        },
-        {
-          "title": "EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure",
-          "summary": "Recent advances in Gaussian splatting have enabled efficient and photorealistic head avatar reconstruction, yet monocular video-based or image-based methods still suffer from under-constrained geometry and texture, leadi...",
-          "authors": "Kwan Yun, Minhyeok Bang et al.",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.07909v1",
-          "category": "LLM MoE"
-        },
-        {
-          "title": "English Calibration Erodes Lithuanian in Expert-Pruned Mixture-of-Experts Language Models",
-          "summary": "Expert pruning compresses Mixture-of-Experts (MoE) language models by removing the experts that a calibration set marks as unimportant. Studies of high-resource languages largely find that English calibration transfers w...",
-          "authors": "Tomas Rasymas, Povilas Kvedaras",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.07654v1",
-          "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "How to invest in AI amid AI spending worries?",
-          "link": "https://finance.yahoo.com/technology/ai/articles/invest-ai-amid-ai-spending-002316174.html",
-          "publisher": "Investing.com",
+          "title": "Dow Jones Futures Rise As Nvidia Probes CEO Jensen Huang Spying Case",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-probes-ceo-jensen-huang-espionage/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-09"
+        },
+        {
+          "title": "In March 2000, Cisco Briefly Became The World’s Most Valuable Company As Its Stock Closed At $80.06. Buyers That Day Waited More Than 25 Years For It To Close Higher. Here’s What AI Investors Need To Know",
+          "link": "https://247wallst.com/investing/2026/11/08/in-march-2000-cisco-briefly-became-the-worlds-most-valuable-company-as-its-stock-closed-at-80-06-buyers-that-day-waited-more-than-25-years-for-it-to-close-higher-heres-what-ai-investors-need-t/",
+          "publisher": "24/7 Wall St.",
           "published": "2026-11-08"
         },
         {
-          "title": "Dow Jones Futures: Market Needs Repair But Apple, Amazon, Microsoft Strong; Berkshire Doubles Stock Buyback",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-07"
+          "title": "This Is the Best-Performing Magnificent Seven Stock of 2026. Is It Still a Buy?",
+          "link": "https://www.fool.com/investing/2026/11/08/this-is-best-performing-magnificent-seven-stock/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08"
         },
         {
-          "title": "What Concentrix (CNXC)'s AI Migration Tool Launch Means For Shareholders",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/concentrix-cnxc-ai-migration-tool-201248119.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07"
-        },
-        {
-          "title": "Republican Senator Who Won Reelection Is Selling Magnificent Seven Stocks: Here Are the Trades",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/republican-senator-won-reelection-selling-193025792.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-07"
+          "title": "Microsoft Is Reportedly Getting Pickier About AI Data Center Deals. Is the Stock a Buy Now?",
+          "link": "https://www.fool.com/investing/2026/11/08/microsoft-is-reportedly-getting-pickier-about-ai-data-center-deals-is-the-stock-a-buy-now/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08"
         }
       ]
     },
@@ -928,6 +928,22 @@
       "market_cap_usd_b": 3501.1,
       "arxiv_papers": [
         {
+          "title": "AlterNet: Adaptive-Depth Mixture-of-Experts with Learned Halting for Elastic Inference",
+          "summary": "Most LLM architectures have fixed compute demands determined at training time. We propose a novel architecture that combines the Mixture-of-Experts architecture with shallow experts and a novel dynamic-depth system to ma...",
+          "authors": "Alexander Kastius",
+          "published": "2026-11-05",
+          "link": "http://arxiv.org/pdf/2611.08741v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "AutoParallel: Composable, PyTorch-Native Automatic Parallelism for Production Training",
+          "summary": "Training large models requires multiple interacting forms of parallelism. As models and clusters scale, finding and maintaining efficient parallelization plans becomes essential for training performance. Diverse model ar...",
+          "authors": "Kaijian Wang, Sanket Purandare et al.",
+          "published": "2026-11-05",
+          "link": "http://arxiv.org/pdf/2611.08660v1",
+          "category": "LLM MoE"
+        },
+        {
           "title": "Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling",
           "summary": "Medical 3D scans and reports are inherently hierarchical, with diagnostic cues concentrated in specific anatomical regions across multiple levels of organization. Yet, most medical vision-language models ignore this stru...",
           "authors": "Gizem Mert, Szymon Płotka et al.",
@@ -942,48 +958,32 @@
           "published": "2026-11-05",
           "link": "http://arxiv.org/pdf/2611.08089v1",
           "category": "LLM MoE"
-        },
-        {
-          "title": "EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure",
-          "summary": "Recent advances in Gaussian splatting have enabled efficient and photorealistic head avatar reconstruction, yet monocular video-based or image-based methods still suffer from under-constrained geometry and texture, leadi...",
-          "authors": "Kwan Yun, Minhyeok Bang et al.",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.07909v1",
-          "category": "LLM MoE"
-        },
-        {
-          "title": "English Calibration Erodes Lithuanian in Expert-Pruned Mixture-of-Experts Language Models",
-          "summary": "Expert pruning compresses Mixture-of-Experts (MoE) language models by removing the experts that a calibration set marks as unimportant. Studies of high-resource languages largely find that English calibration transfers w...",
-          "authors": "Tomas Rasymas, Povilas Kvedaras",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.07654v1",
-          "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "Alphabet's $15 Billion Investment in Malaysia Data Centers Shows That Midterm Results Won't Stop the AI Boom",
-          "link": "https://www.fool.com/investing/2026/11/07/alphabets-15-billion-investment-in-malaysia-data-c/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08"
-        },
-        {
-          "title": "5 Best Dow Stocks to Buy for 2027",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-dow-stocks-buy-231819373.html",
+          "title": "5 Stocks I am Retiring On",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-am-retiring-004943035.html",
           "publisher": "Insider Monkey",
-          "published": "2026-11-07"
+          "published": "2026-11-09"
         },
         {
-          "title": "Berkshire Surprised With Record Buybacks, but Pace Slowed as the Stock Rose",
-          "link": "https://www.barrons.com/articles/berkshire-earnings-stock-buybacks-bnsf-geico-3c640af4?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-07"
+          "title": "Bloom Energy Stock Fell 16% on the Same Day 2 Giant Data Center Deals Named It. Is It a Buy?",
+          "link": "https://www.fool.com/investing/2026/11/08/bloom-energy-stock-fell-16-on-the-same-day-2-giant-data-center-deals-named-it-is-it-a-buy/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09"
         },
         {
-          "title": "Alphabet (GOOGL) Expands SpaceX Stake to $69 Billion and Deepens AI Ties",
-          "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-expands-spacex-stake-191144041.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07"
+          "title": "Cathie Wood buys $17.2 million of tumbling tech stock",
+          "link": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-17-2-million-of-tumbling-tech-stock-alphabet-googl",
+          "publisher": "TheStreet",
+          "published": "2026-11-09"
+        },
+        {
+          "title": "Could HBF be the solution to the Memory bottleneck?",
+          "link": "https://finance.yahoo.com/technology/ai/articles/could-hbf-solution-memory-bottleneck-224023081.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-08"
         }
       ]
     },
@@ -1090,28 +1090,28 @@
       ],
       "news": [
         {
-          "title": "How to invest in AI amid AI spending worries?",
-          "link": "https://finance.yahoo.com/technology/ai/articles/invest-ai-amid-ai-spending-002316174.html",
-          "publisher": "Investing.com",
+          "title": "Dow Jones Futures Rise As Nvidia Probes CEO Jensen Huang Spying Case",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-probes-ceo-jensen-huang-espionage/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-09"
+        },
+        {
+          "title": "5 Stocks I am Retiring On",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-am-retiring-004943035.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-09"
+        },
+        {
+          "title": "Amazon.com (AMZN) Added Over 100 New Alexa Shopping Functions",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-added-over-211017852.html",
+          "publisher": "Simply Wall St.",
           "published": "2026-11-08"
         },
         {
-          "title": "Dow Jones Futures: Market Needs Repair But Apple, Amazon, Microsoft Strong; Berkshire Doubles Stock Buyback",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-07"
-        },
-        {
-          "title": "Is DoorDash (DASH) Undervalued Following Its New Lyft Partnership?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/doordash-dash-undervalued-following-lyft-211245604.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07"
-        },
-        {
-          "title": "He Loses His Job at 62 as Amazon Cuts 95 More Positions. He Claims Social Security to Get By, Then Faces an $8,400 Bill to Undo It",
-          "link": "https://247wallst.com/personal-finance/social-security/2026/11/07/he-loses-his-job-at-62-as-amazon-cuts-95-more-positions-he-claims-social-security-to-get-by-then-faces-an-8400-bill-to-undo-it/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-07"
+          "title": "This Is the Best-Performing Magnificent Seven Stock of 2026. Is It Still a Buy?",
+          "link": "https://www.fool.com/investing/2026/11/08/this-is-best-performing-magnificent-seven-stock/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08"
         }
       ]
     },
@@ -1218,28 +1218,28 @@
       ],
       "news": [
         {
-          "title": "3 Growth Stocks With Earnings Growth Up To 58%",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-201412969.html",
+          "title": "Where Does CPI FIM (BDL:ORCL) Value Sit After A 58% Rise?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/where-does-cpi-fim-bdl-211258633.html",
           "publisher": "Simply Wall St.",
-          "published": "2026-11-07"
+          "published": "2026-11-08"
         },
         {
-          "title": "Older Nvidia Chips Just Cost Oracle Its Microsoft AI Deal",
-          "link": "https://247wallst.com/investing/2026/11/07/older-nvidia-chips-just-cost-oracle-its-microsoft-ai-deal/",
+          "title": "How sustainable is the AI investment boom after Thursday’s selloff?",
+          "link": "https://finance.yahoo.com/technology/ai/articles/sustainable-ai-investment-boom-thursday-164711242.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-08"
+        },
+        {
+          "title": "Intel Stock Has Gone Nowhere in 8 Years. Why This Time Could Be Different",
+          "link": "https://247wallst.com/investing/2026/11/08/intel-stock-has-gone-nowhere-in-8-years-why-this-time-could-be-different/",
           "publisher": "24/7 Wall St.",
-          "published": "2026-11-07"
+          "published": "2026-11-08"
         },
         {
-          "title": "Walton Family Gets $100 Billion Richer As Walmart Surges",
-          "link": "https://247wallst.com/investing/2026/11/07/walton-family-gets-100-billion-richer-as-walmart-surges/",
+          "title": "Anthropic’s $895 Billion AI Gamble Could Become Wall Street’s Next Debt Nightmare",
+          "link": "https://247wallst.com/investing/2026/11/08/anthropics-895-billion-ai-gamble-could-become-wall-streets-next-debt-nightmare/",
           "publisher": "24/7 Wall St.",
-          "published": "2026-11-07"
-        },
-        {
-          "title": "3 Cash Flow Stocks Trading Up To 47% Below Fair Value",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-flow-stocks-trading-171450371.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07"
+          "published": "2026-11-08"
         }
       ]
     },
@@ -1312,6 +1312,22 @@
       "market_cap_usd_b": 386.4,
       "arxiv_papers": [
         {
+          "title": "AlterNet: Adaptive-Depth Mixture-of-Experts with Learned Halting for Elastic Inference",
+          "summary": "Most LLM architectures have fixed compute demands determined at training time. We propose a novel architecture that combines the Mixture-of-Experts architecture with shallow experts and a novel dynamic-depth system to ma...",
+          "authors": "Alexander Kastius",
+          "published": "2026-11-05",
+          "link": "http://arxiv.org/pdf/2611.08741v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "AutoParallel: Composable, PyTorch-Native Automatic Parallelism for Production Training",
+          "summary": "Training large models requires multiple interacting forms of parallelism. As models and clusters scale, finding and maintaining efficient parallelization plans becomes essential for training performance. Diverse model ar...",
+          "authors": "Kaijian Wang, Sanket Purandare et al.",
+          "published": "2026-11-05",
+          "link": "http://arxiv.org/pdf/2611.08660v1",
+          "category": "LLM MoE"
+        },
+        {
           "title": "Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling",
           "summary": "Medical 3D scans and reports are inherently hierarchical, with diagnostic cues concentrated in specific anatomical regions across multiple levels of organization. Yet, most medical vision-language models ignore this stru...",
           "authors": "Gizem Mert, Szymon Płotka et al.",
@@ -1326,48 +1342,32 @@
           "published": "2026-11-05",
           "link": "http://arxiv.org/pdf/2611.08089v1",
           "category": "LLM MoE"
-        },
-        {
-          "title": "EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure",
-          "summary": "Recent advances in Gaussian splatting have enabled efficient and photorealistic head avatar reconstruction, yet monocular video-based or image-based methods still suffer from under-constrained geometry and texture, leadi...",
-          "authors": "Kwan Yun, Minhyeok Bang et al.",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.07909v1",
-          "category": "LLM MoE"
-        },
-        {
-          "title": "English Calibration Erodes Lithuanian in Expert-Pruned Mixture-of-Experts Language Models",
-          "summary": "Expert pruning compresses Mixture-of-Experts (MoE) language models by removing the experts that a calibration set marks as unimportant. Studies of high-resource languages largely find that English calibration transfers w...",
-          "authors": "Tomas Rasymas, Povilas Kvedaras",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.07654v1",
-          "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "Palantir Stock Just Fell 8 Days in a Row. History Says What Followed Its Only 2 Longer Losing Streaks.",
-          "link": "https://www.fool.com/investing/2026/11/07/palantir-stock-just-fell-8-days-in-a-row-history-says-what-followed-its-only-2-longer-losing-streaks/",
+          "title": "NVDA, PLTR, QCOM, SPCX, MRVL: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+          "link": "https://stocktwits.com/news-articles/markets/equity/nvda-pltr-qcom-spcx-mrvl-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cNGAH2tR9Ix",
+          "publisher": "Stocktwits",
+          "published": "2026-11-09"
+        },
+        {
+          "title": "Could Buying Palantir Stock Today Set You Up for Life?",
+          "link": "https://www.fool.com/investing/2026/11/08/could-buying-palantir-stock-today-set-you-up-for-l/",
           "publisher": "Motley Fool",
-          "published": "2026-11-07"
+          "published": "2026-11-09"
         },
         {
-          "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
-          "link": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
-          "publisher": "decrypt",
-          "published": "2026-11-07"
+          "title": "3 Growth Stocks With Earnings Growth Over 20%",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-220719361.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-08"
         },
         {
-          "title": "Palantir Stock Investors Just Got Great News From a Wall Street Analyst (Hint: The Stock Could Soar)",
-          "link": "https://www.fool.com/investing/2026/11/07/palantir-stock-investors-great-news-wall-street-stock-soar/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07"
-        },
-        {
-          "title": "How Much Should This Move Change Your View Of Snowflake Stock?",
-          "link": "https://www.trefis.com/stock/snow/articles/623620/how-much-should-this-move-change-your-view-of-snowflake-stock/2026-11-07",
-          "publisher": "Trefis",
-          "published": "2026-11-07"
+          "title": "Palantir’s business beyond government just got a lot bigger",
+          "link": "https://www.thestreet.com/investing/stocks/palantirs-business-beyond-government-just-got-a-lot-bigger",
+          "publisher": "TheStreet",
+          "published": "2026-11-08"
         }
       ]
     },
@@ -1430,14 +1430,14 @@
           2600.0
         ]
       },
-      "price": 2135.0,
-      "market_cap_b": 55365.6,
+      "price": 2285.0,
+      "market_cap_b": 59255.5,
       "revenue_yoy": 50.9,
       "gross_margin": 65.8,
       "operating_margin": 58.7,
       "fcf_b": 1203.07,
       "debt_to_ebitda": 0.23,
-      "market_cap_usd_b": 1730.2,
+      "market_cap_usd_b": 1851.7,
       "arxiv_papers": [
         {
           "title": "Scaling Up Analog CIM: A Simulation Framework for Topology-Aware Mapping",
@@ -1474,6 +1474,18 @@
       ],
       "news": [
         {
+          "title": "5 Stocks I am Retiring On",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-am-retiring-004943035.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-09"
+        },
+        {
+          "title": "This Stock Is a Nearly Guaranteed Winner From the AI Infrastructure Buildout",
+          "link": "https://www.fool.com/investing/2026/11/08/this-stock-is-a-nearly-guaranteed-winner-from-the/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08"
+        },
+        {
           "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors",
           "link": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-selloff-drives-investors-013045557.html",
           "publisher": "Investing.com",
@@ -1484,18 +1496,6 @@
           "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-2-ai-infrastructure-002240662.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-08"
-        },
-        {
-          "title": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
-          "link": "https://decrypt.co/382770/ai-chip-stocks-bounce-global-rout-bubble-starting-burst",
-          "publisher": "decrypt",
-          "published": "2026-11-07"
-        },
-        {
-          "title": "TSMC Jumped 6% on a Report It Could Make Memory Chips for Nvidia",
-          "link": "https://247wallst.com/investing/2026/11/07/tsmc-jumped-6-on-a-report-it-could-make-memory-chips-for-nvidia/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-07"
         }
       ]
     },
@@ -1558,14 +1558,14 @@
           75.0
         ]
       },
-      "price": 2830.0,
-      "market_cap_b": 244.2,
+      "price": 3110.0,
+      "market_cap_b": 268.4,
       "revenue_yoy": -16.5,
       "gross_margin": 37.2,
       "operating_margin": 21.6,
       "fcf_b": -2.56,
       "debt_to_ebitda": 0.04,
-      "market_cap_usd_b": 7.6,
+      "market_cap_usd_b": 8.4,
       "arxiv_papers": [
         {
           "title": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
@@ -1686,15 +1686,23 @@
           150.0
         ]
       },
-      "price": 1280.0,
-      "market_cap_b": 715.4,
+      "price": 1405.0,
+      "market_cap_b": 785.3,
       "revenue_yoy": 57.6,
       "gross_margin": 18.7,
       "operating_margin": 15.0,
       "fcf_b": 3.02,
       "debt_to_ebitda": 0.21,
-      "market_cap_usd_b": 22.4,
+      "market_cap_usd_b": 24.5,
       "arxiv_papers": [
+        {
+          "title": "An Ultra-Low-Noise Tunable TIA in 45nm Silicon Photonics for Electro-Optical Ultrasound Data Acquisition",
+          "summary": "This paper presents the design and experimental characterization of a 32-channel, WDM-compatible electronic-photonic receiver array fabricated in the GlobalFoundries 45nm monolithic silicon photonics process. Optimized f...",
+          "authors": "Marziyeh Rezaei, Sridhar Singhal et al.",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.08826v1",
+          "category": "Silicon Photonics"
+        },
         {
           "title": "Multi-Channel Non-Abelian Edge Pumping via Multi-Degeneracy Encircling",
           "summary": "Non-Abelian operations enable sequence-dependent control of light, yet experimental realizations in wave systems have remained confined to local bulk or same-boundary modes and have often required fragile gap-closing deg...",
@@ -1717,14 +1725,6 @@
           "authors": "Thammarat Yawisit, Pittaya Pannil",
           "published": "2026-10-31",
           "link": "http://arxiv.org/pdf/2611.01111v1",
-          "category": "Silicon Photonics"
-        },
-        {
-          "title": "Versatile Photonic Encoding Platform with Selectable Back Ends for Automotive Edge Processing",
-          "summary": "The increasing diversity and computational demands of automotive edge functions require hardware architectures that support heterogeneous processing while limiting implementation complexity and system overhead. We invest...",
-          "authors": "Isamu Takai, Makoto Nakai et al.",
-          "published": "2026-10-29",
-          "link": "http://arxiv.org/pdf/2610.39337v1",
           "category": "Silicon Photonics"
         }
       ],
@@ -1814,14 +1814,14 @@
           440.0
         ]
       },
-      "price": 1555.0,
-      "market_cap_b": 901.3,
-      "revenue_yoy": 26.0,
-      "gross_margin": 8.2,
-      "operating_margin": 7.3,
-      "fcf_b": -71.74,
-      "debt_to_ebitda": 2.18,
-      "market_cap_usd_b": 28.2,
+      "price": 1690.0,
+      "market_cap_b": 979.6,
+      "revenue_yoy": 62.9,
+      "gross_margin": 8.3,
+      "operating_margin": 7.5,
+      "fcf_b": -92.39,
+      "debt_to_ebitda": 2.1,
+      "market_cap_usd_b": 30.6,
       "arxiv_papers": [
         {
           "title": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
@@ -1942,14 +1942,14 @@
           1380.0
         ]
       },
-      "price": 224.5,
-      "market_cap_b": 3159.7,
+      "price": 244.5,
+      "market_cap_b": 3441.2,
       "revenue_yoy": 40.8,
       "gross_margin": 6.1,
       "operating_margin": 3.8,
       "fcf_b": -182.3,
       "debt_to_ebitda": 3.23,
-      "market_cap_usd_b": 98.7,
+      "market_cap_usd_b": 107.5,
       "arxiv_papers": [
         {
           "title": "Scaling Up Analog CIM: A Simulation Framework for Topology-Aware Mapping",
@@ -2070,14 +2070,14 @@
           810.0
         ]
       },
-      "price": 290.5,
-      "market_cap_b": 1190.9,
+      "price": 303.0,
+      "market_cap_b": 1242.2,
       "revenue_yoy": 105.6,
       "gross_margin": 5.5,
       "operating_margin": 3.3,
       "fcf_b": -58.97,
       "debt_to_ebitda": 3.87,
-      "market_cap_usd_b": 37.2,
+      "market_cap_usd_b": 38.8,
       "arxiv_papers": [
         {
           "title": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
@@ -2198,14 +2198,14 @@
           78.0
         ]
       },
-      "price": 2310.0,
-      "market_cap_b": 906.8,
+      "price": 2540.0,
+      "market_cap_b": 997.1,
       "revenue_yoy": 66.0,
       "gross_margin": 28.9,
       "operating_margin": 27.4,
       "fcf_b": 44.54,
       "debt_to_ebitda": 0.62,
-      "market_cap_usd_b": 28.3,
+      "market_cap_usd_b": 31.2,
       "arxiv_papers": [
         {
           "title": "Scaling Up Analog CIM: A Simulation Framework for Topology-Aware Mapping",
@@ -2326,14 +2326,14 @@
           350.0
         ]
       },
-      "price": 1055.0,
-      "market_cap_b": 2740.4,
+      "price": 1160.0,
+      "market_cap_b": 3013.2,
       "revenue_yoy": 31.1,
       "gross_margin": 35.3,
       "operating_margin": 16.6,
       "fcf_b": 44.52,
       "debt_to_ebitda": 0.77,
-      "market_cap_usd_b": 85.6,
+      "market_cap_usd_b": 94.2,
       "arxiv_papers": [
         {
           "title": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
@@ -2399,6 +2399,22 @@
   "arxiv_papers_by_category": {
     "LLM MoE": [
       {
+        "title": "AlterNet: Adaptive-Depth Mixture-of-Experts with Learned Halting for Elastic Inference",
+        "summary": "Most LLM architectures have fixed compute demands determined at training time. We propose a novel architecture that combines the Mixture-of-Experts architecture with shallow experts and a novel dynamic-depth system to ma...",
+        "authors": "Alexander Kastius",
+        "published": "2026-11-05",
+        "link": "http://arxiv.org/pdf/2611.08741v1",
+        "category": "LLM MoE"
+      },
+      {
+        "title": "AutoParallel: Composable, PyTorch-Native Automatic Parallelism for Production Training",
+        "summary": "Training large models requires multiple interacting forms of parallelism. As models and clusters scale, finding and maintaining efficient parallelization plans becomes essential for training performance. Diverse model ar...",
+        "authors": "Kaijian Wang, Sanket Purandare et al.",
+        "published": "2026-11-05",
+        "link": "http://arxiv.org/pdf/2611.08660v1",
+        "category": "LLM MoE"
+      },
+      {
         "title": "Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling",
         "summary": "Medical 3D scans and reports are inherently hierarchical, with diagnostic cues concentrated in specific anatomical regions across multiple levels of organization. Yet, most medical vision-language models ignore this stru...",
         "authors": "Gizem Mert, Szymon Płotka et al.",
@@ -2413,25 +2429,17 @@
         "published": "2026-11-05",
         "link": "http://arxiv.org/pdf/2611.08089v1",
         "category": "LLM MoE"
-      },
-      {
-        "title": "EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure",
-        "summary": "Recent advances in Gaussian splatting have enabled efficient and photorealistic head avatar reconstruction, yet monocular video-based or image-based methods still suffer from under-constrained geometry and texture, leadi...",
-        "authors": "Kwan Yun, Minhyeok Bang et al.",
-        "published": "2026-11-05",
-        "link": "http://arxiv.org/pdf/2611.07909v1",
-        "category": "LLM MoE"
-      },
-      {
-        "title": "English Calibration Erodes Lithuanian in Expert-Pruned Mixture-of-Experts Language Models",
-        "summary": "Expert pruning compresses Mixture-of-Experts (MoE) language models by removing the experts that a calibration set marks as unimportant. Studies of high-resource languages largely find that English calibration transfers w...",
-        "authors": "Tomas Rasymas, Povilas Kvedaras",
-        "published": "2026-11-05",
-        "link": "http://arxiv.org/pdf/2611.07654v1",
-        "category": "LLM MoE"
       }
     ],
     "Transformer & Attention": [
+      {
+        "title": "Higher Order Component Attribution via Learned Surrogates in High Energy Physics",
+        "summary": "Experimental High Energy Physics (HEP) has adopted the transformer architecture for identification of jets, particularly the state-of-the-art Particle Transformer (ParT) which injects explicit information about particle ...",
+        "authors": "Lauri Laatu, Aritra Bal et al.",
+        "published": "2026-11-05",
+        "link": "http://arxiv.org/pdf/2611.08656v1",
+        "category": "Transformer & Attention"
+      },
       {
         "title": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout",
         "summary": "Linear attention compresses context into a fixed-size key-value state for linear-time training and constant-memory inference. Gated delta-rule models decay this state and erase its prediction for an incoming key before w...",
@@ -2455,14 +2463,6 @@
         "published": "2026-11-05",
         "link": "http://arxiv.org/pdf/2611.07393v1",
         "category": "Transformer & Attention"
-      },
-      {
-        "title": "Runway Characters: Serving a 57B Video Diffusion Transformer for Real-Time Conversation",
-        "summary": "Conversational video characters must generate video as fast as it plays, for one user at a time: at 24 fps, a sustained 166.7 ms per four-frame chunk at batch size one, with only a few chunks of buffering. We describe th...",
-        "authors": "Rohan Agarwal, Robin Andeer et al.",
-        "published": "2026-11-03",
-        "link": "http://arxiv.org/pdf/2611.05642v1",
-        "category": "Transformer & Attention"
       }
     ],
     "RL & Test-Time Compute": [
@@ -2484,10 +2484,10 @@
       },
       {
         "title": "Reward Budgeting Reduces Premature Convergence in Reinforcement Learning for LLM Reasoning",
-        "summary": "RL for LLM reasoning often reaches an early performance plateau as the policy distribution becomes increasingly sharp. Recent work has studied policy entropy as both a diagnostic and a control signal for this behavior. I...",
+        "summary": "RL for LLM reasoning often plateaus early as its policy sharpens. Policy entropy is studied as both a diagnostic and a control signal, but increasing it alone does not reliably change the eventual plateau in our experime...",
         "authors": "Mengni Jia, Mengyu Zhou et al.",
         "published": "2026-11-04",
-        "link": "http://arxiv.org/pdf/2611.05942v2",
+        "link": "http://arxiv.org/pdf/2611.05942v3",
         "category": "RL & Test-Time Compute"
       },
       {
@@ -2501,35 +2501,35 @@
     ],
     "Multimodal & World Models": [
       {
+        "title": "FATHOM: World-Model-Guided Diffusion Action-Trajectory Selection for Sparse-Marker AUV Tracking",
+        "summary": "Reliable relative tracking is fundamental to cooperative autonomous underwater vehicles (AUVs), yet remains challenging under nonlinear vehicle dynamics and degraded underwater visual conditions. Active light markers imp...",
+        "authors": "Xiaorui Wang, Zeyu Sha et al.",
+        "published": "2026-11-06",
+        "link": "http://arxiv.org/pdf/2611.08898v1",
+        "category": "Multimodal & World Models"
+      },
+      {
+        "title": "Turkish Multimodal Video Fact-Checking: A New Dataset and a Comparison of Zero-Shot Agentic and Fine-Tuned Systems",
+        "summary": "Video-based misinformation spreads rapidly on social media, but almost all existing fact-checking systems focus exclusively on English text. Tools for low-resource languages such as Turkish are severely limited. In this ...",
+        "authors": "Azra Açıl",
+        "published": "2026-11-05",
+        "link": "http://arxiv.org/pdf/2611.08651v1",
+        "category": "Multimodal & World Models"
+      },
+      {
+        "title": "Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation",
+        "summary": "We present Meituan-Robotics-0 (MR0), a vision-language-action foundation model and embodied-agent system for stationary-base desktop manipulation. MR0 combines 147 million vision-language samples with 15,060 hours of cur...",
+        "authors": "Meituan Robotics Team, Caicheng Wang et al.",
+        "published": "2026-11-05",
+        "link": "http://arxiv.org/pdf/2611.08577v1",
+        "category": "Multimodal & World Models"
+      },
+      {
         "title": "Multimodal-SEA: Benchmarking AI Agent Security under Multimodal Social Engineering Attacks",
         "summary": "Personal AI agents face social engineering attacks supported by forged multimodal content, but existing evaluations mainly focus on text-based dialogue, leaving their intrinsic security under such attacks insufficiently ...",
         "authors": "Zhitao He, Chi Him Zhang et al.",
         "published": "2026-11-05",
         "link": "http://arxiv.org/pdf/2611.08281v1",
-        "category": "Multimodal & World Models"
-      },
-      {
-        "title": "Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling",
-        "summary": "Medical 3D scans and reports are inherently hierarchical, with diagnostic cues concentrated in specific anatomical regions across multiple levels of organization. Yet, most medical vision-language models ignore this stru...",
-        "authors": "Gizem Mert, Szymon Płotka et al.",
-        "published": "2026-11-05",
-        "link": "http://arxiv.org/pdf/2611.08185v1",
-        "category": "Multimodal & World Models"
-      },
-      {
-        "title": "NutriVisRAG: Multimodal Exemplar Grounding for Nutrient Estimation with Vision-Language Models",
-        "summary": "Diet is a major determinant of health, yet accurate dietary assessment from free-living meal images remains challenging. Existing retrieval-based Vision-Language Model (VLM) approaches to nutrient estimation typically re...",
-        "authors": "Lubnaa Abdur Rahman, Ioannis Papathanail et al.",
-        "published": "2026-11-05",
-        "link": "http://arxiv.org/pdf/2611.08054v1",
-        "category": "Multimodal & World Models"
-      },
-      {
-        "title": "Learning Robotic World Models with Semantic and Visual Feedback",
-        "summary": "Robot world models predict action-conditioned future visual states to support robotic planning and decision making. However, visual reconstruction does not fully capture task progress, semantic evaluation alone provides ...",
-        "authors": "Hao Wu, Yuqi Li et al.",
-        "published": "2026-11-05",
-        "link": "http://arxiv.org/pdf/2611.07850v1",
         "category": "Multimodal & World Models"
       }
     ],
@@ -2569,6 +2569,14 @@
     ],
     "Silicon Photonics": [
       {
+        "title": "An Ultra-Low-Noise Tunable TIA in 45nm Silicon Photonics for Electro-Optical Ultrasound Data Acquisition",
+        "summary": "This paper presents the design and experimental characterization of a 32-channel, WDM-compatible electronic-photonic receiver array fabricated in the GlobalFoundries 45nm monolithic silicon photonics process. Optimized f...",
+        "authors": "Marziyeh Rezaei, Sridhar Singhal et al.",
+        "published": "2026-11-06",
+        "link": "http://arxiv.org/pdf/2611.08826v1",
+        "category": "Silicon Photonics"
+      },
+      {
         "title": "Multi-Channel Non-Abelian Edge Pumping via Multi-Degeneracy Encircling",
         "summary": "Non-Abelian operations enable sequence-dependent control of light, yet experimental realizations in wave systems have remained confined to local bulk or same-boundary modes and have often required fragile gap-closing deg...",
         "authors": "Qingyang Mo, Jiacheng Sun et al.",
@@ -2590,14 +2598,6 @@
         "authors": "Thammarat Yawisit, Pittaya Pannil",
         "published": "2026-10-31",
         "link": "http://arxiv.org/pdf/2611.01111v1",
-        "category": "Silicon Photonics"
-      },
-      {
-        "title": "Versatile Photonic Encoding Platform with Selectable Back Ends for Automotive Edge Processing",
-        "summary": "The increasing diversity and computational demands of automotive edge functions require hardware architectures that support heterogeneous processing while limiting implementation complexity and system overhead. We invest...",
-        "authors": "Isamu Takai, Makoto Nakai et al.",
-        "published": "2026-10-29",
-        "link": "http://arxiv.org/pdf/2610.39337v1",
         "category": "Silicon Photonics"
       }
     ],
