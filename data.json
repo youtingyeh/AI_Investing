@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09 10:52:20 CST (UTC+8)",
+  "last_updated": "2026-11-10 12:43:28 CST (UTC+8)",
   "status": "LIVE_CLOUD_SYNC",
   "macro_kpis": {
     "csp_capex": {
@@ -150,15 +150,31 @@
           71.0
         ]
       },
-      "price": 186.64,
-      "market_cap_b": 4506.8,
+      "price": 178.67,
+      "market_cap_b": 4314.3,
       "revenue_yoy": 105.9,
       "gross_margin": 74.7,
       "operating_margin": 66.2,
       "fcf_b": 41.81,
       "debt_to_ebitda": 0.19,
-      "market_cap_usd_b": 4506.8,
+      "market_cap_usd_b": 4314.3,
       "arxiv_papers": [
+        {
+          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
+          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
+          "authors": "Chen-Xi Liang, Li Yan",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09643v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Two-Layer Evolutionary Scheduling for Machine Learning Jobs in Multi-Cluster Environments",
+          "summary": "The rapid growth of large-scale machine learning (ML) workloads has led to unprecedented demands on GPU cluster scheduling systems. However, existing heuristic schedulers struggle to handle the complexity and dynamics of...",
+          "authors": "Jingyuan Xu, Changwu Huang et al.",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09093v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
           "summary": "We present BeAR, the Bern Atmospheric Retrieval code and successor of Helios-r, and its new high-resolution cross-correlation framework for emission and transmission spectra. BeAR performs joint retrievals by adding the ...",
@@ -174,47 +190,31 @@
           "published": "2026-11-05",
           "link": "http://arxiv.org/pdf/2611.08405v1",
           "category": "AI Accelerator"
-        },
-        {
-          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
-          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
-          "authors": "J. Liu, R. Mao et al.",
-          "published": "2026-11-04",
-          "link": "http://arxiv.org/pdf/2611.05810v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Ta-based S-I-S junctions for integrated superconducting electronics",
-          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
-          "authors": "Trent Borman, Cameron Bullock et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04982v2",
-          "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Nvidia's board launches investigation into CEO Jensen Huang's affair with an alleged Chinese spy",
-          "link": "https://finance.yahoo.com/markets/article/nvidias-jensen-huang-admits-to-affair-after-allegations-of-romance-with-chinese-spy-report-205122263.html",
+          "title": "Nvidia scandal could help China long-term, and risks in the AI trade",
+          "link": "https://finance.yahoo.com/video/nvidia-scandal-could-help-china-long-term-and-risks-in-the-ai-trade-221407013.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-09"
+        },
+        {
+          "title": "AI infrastructure spending is still accelerating—but can it last?",
+          "link": "https://finance.yahoo.com/video/ai-infrastructure-spending-is-still-acceleratingbut-can-it-last-221359947.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-09"
+        },
+        {
+          "title": "Why the Jensen Huang scandal is a 'net loss for China'",
+          "link": "https://finance.yahoo.com/video/why-the-jensen-huang-scandal-is-a-net-loss-for-china-221329322.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-09"
+        },
+        {
+          "title": "Nvidia CEO Huang's scandal is the flip side of centralized leadership: Sierra co-founder Clay Bavor",
+          "link": "https://finance.yahoo.com/technology/article/nvidia-ceo-huangs-scandal-is-the-flip-side-of-centralized-leadership-sierra-co-founder-clay-bavor-220838172.html",
           "publisher": "Yahoo Finance",
-          "published": "2026-11-08"
-        },
-        {
-          "title": "Dow Jones Futures Rise As Nvidia Probes CEO Jensen Huang Spying Case",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-probes-ceo-jensen-huang-espionage/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-09"
-        },
-        {
-          "title": "Nvidia Board Launches Probe In CEO Jensen Huang Spying Case",
-          "link": "https://www.investors.com/news/technology/nvidia-board-launches-probe-in-ceo-jensen-huang-spying-case/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-09"
-        },
-        {
-          "title": "South Korea says Nvidia issues won't affect contracted GPU supplies",
-          "link": "https://finance.yahoo.com/technology/articles/south-korea-says-nvidia-issues-022650481.html",
-          "publisher": "Reuters",
           "published": "2026-11-09"
         }
       ]
@@ -278,14 +278,14 @@
           76.8
         ]
       },
-      "price": 293.69,
-      "market_cap_b": 1402.0,
+      "price": 319.48,
+      "market_cap_b": 1525.1,
       "revenue_yoy": 85.5,
       "gross_margin": 75.5,
       "operating_margin": 54.3,
       "fcf_b": 30.6,
       "debt_to_ebitda": 1.14,
-      "market_cap_usd_b": 1402.0,
+      "market_cap_usd_b": 1525.1,
       "arxiv_papers": [
         {
           "title": "An Ultra-Low-Noise Tunable TIA in 45nm Silicon Photonics for Electro-Optical Ultrasound Data Acquisition",
@@ -322,28 +322,28 @@
       ],
       "news": [
         {
-          "title": "David Sacks Warns the AI Data Center Pipeline Could Dry Up. Here’s What’s at Stake",
-          "link": "https://247wallst.com/investing/2026/11/08/david-sacks-warns-the-ai-data-center-pipeline-could-dry-up-heres-whats-at-stake/",
+          "title": "Allegro MicroSystems, IPG Photonics, Lattice Semiconductor, Entegris, and Broadcom shares skyrocket, what you need to know",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/allegro-microsystems-ipg-photonics-lattice-030136618.html",
+          "publisher": "StockStory",
+          "published": "2026-11-10"
+        },
+        {
+          "title": "U.S. stock futures steady after tech-led rebound; CPI in focus",
+          "link": "https://finance.yahoo.com/news/u-stock-futures-steady-tech-004342905.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-10"
+        },
+        {
+          "title": "‘Big Short’ Investor Steve Eisman Says OpenAI’s Collapse Could Trigger an Immediate Recession",
+          "link": "https://247wallst.com/investing/2026/11/09/big-short-investor-steve-eisman-says-openais-collapse-could-trigger-an-immediate-recession/",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-09"
         },
         {
-          "title": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today?",
-          "link": "https://www.fool.com/investing/2026/11/08/amd-or-nvidia-which-ai-chip-stock-would-i-buy-with/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08"
-        },
-        {
-          "title": "Anthropic’s $895 Billion AI Gamble Could Become Wall Street’s Next Debt Nightmare",
-          "link": "https://247wallst.com/investing/2026/11/08/anthropics-895-billion-ai-gamble-could-become-wall-streets-next-debt-nightmare/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08"
-        },
-        {
-          "title": "America’s AI Spending Boom Just Crossed a Staggering $1 Trillion Milestone",
-          "link": "https://247wallst.com/investing/2026/11/08/americas-ai-spending-boom-just-crossed-a-staggering-1-trillion-milestone/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08"
+          "title": "AI infrastructure spending is still accelerating—but can it last?",
+          "link": "https://finance.yahoo.com/video/ai-infrastructure-spending-is-still-acceleratingbut-can-it-last-221359947.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-09"
         }
       ]
     },
@@ -406,15 +406,31 @@
           14.2
         ]
       },
-      "price": 449.04,
-      "market_cap_b": 736.5,
+      "price": 508.58,
+      "market_cap_b": 834.1,
       "revenue_yoy": 44.7,
       "gross_margin": 56.0,
       "operating_margin": 21.2,
       "fcf_b": 7.36,
       "debt_to_ebitda": 0.83,
-      "market_cap_usd_b": 736.5,
+      "market_cap_usd_b": 834.1,
       "arxiv_papers": [
+        {
+          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
+          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
+          "authors": "Chen-Xi Liang, Li Yan",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09643v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Two-Layer Evolutionary Scheduling for Machine Learning Jobs in Multi-Cluster Environments",
+          "summary": "The rapid growth of large-scale machine learning (ML) workloads has led to unprecedented demands on GPU cluster scheduling systems. However, existing heuristic schedulers struggle to handle the complexity and dynamics of...",
+          "authors": "Jingyuan Xu, Changwu Huang et al.",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09093v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
           "summary": "We present BeAR, the Bern Atmospheric Retrieval code and successor of Helios-r, and its new high-resolution cross-correlation framework for emission and transmission spectra. BeAR performs joint retrievals by adding the ...",
@@ -430,48 +446,32 @@
           "published": "2026-11-05",
           "link": "http://arxiv.org/pdf/2611.08405v1",
           "category": "AI Accelerator"
-        },
-        {
-          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
-          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
-          "authors": "J. Liu, R. Mao et al.",
-          "published": "2026-11-04",
-          "link": "http://arxiv.org/pdf/2611.05810v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Ta-based S-I-S junctions for integrated superconducting electronics",
-          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
-          "authors": "Trent Borman, Cameron Bullock et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04982v2",
-          "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "AMD: 3 Key Takeaways for Long-Term Investors",
-          "link": "https://www.fool.com/earnings/takeaways/2026/11/08/amd-3-key-takeaways-for-long-term-investors/",
-          "publisher": "Motley Fool",
+          "title": "Nvidia vs. AMD: Why Lisa Su's company is a great alternative for investors",
+          "link": "https://finance.yahoo.com/video/nvidia-vs-amd-why-lisa-170000159.html",
+          "publisher": "Yahoo Finance Video",
           "published": "2026-11-09"
         },
         {
-          "title": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today?",
-          "link": "https://www.fool.com/investing/2026/11/08/amd-or-nvidia-which-ai-chip-stock-would-i-buy-with/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08"
+          "title": "Tech stocks rally as Nvidia stock and oil prices fall: AlphaCheck",
+          "link": "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-nvidia-stock-and-oil-prices-fall-alphacheck-152208023.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-09"
         },
         {
-          "title": "What Is Meta Platforms (META) Facing As Legal Risks Rise And AI Deals Expand?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-facing-legal-220633031.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-08"
+          "title": "Amtech, Intel, Applied Materials, AMD, and KLA Corporation shares are soaring, what you need to know",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/amtech-intel-applied-materials-amd-023736161.html",
+          "publisher": "StockStory",
+          "published": "2026-11-10"
         },
         {
-          "title": "AMD Stock Dropped 11% Last Week. Is Intel’s PC Warning Really That Bad?",
-          "link": "https://www.tikr.com/blog/amd-stock-dropped-11-last-week-is-intels-pc-warning-really-that-bad?ref=yahoofinance&tlnk=yf-261108-jq3xv862",
-          "publisher": "TIKR",
-          "published": "2026-11-08"
+          "title": "Sanmina Q4 Earnings Call Highlights",
+          "link": "https://www.marketbeat.com/instant-alerts/transcript-sanmina-q4-earnings-call-highlights-2026-11-09/?utm_source=yahoofinance&utm_medium=yahoofinance",
+          "publisher": "MarketBeat",
+          "published": "2026-11-10"
         }
       ]
     },
@@ -534,15 +534,31 @@
           2.75
         ]
       },
-      "price": 174.62,
-      "market_cap_b": 186.8,
+      "price": 186.3,
+      "market_cap_b": 199.3,
       "revenue_yoy": 27.1,
       "gross_margin": 97.4,
       "operating_margin": 13.9,
       "fcf_b": 1.14,
       "debt_to_ebitda": 0.44,
-      "market_cap_usd_b": 186.8,
+      "market_cap_usd_b": 199.3,
       "arxiv_papers": [
+        {
+          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
+          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
+          "authors": "Chen-Xi Liang, Li Yan",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09643v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Two-Layer Evolutionary Scheduling for Machine Learning Jobs in Multi-Cluster Environments",
+          "summary": "The rapid growth of large-scale machine learning (ML) workloads has led to unprecedented demands on GPU cluster scheduling systems. However, existing heuristic schedulers struggle to handle the complexity and dynamics of...",
+          "authors": "Jingyuan Xu, Changwu Huang et al.",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09093v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
           "summary": "We present BeAR, the Bern Atmospheric Retrieval code and successor of Helios-r, and its new high-resolution cross-correlation framework for emission and transmission spectra. BeAR performs joint retrievals by adding the ...",
@@ -558,48 +574,32 @@
           "published": "2026-11-05",
           "link": "http://arxiv.org/pdf/2611.08405v1",
           "category": "AI Accelerator"
-        },
-        {
-          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
-          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
-          "authors": "J. Liu, R. Mao et al.",
-          "published": "2026-11-04",
-          "link": "http://arxiv.org/pdf/2611.05810v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Ta-based S-I-S junctions for integrated superconducting electronics",
-          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
-          "authors": "Trent Borman, Cameron Bullock et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04982v2",
-          "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Intel, Arm, and Marvell Have Each Been Cut in Half Since June. Only 1 Is a Stock I'd Buy Now.",
-          "link": "https://www.fool.com/investing/2026/11/08/intel-arm-and-marvell-have-each-been-cut-in-half-since-june-only-1-is-a-stock-i-d-buy-now/",
+          "title": "Former Goldman Sachs CEO Slams 'Current Hysteria' to Block AI Data Centers, Calls it a 'Gift to China'—Patrick Moorhead Warns US Jobs, Tax Revenue Losses",
+          "link": "https://finance.yahoo.com/technology/ai/articles/former-goldman-sachs-ceo-slams-223007401.html",
+          "publisher": "Benzinga",
+          "published": "2026-11-09"
+        },
+        {
+          "title": "Intel took 25 years to get back to its dot-com peak — and lost it in 6 months: Chart of the Day",
+          "link": "https://finance.yahoo.com/markets/article/intel-took-25-years-to-get-back-to-its-dot-com-peak--and-lost-it-in-6-months-chart-of-the-day-144715722.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-09"
+        },
+        {
+          "title": "Investors Are Chasing AI Chips. This Company Is Playing a Different Game",
+          "link": "https://247wallst.com/investing/2026/11/09/investors-are-chasing-ai-chips-this-company-is-playing-a-different-game/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09"
+        },
+        {
+          "title": "Is Arm Stock a Buy on the Dip as Agentic AI Opportunity Emerges?",
+          "link": "https://www.fool.com/investing/2026/11/09/arm-stock-buy-on-dip-agentic-ai-opportunity/",
           "publisher": "Motley Fool",
-          "published": "2026-11-08"
-        },
-        {
-          "title": "Arm (ARM) Stock Sees Modest Fair Value Cut As Analysts Trim Multiples",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/arm-arm-stock-sees-modest-021256821.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-08"
-        },
-        {
-          "title": "These 4 Stocks Are Tied to the Smartphone in Your Pocket",
-          "link": "https://www.fool.com/investing/2026/11/07/these-4-stocks-are-tied-to-the-smartphone-in-your-pocket/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07"
-        },
-        {
-          "title": "AI Wants “Every Scrap of RAM.” Qualcomm and Arm Just Showed Who Pays the Bill",
-          "link": "https://www.tikr.com/blog/ai-wants-every-scrap-of-ram-qualcomm-and-arm-just-showed-who-pays-the-bill?ref=yahoofinance&tlnk=yf-261107-72q2vv83",
-          "publisher": "TIKR",
-          "published": "2026-11-07"
+          "published": "2026-11-09"
         }
       ]
     },
@@ -662,15 +662,23 @@
           7.9
         ]
       },
-      "price": 182.86,
-      "market_cap_b": 70.4,
+      "price": 200.47,
+      "market_cap_b": 77.2,
       "revenue_yoy": 61.2,
       "gross_margin": 38.1,
       "operating_margin": 23.8,
       "fcf_b": 2.96,
       "debt_to_ebitda": 1.05,
-      "market_cap_usd_b": 70.4,
+      "market_cap_usd_b": 77.2,
       "arxiv_papers": [
+        {
+          "title": "Beyond Host-Side Control: HBM Controller Partitioning Across Host and HBM Base Dies",
+          "summary": "Recent generations of high bandwidth memory (HBM), such as HBM4, allow the base die of the memory stack to be manufactured using a logic process that can accommodate more complex controller functions next to the DRAM. We...",
+          "authors": "Tharunya Yogananda, Wantong Li",
+          "published": "2026-11-07",
+          "link": "http://arxiv.org/pdf/2611.10930v1",
+          "category": "CoWoS Packaging"
+        },
         {
           "title": "Scaling Up Analog CIM: A Simulation Framework for Topology-Aware Mapping",
           "summary": "Analog compute-in-memory (CIM) enables energy-efficient AI inference by performing in-situ matrix multiplication. The growing demand for deploying larger models motivates chiplet integration to expand CIM capacity. Howev...",
@@ -694,40 +702,32 @@
           "published": "2026-10-25",
           "link": "http://arxiv.org/pdf/2610.34610v1",
           "category": "CoWoS Packaging"
-        },
-        {
-          "title": "Embodied Emissions of 2.5D and 3D Scaling in Chipletized GPUs for Low-Carbon AI",
-          "summary": "GPU compute resources are scaling to support growing AI workloads, leading to further rises in the climate change impact of hyperscale data centers that rely on high-performance GPUs. To model how packaging decisions imp...",
-          "authors": "Hannah Watson, Arjun Singh et al.",
-          "published": "2026-10-23",
-          "link": "http://arxiv.org/pdf/2610.32830v1",
-          "category": "CoWoS Packaging"
         }
       ],
       "news": [
         {
-          "title": "David Sacks Warns the AI Data Center Pipeline Could Dry Up. Here’s What’s at Stake",
-          "link": "https://247wallst.com/investing/2026/11/08/david-sacks-warns-the-ai-data-center-pipeline-could-dry-up-heres-whats-at-stake/",
-          "publisher": "24/7 Wall St.",
+          "title": "Eaton Lost 23% in a Month. RBC Sees 58% Upside From Here",
+          "link": "https://www.tikr.com/blog/eaton-lost-23-in-a-month-rbc-sees-58-upside-from-here?ref=yahoofinance&tlnk=yf-261109-cx2p5v44",
+          "publisher": "TIKR",
           "published": "2026-11-09"
         },
         {
-          "title": "America’s AI Spending Boom Just Crossed a Staggering $1 Trillion Milestone",
-          "link": "https://247wallst.com/investing/2026/11/08/americas-ai-spending-boom-just-crossed-a-staggering-1-trillion-milestone/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08"
+          "title": "Seagate Soars 10% in AI Rebound as Morgan Stanley Sees “Strong Fundamentals and Weak Sentiment”",
+          "link": "https://www.tikr.com/blog/seagate-soars-10-in-ai-rebound-as-morgan-stanley-sees-strong-fundamentals-and-weak-sentiment?ref=yahoofinance&tlnk=yf-261109-c8f63xrx",
+          "publisher": "TIKR",
+          "published": "2026-11-09"
         },
         {
-          "title": "Texas Data Center Freeze: Is Vistra a Better Buy Than Vertiv?",
-          "link": "https://247wallst.com/investing/2026/11/07/texas-data-center-freeze-is-vistra-a-better-buy-than-vertiv/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-07"
+          "title": "GE Vernova Soars 7% as Constellation Raises Guidance, Easing Data-Center Moratorium Fears",
+          "link": "https://www.tikr.com/blog/ge-vernova-soars-7-as-constellation-raises-guidance-easing-data-center-moratorium-fears?ref=yahoofinance&tlnk=yf-261109-hf2229fp",
+          "publisher": "TIKR",
+          "published": "2026-11-09"
         },
         {
-          "title": "NVIDIA And 2 Other AI Stocks To Watch",
-          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-2-other-ai-stocks-231249303.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07"
+          "title": "Is Vertiv Stock Really Expensive?",
+          "link": "https://www.trefis.com/stock/vrt/articles/623682/is-vertiv-stock-really-expensive/2026-11-09",
+          "publisher": "Trefis",
+          "published": "2026-11-09"
         }
       ]
     },
@@ -790,72 +790,72 @@
           312.0
         ]
       },
-      "price": 530.61,
-      "market_cap_b": 3940.4,
+      "price": 545.18,
+      "market_cap_b": 4048.6,
       "revenue_yoy": 18.8,
       "gross_margin": 67.7,
       "operating_margin": 49.8,
       "fcf_b": 2.99,
       "debt_to_ebitda": 0.65,
-      "market_cap_usd_b": 3940.4,
+      "market_cap_usd_b": 4048.6,
       "arxiv_papers": [
         {
-          "title": "AlterNet: Adaptive-Depth Mixture-of-Experts with Learned Halting for Elastic Inference",
-          "summary": "Most LLM architectures have fixed compute demands determined at training time. We propose a novel architecture that combines the Mixture-of-Experts architecture with shallow experts and a novel dynamic-depth system to ma...",
-          "authors": "Alexander Kastius",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.08741v1",
+          "title": "A Per-Step Load-Balancing Engine for Expert-Parallel MoE Serving",
+          "summary": "In expert-parallel Mixture-of-Experts serving, a layer finishes only when the most loaded GPU of its group does. Token routing shifts at every decode step and concentrates on a few experts, so most of the group's reserve...",
+          "authors": "Jingyuan Li, Maolin Wang et al.",
+          "published": "2026-11-08",
+          "link": "http://arxiv.org/pdf/2611.11402v1",
           "category": "LLM MoE"
         },
         {
-          "title": "AutoParallel: Composable, PyTorch-Native Automatic Parallelism for Production Training",
-          "summary": "Training large models requires multiple interacting forms of parallelism. As models and clusters scale, finding and maintaining efficient parallelization plans becomes essential for training performance. Diverse model ar...",
-          "authors": "Kaijian Wang, Sanket Purandare et al.",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.08660v1",
+          "title": "OOM: Offload-Optimized Full-Parameter MoE Training via Memory-Execution Co-Design",
+          "summary": "Offloading model state to host memory and streaming layer weights let a single multi-GPU node train large mixture-of-experts (MoE) models. GPU memory then becomes a performance budget, shared by resident expert state, re...",
+          "authors": "Ruijia Yang, Shiyuan Lin et al.",
+          "published": "2026-11-08",
+          "link": "http://arxiv.org/pdf/2611.11364v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling",
-          "summary": "Medical 3D scans and reports are inherently hierarchical, with diagnostic cues concentrated in specific anatomical regions across multiple levels of organization. Yet, most medical vision-language models ignore this stru...",
-          "authors": "Gizem Mert, Szymon Płotka et al.",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.08185v1",
+          "title": "LoMASA: A Local Multi-Agent Sales Assistant with Confidence-Gated Delegation for B2B Quoting",
+          "summary": "Frontline sales staff spend much of their day re-coordinating quotes after customers change quantities, ask for discounts or new payment terms, or costs move. We present LoMASA (Local Multi-Agent Sales Assistant), a trai...",
+          "authors": "Yu Liu, Xingbang Du",
+          "published": "2026-11-08",
+          "link": "http://arxiv.org/pdf/2611.11234v1",
           "category": "LLM MoE"
         },
         {
-          "title": "SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization",
-          "summary": "Mixture-of-Experts (MoE) models route each token to a few of many experts, yet what an individual expert is responsible for remains unsettled. Existing analyses count how often an expert is selected on domain-labeled cor...",
-          "authors": "Anyuan Zhuo, Shaohua Zhang et al.",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.08089v1",
+          "title": "When Is High-Bandwidth Flash Cost-Effective for LLM Inference?",
+          "summary": "Can high-bandwidth flash (HBF) make LLM inference cheaper than adding GPUs? By storing weights closer to the GPU than SSD, HBF may reduce the number of GPUs needed for model capacity. However, this integration is only ju...",
+          "authors": "Zhiyu An, Yiping Li et al.",
+          "published": "2026-11-08",
+          "link": "http://arxiv.org/pdf/2611.11036v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "Dow Jones Futures Rise As Nvidia Probes CEO Jensen Huang Spying Case",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-probes-ceo-jensen-huang-espionage/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-09"
+          "title": "Microsoft (MSFT) Signs Global AI Safety Declaration",
+          "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-signs-global-ai-042734846.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-10"
         },
         {
-          "title": "In March 2000, Cisco Briefly Became The World’s Most Valuable Company As Its Stock Closed At $80.06. Buyers That Day Waited More Than 25 Years For It To Close Higher. Here’s What AI Investors Need To Know",
-          "link": "https://247wallst.com/investing/2026/11/08/in-march-2000-cisco-briefly-became-the-worlds-most-valuable-company-as-its-stock-closed-at-80-06-buyers-that-day-waited-more-than-25-years-for-it-to-close-higher-heres-what-ai-investors-need-t/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08"
+          "title": "Post-Midterms AI Selloff on Data-Center Buildout Concerns Appears Overdone",
+          "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-8-led-by-bank-machinery-stocks-c0a653b1?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-10"
         },
         {
-          "title": "This Is the Best-Performing Magnificent Seven Stock of 2026. Is It Still a Buy?",
-          "link": "https://www.fool.com/investing/2026/11/08/this-is-best-performing-magnificent-seven-stock/",
+          "title": "Tech leads Asian stock rally as traders track Wall St rebound",
+          "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-asian-stock-rally-023930562.html",
+          "publisher": "AFP",
+          "published": "2026-11-10"
+        },
+        {
+          "title": "Alphabet Almost Sets a Record No One Wants",
+          "link": "https://www.fool.com/investing/2026/11/09/alphabet-almost-sets-a-record-no-one-wants/",
           "publisher": "Motley Fool",
-          "published": "2026-11-08"
-        },
-        {
-          "title": "Microsoft Is Reportedly Getting Pickier About AI Data Center Deals. Is the Stock a Buy Now?",
-          "link": "https://www.fool.com/investing/2026/11/08/microsoft-is-reportedly-getting-pickier-about-ai-data-center-deals-is-the-stock-a-buy-now/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08"
+          "published": "2026-11-10"
         }
       ]
     },
@@ -918,72 +918,72 @@
           92.4
         ]
       },
-      "price": 284.78,
-      "market_cap_b": 3501.1,
+      "price": 288.15,
+      "market_cap_b": 3542.5,
       "revenue_yoy": 24.7,
       "gross_margin": 60.9,
       "operating_margin": 31.8,
       "fcf_b": -1.16,
       "debt_to_ebitda": 0.81,
-      "market_cap_usd_b": 3501.1,
+      "market_cap_usd_b": 3542.5,
       "arxiv_papers": [
         {
-          "title": "AlterNet: Adaptive-Depth Mixture-of-Experts with Learned Halting for Elastic Inference",
-          "summary": "Most LLM architectures have fixed compute demands determined at training time. We propose a novel architecture that combines the Mixture-of-Experts architecture with shallow experts and a novel dynamic-depth system to ma...",
-          "authors": "Alexander Kastius",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.08741v1",
+          "title": "A Per-Step Load-Balancing Engine for Expert-Parallel MoE Serving",
+          "summary": "In expert-parallel Mixture-of-Experts serving, a layer finishes only when the most loaded GPU of its group does. Token routing shifts at every decode step and concentrates on a few experts, so most of the group's reserve...",
+          "authors": "Jingyuan Li, Maolin Wang et al.",
+          "published": "2026-11-08",
+          "link": "http://arxiv.org/pdf/2611.11402v1",
           "category": "LLM MoE"
         },
         {
-          "title": "AutoParallel: Composable, PyTorch-Native Automatic Parallelism for Production Training",
-          "summary": "Training large models requires multiple interacting forms of parallelism. As models and clusters scale, finding and maintaining efficient parallelization plans becomes essential for training performance. Diverse model ar...",
-          "authors": "Kaijian Wang, Sanket Purandare et al.",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.08660v1",
+          "title": "OOM: Offload-Optimized Full-Parameter MoE Training via Memory-Execution Co-Design",
+          "summary": "Offloading model state to host memory and streaming layer weights let a single multi-GPU node train large mixture-of-experts (MoE) models. GPU memory then becomes a performance budget, shared by resident expert state, re...",
+          "authors": "Ruijia Yang, Shiyuan Lin et al.",
+          "published": "2026-11-08",
+          "link": "http://arxiv.org/pdf/2611.11364v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling",
-          "summary": "Medical 3D scans and reports are inherently hierarchical, with diagnostic cues concentrated in specific anatomical regions across multiple levels of organization. Yet, most medical vision-language models ignore this stru...",
-          "authors": "Gizem Mert, Szymon Płotka et al.",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.08185v1",
+          "title": "LoMASA: A Local Multi-Agent Sales Assistant with Confidence-Gated Delegation for B2B Quoting",
+          "summary": "Frontline sales staff spend much of their day re-coordinating quotes after customers change quantities, ask for discounts or new payment terms, or costs move. We present LoMASA (Local Multi-Agent Sales Assistant), a trai...",
+          "authors": "Yu Liu, Xingbang Du",
+          "published": "2026-11-08",
+          "link": "http://arxiv.org/pdf/2611.11234v1",
           "category": "LLM MoE"
         },
         {
-          "title": "SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization",
-          "summary": "Mixture-of-Experts (MoE) models route each token to a few of many experts, yet what an individual expert is responsible for remains unsettled. Existing analyses count how often an expert is selected on domain-labeled cor...",
-          "authors": "Anyuan Zhuo, Shaohua Zhang et al.",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.08089v1",
+          "title": "When Is High-Bandwidth Flash Cost-Effective for LLM Inference?",
+          "summary": "Can high-bandwidth flash (HBF) make LLM inference cheaper than adding GPUs? By storing weights closer to the GPU than SSD, HBF may reduce the number of GPUs needed for model capacity. However, this integration is only ju...",
+          "authors": "Zhiyu An, Yiping Li et al.",
+          "published": "2026-11-08",
+          "link": "http://arxiv.org/pdf/2611.11036v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "5 Stocks I am Retiring On",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-am-retiring-004943035.html",
+          "title": "Warby Parker’s (WRBY) Prospects Are Looking Brighter — Here’s Why",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/warby-parker-wrby-prospects-looking-033428066.html",
           "publisher": "Insider Monkey",
-          "published": "2026-11-09"
+          "published": "2026-11-10"
         },
         {
-          "title": "Bloom Energy Stock Fell 16% on the Same Day 2 Giant Data Center Deals Named It. Is It a Buy?",
-          "link": "https://www.fool.com/investing/2026/11/08/bloom-energy-stock-fell-16-on-the-same-day-2-giant-data-center-deals-named-it-is-it-a-buy/",
+          "title": "Anthropic's S-1 Says It Will Expand Its Data Center Footprint. Here's Who Could Pour the Concrete, Wire the Power, and Cool the Chips.",
+          "link": "https://www.fool.com/investing/2026/11/09/anthropics-s-1-says-it-will-expand-its-data-center/",
           "publisher": "Motley Fool",
-          "published": "2026-11-09"
+          "published": "2026-11-10"
         },
         {
-          "title": "Cathie Wood buys $17.2 million of tumbling tech stock",
-          "link": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-17-2-million-of-tumbling-tech-stock-alphabet-googl",
-          "publisher": "TheStreet",
-          "published": "2026-11-09"
+          "title": "If I Could Buy Just 1 Stock in November and Hold for 5 Years, It Would Be Alphabet",
+          "link": "https://www.fool.com/investing/2026/11/09/if-i-could-buy-just-1-stock-in-november-and-hold-f/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-10"
         },
         {
-          "title": "Could HBF be the solution to the Memory bottleneck?",
-          "link": "https://finance.yahoo.com/technology/ai/articles/could-hbf-solution-memory-bottleneck-224023081.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-08"
+          "title": "Post-Midterms AI Selloff on Data-Center Buildout Concerns Appears Overdone",
+          "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-8-led-by-bank-machinery-stocks-c0a653b1?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-10"
         }
       ]
     },
@@ -1046,15 +1046,31 @@
           171.5
         ]
       },
-      "price": 259.3,
-      "market_cap_b": 2803.8,
+      "price": 266.93,
+      "market_cap_b": 2886.4,
       "revenue_yoy": 12.1,
       "gross_margin": 51.4,
       "operating_margin": 13.9,
       "fcf_b": -34.73,
       "debt_to_ebitda": 1.66,
-      "market_cap_usd_b": 2803.8,
+      "market_cap_usd_b": 2886.4,
       "arxiv_papers": [
+        {
+          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
+          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
+          "authors": "Chen-Xi Liang, Li Yan",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09643v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Two-Layer Evolutionary Scheduling for Machine Learning Jobs in Multi-Cluster Environments",
+          "summary": "The rapid growth of large-scale machine learning (ML) workloads has led to unprecedented demands on GPU cluster scheduling systems. However, existing heuristic schedulers struggle to handle the complexity and dynamics of...",
+          "authors": "Jingyuan Xu, Changwu Huang et al.",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09093v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
           "summary": "We present BeAR, the Bern Atmospheric Retrieval code and successor of Helios-r, and its new high-resolution cross-correlation framework for emission and transmission spectra. BeAR performs joint retrievals by adding the ...",
@@ -1070,48 +1086,32 @@
           "published": "2026-11-05",
           "link": "http://arxiv.org/pdf/2611.08405v1",
           "category": "AI Accelerator"
-        },
-        {
-          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
-          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
-          "authors": "J. Liu, R. Mao et al.",
-          "published": "2026-11-04",
-          "link": "http://arxiv.org/pdf/2611.05810v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Ta-based S-I-S junctions for integrated superconducting electronics",
-          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
-          "authors": "Trent Borman, Cameron Bullock et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04982v2",
-          "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Dow Jones Futures Rise As Nvidia Probes CEO Jensen Huang Spying Case",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-probes-ceo-jensen-huang-espionage/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
+          "title": "One nugget overlooked during the AI sell-off: token costs",
+          "link": "https://finance.yahoo.com/video/one-nugget-overlooked-during-the-ai-sell-off-token-costs-151611529.html",
+          "publisher": "Yahoo Finance Video",
           "published": "2026-11-09"
         },
         {
-          "title": "5 Stocks I am Retiring On",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-am-retiring-004943035.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-09"
-        },
-        {
-          "title": "Amazon.com (AMZN) Added Over 100 New Alexa Shopping Functions",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-added-over-211017852.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-08"
-        },
-        {
-          "title": "This Is the Best-Performing Magnificent Seven Stock of 2026. Is It Still a Buy?",
-          "link": "https://www.fool.com/investing/2026/11/08/this-is-best-performing-magnificent-seven-stock/",
+          "title": "Anthropic's S-1 Says It Will Expand Its Data Center Footprint. Here's Who Could Pour the Concrete, Wire the Power, and Cool the Chips.",
+          "link": "https://www.fool.com/investing/2026/11/09/anthropics-s-1-says-it-will-expand-its-data-center/",
           "publisher": "Motley Fool",
-          "published": "2026-11-08"
+          "published": "2026-11-10"
+        },
+        {
+          "title": "Post-Midterms AI Selloff on Data-Center Buildout Concerns Appears Overdone",
+          "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-8-led-by-bank-machinery-stocks-c0a653b1?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-10"
+        },
+        {
+          "title": "Tech leads Asian stock rally as traders track Wall St rebound",
+          "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-asian-stock-rally-023930562.html",
+          "publisher": "AFP",
+          "published": "2026-11-10"
         }
       ]
     },
@@ -1174,15 +1174,31 @@
           108.0
         ]
       },
-      "price": 116.1,
-      "market_cap_b": 362.0,
+      "price": 119.79,
+      "market_cap_b": 373.5,
       "revenue_yoy": 29.6,
       "gross_margin": 64.0,
       "operating_margin": 35.6,
       "fcf_b": -45.85,
       "debt_to_ebitda": 4.91,
-      "market_cap_usd_b": 362.0,
+      "market_cap_usd_b": 373.5,
       "arxiv_papers": [
+        {
+          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
+          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
+          "authors": "Chen-Xi Liang, Li Yan",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09643v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Two-Layer Evolutionary Scheduling for Machine Learning Jobs in Multi-Cluster Environments",
+          "summary": "The rapid growth of large-scale machine learning (ML) workloads has led to unprecedented demands on GPU cluster scheduling systems. However, existing heuristic schedulers struggle to handle the complexity and dynamics of...",
+          "authors": "Jingyuan Xu, Changwu Huang et al.",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09093v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
           "summary": "We present BeAR, the Bern Atmospheric Retrieval code and successor of Helios-r, and its new high-resolution cross-correlation framework for emission and transmission spectra. BeAR performs joint retrievals by adding the ...",
@@ -1198,48 +1214,32 @@
           "published": "2026-11-05",
           "link": "http://arxiv.org/pdf/2611.08405v1",
           "category": "AI Accelerator"
-        },
-        {
-          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
-          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
-          "authors": "J. Liu, R. Mao et al.",
-          "published": "2026-11-04",
-          "link": "http://arxiv.org/pdf/2611.05810v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Ta-based S-I-S junctions for integrated superconducting electronics",
-          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
-          "authors": "Trent Borman, Cameron Bullock et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04982v2",
-          "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Where Does CPI FIM (BDL:ORCL) Value Sit After A 58% Rise?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/where-does-cpi-fim-bdl-211258633.html",
+          "title": "AI Capacity Risks Following Democrats' Win Overblown, UBS Says",
+          "link": "https://finance.yahoo.com/technology/ai/articles/ai-capacity-risks-following-democrats-202858079.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-09"
+        },
+        {
+          "title": "The Stock Market Is “Petrified of Oracle’s Balance Sheet” as Microsoft Walks Away",
+          "link": "https://www.tikr.com/blog/the-stock-market-is-petrified-of-oracles-balance-sheet-as-microsoft-walks-away?ref=yahoofinance&tlnk=yf-261109-qqf46fhh",
+          "publisher": "TIKR",
+          "published": "2026-11-09"
+        },
+        {
+          "title": "Credo Technology Group Holding (CRDO) Helped Set New AI Network Standards, Is The 44% Undervaluation Real?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-group-holding-crdo-191342028.html",
           "publisher": "Simply Wall St.",
-          "published": "2026-11-08"
+          "published": "2026-11-09"
         },
         {
-          "title": "How sustainable is the AI investment boom after Thursday’s selloff?",
-          "link": "https://finance.yahoo.com/technology/ai/articles/sustainable-ai-investment-boom-thursday-164711242.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-08"
-        },
-        {
-          "title": "Intel Stock Has Gone Nowhere in 8 Years. Why This Time Could Be Different",
-          "link": "https://247wallst.com/investing/2026/11/08/intel-stock-has-gone-nowhere-in-8-years-why-this-time-could-be-different/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08"
-        },
-        {
-          "title": "Anthropic’s $895 Billion AI Gamble Could Become Wall Street’s Next Debt Nightmare",
-          "link": "https://247wallst.com/investing/2026/11/08/anthropics-895-billion-ai-gamble-could-become-wall-streets-next-debt-nightmare/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08"
+          "title": "ING Is Getting Cold Feet on the AI Boom",
+          "link": "https://app.moby.co/home/news/news-ing-is-getting-cold-feet-on-the-ai-boom?utm_source=yahoo_finance&utm_medium=rss",
+          "publisher": "Moby",
+          "published": "2026-11-09"
         }
       ]
     },
@@ -1302,72 +1302,72 @@
           4.9
         ]
       },
-      "price": 160.38,
-      "market_cap_b": 386.4,
+      "price": 169.2,
+      "market_cap_b": 407.7,
       "revenue_yoy": 95.9,
       "gross_margin": 84.7,
       "operating_margin": 46.9,
       "fcf_b": 2.65,
       "debt_to_ebitda": 0.07,
-      "market_cap_usd_b": 386.4,
+      "market_cap_usd_b": 407.7,
       "arxiv_papers": [
         {
-          "title": "AlterNet: Adaptive-Depth Mixture-of-Experts with Learned Halting for Elastic Inference",
-          "summary": "Most LLM architectures have fixed compute demands determined at training time. We propose a novel architecture that combines the Mixture-of-Experts architecture with shallow experts and a novel dynamic-depth system to ma...",
-          "authors": "Alexander Kastius",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.08741v1",
+          "title": "A Per-Step Load-Balancing Engine for Expert-Parallel MoE Serving",
+          "summary": "In expert-parallel Mixture-of-Experts serving, a layer finishes only when the most loaded GPU of its group does. Token routing shifts at every decode step and concentrates on a few experts, so most of the group's reserve...",
+          "authors": "Jingyuan Li, Maolin Wang et al.",
+          "published": "2026-11-08",
+          "link": "http://arxiv.org/pdf/2611.11402v1",
           "category": "LLM MoE"
         },
         {
-          "title": "AutoParallel: Composable, PyTorch-Native Automatic Parallelism for Production Training",
-          "summary": "Training large models requires multiple interacting forms of parallelism. As models and clusters scale, finding and maintaining efficient parallelization plans becomes essential for training performance. Diverse model ar...",
-          "authors": "Kaijian Wang, Sanket Purandare et al.",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.08660v1",
+          "title": "OOM: Offload-Optimized Full-Parameter MoE Training via Memory-Execution Co-Design",
+          "summary": "Offloading model state to host memory and streaming layer weights let a single multi-GPU node train large mixture-of-experts (MoE) models. GPU memory then becomes a performance budget, shared by resident expert state, re...",
+          "authors": "Ruijia Yang, Shiyuan Lin et al.",
+          "published": "2026-11-08",
+          "link": "http://arxiv.org/pdf/2611.11364v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling",
-          "summary": "Medical 3D scans and reports are inherently hierarchical, with diagnostic cues concentrated in specific anatomical regions across multiple levels of organization. Yet, most medical vision-language models ignore this stru...",
-          "authors": "Gizem Mert, Szymon Płotka et al.",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.08185v1",
+          "title": "LoMASA: A Local Multi-Agent Sales Assistant with Confidence-Gated Delegation for B2B Quoting",
+          "summary": "Frontline sales staff spend much of their day re-coordinating quotes after customers change quantities, ask for discounts or new payment terms, or costs move. We present LoMASA (Local Multi-Agent Sales Assistant), a trai...",
+          "authors": "Yu Liu, Xingbang Du",
+          "published": "2026-11-08",
+          "link": "http://arxiv.org/pdf/2611.11234v1",
           "category": "LLM MoE"
         },
         {
-          "title": "SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization",
-          "summary": "Mixture-of-Experts (MoE) models route each token to a few of many experts, yet what an individual expert is responsible for remains unsettled. Existing analyses count how often an expert is selected on domain-labeled cor...",
-          "authors": "Anyuan Zhuo, Shaohua Zhang et al.",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.08089v1",
+          "title": "When Is High-Bandwidth Flash Cost-Effective for LLM Inference?",
+          "summary": "Can high-bandwidth flash (HBF) make LLM inference cheaper than adding GPUs? By storing weights closer to the GPU than SSD, HBF may reduce the number of GPUs needed for model capacity. However, this integration is only ju...",
+          "authors": "Zhiyu An, Yiping Li et al.",
+          "published": "2026-11-08",
+          "link": "http://arxiv.org/pdf/2611.11036v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "NVDA, PLTR, QCOM, SPCX, MRVL: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
-          "link": "https://stocktwits.com/news-articles/markets/equity/nvda-pltr-qcom-spcx-mrvl-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cNGAH2tR9Ix",
-          "publisher": "Stocktwits",
-          "published": "2026-11-09"
-        },
-        {
-          "title": "Could Buying Palantir Stock Today Set You Up for Life?",
-          "link": "https://www.fool.com/investing/2026/11/08/could-buying-palantir-stock-today-set-you-up-for-l/",
+          "title": "Forget Palantir? This IPO Candidate May Be the New \"Autonomy Giant\" in Defense.",
+          "link": "https://www.fool.com/investing/2026/11/09/forget-palantir-ipo-candidate-new-autonomy-giant/",
           "publisher": "Motley Fool",
+          "published": "2026-11-10"
+        },
+        {
+          "title": "Palantir Stocks Rise 5.96% as Former Senator Jon Tester Joins as Adviser",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stocks-rise-5-96-183823596.html",
+          "publisher": "GuruFocus.com",
           "published": "2026-11-09"
         },
         {
-          "title": "3 Growth Stocks With Earnings Growth Over 20%",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-220719361.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-08"
+          "title": "Palantir Rises 5%, Snowflake Up 6% as AI Stocks Rebound After Market Was “Freaking Out”",
+          "link": "https://www.tikr.com/blog/palantir-rises-5-snowflake-up-6-as-ai-stocks-rebound-after-market-was-freaking-out?ref=yahoofinance&tlnk=yf-261109-h4v79xjq",
+          "publisher": "TIKR",
+          "published": "2026-11-09"
         },
         {
-          "title": "Palantir’s business beyond government just got a lot bigger",
-          "link": "https://www.thestreet.com/investing/stocks/palantirs-business-beyond-government-just-got-a-lot-bigger",
-          "publisher": "TheStreet",
-          "published": "2026-11-08"
+          "title": "Defense Realignment: Lockheed Martin vs. Palantir",
+          "link": "https://247wallst.com/investing/2026/11/09/defense-realignment-lockheed-martin-vs-palantir/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09"
         }
       ]
     },
@@ -1430,15 +1430,23 @@
           2600.0
         ]
       },
-      "price": 2285.0,
-      "market_cap_b": 59255.5,
+      "price": 2260.0,
+      "market_cap_b": 58607.2,
       "revenue_yoy": 50.9,
       "gross_margin": 65.8,
       "operating_margin": 58.7,
       "fcf_b": 1203.07,
       "debt_to_ebitda": 0.23,
-      "market_cap_usd_b": 1851.7,
+      "market_cap_usd_b": 1831.5,
       "arxiv_papers": [
+        {
+          "title": "Beyond Host-Side Control: HBM Controller Partitioning Across Host and HBM Base Dies",
+          "summary": "Recent generations of high bandwidth memory (HBM), such as HBM4, allow the base die of the memory stack to be manufactured using a logic process that can accommodate more complex controller functions next to the DRAM. We...",
+          "authors": "Tharunya Yogananda, Wantong Li",
+          "published": "2026-11-07",
+          "link": "http://arxiv.org/pdf/2611.10930v1",
+          "category": "CoWoS Packaging"
+        },
         {
           "title": "Scaling Up Analog CIM: A Simulation Framework for Topology-Aware Mapping",
           "summary": "Analog compute-in-memory (CIM) enables energy-efficient AI inference by performing in-situ matrix multiplication. The growing demand for deploying larger models motivates chiplet integration to expand CIM capacity. Howev...",
@@ -1462,40 +1470,32 @@
           "published": "2026-10-25",
           "link": "http://arxiv.org/pdf/2610.34610v1",
           "category": "CoWoS Packaging"
-        },
-        {
-          "title": "Embodied Emissions of 2.5D and 3D Scaling in Chipletized GPUs for Low-Carbon AI",
-          "summary": "GPU compute resources are scaling to support growing AI workloads, leading to further rises in the climate change impact of hyperscale data centers that rely on high-performance GPUs. To model how packaging decisions imp...",
-          "authors": "Hannah Watson, Arjun Singh et al.",
-          "published": "2026-10-23",
-          "link": "http://arxiv.org/pdf/2610.32830v1",
-          "category": "CoWoS Packaging"
         }
       ],
       "news": [
         {
-          "title": "5 Stocks I am Retiring On",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-am-retiring-004943035.html",
-          "publisher": "Insider Monkey",
+          "title": "A New Generation of Traders Is Trapped in Asia’s Market Meltdown",
+          "link": "https://www.wsj.com/finance/stocks/a-new-generation-of-traders-is-trapped-in-asias-market-meltdown-636d5da4?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-10"
+        },
+        {
+          "title": "Nvidia stock sinks 4% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+          "link": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html",
+          "publisher": "Yahoo Finance",
           "published": "2026-11-09"
         },
         {
-          "title": "This Stock Is a Nearly Guaranteed Winner From the AI Infrastructure Buildout",
-          "link": "https://www.fool.com/investing/2026/11/08/this-stock-is-a-nearly-guaranteed-winner-from-the/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08"
+          "title": "Micron Soars 5% as TSMC Sticks to the “Global Logic IC” Industry, Not Memory",
+          "link": "https://www.tikr.com/blog/micron-soars-5-as-tsmc-sticks-to-the-global-logic-ic-industry-not-memory?ref=yahoofinance&tlnk=yf-261109-346xjcj3",
+          "publisher": "TIKR",
+          "published": "2026-11-09"
         },
         {
-          "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-selloff-drives-investors-013045557.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-08"
-        },
-        {
-          "title": "TSMC Stock And 2 AI Infrastructure Shares Riding The AGI Spending Wave",
-          "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-2-ai-infrastructure-002240662.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-08"
+          "title": "Why Jensen Huang wants to keep China on Nvidia chips",
+          "link": "https://finance.yahoo.com/video/why-jensen-huang-wants-to-keep-china-on-nvidia-chips-190019440.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-09"
         }
       ]
     },
@@ -1558,15 +1558,31 @@
           75.0
         ]
       },
-      "price": 3110.0,
-      "market_cap_b": 268.4,
+      "price": 3420.0,
+      "market_cap_b": 295.2,
       "revenue_yoy": -16.5,
       "gross_margin": 37.2,
       "operating_margin": 21.6,
       "fcf_b": -2.56,
       "debt_to_ebitda": 0.04,
-      "market_cap_usd_b": 8.4,
+      "market_cap_usd_b": 9.2,
       "arxiv_papers": [
+        {
+          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
+          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
+          "authors": "Chen-Xi Liang, Li Yan",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09643v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Two-Layer Evolutionary Scheduling for Machine Learning Jobs in Multi-Cluster Environments",
+          "summary": "The rapid growth of large-scale machine learning (ML) workloads has led to unprecedented demands on GPU cluster scheduling systems. However, existing heuristic schedulers struggle to handle the complexity and dynamics of...",
+          "authors": "Jingyuan Xu, Changwu Huang et al.",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09093v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
           "summary": "We present BeAR, the Bern Atmospheric Retrieval code and successor of Helios-r, and its new high-resolution cross-correlation framework for emission and transmission spectra. BeAR performs joint retrievals by adding the ...",
@@ -1581,22 +1597,6 @@
           "authors": "Nicholas Zogbi, Domenico Giuliano et al.",
           "published": "2026-11-05",
           "link": "http://arxiv.org/pdf/2611.08405v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
-          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
-          "authors": "J. Liu, R. Mao et al.",
-          "published": "2026-11-04",
-          "link": "http://arxiv.org/pdf/2611.05810v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Ta-based S-I-S junctions for integrated superconducting electronics",
-          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
-          "authors": "Trent Borman, Cameron Bullock et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04982v2",
           "category": "AI Accelerator"
         }
       ],
@@ -1686,14 +1686,14 @@
           150.0
         ]
       },
-      "price": 1405.0,
-      "market_cap_b": 785.3,
+      "price": 1525.0,
+      "market_cap_b": 852.3,
       "revenue_yoy": 57.6,
       "gross_margin": 18.7,
       "operating_margin": 15.0,
       "fcf_b": 3.02,
       "debt_to_ebitda": 0.21,
-      "market_cap_usd_b": 24.5,
+      "market_cap_usd_b": 26.6,
       "arxiv_papers": [
         {
           "title": "An Ultra-Low-Noise Tunable TIA in 45nm Silicon Photonics for Electro-Optical Ultrasound Data Acquisition",
@@ -1814,15 +1814,31 @@
           440.0
         ]
       },
-      "price": 1690.0,
-      "market_cap_b": 979.6,
+      "price": 1670.0,
+      "market_cap_b": 968.0,
       "revenue_yoy": 62.9,
       "gross_margin": 8.3,
       "operating_margin": 7.5,
       "fcf_b": -92.39,
       "debt_to_ebitda": 2.1,
-      "market_cap_usd_b": 30.6,
+      "market_cap_usd_b": 30.2,
       "arxiv_papers": [
+        {
+          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
+          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
+          "authors": "Chen-Xi Liang, Li Yan",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09643v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Two-Layer Evolutionary Scheduling for Machine Learning Jobs in Multi-Cluster Environments",
+          "summary": "The rapid growth of large-scale machine learning (ML) workloads has led to unprecedented demands on GPU cluster scheduling systems. However, existing heuristic schedulers struggle to handle the complexity and dynamics of...",
+          "authors": "Jingyuan Xu, Changwu Huang et al.",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09093v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
           "summary": "We present BeAR, the Bern Atmospheric Retrieval code and successor of Helios-r, and its new high-resolution cross-correlation framework for emission and transmission spectra. BeAR performs joint retrievals by adding the ...",
@@ -1837,22 +1853,6 @@
           "authors": "Nicholas Zogbi, Domenico Giuliano et al.",
           "published": "2026-11-05",
           "link": "http://arxiv.org/pdf/2611.08405v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
-          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
-          "authors": "J. Liu, R. Mao et al.",
-          "published": "2026-11-04",
-          "link": "http://arxiv.org/pdf/2611.05810v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Ta-based S-I-S junctions for integrated superconducting electronics",
-          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
-          "authors": "Trent Borman, Cameron Bullock et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04982v2",
           "category": "AI Accelerator"
         }
       ],
@@ -1942,15 +1942,23 @@
           1380.0
         ]
       },
-      "price": 244.5,
-      "market_cap_b": 3441.2,
+      "price": 240.5,
+      "market_cap_b": 3384.9,
       "revenue_yoy": 40.8,
       "gross_margin": 6.1,
       "operating_margin": 3.8,
       "fcf_b": -182.3,
       "debt_to_ebitda": 3.23,
-      "market_cap_usd_b": 107.5,
+      "market_cap_usd_b": 105.8,
       "arxiv_papers": [
+        {
+          "title": "Beyond Host-Side Control: HBM Controller Partitioning Across Host and HBM Base Dies",
+          "summary": "Recent generations of high bandwidth memory (HBM), such as HBM4, allow the base die of the memory stack to be manufactured using a logic process that can accommodate more complex controller functions next to the DRAM. We...",
+          "authors": "Tharunya Yogananda, Wantong Li",
+          "published": "2026-11-07",
+          "link": "http://arxiv.org/pdf/2611.10930v1",
+          "category": "CoWoS Packaging"
+        },
         {
           "title": "Scaling Up Analog CIM: A Simulation Framework for Topology-Aware Mapping",
           "summary": "Analog compute-in-memory (CIM) enables energy-efficient AI inference by performing in-situ matrix multiplication. The growing demand for deploying larger models motivates chiplet integration to expand CIM capacity. Howev...",
@@ -1973,14 +1981,6 @@
           "authors": "Arda Baris Basaran, Mesut Ceylan et al.",
           "published": "2026-10-25",
           "link": "http://arxiv.org/pdf/2610.34610v1",
-          "category": "CoWoS Packaging"
-        },
-        {
-          "title": "Embodied Emissions of 2.5D and 3D Scaling in Chipletized GPUs for Low-Carbon AI",
-          "summary": "GPU compute resources are scaling to support growing AI workloads, leading to further rises in the climate change impact of hyperscale data centers that rely on high-performance GPUs. To model how packaging decisions imp...",
-          "authors": "Hannah Watson, Arjun Singh et al.",
-          "published": "2026-10-23",
-          "link": "http://arxiv.org/pdf/2610.32830v1",
           "category": "CoWoS Packaging"
         }
       ],
@@ -2070,15 +2070,31 @@
           810.0
         ]
       },
-      "price": 303.0,
-      "market_cap_b": 1242.2,
+      "price": 297.5,
+      "market_cap_b": 1219.6,
       "revenue_yoy": 105.6,
       "gross_margin": 5.5,
       "operating_margin": 3.3,
       "fcf_b": -58.97,
       "debt_to_ebitda": 3.87,
-      "market_cap_usd_b": 38.8,
+      "market_cap_usd_b": 38.1,
       "arxiv_papers": [
+        {
+          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
+          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
+          "authors": "Chen-Xi Liang, Li Yan",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09643v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Two-Layer Evolutionary Scheduling for Machine Learning Jobs in Multi-Cluster Environments",
+          "summary": "The rapid growth of large-scale machine learning (ML) workloads has led to unprecedented demands on GPU cluster scheduling systems. However, existing heuristic schedulers struggle to handle the complexity and dynamics of...",
+          "authors": "Jingyuan Xu, Changwu Huang et al.",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09093v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
           "summary": "We present BeAR, the Bern Atmospheric Retrieval code and successor of Helios-r, and its new high-resolution cross-correlation framework for emission and transmission spectra. BeAR performs joint retrievals by adding the ...",
@@ -2093,22 +2109,6 @@
           "authors": "Nicholas Zogbi, Domenico Giuliano et al.",
           "published": "2026-11-05",
           "link": "http://arxiv.org/pdf/2611.08405v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
-          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
-          "authors": "J. Liu, R. Mao et al.",
-          "published": "2026-11-04",
-          "link": "http://arxiv.org/pdf/2611.05810v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Ta-based S-I-S junctions for integrated superconducting electronics",
-          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
-          "authors": "Trent Borman, Cameron Bullock et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04982v2",
           "category": "AI Accelerator"
         }
       ],
@@ -2198,15 +2198,23 @@
           78.0
         ]
       },
-      "price": 2540.0,
-      "market_cap_b": 997.1,
+      "price": 2790.0,
+      "market_cap_b": 1095.2,
       "revenue_yoy": 66.0,
       "gross_margin": 28.9,
       "operating_margin": 27.4,
       "fcf_b": 44.54,
       "debt_to_ebitda": 0.62,
-      "market_cap_usd_b": 31.2,
+      "market_cap_usd_b": 34.2,
       "arxiv_papers": [
+        {
+          "title": "Beyond Host-Side Control: HBM Controller Partitioning Across Host and HBM Base Dies",
+          "summary": "Recent generations of high bandwidth memory (HBM), such as HBM4, allow the base die of the memory stack to be manufactured using a logic process that can accommodate more complex controller functions next to the DRAM. We...",
+          "authors": "Tharunya Yogananda, Wantong Li",
+          "published": "2026-11-07",
+          "link": "http://arxiv.org/pdf/2611.10930v1",
+          "category": "CoWoS Packaging"
+        },
         {
           "title": "Scaling Up Analog CIM: A Simulation Framework for Topology-Aware Mapping",
           "summary": "Analog compute-in-memory (CIM) enables energy-efficient AI inference by performing in-situ matrix multiplication. The growing demand for deploying larger models motivates chiplet integration to expand CIM capacity. Howev...",
@@ -2230,17 +2238,15 @@
           "published": "2026-10-25",
           "link": "http://arxiv.org/pdf/2610.34610v1",
           "category": "CoWoS Packaging"
-        },
-        {
-          "title": "Embodied Emissions of 2.5D and 3D Scaling in Chipletized GPUs for Low-Carbon AI",
-          "summary": "GPU compute resources are scaling to support growing AI workloads, leading to further rises in the climate change impact of hyperscale data centers that rely on high-performance GPUs. To model how packaging decisions imp...",
-          "authors": "Hannah Watson, Arjun Singh et al.",
-          "published": "2026-10-23",
-          "link": "http://arxiv.org/pdf/2610.32830v1",
-          "category": "CoWoS Packaging"
         }
       ],
       "news": [
+        {
+          "title": "Asia Vital Components' October Revenue Surges to NT$22.1 Billion, Up 34% Year-over-Year, Marking Fourth Straight Monthly Record - BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BYWtWM0lIYk5xRFZQcVI0UFkzQW9Id3hLRHFZQnI2QlN0VDljN2ttdV9lQlFiOFZvalVaV1hNUndiTjlDclZLMGlsYWJSc01ZWDF0dTc3enF5emRtUXdjNjZUdHNadmF2SHdNOUxBbDAtTmRyZGc?oc=5",
+          "publisher": "Google News",
+          "published": "Mon, 09 Nov 2026"
+        },
         {
           "title": "Taiwan's Investigation Bureau Searches Xinzhuang Plant; Asia Vital Components and Fositek Say Operations, Finances Unaffected - BigGo Finance",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IYlZqejBfalMzYlFmQ3dmMEIyWExabzNjRTJJQjFnLUhjSGdnbmVLa2kyR3ZyM2NSVDRzX3oxVVllWGdjV1FHdVo5bV81S1RlOHFoZWh4QVhuY1I1MUxFdWQzeTFpM0VTZDJac0FxdkJ6V0NrNmc?oc=5",
@@ -2248,16 +2254,10 @@
           "published": "Wed, 07 Oct 2026"
         },
         {
-          "title": "Asia Vital Components Co., Ltd. (3017.TW) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lTGtzdnJzbkVOcnJ5aC1XajF3OGdYN1pLTnJkZG5zS3g5QXlSWGVLTDZqR0xWNTdtV3NQTDlzR1hsaFpHRWQ2MzJ2ZGkyaTEzSjJlSGhB?oc=5",
+          "title": "Asia Vital Components Co., Ltd. (3017.TW) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpSkV5RFc0WTFSVklxVVBCVHhzX2U2Zkx3ZkJKZ0xQalhPbDM1Y2tpWjJjd1VENGhyM2pDdDlrTkhHWnhickMwN3A5NnRBZk9veURIU3Jn?oc=5",
           "publisher": "Google News",
-          "published": "Sat, 02 Jun 2018"
-        },
-        {
-          "title": "AI Data Centers' $7 Trillion Opportunity Sparks Order Surge Across Power and Cooling Supply Chains - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yQ1B0a3JZYzJzYUVkdVBzanRheU4yQkV1M2N6bm1nVjJhOHFNdE02NURRaTZYZzhCSWNwZERHU1hEZXF1ODBkN1EzTG9maUpaT0cwS29adGtVN1dhNzZVQk1QSENaZURMc2JENmtPM3ZFbTd1SUE?oc=5",
-          "publisher": "Google News",
-          "published": "Wed, 02 Sep 2026"
+          "published": "Mon, 12 Jun 2017"
         },
         {
           "title": "3017 Stock Price and Chart — TWSE:3017 - TradingView",
@@ -2326,15 +2326,31 @@
           350.0
         ]
       },
-      "price": 1160.0,
-      "market_cap_b": 3013.2,
+      "price": 1275.0,
+      "market_cap_b": 3311.9,
       "revenue_yoy": 31.1,
       "gross_margin": 35.3,
       "operating_margin": 16.6,
       "fcf_b": 44.52,
       "debt_to_ebitda": 0.77,
-      "market_cap_usd_b": 94.2,
+      "market_cap_usd_b": 103.5,
       "arxiv_papers": [
+        {
+          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
+          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
+          "authors": "Chen-Xi Liang, Li Yan",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09643v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "Two-Layer Evolutionary Scheduling for Machine Learning Jobs in Multi-Cluster Environments",
+          "summary": "The rapid growth of large-scale machine learning (ML) workloads has led to unprecedented demands on GPU cluster scheduling systems. However, existing heuristic schedulers struggle to handle the complexity and dynamics of...",
+          "authors": "Jingyuan Xu, Changwu Huang et al.",
+          "published": "2026-11-06",
+          "link": "http://arxiv.org/pdf/2611.09093v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
           "summary": "We present BeAR, the Bern Atmospheric Retrieval code and successor of Helios-r, and its new high-resolution cross-correlation framework for emission and transmission spectra. BeAR performs joint retrievals by adding the ...",
@@ -2349,22 +2365,6 @@
           "authors": "Nicholas Zogbi, Domenico Giuliano et al.",
           "published": "2026-11-05",
           "link": "http://arxiv.org/pdf/2611.08405v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
-          "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
-          "authors": "J. Liu, R. Mao et al.",
-          "published": "2026-11-04",
-          "link": "http://arxiv.org/pdf/2611.05810v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Ta-based S-I-S junctions for integrated superconducting electronics",
-          "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
-          "authors": "Trent Borman, Cameron Bullock et al.",
-          "published": "2026-11-03",
-          "link": "http://arxiv.org/pdf/2611.04982v2",
           "category": "AI Accelerator"
         }
       ],
@@ -2399,39 +2399,63 @@
   "arxiv_papers_by_category": {
     "LLM MoE": [
       {
-        "title": "AlterNet: Adaptive-Depth Mixture-of-Experts with Learned Halting for Elastic Inference",
-        "summary": "Most LLM architectures have fixed compute demands determined at training time. We propose a novel architecture that combines the Mixture-of-Experts architecture with shallow experts and a novel dynamic-depth system to ma...",
-        "authors": "Alexander Kastius",
-        "published": "2026-11-05",
-        "link": "http://arxiv.org/pdf/2611.08741v1",
+        "title": "A Per-Step Load-Balancing Engine for Expert-Parallel MoE Serving",
+        "summary": "In expert-parallel Mixture-of-Experts serving, a layer finishes only when the most loaded GPU of its group does. Token routing shifts at every decode step and concentrates on a few experts, so most of the group's reserve...",
+        "authors": "Jingyuan Li, Maolin Wang et al.",
+        "published": "2026-11-08",
+        "link": "http://arxiv.org/pdf/2611.11402v1",
         "category": "LLM MoE"
       },
       {
-        "title": "AutoParallel: Composable, PyTorch-Native Automatic Parallelism for Production Training",
-        "summary": "Training large models requires multiple interacting forms of parallelism. As models and clusters scale, finding and maintaining efficient parallelization plans becomes essential for training performance. Diverse model ar...",
-        "authors": "Kaijian Wang, Sanket Purandare et al.",
-        "published": "2026-11-05",
-        "link": "http://arxiv.org/pdf/2611.08660v1",
+        "title": "OOM: Offload-Optimized Full-Parameter MoE Training via Memory-Execution Co-Design",
+        "summary": "Offloading model state to host memory and streaming layer weights let a single multi-GPU node train large mixture-of-experts (MoE) models. GPU memory then becomes a performance budget, shared by resident expert state, re...",
+        "authors": "Ruijia Yang, Shiyuan Lin et al.",
+        "published": "2026-11-08",
+        "link": "http://arxiv.org/pdf/2611.11364v1",
         "category": "LLM MoE"
       },
       {
-        "title": "Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling",
-        "summary": "Medical 3D scans and reports are inherently hierarchical, with diagnostic cues concentrated in specific anatomical regions across multiple levels of organization. Yet, most medical vision-language models ignore this stru...",
-        "authors": "Gizem Mert, Szymon Płotka et al.",
-        "published": "2026-11-05",
-        "link": "http://arxiv.org/pdf/2611.08185v1",
+        "title": "LoMASA: A Local Multi-Agent Sales Assistant with Confidence-Gated Delegation for B2B Quoting",
+        "summary": "Frontline sales staff spend much of their day re-coordinating quotes after customers change quantities, ask for discounts or new payment terms, or costs move. We present LoMASA (Local Multi-Agent Sales Assistant), a trai...",
+        "authors": "Yu Liu, Xingbang Du",
+        "published": "2026-11-08",
+        "link": "http://arxiv.org/pdf/2611.11234v1",
         "category": "LLM MoE"
       },
       {
-        "title": "SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization",
-        "summary": "Mixture-of-Experts (MoE) models route each token to a few of many experts, yet what an individual expert is responsible for remains unsettled. Existing analyses count how often an expert is selected on domain-labeled cor...",
-        "authors": "Anyuan Zhuo, Shaohua Zhang et al.",
-        "published": "2026-11-05",
-        "link": "http://arxiv.org/pdf/2611.08089v1",
+        "title": "When Is High-Bandwidth Flash Cost-Effective for LLM Inference?",
+        "summary": "Can high-bandwidth flash (HBF) make LLM inference cheaper than adding GPUs? By storing weights closer to the GPU than SSD, HBF may reduce the number of GPUs needed for model capacity. However, this integration is only ju...",
+        "authors": "Zhiyu An, Yiping Li et al.",
+        "published": "2026-11-08",
+        "link": "http://arxiv.org/pdf/2611.11036v1",
         "category": "LLM MoE"
       }
     ],
     "Transformer & Attention": [
+      {
+        "title": "Polynomial Denoisers on the Image Manifold: Volterra Networks for Self-Contained Pixel Diffusion",
+        "summary": "Natural images are often conjectured to lie on a low-dimensional manifold within the high-dimensional pixel space. Recent work leverages this to build self-contained pixel-space diffusion models without specialized machi...",
+        "authors": "Siddharth Roheda, Rohit Chowdhury et al.",
+        "published": "2026-11-07",
+        "link": "http://arxiv.org/pdf/2611.10857v1",
+        "category": "Transformer & Attention"
+      },
+      {
+        "title": "Dual Architecture Fusion Vehicle Lidar 3D Target Detection",
+        "summary": "In this paper, a 3D backbone network (SpconvTransformer) based on the fusion of convolutional architecture branch and Transformer architecture branch is proposed. The convolution branch uses 3D sparse convolution and sub...",
+        "authors": "Muyun Li, Weizheng Jin et al.",
+        "published": "2026-11-06",
+        "link": "http://arxiv.org/pdf/2611.09664v1",
+        "category": "Transformer & Attention"
+      },
+      {
+        "title": "Transformer-FSQ: Discrete Latents for Extreme KV-Cache Compression",
+        "summary": "Private, personalised language models must run on local consumer devices, where large, frontier models cannot fit, and retaining long contexts is non-trivial. Sequential memory---the key-value (KV) cache---grows linearly...",
+        "authors": "Andras Szecsenyi, Thomas L. Lee et al.",
+        "published": "2026-11-06",
+        "link": "http://arxiv.org/pdf/2611.09598v1",
+        "category": "Transformer & Attention"
+      },
       {
         "title": "Higher Order Component Attribution via Learned Surrogates in High Energy Physics",
         "summary": "Experimental High Energy Physics (HEP) has adopted the transformer architecture for identification of jets, particularly the state-of-the-art Particle Transformer (ParT) which injects explicit information about particle ...",
@@ -2439,33 +2463,17 @@
         "published": "2026-11-05",
         "link": "http://arxiv.org/pdf/2611.08656v1",
         "category": "Transformer & Attention"
-      },
-      {
-        "title": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout",
-        "summary": "Linear attention compresses context into a fixed-size key-value state for linear-time training and constant-memory inference. Gated delta-rule models decay this state and erase its prediction for an incoming key before w...",
-        "authors": "Tushaar Gangavarapu, Gil Tabak et al.",
-        "published": "2026-11-05",
-        "link": "http://arxiv.org/pdf/2611.08376v1",
-        "category": "Transformer & Attention"
-      },
-      {
-        "title": "TACT-KV: Tri-Axis Cosine Transform for Compressing Volumetric KV Caches in Medical VLMs",
-        "summary": "Vision-language models (VLMs) applied to 3D medical scans face a structural memory wall. A single CT or MRI volume produces tens of thousands of vision tokens, and the resulting key-value (KV) cache scales linearly with ...",
-        "authors": "Chongyu Qu, Ritchie Zhao et al.",
-        "published": "2026-11-05",
-        "link": "http://arxiv.org/pdf/2611.07593v1",
-        "category": "Transformer & Attention"
-      },
-      {
-        "title": "CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment",
-        "summary": "Recent work in machine learning has demonstrated that transformer-based language model agents can communicate state not only through text, but also directly in latent space via key-value (KV) caches. In this paper, we ar...",
-        "authors": "Vihan Lakshman, Peter Baile Chen et al.",
-        "published": "2026-11-05",
-        "link": "http://arxiv.org/pdf/2611.07393v1",
-        "category": "Transformer & Attention"
       }
     ],
     "RL & Test-Time Compute": [
+      {
+        "title": "Grounding-Aware Judge Reward Reinforcement Learning for Out-of-Domain Face Anti-Spoofing",
+        "summary": "Face Anti-Spoofing (FAS) must distinguish genuine faces from presentation attacks. A unified Multimodal Large Language Model (MLLM) is an attractive solution: it detects physical attacks (print, replay, mask) in one mode...",
+        "authors": "Xiaoyong Yu, Xinge Yu",
+        "published": "2026-11-06",
+        "link": "http://arxiv.org/pdf/2611.09047v1",
+        "category": "RL & Test-Time Compute"
+      },
       {
         "title": "Towards Foundation Decision Models: Drex",
         "summary": "Autoregressive approaches with large language models, such as long chain-of-thought reasoning, have become the default for new AI applications because they reach higher accuracy on a wide range of tasks. In production, h...",
@@ -2489,51 +2497,51 @@
         "published": "2026-11-04",
         "link": "http://arxiv.org/pdf/2611.05942v3",
         "category": "RL & Test-Time Compute"
-      },
-      {
-        "title": "BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery",
-        "summary": "Large Reasoning Models (LRMs) achieve strong performance on complex tasks by generating explicit Chain-of-Thought (CoT) reasoning, but the safety implications of this intermediate reasoning surface remain underexplored. ...",
-        "authors": "Masoud Poorghaffar Aghdam, Göktuğ Serdar Yıldırım et al.",
-        "published": "2026-11-03",
-        "link": "http://arxiv.org/pdf/2611.04717v1",
-        "category": "RL & Test-Time Compute"
       }
     ],
     "Multimodal & World Models": [
       {
-        "title": "FATHOM: World-Model-Guided Diffusion Action-Trajectory Selection for Sparse-Marker AUV Tracking",
-        "summary": "Reliable relative tracking is fundamental to cooperative autonomous underwater vehicles (AUVs), yet remains challenging under nonlinear vehicle dynamics and degraded underwater visual conditions. Active light markers imp...",
-        "authors": "Xiaorui Wang, Zeyu Sha et al.",
-        "published": "2026-11-06",
-        "link": "http://arxiv.org/pdf/2611.08898v1",
+        "title": "D3Tree: Learning to Prune Block-Diffusion Draft Trees for Efficient Verification",
+        "summary": "Block-diffusion drafters propose a whole block of tokens in one forward pass, and draft trees built from their position-wise marginals increase the expected accepted length of speculative decoding. Every tree node occupi...",
+        "authors": "Hong Nie, Zhangchi Gao et al.",
+        "published": "2026-11-08",
+        "link": "http://arxiv.org/pdf/2611.11371v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "Turkish Multimodal Video Fact-Checking: A New Dataset and a Comparison of Zero-Shot Agentic and Fine-Tuned Systems",
-        "summary": "Video-based misinformation spreads rapidly on social media, but almost all existing fact-checking systems focus exclusively on English text. Tools for low-resource languages such as Turkish are severely limited. In this ...",
-        "authors": "Azra Açıl",
-        "published": "2026-11-05",
-        "link": "http://arxiv.org/pdf/2611.08651v1",
+        "title": "DISCOVER: Online Variance-Guided Data Discovery for Budgeted Multimodal GRPO",
+        "summary": "Recent advances in reinforcement learning have made verifiable rewards a central post-training paradigm for improving multimodal reasoning. However, methods such as GRPO remain data- and compute-inefficient, spending rol...",
+        "authors": "Peyman Gholami, Shivam Chandhok et al.",
+        "published": "2026-11-08",
+        "link": "http://arxiv.org/pdf/2611.11145v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation",
-        "summary": "We present Meituan-Robotics-0 (MR0), a vision-language-action foundation model and embodied-agent system for stationary-base desktop manipulation. MR0 combines 147 million vision-language samples with 15,060 hours of cur...",
-        "authors": "Meituan Robotics Team, Caicheng Wang et al.",
-        "published": "2026-11-05",
-        "link": "http://arxiv.org/pdf/2611.08577v1",
+        "title": "Multimodal Models Can See, But Can They Think? A Study of Turkish Visual Reasoning",
+        "summary": "Vision-Language Models have had massive leaps in recent years. Yet, when tested on high-level cognitive tasks like pattern completion, abstract logic, and relational reasoning, they still fall short. This limitation stem...",
+        "authors": "Berke Bunyamin Sule, Yavuz Selim Aygan et al.",
+        "published": "2026-11-07",
+        "link": "http://arxiv.org/pdf/2611.10831v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "Multimodal-SEA: Benchmarking AI Agent Security under Multimodal Social Engineering Attacks",
-        "summary": "Personal AI agents face social engineering attacks supported by forged multimodal content, but existing evaluations mainly focus on text-based dialogue, leaving their intrinsic security under such attacks insufficiently ...",
-        "authors": "Zhitao He, Chi Him Zhang et al.",
-        "published": "2026-11-05",
-        "link": "http://arxiv.org/pdf/2611.08281v1",
+        "title": "ROLECUE: Diagnosing Cross-Lingual Role-Binding Failures in Vision-Language Models",
+        "summary": "Vision-language models (VLMs) can recognize events in images and parse sentences, but it remains unclear when they bind visual Agent-Patient structure to linguistic semantic roles across languages whose role cues depend ...",
+        "authors": "Niaz Mohaiman Abtahi, Evan Maksud",
+        "published": "2026-11-07",
+        "link": "http://arxiv.org/pdf/2611.10575v1",
         "category": "Multimodal & World Models"
       }
     ],
     "CoWoS Packaging": [
+      {
+        "title": "Beyond Host-Side Control: HBM Controller Partitioning Across Host and HBM Base Dies",
+        "summary": "Recent generations of high bandwidth memory (HBM), such as HBM4, allow the base die of the memory stack to be manufactured using a logic process that can accommodate more complex controller functions next to the DRAM. We...",
+        "authors": "Tharunya Yogananda, Wantong Li",
+        "published": "2026-11-07",
+        "link": "http://arxiv.org/pdf/2611.10930v1",
+        "category": "CoWoS Packaging"
+      },
       {
         "title": "Scaling Up Analog CIM: A Simulation Framework for Topology-Aware Mapping",
         "summary": "Analog compute-in-memory (CIM) enables energy-efficient AI inference by performing in-situ matrix multiplication. The growing demand for deploying larger models motivates chiplet integration to expand CIM capacity. Howev...",
@@ -2556,14 +2564,6 @@
         "authors": "Arda Baris Basaran, Mesut Ceylan et al.",
         "published": "2026-10-25",
         "link": "http://arxiv.org/pdf/2610.34610v1",
-        "category": "CoWoS Packaging"
-      },
-      {
-        "title": "Embodied Emissions of 2.5D and 3D Scaling in Chipletized GPUs for Low-Carbon AI",
-        "summary": "GPU compute resources are scaling to support growing AI workloads, leading to further rises in the climate change impact of hyperscale data centers that rely on high-performance GPUs. To model how packaging decisions imp...",
-        "authors": "Hannah Watson, Arjun Singh et al.",
-        "published": "2026-10-23",
-        "link": "http://arxiv.org/pdf/2610.32830v1",
         "category": "CoWoS Packaging"
       }
     ],
@@ -2603,6 +2603,22 @@
     ],
     "AI Accelerator": [
       {
+        "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
+        "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
+        "authors": "Chen-Xi Liang, Li Yan",
+        "published": "2026-11-06",
+        "link": "http://arxiv.org/pdf/2611.09643v1",
+        "category": "AI Accelerator"
+      },
+      {
+        "title": "Two-Layer Evolutionary Scheduling for Machine Learning Jobs in Multi-Cluster Environments",
+        "summary": "The rapid growth of large-scale machine learning (ML) workloads has led to unprecedented demands on GPU cluster scheduling systems. However, existing heuristic schedulers struggle to handle the complexity and dynamics of...",
+        "authors": "Jingyuan Xu, Changwu Huang et al.",
+        "published": "2026-11-06",
+        "link": "http://arxiv.org/pdf/2611.09093v1",
+        "category": "AI Accelerator"
+      },
+      {
         "title": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
         "summary": "We present BeAR, the Bern Atmospheric Retrieval code and successor of Helios-r, and its new high-resolution cross-correlation framework for emission and transmission spectra. BeAR performs joint retrievals by adding the ...",
         "authors": "Esther Wang, Daniel Kitzmann et al.",
@@ -2616,22 +2632,6 @@
         "authors": "Nicholas Zogbi, Domenico Giuliano et al.",
         "published": "2026-11-05",
         "link": "http://arxiv.org/pdf/2611.08405v1",
-        "category": "AI Accelerator"
-      },
-      {
-        "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
-        "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conv...",
-        "authors": "J. Liu, R. Mao et al.",
-        "published": "2026-11-04",
-        "link": "http://arxiv.org/pdf/2611.05810v1",
-        "category": "AI Accelerator"
-      },
-      {
-        "title": "Ta-based S-I-S junctions for integrated superconducting electronics",
-        "summary": "In this work, we have presented S-I-S Josephson junctions with $\\rmα$-Ta electrodes and a ${\\rm TaO}_x$ barrier. We grew base and top $α$-Ta electrodes using seed layer engineering, showing both Nb and ${\\rm TaN}_x$ are ...",
-        "authors": "Trent Borman, Cameron Bullock et al.",
-        "published": "2026-11-03",
-        "link": "http://arxiv.org/pdf/2611.04982v2",
         "category": "AI Accelerator"
       }
     ]
