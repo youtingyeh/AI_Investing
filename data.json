@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13 11:30:02 CST (UTC+8)",
+  "last_updated": "2026-11-14 11:26:39 CST (UTC+8)",
   "status": "LIVE_CLOUD_SYNC",
   "macro_kpis": {
     "csp_capex": {
@@ -150,14 +150,14 @@
           71.0
         ]
       },
-      "price": 166.19,
-      "market_cap_b": 4013.0,
+      "price": 162.85,
+      "market_cap_b": 3932.3,
       "revenue_yoy": 105.9,
       "gross_margin": 74.7,
       "operating_margin": 65.2,
       "fcf_b": 41.81,
       "debt_to_ebitda": 0.19,
-      "market_cap_usd_b": 4013.0,
+      "market_cap_usd_b": 3932.3,
       "arxiv_papers": [
         {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
@@ -194,28 +194,28 @@
       ],
       "news": [
         {
-          "title": "Nvidia market cap plunges $490 billion following former CEO Huang's affair scandals",
-          "link": "https://finance.yahoo.com/technology/article/nvidia-market-cap-plunges-490-billion-following-former-ceo-huangs-affair-scandals-224412004.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-12"
-        },
-        {
-          "title": "How Nvidia's stock decline might impact your 401(k) and portfolio",
-          "link": "https://finance.yahoo.com/video/how-nvidias-stock-decline-might-impact-your-401k-and-portfolio-221925275.html",
+          "title": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
+          "link": "https://finance.yahoo.com/video/nvidias-competitors-pounce-and-what-gpu-rental-prices-say-about-the-ai-race-221551379.html",
           "publisher": "Yahoo Finance Video",
-          "published": "2026-11-12"
+          "published": "2026-11-13"
         },
         {
-          "title": "Alleged spy at center of Nvidia CEO affair reportedly being probed over Super Micro smuggling effort",
-          "link": "https://finance.yahoo.com/technology/article/alleged-spy-at-center-of-nvidia-ceo-affair-reportedly-being-probed-over-super-micro-smuggling-effort-214712179.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-12"
-        },
-        {
-          "title": "Cathie Wood: After Huang, AI push isn’t ‘going to stop’",
-          "link": "https://finance.yahoo.com/video/cathie-wood-huang-ai-push-214100089.html",
+          "title": "How the Nvidia scandal impacts US–China relations: Department of Defense CTO",
+          "link": "https://finance.yahoo.com/video/how-the-nvidia-scandal-impacts-uschina-relations-department-of-defense-cto-220649347.html",
           "publisher": "Yahoo Finance Video",
-          "published": "2026-11-12"
+          "published": "2026-11-13"
+        },
+        {
+          "title": "Cerebras stock surges on Microsoft deal: What it means for Nvidia",
+          "link": "https://finance.yahoo.com/video/cerebras-stock-surges-on-microsoft-deal-what-it-means-for-nvidia-213123807.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-13"
+        },
+        {
+          "title": "'Nothing has changed': Why some Nvidia stock bulls aren't wavering after Jensen Huang ouster",
+          "link": "https://finance.yahoo.com/technology/article/nothing-has-changed-why-some-nvidia-stock-bulls-arent-wavering-after-jensen-huang-ouster-204522204.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-13"
         }
       ]
     },
@@ -278,15 +278,23 @@
           76.8
         ]
       },
-      "price": 364.36,
-      "market_cap_b": 1739.3,
+      "price": 347.01,
+      "market_cap_b": 1656.5,
       "revenue_yoy": 85.5,
       "gross_margin": 75.5,
       "operating_margin": 48.8,
       "fcf_b": 30.6,
       "debt_to_ebitda": 1.14,
-      "market_cap_usd_b": 1739.3,
+      "market_cap_usd_b": 1656.5,
       "arxiv_papers": [
+        {
+          "title": "Inverse Design of an On-chip Phase-Change Switch Composed of Sparse Heterogeneous Metasurfaces",
+          "summary": "Photonic switches are exploited for optical signal routing and control within optical communication systems. The integration of phase change materials with silicon photonic switches overcomes the drawbacks of the state-o...",
+          "authors": "Sanaz Zarei",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.16863v1",
+          "category": "Silicon Photonics"
+        },
         {
           "title": "Silicon and silicon nitride photonic ring resonator arrays for photonic trimming metrology",
           "summary": "Proposed silicon on silicon oxide 4x4 matrix multiplier for use in refractive index measurements, based on the Advanced Micro Foundry deep ultraviolet process. Agreement between simulated spectra and analytic design spec...",
@@ -310,40 +318,32 @@
           "published": "2026-11-05",
           "link": "http://arxiv.org/pdf/2611.07594v1",
           "category": "Silicon Photonics"
-        },
-        {
-          "title": "From Fabrication Disorder to Quantum-Protocol Yield in Inverse-Designed Silicon Photonic Beam Splitters",
-          "summary": "Telecom-band silicon spin-photon qubits offer a promising platform for scalable quantum networks and distributed information processing, but their fixed emission wavelengths require compact, low-loss beam splitters with ...",
-          "authors": "Nail Letty, Tahmeed Ul Islam et al.",
-          "published": "2026-11-01",
-          "link": "http://arxiv.org/pdf/2611.02209v1",
-          "category": "Silicon Photonics"
         }
       ],
       "news": [
         {
-          "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
-          "link": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-12"
-        },
-        {
-          "title": "5 Best Growth Stocks for the Next 5 Years",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-growth-stocks-next-231119066.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-12"
-        },
-        {
-          "title": "Can Huang's Exit Create Chip Competition",
-          "link": "https://finance.yahoo.com/video/huangs-exit-create-chip-competition-230039379.html",
-          "publisher": "Bloomberg",
-          "published": "2026-11-12"
-        },
-        {
-          "title": "Now Comes the Hard Part for the Stock Market",
-          "link": "https://www.barrons.com/articles/nvidia-jensen-huang-stock-market-ai-trade-outlook-25292506?siteid=yhoof2&yptr=yahoo",
+          "title": "Review & Preview: Moving On",
+          "link": "https://www.barrons.com/articles/stockstoday-rotation-after-nvidia-3d0dbe00?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
-          "published": "2026-11-12"
+          "published": "2026-11-14"
+        },
+        {
+          "title": "Can You Justify Buying Dynatrace Stock Today?",
+          "link": "https://www.trefis.com/stock/dt/articles/624866/can-you-justify-buying-dynatrace-stock-today/2026-11-13",
+          "publisher": "Trefis",
+          "published": "2026-11-14"
+        },
+        {
+          "title": "Wall Street stocks mostly lower as Nvidia extends slump",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-stocks-mostly-lower-230704278.html",
+          "publisher": "AFP",
+          "published": "2026-11-13"
+        },
+        {
+          "title": "Stocks to Watch Recap: Nvidia, AMD, Microsoft",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026/card/stocks-to-watch-microsoft-nvidia-amd-jWz6wdWH2eBxwM91bJ6m?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-13"
         }
       ]
     },
@@ -406,14 +406,14 @@
           14.2
         ]
       },
-      "price": 585.3,
-      "market_cap_b": 959.9,
+      "price": 534.06,
+      "market_cap_b": 875.9,
       "revenue_yoy": 44.7,
       "gross_margin": 56.0,
       "operating_margin": 17.8,
       "fcf_b": 7.36,
       "debt_to_ebitda": 0.83,
-      "market_cap_usd_b": 959.9,
+      "market_cap_usd_b": 875.9,
       "arxiv_papers": [
         {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
@@ -450,28 +450,28 @@
       ],
       "news": [
         {
-          "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
-          "link": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-12"
-        },
-        {
-          "title": "AMD CEO Lisa Su on data center backlash: Tech has to sell the vision",
-          "link": "https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-on-data-center-backlash-tech-has-to-sell-the-vision-162604989.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-12"
-        },
-        {
-          "title": "AMD CEO Dr. Lisa Su reflects on her biggest lessons of 2026",
-          "link": "https://finance.yahoo.com/video/amd-ceo-dr-lisa-su-reflects-on-her-biggest-lessons-of-2026-153656562.html",
+          "title": "AMD CEO Lisa SU on being named Yahoo Finance CEO of the Year",
+          "link": "https://finance.yahoo.com/video/amd-ceo-lisa-su-on-being-named-yahoo-finance-ceo-of-the-year-153508730.html",
           "publisher": "Yahoo Finance Video",
-          "published": "2026-11-12"
+          "published": "2026-11-13"
         },
         {
-          "title": "AMD CEO Dr. Lisa Su continues making the 'right, big bets'",
-          "link": "https://finance.yahoo.com/video/amd-ceo-dr-lisa-su-continues-making-the-right-big-bets-152305265.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-12"
+          "title": "Review & Preview: Moving On",
+          "link": "https://www.barrons.com/articles/stockstoday-rotation-after-nvidia-3d0dbe00?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-14"
+        },
+        {
+          "title": "Wall Street stocks mostly lower as Nvidia extends slump",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-stocks-mostly-lower-230704278.html",
+          "publisher": "AFP",
+          "published": "2026-11-13"
+        },
+        {
+          "title": "Stocks to Watch Recap: Nvidia, AMD, Microsoft",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026/card/stocks-to-watch-microsoft-nvidia-amd-jWz6wdWH2eBxwM91bJ6m?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-13"
         }
       ]
     },
@@ -534,14 +534,14 @@
           2.75
         ]
       },
-      "price": 199.78,
-      "market_cap_b": 213.8,
+      "price": 190.53,
+      "market_cap_b": 203.9,
       "revenue_yoy": 27.1,
       "gross_margin": 97.4,
       "operating_margin": 17.0,
       "fcf_b": 1.14,
       "debt_to_ebitda": 0.44,
-      "market_cap_usd_b": 213.8,
+      "market_cap_usd_b": 203.9,
       "arxiv_papers": [
         {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
@@ -578,28 +578,28 @@
       ],
       "news": [
         {
-          "title": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
-          "link": "https://finance.yahoo.com/technology/articles/could-replace-departed-jensen-huang-000357633.html",
-          "publisher": "The Guardian",
+          "title": "AMD Sinks 9%, Marvell Down 5% as Chip Rally Reverses and Treasury Yields Hit 5%",
+          "link": "https://www.tikr.com/blog/amd-sinks-9-marvell-down-5-as-chip-rally-reverses-and-treasury-yields-hit-5?ref=yahoofinance&tlnk=yf-261113-c83jxhmp",
+          "publisher": "TIKR",
           "published": "2026-11-13"
         },
         {
-          "title": "3 Robotics Stocks To Own In November 2026",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/3-robotics-stocks-own-november-232413810.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12"
+          "title": "S&P 500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-dip-nvidia-tumult-103901600.html",
+          "publisher": "Reuters",
+          "published": "2026-11-13"
         },
         {
-          "title": "Arm Is Up 77% Even As Profit Fell",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/arm-77-even-profit-fell-211120456.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12"
+          "title": "Why Arm Holdings Stock Was Pulling Back Today",
+          "link": "https://www.fool.com/investing/2026/11/13/why-arm-holdings-stock-was-pulling-back-today/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-13"
         },
         {
-          "title": "Betting markets see a longtime Nvidia insider as the favorite to replace Jensen Huang, interim CEO Colette Kress is second",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/betting-markets-see-longtime-nvidia-173523746.html",
-          "publisher": "Fortune",
-          "published": "2026-11-12"
+          "title": "Rene Haas, Ian Buck, Chris Malachowsky: Wall Street zeroes in on potential Nvidia CEO successors",
+          "link": "https://finance.yahoo.com/markets/article/rene-haas-ian-buck-chris-malachowsky-wall-street-zeroes-in-on-potential-nvidia-ceo-successors-204105759.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-13"
         }
       ]
     },
@@ -662,15 +662,23 @@
           7.9
         ]
       },
-      "price": 209.64,
-      "market_cap_b": 80.7,
+      "price": 202.07,
+      "market_cap_b": 77.8,
       "revenue_yoy": 61.2,
       "gross_margin": 38.1,
       "operating_margin": 21.1,
       "fcf_b": 2.96,
       "debt_to_ebitda": 1.05,
-      "market_cap_usd_b": 80.7,
+      "market_cap_usd_b": 77.8,
       "arxiv_papers": [
+        {
+          "title": "Starscream: Reimagining LLM Sharding on AMD Instinct GPUs with GPU Partitioning",
+          "summary": "As GPU accelerators grow larger to meet rising compute demands, they exhibit increasingly pronounced non-uniform memory access (NUMA) characteristics that challenge existing LLM frameworks. Chiplet-based architectures pr...",
+          "authors": "Sumanth Gudaparthi, Smeet Chheda et al.",
+          "published": "2026-11-11",
+          "link": "http://arxiv.org/pdf/2611.15951v1",
+          "category": "CoWoS Packaging"
+        },
         {
           "title": "Beyond Host-Side Control: HBM Controller Partitioning Across Host and HBM Base Dies",
           "summary": "Recent generations of high bandwidth memory (HBM), such as HBM4, allow the base die of the memory stack to be manufactured using a logic process that can accommodate more complex controller functions next to the DRAM. We...",
@@ -694,40 +702,32 @@
           "published": "2026-10-26",
           "link": "http://arxiv.org/pdf/2610.34911v1",
           "category": "CoWoS Packaging"
-        },
-        {
-          "title": "Do Words Matter? What Text Contributes to Few and Full-Shot Vision-Language Anomaly Detection",
-          "summary": "Vision-language anomaly detectors describe normal and abnormal appearance with text, and their gains are commonly credited to the semantic content of these descriptions. This attribution is plausible in the zero-shot set...",
-          "authors": "Arda Baris Basaran, Mesut Ceylan et al.",
-          "published": "2026-10-25",
-          "link": "http://arxiv.org/pdf/2610.34610v1",
-          "category": "CoWoS Packaging"
         }
       ],
       "news": [
         {
-          "title": "Vertiv Holdings Co (VRT) Debuts PowerNexus MV UPS For AI Data Centers",
-          "link": "https://finance.yahoo.com/technology/ai/articles/vertiv-holdings-co-vrt-debuts-211154957.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12"
+          "title": "Why Should Vertiv Stock Holders Keep Watching This Number?",
+          "link": "https://www.trefis.com/stock/vrt/articles/624934/why-should-vertiv-stock-holders-keep-watching-this-number/2026-11-13",
+          "publisher": "Trefis",
+          "published": "2026-11-13"
         },
         {
-          "title": "GE Vernova Sinks 12%, Vertiv Down 12% in a Week as Data Center Backlash Hits AI Power",
-          "link": "https://www.tikr.com/blog/ge-vernova-sinks-13-vertiv-down-18-in-a-week-as-data-center-backlash-hits-ai-power?ref=yahoofinance&tlnk=yf-261112-76q6wcw2",
+          "title": "HSBC Says Buy the Dip in These 11 Stocks -- Alphabet and Oracle Top the List",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-says-buy-dip-11-185515397.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-13"
+        },
+        {
+          "title": "Samsung Wants to Buy an American AI Data Center Cooling Company",
+          "link": "https://247wallst.com/investing/2026/11/13/samsung-wants-to-buy-an-american-ai-data-center-cooling-company/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-13"
+        },
+        {
+          "title": "Bloom Energy Soars 13%, Vertiv Up 14% in a Week as Data-Center Fears Ease",
+          "link": "https://www.tikr.com/blog/bloom-energy-soars-21-vertiv-up-19-in-a-week-as-data-center-fears-ease?ref=yahoofinance&tlnk=yf-261113-vhvqpm7w",
           "publisher": "TIKR",
-          "published": "2026-11-12"
-        },
-        {
-          "title": "Bloom Energy Has Found an Unexpected Customer: AI",
-          "link": "https://247wallst.com/investing/2026/11/12/bloom-energy-has-found-an-unexpected-customer-ai/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-12"
-        },
-        {
-          "title": "Smaller AI Spending Forecasts, Sold-Out Computing Power: Both Can Be True",
-          "link": "https://247wallst.com/investing/2026/11/12/smaller-ai-spending-forecasts-sold-out-computing-power-both-can-be-true/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-12"
+          "published": "2026-11-13"
         }
       ]
     },
@@ -790,71 +790,71 @@
           312.0
         ]
       },
-      "price": 523.0,
-      "market_cap_b": 3883.9,
+      "price": 523.88,
+      "market_cap_b": 3890.4,
       "revenue_yoy": 18.8,
       "gross_margin": 67.7,
       "operating_margin": 47.1,
       "fcf_b": 2.99,
       "debt_to_ebitda": 0.65,
-      "market_cap_usd_b": 3883.9,
+      "market_cap_usd_b": 3890.4,
       "arxiv_papers": [
         {
-          "title": "Sparse, admissible and interpretable: discovery of isotropic limit surfaces with extended invariant libraries, physically gated mixtures of experts, and end-to-end structural identification",
-          "summary": "Choosing and fitting a limit surface, a yield or failure criterion, to multiaxial strength tests is a model-selection problem with physical side conditions. The equivalent stress concept provides a catalogue of criteria ...",
-          "authors": "Michael A. Kraus",
-          "published": "2026-11-11",
-          "link": "http://arxiv.org/pdf/2611.15476v1",
+          "title": "Broadcast, Don't Replicate: Eliminating Weight HBM in Datacenter LLM Serving",
+          "summary": "Large language model (LLM) inference at datacenter scale is fundamentally bottlenecked by memory capacity and bandwidth limits. Because model weights are read-only and identical across instances, conventional architectur...",
+          "authors": "Hannah Atmer, Yuan Yao et al.",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.17097v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Vision-Grounded Semantic Learning and Alignment for Scalable Multilingual Text-Based Person Retrieval",
-          "summary": "Multilingual Text-Based Person Retrieval (TBPR) aims to retrieve individuals with texts in multiple languages. Despite its practical importance, it has been overlooked by existing research, which mainly focuses on Englis...",
-          "authors": "Xinyu Zhou, Fan Li et al.",
-          "published": "2026-11-11",
-          "link": "http://arxiv.org/pdf/2611.15328v1",
+          "title": "Lara Mini Base: Language Diversity as a Resource, Not a Trade-off",
+          "summary": "General-purpose language models are trained mostly on English: over open models we review, at most, non-English pretraining data makes up only a 12% share. Models built for European languages give them far more, but scor...",
+          "authors": "Translated, Maria Pia Adinolfi et al.",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.16956v1",
           "category": "LLM MoE"
         },
         {
-          "title": "MoE Pretraining:Parallelism Layout Changes the Model, Not Quality",
-          "summary": "Large Mixture-of-Experts (MoE) models are trained across many machines, and the way the work is split, the parallelism layout, often changes between runs: a job resumes on a different GPU count, a cluster is resized, or ...",
-          "authors": "Esther Xin",
-          "published": "2026-11-11",
-          "link": "http://arxiv.org/pdf/2611.15271v1",
+          "title": "Indic-Task Gains and Regressions after Reinforcement Learning",
+          "summary": "We run reinforcement learning (RL) with GRPO across four environments, starting from a supervised fine-tuned 30B-A3B mixture-of-experts model covering English and eight Indic languages. We compare the model before and af...",
+          "authors": "Sutanshu Saksena Raj, Daksh Maan et al.",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.16228v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Towards Robust Vision-Language Reasoning: A Multi-Stage Optimization Pipeline with Masked Diffusion Model",
-          "summary": "Discrete diffusion generation is emerging as a competitive alternative to autoregressive generation by denoising the entire token sequence through iterative refinement. Its global planning and progressive correction capa...",
-          "authors": "Shunming Liu, Pei Huang et al.",
-          "published": "2026-11-11",
-          "link": "http://arxiv.org/pdf/2611.15238v1",
+          "title": "GC-MoE on SM120: Overlapping Expert-Parallel Token Dispatch with Warp-Level FP8xFP4 Block-Scaled MMA on Consumer Blackwell",
+          "summary": "Expert-parallel Mixture-of-Experts decoding is latency bound: each layer serializes a token exchange, a grouped GEMM over routed experts, and a combine, while only a few tokens per rank are in flight. Prior GC-MoE fused ...",
+          "authors": "Yong Li, Haoyu Wang et al.",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.16219v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "Microsoft outage disrupts Outlook, Teams, and Copilot for users 'in any region'",
-          "link": "https://finance.yahoo.com/markets/article/microsoft-outage-disrupts-outlook-teams-and-copilot-for-users-in-any-region-212333470.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-12"
-        },
-        {
-          "title": "Bill Ackman says Microsoft's position is 'really, really strong' as Anthropic pushes into enterprise software",
-          "link": "https://finance.yahoo.com/markets/stocks/article/bill-ackman-says-microsofts-position-is-really-really-strong-as-anthropic-pushes-into-enterprise-software-223817595.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-12"
-        },
-        {
-          "title": "Why Bill Ackman sees value in Microsoft",
-          "link": "https://finance.yahoo.com/video/why-bill-ackman-sees-value-in-microsoft-221331615.html",
+          "title": "Cerebras stock surges on Microsoft deal: What it means for Nvidia",
+          "link": "https://finance.yahoo.com/video/cerebras-stock-surges-on-microsoft-deal-what-it-means-for-nvidia-213123807.html",
           "publisher": "Yahoo Finance Video",
+          "published": "2026-11-13"
+        },
+        {
+          "title": "Microsoft continues to restore Outlook email after outage, rules out 'cyber or AI' agents",
+          "link": "https://finance.yahoo.com/markets/article/microsoft-continues-to-restore-outlook-email-after-outage-rules-out-cyber-or-ai-agents-193042673.html",
+          "publisher": "Yahoo Finance",
           "published": "2026-11-12"
         },
         {
-          "title": "Dow, S&P 500, Nasdaq Futures Edge Higher As Markets Attempt To Recover From Nvidia Rout: SLS, MSFT, CADL, MSTR In Focus",
-          "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-higher-as-markets-attempt-to-recover-from-nvidia-rout-sls-msft-cadl-mstr-in-focus/cNbb8QDR9OW",
-          "publisher": "Stocktwits",
+          "title": "Microsoft's latest outage hit Outlook and Copilot — what it means for your email",
+          "link": "https://finance.yahoo.com/markets/article/microsofts-latest-outage-hit-outlook-and-copilot--what-it-means-for-your-email-190121806.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-13"
+        },
+        {
+          "title": "Why Billionaire investor Bill Ackman isn't touching Anthropic",
+          "link": "https://finance.yahoo.com/video/why-billionaire-investor-bill-ackman-isnt-touching-anthropic-160942568.html",
+          "publisher": "Yahoo Finance Video",
           "published": "2026-11-13"
         }
       ]
@@ -918,72 +918,72 @@
           92.4
         ]
       },
-      "price": 298.7,
-      "market_cap_b": 3672.2,
+      "price": 295.77,
+      "market_cap_b": 3636.2,
       "revenue_yoy": 24.7,
       "gross_margin": 60.9,
       "operating_margin": 33.3,
       "fcf_b": -1.16,
       "debt_to_ebitda": 0.81,
-      "market_cap_usd_b": 3672.2,
+      "market_cap_usd_b": 3636.2,
       "arxiv_papers": [
         {
-          "title": "Sparse, admissible and interpretable: discovery of isotropic limit surfaces with extended invariant libraries, physically gated mixtures of experts, and end-to-end structural identification",
-          "summary": "Choosing and fitting a limit surface, a yield or failure criterion, to multiaxial strength tests is a model-selection problem with physical side conditions. The equivalent stress concept provides a catalogue of criteria ...",
-          "authors": "Michael A. Kraus",
-          "published": "2026-11-11",
-          "link": "http://arxiv.org/pdf/2611.15476v1",
+          "title": "Broadcast, Don't Replicate: Eliminating Weight HBM in Datacenter LLM Serving",
+          "summary": "Large language model (LLM) inference at datacenter scale is fundamentally bottlenecked by memory capacity and bandwidth limits. Because model weights are read-only and identical across instances, conventional architectur...",
+          "authors": "Hannah Atmer, Yuan Yao et al.",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.17097v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Vision-Grounded Semantic Learning and Alignment for Scalable Multilingual Text-Based Person Retrieval",
-          "summary": "Multilingual Text-Based Person Retrieval (TBPR) aims to retrieve individuals with texts in multiple languages. Despite its practical importance, it has been overlooked by existing research, which mainly focuses on Englis...",
-          "authors": "Xinyu Zhou, Fan Li et al.",
-          "published": "2026-11-11",
-          "link": "http://arxiv.org/pdf/2611.15328v1",
+          "title": "Lara Mini Base: Language Diversity as a Resource, Not a Trade-off",
+          "summary": "General-purpose language models are trained mostly on English: over open models we review, at most, non-English pretraining data makes up only a 12% share. Models built for European languages give them far more, but scor...",
+          "authors": "Translated, Maria Pia Adinolfi et al.",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.16956v1",
           "category": "LLM MoE"
         },
         {
-          "title": "MoE Pretraining:Parallelism Layout Changes the Model, Not Quality",
-          "summary": "Large Mixture-of-Experts (MoE) models are trained across many machines, and the way the work is split, the parallelism layout, often changes between runs: a job resumes on a different GPU count, a cluster is resized, or ...",
-          "authors": "Esther Xin",
-          "published": "2026-11-11",
-          "link": "http://arxiv.org/pdf/2611.15271v1",
+          "title": "Indic-Task Gains and Regressions after Reinforcement Learning",
+          "summary": "We run reinforcement learning (RL) with GRPO across four environments, starting from a supervised fine-tuned 30B-A3B mixture-of-experts model covering English and eight Indic languages. We compare the model before and af...",
+          "authors": "Sutanshu Saksena Raj, Daksh Maan et al.",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.16228v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Towards Robust Vision-Language Reasoning: A Multi-Stage Optimization Pipeline with Masked Diffusion Model",
-          "summary": "Discrete diffusion generation is emerging as a competitive alternative to autoregressive generation by denoising the entire token sequence through iterative refinement. Its global planning and progressive correction capa...",
-          "authors": "Shunming Liu, Pei Huang et al.",
-          "published": "2026-11-11",
-          "link": "http://arxiv.org/pdf/2611.15238v1",
+          "title": "GC-MoE on SM120: Overlapping Expert-Parallel Token Dispatch with Warp-Level FP8xFP4 Block-Scaled MMA on Consumer Blackwell",
+          "summary": "Expert-parallel Mixture-of-Experts decoding is latency bound: each layer serializes a token exchange, a grouped GEMM over routed experts, and a combine, while only a few tokens per rank are in flight. Prior GC-MoE fused ...",
+          "authors": "Yong Li, Haoyu Wang et al.",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.16219v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "Should You Buy Alphabet Stock Now That Google Will Let Customers Run Its AI Chips in Their Own Data Centers?",
-          "link": "https://www.fool.com/investing/2026/11/12/should-you-buy-alphabet-stock-now-that-google-will-let-customers-run-its-ai-chips-in-their-own-data-centers/",
+          "title": "California Voters Pass Ban on Wealth Taxes",
+          "link": "https://www.wsj.com/politics/california-voters-pass-ban-on-wealth-taxes-a045b6c1?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-14"
+        },
+        {
+          "title": "Booking Holdings vs. GameStop: Which Consumer Stock Is a Better Buy for 2027?",
+          "link": "https://www.fool.com/coverage/better-buy/2026/11/13/booking-holdings-vs-gamestop-which-consumer-stock-is-a-better-buy-for-2027/",
           "publisher": "Motley Fool",
+          "published": "2026-11-14"
+        },
+        {
+          "title": "Walmart, Target, and Nvidia Headline a Pivotal Week for Q3 Earnings",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-target-nvidia-headline-pivotal-230000146.html",
+          "publisher": "Zacks",
           "published": "2026-11-13"
         },
         {
-          "title": "TeraWulf Stock Fell 24% in a Month. Lucid Capital Still Sees 67% Upside",
-          "link": "https://www.tikr.com/blog/terawulf-stock-fell-24-in-a-month-lucid-capital-still-sees-67-upside?ref=yahoofinance&tlnk=yf-261112-6xjf7mcf",
-          "publisher": "TIKR",
+          "title": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
+          "link": "https://finance.yahoo.com/video/nvidias-competitors-pounce-and-what-gpu-rental-prices-say-about-the-ai-race-221551379.html",
+          "publisher": "Yahoo Finance Video",
           "published": "2026-11-13"
-        },
-        {
-          "title": "Your Customers Are Asking AI About Your Company. Here’s How to Audit What It Says.",
-          "link": "https://www.entrepreneur.com/business-news/your-customers-are-asking-ai-about-your-company-heres-how-to-audit-what-it-says",
-          "publisher": "Entrepreneur",
-          "published": "2026-11-13"
-        },
-        {
-          "title": "Alphabet Draws $5 Billion in Orders as AI Frenzy Builds",
-          "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-draws-5-billion-orders-230559734.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-12"
         }
       ]
     },
@@ -1046,14 +1046,14 @@
           171.5
         ]
       },
-      "price": 267.44,
-      "market_cap_b": 2891.9,
+      "price": 266.66,
+      "market_cap_b": 2883.4,
       "revenue_yoy": 12.1,
       "gross_margin": 51.4,
       "operating_margin": 13.1,
       "fcf_b": -34.73,
       "debt_to_ebitda": 1.66,
-      "market_cap_usd_b": 2891.9,
+      "market_cap_usd_b": 2883.4,
       "arxiv_papers": [
         {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
@@ -1090,28 +1090,28 @@
       ],
       "news": [
         {
-          "title": "LiveOne Inc (LVO) (Q2 2027) Earnings Call Highlights: Record EBITDA, Major B2B Partnerships and ...",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/liveone-inc-lvo-q2-2027-010439618.html",
-          "publisher": "GuruFocus.com",
+          "title": "What It Takes to Get Your Wings Delivered During a Football Game—Fast and Hot",
+          "link": "https://www.wsj.com/business/wingstop-aws-digital-ordering-8e4567d1?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-14"
+        },
+        {
+          "title": "Walmart, Target, and Nvidia Headline a Pivotal Week for Q3 Earnings",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-target-nvidia-headline-pivotal-230000146.html",
+          "publisher": "Zacks",
           "published": "2026-11-13"
         },
         {
-          "title": "PwC spots a major shift in retirement money",
-          "link": "https://www.thestreet.com/retirement/pwc-pension-funds-ai-investments",
-          "publisher": "TheStreet",
+          "title": "FRMI Stock Clocks Best Day Ever After Report Names Amazon As Project Matador Customer",
+          "link": "https://stocktwits.com/news-articles/markets/equity/frmi-stock-clocks-best-day-ever-after-report-names-amazon-as-project-matador-customer/cNbRKIiR9Qc",
+          "publisher": "Stocktwits",
           "published": "2026-11-13"
         },
         {
-          "title": "Cerebras Adds Microsoft Partnership to Diversify Beyond OpenAI",
-          "link": "https://www.barrons.com/articles/cerebras-earnings-stock-price-3bad09cc?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-12"
-        },
-        {
-          "title": "e.l.f. Beauty vs. lululemon athletica: Which Consumer Goods Stock Is a Better Buy for 2027?",
-          "link": "https://www.fool.com/coverage/better-buy/2026/11/12/elf-beauty-vs-lululemon-athletica-which-consumer-goods-stock-is-a-better-buy-for-2027/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-12"
+          "title": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
+          "link": "https://finance.yahoo.com/video/nvidias-competitors-pounce-and-what-gpu-rental-prices-say-about-the-ai-race-221551379.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-13"
         }
       ]
     },
@@ -1174,14 +1174,14 @@
           108.0
         ]
       },
-      "price": 127.11,
-      "market_cap_b": 396.3,
+      "price": 125.35,
+      "market_cap_b": 390.8,
       "revenue_yoy": 29.6,
       "gross_margin": 64.0,
       "operating_margin": 34.3,
       "fcf_b": -45.85,
       "debt_to_ebitda": 4.91,
-      "market_cap_usd_b": 396.3,
+      "market_cap_usd_b": 390.8,
       "arxiv_papers": [
         {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
@@ -1218,28 +1218,28 @@
       ],
       "news": [
         {
-          "title": "5 Best AI Stocks to Buy After Wells Fargo’s Outlook Upgrade",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-ai-stocks-buy-231428418.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-12"
+          "title": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
+          "link": "https://finance.yahoo.com/video/nvidias-competitors-pounce-and-what-gpu-rental-prices-say-about-the-ai-race-221551379.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-13"
         },
         {
-          "title": "Cerebras Adds Microsoft Partnership to Diversify Beyond OpenAI",
-          "link": "https://www.barrons.com/articles/cerebras-earnings-stock-price-3bad09cc?siteid=yhoof2&yptr=yahoo",
+          "title": "With Nvidia Floundering, AI Bulls Need More Than Spending. Watch Revenue.",
+          "link": "https://www.barrons.com/articles/nvidia-floundering-ai-bulls-4173db07?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
-          "published": "2026-11-12"
+          "published": "2026-11-13"
         },
         {
-          "title": "AI Chipmaker Cerebras Tops Q3 Views, Adds Big Customers",
-          "link": "https://www.investors.com/news/technology/cerebras-stock-cbrs-q3-2026-earnings/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-12"
+          "title": "5 Multibagger Stocks to Buy According to Wall Street",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/5-multibagger-stocks-buy-according-213206089.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-13"
         },
         {
-          "title": "AI Debt Binge Hits a Wall As Global Bond Markets Reach Saturation Point, Wells Fargo Warns",
-          "link": "https://stocktwits.com/news-articles/markets/equity/ai-debt-binge-hits-a-wall-as-global-bond-markets-reach-saturation-point-wells-fargo-warns/cNGC7rER9OP",
-          "publisher": "Stocktwits",
-          "published": "2026-11-12"
+          "title": "Cerebras stock surges on Microsoft deal: What it means for Nvidia",
+          "link": "https://finance.yahoo.com/video/cerebras-stock-surges-on-microsoft-deal-what-it-means-for-nvidia-213123807.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-13"
         }
       ]
     },
@@ -1302,72 +1302,72 @@
           4.9
         ]
       },
-      "price": 171.58,
-      "market_cap_b": 413.4,
+      "price": 167.99,
+      "market_cap_b": 404.8,
       "revenue_yoy": 95.9,
       "gross_margin": 84.7,
       "operating_margin": 45.6,
       "fcf_b": 2.65,
       "debt_to_ebitda": 0.07,
-      "market_cap_usd_b": 413.4,
+      "market_cap_usd_b": 404.8,
       "arxiv_papers": [
         {
-          "title": "Sparse, admissible and interpretable: discovery of isotropic limit surfaces with extended invariant libraries, physically gated mixtures of experts, and end-to-end structural identification",
-          "summary": "Choosing and fitting a limit surface, a yield or failure criterion, to multiaxial strength tests is a model-selection problem with physical side conditions. The equivalent stress concept provides a catalogue of criteria ...",
-          "authors": "Michael A. Kraus",
-          "published": "2026-11-11",
-          "link": "http://arxiv.org/pdf/2611.15476v1",
+          "title": "Broadcast, Don't Replicate: Eliminating Weight HBM in Datacenter LLM Serving",
+          "summary": "Large language model (LLM) inference at datacenter scale is fundamentally bottlenecked by memory capacity and bandwidth limits. Because model weights are read-only and identical across instances, conventional architectur...",
+          "authors": "Hannah Atmer, Yuan Yao et al.",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.17097v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Vision-Grounded Semantic Learning and Alignment for Scalable Multilingual Text-Based Person Retrieval",
-          "summary": "Multilingual Text-Based Person Retrieval (TBPR) aims to retrieve individuals with texts in multiple languages. Despite its practical importance, it has been overlooked by existing research, which mainly focuses on Englis...",
-          "authors": "Xinyu Zhou, Fan Li et al.",
-          "published": "2026-11-11",
-          "link": "http://arxiv.org/pdf/2611.15328v1",
+          "title": "Lara Mini Base: Language Diversity as a Resource, Not a Trade-off",
+          "summary": "General-purpose language models are trained mostly on English: over open models we review, at most, non-English pretraining data makes up only a 12% share. Models built for European languages give them far more, but scor...",
+          "authors": "Translated, Maria Pia Adinolfi et al.",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.16956v1",
           "category": "LLM MoE"
         },
         {
-          "title": "MoE Pretraining:Parallelism Layout Changes the Model, Not Quality",
-          "summary": "Large Mixture-of-Experts (MoE) models are trained across many machines, and the way the work is split, the parallelism layout, often changes between runs: a job resumes on a different GPU count, a cluster is resized, or ...",
-          "authors": "Esther Xin",
-          "published": "2026-11-11",
-          "link": "http://arxiv.org/pdf/2611.15271v1",
+          "title": "Indic-Task Gains and Regressions after Reinforcement Learning",
+          "summary": "We run reinforcement learning (RL) with GRPO across four environments, starting from a supervised fine-tuned 30B-A3B mixture-of-experts model covering English and eight Indic languages. We compare the model before and af...",
+          "authors": "Sutanshu Saksena Raj, Daksh Maan et al.",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.16228v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Towards Robust Vision-Language Reasoning: A Multi-Stage Optimization Pipeline with Masked Diffusion Model",
-          "summary": "Discrete diffusion generation is emerging as a competitive alternative to autoregressive generation by denoising the entire token sequence through iterative refinement. Its global planning and progressive correction capa...",
-          "authors": "Shunming Liu, Pei Huang et al.",
-          "published": "2026-11-11",
-          "link": "http://arxiv.org/pdf/2611.15238v1",
+          "title": "GC-MoE on SM120: Overlapping Expert-Parallel Token Dispatch with Warp-Level FP8xFP4 Block-Scaled MMA on Consumer Blackwell",
+          "summary": "Expert-parallel Mixture-of-Experts decoding is latency bound: each layer serializes a token exchange, a grouped GEMM over routed experts, and a combine, while only a few tokens per rank are in flight. Prior GC-MoE fused ...",
+          "authors": "Yong Li, Haoyu Wang et al.",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.16219v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "IPO Edge NYSE Firesides Scheduled for Monday, December 7",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/ipo-edge-nyse-firesides-scheduled-222131276.html",
-          "publisher": "IPO-Edge.com",
-          "published": "2026-11-12"
+          "title": "PLTR's Rule of 40 Hits 158%: Can This Momentum Continue?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/pltrs-rule-40-hits-158-174000798.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13"
         },
         {
-          "title": "Drone Maker Ondas Updates Its Profitability Forecast as Revenue Surges 1,558%",
-          "link": "https://www.barrons.com/articles/ondas-earnings-stock-price-palantir-240cf71c?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-12"
+          "title": "The Same $10,000 in Nvidia and Palantir Could Produce Very Different Results by 2030",
+          "link": "https://247wallst.com/investing/2026/11/13/the-same-10000-in-nvidia-and-palantir-could-produce-very-different-results-by-2030/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-13"
         },
         {
-          "title": "Defense Tech: Investors and Operators, 6th Palm Beach CorpGov Forum",
-          "link": "https://finance.yahoo.com/technology/articles/defense-tech-investors-operators-6th-181202789.html",
-          "publisher": "CorpGov.com",
-          "published": "2026-11-12"
+          "title": "Cathie Wood Is Buying the CoreWeave Dip and Selling Palantir",
+          "link": "https://247wallst.com/investing/2026/11/13/cathie-wood-is-buying-the-coreweave-dip-and-selling-palantir/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-13"
         },
         {
-          "title": "Palantir (PLTR) Faces A European Rival In Defense AI",
-          "link": "https://finance.yahoo.com/technology/ai/articles/palantir-pltr-faces-european-rival-180906023.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12"
+          "title": "He Wants Anthropic in His S&P 500 401(k) as Soon as It Goes Public. One Index Rule Could Keep It Out for at Least 12 Months. Even Then, His Fund May Never Own It",
+          "link": "https://247wallst.com/personal-finance/2026/11/13/he-wants-anthropic-in-his-sp-500-401k-as-soon-as-it-goes-public-one-index-rule-could-keep-it-out-for-at-least-12-months-even-then-his-fund-may-never-own-it/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-13"
         }
       ]
     },
@@ -1430,15 +1430,23 @@
           2600.0
         ]
       },
-      "price": 2365.0,
-      "market_cap_b": 61330.0,
+      "price": 2350.0,
+      "market_cap_b": 60941.1,
       "revenue_yoy": 50.9,
       "gross_margin": 65.8,
       "operating_margin": 58.0,
       "fcf_b": 1203.07,
       "debt_to_ebitda": 0.23,
-      "market_cap_usd_b": 1916.6,
+      "market_cap_usd_b": 1904.4,
       "arxiv_papers": [
+        {
+          "title": "Starscream: Reimagining LLM Sharding on AMD Instinct GPUs with GPU Partitioning",
+          "summary": "As GPU accelerators grow larger to meet rising compute demands, they exhibit increasingly pronounced non-uniform memory access (NUMA) characteristics that challenge existing LLM frameworks. Chiplet-based architectures pr...",
+          "authors": "Sumanth Gudaparthi, Smeet Chheda et al.",
+          "published": "2026-11-11",
+          "link": "http://arxiv.org/pdf/2611.15951v1",
+          "category": "CoWoS Packaging"
+        },
         {
           "title": "Beyond Host-Side Control: HBM Controller Partitioning Across Host and HBM Base Dies",
           "summary": "Recent generations of high bandwidth memory (HBM), such as HBM4, allow the base die of the memory stack to be manufactured using a logic process that can accommodate more complex controller functions next to the DRAM. We...",
@@ -1462,40 +1470,32 @@
           "published": "2026-10-26",
           "link": "http://arxiv.org/pdf/2610.34911v1",
           "category": "CoWoS Packaging"
-        },
-        {
-          "title": "Do Words Matter? What Text Contributes to Few and Full-Shot Vision-Language Anomaly Detection",
-          "summary": "Vision-language anomaly detectors describe normal and abnormal appearance with text, and their gains are commonly credited to the semantic content of these descriptions. This attribution is plausible in the zero-shot set...",
-          "authors": "Arda Baris Basaran, Mesut Ceylan et al.",
-          "published": "2026-10-25",
-          "link": "http://arxiv.org/pdf/2610.34610v1",
-          "category": "CoWoS Packaging"
         }
       ],
       "news": [
         {
-          "title": "Bernstein’s Mark Li Raised His Taiwan Semiconductor Manufacturing (TSM) Target to $600. Here’s What Changed",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-mark-li-raised-taiwan-231139059.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-12"
+          "title": "Nvidia Has Real Problems—but Don’t Fall For Fear Mongering",
+          "link": "https://www.barrons.com/articles/nvidia-balance-sheet-math-f210c291?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-13"
         },
         {
-          "title": "Here’s Why Bernstein’s Mark Li Is Raising His Price Target on TSMC (TSM) to $600",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-bernstein-mark-li-raising-223454329.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-12"
+          "title": "Thierry Borgeat Says Chip Stocks Peak Every Two Years. His Chart Points to Another Top",
+          "link": "https://247wallst.com/investing/2026/11/13/thierry-borgeat-says-chip-stocks-peak-every-two-years-his-chart-points-to-another-top/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-13"
         },
         {
-          "title": "Prediction: $500 a Month Invested in Taiwan Semiconductor Manufacturing Will Be Worth This Much by 2030",
-          "link": "https://www.fool.com/investing/2026/11/12/prediction-500-a-month-invested-in-hot-ticker-will/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-12"
+          "title": "Nvidia stock slips as investors digest CEO exit, broader chip sell-off accelerates",
+          "link": "https://finance.yahoo.com/markets/article/nvidia-stock-slips-as-investors-digest-ceo-exit-rest-of-chip-sector-falls-144818245.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-13"
         },
         {
-          "title": "‘That Nvidia guarantee is not worth what it was worth a week ago’: What Jensen Huang’s exit means for neoclouds",
-          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-guarantee-not-worth-worth-211525178.html",
-          "publisher": "Fortune",
-          "published": "2026-11-12"
+          "title": "'Nothing has changed': Why some Nvidia stock bulls aren't wavering after Jensen Huang ouster",
+          "link": "https://finance.yahoo.com/technology/article/nothing-has-changed-why-some-nvidia-stock-bulls-arent-wavering-after-jensen-huang-ouster-204522204.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-13"
         }
       ]
     },
@@ -1558,14 +1558,14 @@
           75.0
         ]
       },
-      "price": 4040.0,
-      "market_cap_b": 348.9,
+      "price": 4020.0,
+      "market_cap_b": 347.1,
       "revenue_yoy": 296.5,
       "gross_margin": 26.9,
       "operating_margin": 18.4,
       "fcf_b": -21.0,
       "debt_to_ebitda": 0.03,
-      "market_cap_usd_b": 10.9,
+      "market_cap_usd_b": 10.8,
       "arxiv_papers": [
         {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
@@ -1686,15 +1686,23 @@
           150.0
         ]
       },
-      "price": 1530.0,
-      "market_cap_b": 855.1,
-      "revenue_yoy": 57.6,
-      "gross_margin": 18.7,
-      "operating_margin": 13.7,
-      "fcf_b": 3.02,
-      "debt_to_ebitda": 0.21,
-      "market_cap_usd_b": 26.7,
+      "price": 1520.0,
+      "market_cap_b": 849.5,
+      "revenue_yoy": 65.5,
+      "gross_margin": 18.6,
+      "operating_margin": 13.8,
+      "fcf_b": -24.14,
+      "debt_to_ebitda": 0.39,
+      "market_cap_usd_b": 26.5,
       "arxiv_papers": [
+        {
+          "title": "Inverse Design of an On-chip Phase-Change Switch Composed of Sparse Heterogeneous Metasurfaces",
+          "summary": "Photonic switches are exploited for optical signal routing and control within optical communication systems. The integration of phase change materials with silicon photonic switches overcomes the drawbacks of the state-o...",
+          "authors": "Sanaz Zarei",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.16863v1",
+          "category": "Silicon Photonics"
+        },
         {
           "title": "Silicon and silicon nitride photonic ring resonator arrays for photonic trimming metrology",
           "summary": "Proposed silicon on silicon oxide 4x4 matrix multiplier for use in refractive index measurements, based on the Advanced Micro Foundry deep ultraviolet process. Agreement between simulated spectra and analytic design spec...",
@@ -1717,14 +1725,6 @@
           "authors": "Qingyang Mo, Jiacheng Sun et al.",
           "published": "2026-11-05",
           "link": "http://arxiv.org/pdf/2611.07594v1",
-          "category": "Silicon Photonics"
-        },
-        {
-          "title": "From Fabrication Disorder to Quantum-Protocol Yield in Inverse-Designed Silicon Photonic Beam Splitters",
-          "summary": "Telecom-band silicon spin-photon qubits offer a promising platform for scalable quantum networks and distributed information processing, but their fixed emission wavelengths require compact, low-loss beam splitters with ...",
-          "authors": "Nail Letty, Tahmeed Ul Islam et al.",
-          "published": "2026-11-01",
-          "link": "http://arxiv.org/pdf/2611.02209v1",
           "category": "Silicon Photonics"
         }
       ],
@@ -1814,14 +1814,14 @@
           440.0
         ]
       },
-      "price": 1625.0,
-      "market_cap_b": 949.0,
+      "price": 1635.0,
+      "market_cap_b": 954.9,
       "revenue_yoy": 62.9,
       "gross_margin": 8.3,
       "operating_margin": 6.8,
       "fcf_b": -88.8,
       "debt_to_ebitda": 2.06,
-      "market_cap_usd_b": 29.7,
+      "market_cap_usd_b": 29.8,
       "arxiv_papers": [
         {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
@@ -1942,15 +1942,23 @@
           1380.0
         ]
       },
-      "price": 238.5,
-      "market_cap_b": 3356.7,
+      "price": 241.0,
+      "market_cap_b": 3391.9,
       "revenue_yoy": 40.8,
       "gross_margin": 6.1,
       "operating_margin": 3.5,
       "fcf_b": -182.3,
       "debt_to_ebitda": 3.23,
-      "market_cap_usd_b": 104.9,
+      "market_cap_usd_b": 106.0,
       "arxiv_papers": [
+        {
+          "title": "Starscream: Reimagining LLM Sharding on AMD Instinct GPUs with GPU Partitioning",
+          "summary": "As GPU accelerators grow larger to meet rising compute demands, they exhibit increasingly pronounced non-uniform memory access (NUMA) characteristics that challenge existing LLM frameworks. Chiplet-based architectures pr...",
+          "authors": "Sumanth Gudaparthi, Smeet Chheda et al.",
+          "published": "2026-11-11",
+          "link": "http://arxiv.org/pdf/2611.15951v1",
+          "category": "CoWoS Packaging"
+        },
         {
           "title": "Beyond Host-Side Control: HBM Controller Partitioning Across Host and HBM Base Dies",
           "summary": "Recent generations of high bandwidth memory (HBM), such as HBM4, allow the base die of the memory stack to be manufactured using a logic process that can accommodate more complex controller functions next to the DRAM. We...",
@@ -1974,17 +1982,21 @@
           "published": "2026-10-26",
           "link": "http://arxiv.org/pdf/2610.34911v1",
           "category": "CoWoS Packaging"
-        },
-        {
-          "title": "Do Words Matter? What Text Contributes to Few and Full-Shot Vision-Language Anomaly Detection",
-          "summary": "Vision-language anomaly detectors describe normal and abnormal appearance with text, and their gains are commonly credited to the semantic content of these descriptions. This attribution is plausible in the zero-shot set...",
-          "authors": "Arda Baris Basaran, Mesut Ceylan et al.",
-          "published": "2026-10-25",
-          "link": "http://arxiv.org/pdf/2610.34610v1",
-          "category": "CoWoS Packaging"
         }
       ],
       "news": [
+        {
+          "title": "'Nothing has changed': Why some Nvidia stock bulls aren't wavering after Jensen Huang ouster",
+          "link": "https://finance.yahoo.com/technology/article/nothing-has-changed-why-some-nvidia-stock-bulls-arent-wavering-after-jensen-huang-ouster-204522204.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-13"
+        },
+        {
+          "title": "Systena (TSE:2317) Stock Looks Cheap Based On Future Cash Flow",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/systena-tse-2317-stock-looks-131511519.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13"
+        },
         {
           "title": "Jensen Huang has a ‘rockstar’ reputation in Taiwan. Will it survive now that he’s out of Nvidia?",
           "link": "https://finance.yahoo.com/technology/articles/jensen-huang-rockstar-reputation-taiwan-152151482.html",
@@ -1995,18 +2007,6 @@
           "title": "Apple supplier Foxconn posts record profit, raises outlook",
           "link": "https://finance.yahoo.com/technology/ai/articles/apple-supplier-foxconn-posts-record-144830266.html",
           "publisher": "Investing.com",
-          "published": "2026-11-12"
-        },
-        {
-          "title": "Foxconn Stays Bullish After Robust Quarter, Cautious About AI Data-Center Outlook",
-          "link": "https://www.wsj.com/tech/foxconn-maintains-strong-earnings-growth-on-resilient-ai-tech-hardware-demand-3a05ddd5?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-12"
-        },
-        {
-          "title": "Foxconn Reports 34% Rise in Quarterly Profit to T$77.5 Billion, Expects Continued AI Demand",
-          "link": "https://investorshub.advfn.com/market-news/article/39863/foxconn-reports-34-rise-in-quarterly-profit-to-t77-5-billion-expects-continued-ai-demand",
-          "publisher": "InvestorsHub",
           "published": "2026-11-12"
         }
       ]
@@ -2070,14 +2070,14 @@
           810.0
         ]
       },
-      "price": 278.5,
-      "market_cap_b": 1141.7,
+      "price": 276.5,
+      "market_cap_b": 1133.5,
       "revenue_yoy": 125.2,
       "gross_margin": 5.1,
       "operating_margin": 3.2,
-      "fcf_b": -96.17,
-      "debt_to_ebitda": 3.03,
-      "market_cap_usd_b": 35.7,
+      "fcf_b": -95.05,
+      "debt_to_ebitda": 3.09,
+      "market_cap_usd_b": 35.4,
       "arxiv_papers": [
         {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
@@ -2198,15 +2198,23 @@
           78.0
         ]
       },
-      "price": 3050.0,
-      "market_cap_b": 1197.6,
+      "price": 3040.0,
+      "market_cap_b": 1193.7,
       "revenue_yoy": 51.8,
       "gross_margin": 30.8,
       "operating_margin": 25.5,
       "fcf_b": 32.25,
       "debt_to_ebitda": 0.7,
-      "market_cap_usd_b": 37.4,
+      "market_cap_usd_b": 37.3,
       "arxiv_papers": [
+        {
+          "title": "Starscream: Reimagining LLM Sharding on AMD Instinct GPUs with GPU Partitioning",
+          "summary": "As GPU accelerators grow larger to meet rising compute demands, they exhibit increasingly pronounced non-uniform memory access (NUMA) characteristics that challenge existing LLM frameworks. Chiplet-based architectures pr...",
+          "authors": "Sumanth Gudaparthi, Smeet Chheda et al.",
+          "published": "2026-11-11",
+          "link": "http://arxiv.org/pdf/2611.15951v1",
+          "category": "CoWoS Packaging"
+        },
         {
           "title": "Beyond Host-Side Control: HBM Controller Partitioning Across Host and HBM Base Dies",
           "summary": "Recent generations of high bandwidth memory (HBM), such as HBM4, allow the base die of the memory stack to be manufactured using a logic process that can accommodate more complex controller functions next to the DRAM. We...",
@@ -2230,14 +2238,6 @@
           "published": "2026-10-26",
           "link": "http://arxiv.org/pdf/2610.34911v1",
           "category": "CoWoS Packaging"
-        },
-        {
-          "title": "Do Words Matter? What Text Contributes to Few and Full-Shot Vision-Language Anomaly Detection",
-          "summary": "Vision-language anomaly detectors describe normal and abnormal appearance with text, and their gains are commonly credited to the semantic content of these descriptions. This attribution is plausible in the zero-shot set...",
-          "authors": "Arda Baris Basaran, Mesut Ceylan et al.",
-          "published": "2026-10-25",
-          "link": "http://arxiv.org/pdf/2610.34610v1",
-          "category": "CoWoS Packaging"
         }
       ],
       "news": [
@@ -2254,7 +2254,7 @@
           "published": "Mon, 09 Nov 2026"
         },
         {
-          "title": "Taiwan's Investigation Bureau Searches Xinzhuang Plant; Asia Vital Components and Fositek Say Operations, Finances Unaffected - BigGo Finance",
+          "title": "Taiwan's Investigation Bureau Searches Xinzhuang Plant; Asia Vital Components and Fositek Say Operations, Finances Unaffected - finance.biggo.com",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IYlZqejBfalMzYlFmQ3dmMEIyWExabzNjRTJJQjFnLUhjSGdnbmVLa2kyR3ZyM2NSVDRzX3oxVVllWGdjV1FHdVo5bV81S1RlOHFoZWh4QVhuY1I1MUxFdWQzeTFpM0VTZDJac0FxdkJ6V0NrNmc?oc=5",
           "publisher": "Google News",
           "published": "Wed, 07 Oct 2026"
@@ -2326,14 +2326,14 @@
           350.0
         ]
       },
-      "price": 1250.0,
-      "market_cap_b": 3246.9,
+      "price": 1240.0,
+      "market_cap_b": 3221.0,
       "revenue_yoy": 31.1,
       "gross_margin": 35.3,
       "operating_margin": 16.9,
       "fcf_b": 44.52,
       "debt_to_ebitda": 0.77,
-      "market_cap_usd_b": 101.5,
+      "market_cap_usd_b": 100.7,
       "arxiv_papers": [
         {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
@@ -2399,39 +2399,55 @@
   "arxiv_papers_by_category": {
     "LLM MoE": [
       {
-        "title": "Sparse, admissible and interpretable: discovery of isotropic limit surfaces with extended invariant libraries, physically gated mixtures of experts, and end-to-end structural identification",
-        "summary": "Choosing and fitting a limit surface, a yield or failure criterion, to multiaxial strength tests is a model-selection problem with physical side conditions. The equivalent stress concept provides a catalogue of criteria ...",
-        "authors": "Michael A. Kraus",
-        "published": "2026-11-11",
-        "link": "http://arxiv.org/pdf/2611.15476v1",
+        "title": "Broadcast, Don't Replicate: Eliminating Weight HBM in Datacenter LLM Serving",
+        "summary": "Large language model (LLM) inference at datacenter scale is fundamentally bottlenecked by memory capacity and bandwidth limits. Because model weights are read-only and identical across instances, conventional architectur...",
+        "authors": "Hannah Atmer, Yuan Yao et al.",
+        "published": "2026-11-12",
+        "link": "http://arxiv.org/pdf/2611.17097v1",
         "category": "LLM MoE"
       },
       {
-        "title": "Vision-Grounded Semantic Learning and Alignment for Scalable Multilingual Text-Based Person Retrieval",
-        "summary": "Multilingual Text-Based Person Retrieval (TBPR) aims to retrieve individuals with texts in multiple languages. Despite its practical importance, it has been overlooked by existing research, which mainly focuses on Englis...",
-        "authors": "Xinyu Zhou, Fan Li et al.",
-        "published": "2026-11-11",
-        "link": "http://arxiv.org/pdf/2611.15328v1",
+        "title": "Lara Mini Base: Language Diversity as a Resource, Not a Trade-off",
+        "summary": "General-purpose language models are trained mostly on English: over open models we review, at most, non-English pretraining data makes up only a 12% share. Models built for European languages give them far more, but scor...",
+        "authors": "Translated, Maria Pia Adinolfi et al.",
+        "published": "2026-11-12",
+        "link": "http://arxiv.org/pdf/2611.16956v1",
         "category": "LLM MoE"
       },
       {
-        "title": "MoE Pretraining:Parallelism Layout Changes the Model, Not Quality",
-        "summary": "Large Mixture-of-Experts (MoE) models are trained across many machines, and the way the work is split, the parallelism layout, often changes between runs: a job resumes on a different GPU count, a cluster is resized, or ...",
-        "authors": "Esther Xin",
-        "published": "2026-11-11",
-        "link": "http://arxiv.org/pdf/2611.15271v1",
+        "title": "Indic-Task Gains and Regressions after Reinforcement Learning",
+        "summary": "We run reinforcement learning (RL) with GRPO across four environments, starting from a supervised fine-tuned 30B-A3B mixture-of-experts model covering English and eight Indic languages. We compare the model before and af...",
+        "authors": "Sutanshu Saksena Raj, Daksh Maan et al.",
+        "published": "2026-11-12",
+        "link": "http://arxiv.org/pdf/2611.16228v1",
         "category": "LLM MoE"
       },
       {
-        "title": "Towards Robust Vision-Language Reasoning: A Multi-Stage Optimization Pipeline with Masked Diffusion Model",
-        "summary": "Discrete diffusion generation is emerging as a competitive alternative to autoregressive generation by denoising the entire token sequence through iterative refinement. Its global planning and progressive correction capa...",
-        "authors": "Shunming Liu, Pei Huang et al.",
-        "published": "2026-11-11",
-        "link": "http://arxiv.org/pdf/2611.15238v1",
+        "title": "GC-MoE on SM120: Overlapping Expert-Parallel Token Dispatch with Warp-Level FP8xFP4 Block-Scaled MMA on Consumer Blackwell",
+        "summary": "Expert-parallel Mixture-of-Experts decoding is latency bound: each layer serializes a token exchange, a grouped GEMM over routed experts, and a combine, while only a few tokens per rank are in flight. Prior GC-MoE fused ...",
+        "authors": "Yong Li, Haoyu Wang et al.",
+        "published": "2026-11-12",
+        "link": "http://arxiv.org/pdf/2611.16219v1",
         "category": "LLM MoE"
       }
     ],
     "Transformer & Attention": [
+      {
+        "title": "UniSpark: Exploring Hybrid Attention for Multimodal Understanding and Generation",
+        "summary": "We present UniSpark-9B, a unified multimodal model that investigates hybrid attention for visual understanding and generation. Built on a Mixture-of-Transformer-Experts backbone with approximately 9B parameters in each b...",
+        "authors": "Jiancheng Pan, Yuzheng Liu et al.",
+        "published": "2026-11-12",
+        "link": "http://arxiv.org/pdf/2611.16517v1",
+        "category": "Transformer & Attention"
+      },
+      {
+        "title": "KVPath: Connecting Key-Value Representations Across Transformer Layers",
+        "summary": "Transformers typically cache an independent key-value (KV) representation for each token at every layer. Recent work reveals that a token's KV representations across neighboring layers are correlated and contain shared i...",
+        "authors": "Xuan Luo, Zhiyuan Wang et al.",
+        "published": "2026-11-11",
+        "link": "http://arxiv.org/pdf/2611.16072v1",
+        "category": "Transformer & Attention"
+      },
       {
         "title": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
         "summary": "Deployment of retrieval-augmented generation (RAG) for Edge-AI is constrained by memory and bandwidth limitations. A standard 7B parameter model consumes 14 GB Video Random Access Memory (VRAM) in half-precision (FP16), ...",
@@ -2447,25 +2463,17 @@
         "published": "2026-11-10",
         "link": "http://arxiv.org/pdf/2611.14074v1",
         "category": "Transformer & Attention"
-      },
-      {
-        "title": "ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models",
-        "summary": "Foundation models pre-trained on large unlabeled electroencephalography (EEG) corpora have emerged as a transformative paradigm for Brain-Computer Interface (BCI) applications. Recent EEG foundation models have shown tha...",
-        "authors": "Minyu Zhou, Yajing Wu et al.",
-        "published": "2026-11-10",
-        "link": "http://arxiv.org/pdf/2611.14035v1",
-        "category": "Transformer & Attention"
-      },
-      {
-        "title": "Looping Deeper Without Growing the KV Cache: Recurrent Depth for Causal Encoder-Decoders",
-        "summary": "Looped language models deepen computation without adding parameters, yet caching full-context key-value (KV) states across layers and rounds severely bounds serving batch size. We design a looped causal encoder-decoder (...",
-        "authors": "Jiaqi Leng, Minshen Zhang et al.",
-        "published": "2026-11-09",
-        "link": "http://arxiv.org/pdf/2611.13378v1",
-        "category": "Transformer & Attention"
       }
     ],
     "RL & Test-Time Compute": [
+      {
+        "title": "Show Your Work in Swahili: Reinforcement Learning for Native-Language Mathematical Reasoning",
+        "summary": "We present Fikiria, a two-stage SFT+GRPO recipe for Swahili mathematical reasoning. Its reward multiplies a format gate by a weighted sum of answer accuracy and the ChrF\\texttt{++} similarity of the Swahili reasoning to ...",
+        "authors": "Jessica Lundin, Katherine Rosenfeld et al.",
+        "published": "2026-11-11",
+        "link": "http://arxiv.org/pdf/2611.16104v1",
+        "category": "RL & Test-Time Compute"
+      },
       {
         "title": "HyperSkill: Training-Free Omnimodal GRPO via Hypergraph-Indexed Skill-Library Evolution",
         "summary": "Reinforcement learning sharpens LLM reasoning, but parameter updates are expensive, forgetful, and opaque; training-free libraries swap gradients for a textual store but still use trajectory-level, correlation-based admi...",
@@ -2489,51 +2497,51 @@
         "published": "2026-11-10",
         "link": "http://arxiv.org/pdf/2611.13496v1",
         "category": "RL & Test-Time Compute"
-      },
-      {
-        "title": "Large Language Models as a Universal Searcher for Open-World Automated Machine Learning",
-        "summary": "Developing effective machine learning models requires complex manual tuning, while current Automated Machine Learning (AutoML) frameworks remain domain-specific and isolate model architecture, training hyperparameter, an...",
-        "authors": "Yuxuan Hu, Jihao Liu et al.",
-        "published": "2026-11-09",
-        "link": "http://arxiv.org/pdf/2611.12791v1",
-        "category": "RL & Test-Time Compute"
       }
     ],
     "Multimodal & World Models": [
       {
-        "title": "TraceKV: Policy-Preserving Low-Rank KV Cache Compression for Reasoning Vision-Language Models",
-        "summary": "Reasoning vision-language models (VLMs) impose substantial KV cache demands from both large multimodal contexts and growing reasoning traces. Low-rank KV compression has emerged as a promising paradigm that stores low-di...",
-        "authors": "Ke Li, Zishan Shao et al.",
-        "published": "2026-11-11",
-        "link": "http://arxiv.org/pdf/2611.15569v1",
+        "title": "Spatial Foundry: A Multimodal Dataset for Spatial Intelligence",
+        "summary": "Spatial intelligence requires connecting visual observations to the geometry, objects, and persistent state of an environment. Images alone leave these relationships implicit, while disconnected annotations make it diffi...",
+        "authors": "Ethan Lin, Yang Song",
+        "published": "2026-11-12",
+        "link": "http://arxiv.org/pdf/2611.17318v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "Semantic Consistency of Vision Tokens: A Vision-Centric Perspective on Multimodal Large Language Models",
-        "summary": "In computer vision, vision-language and self-supervised encoders are two unique paradigms characterized by global language alignment and high-quality vision-only patch representations, respectively. Multimodal large lang...",
-        "authors": "Nikola Đukić, Tim Lebailly et al.",
-        "published": "2026-11-11",
-        "link": "http://arxiv.org/pdf/2611.15448v1",
+        "title": "Report of the 8th LSVOS Challenge: Mobile Unified Multimodal Understanding",
+        "summary": "This report summarizes the Mobile Unified Multimodal Understanding (MUMU) track of the 8th Large-scale Video Object Segmentation (LSVOS) Challenge, held in conjunction with ECCV 2026. MUMU asks for a single unified model...",
+        "authors": "Chang Liu, Henghui Ding et al.",
+        "published": "2026-11-12",
+        "link": "http://arxiv.org/pdf/2611.16925v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "CARE-Drive: Coupled Alternating Refinement for Ego-trajectories",
-        "summary": "Vision-language-action (VLA) models bring multimodal understanding and world knowledge to end-to-end autonomous driving. To further improve the quality of predicted trajectories, existing studies introduce candidate refi...",
-        "authors": "Xiao Ma, Yijun Chen et al.",
-        "published": "2026-11-11",
-        "link": "http://arxiv.org/pdf/2611.15360v1",
+        "title": "AgriSense: Vision-Language Decision Support and Robotic Intervention in a Virtual Greenhouse Copy title",
+        "summary": "Autonomous greenhouse management increasingly requires robotic systems that integrate perception, navigation, environmental regulation, and plant-level intervention. This paper presents AgriSense, a framework combining a...",
+        "authors": "Lyes Saad Saoud, Oualid Doukhi et al.",
+        "published": "2026-11-12",
+        "link": "http://arxiv.org/pdf/2611.16752v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "AROMA: Adaptive Representation-Oriented Multimodal Actuation for Vision-Language Model Control",
-        "summary": "Mechanistic localization does not by itself yield usable control: causal sensitivity may occupy little activation energy, an accurate local direction may fail at finite scale, and a reachable numeral target may be wrong....",
-        "authors": "Zhaoning Zhang",
-        "published": "2026-11-11",
-        "link": "http://arxiv.org/pdf/2611.15041v1",
+        "title": "From Foundation VLM to Versatile Driving VLM: A Triplet Incremental Training Approach",
+        "summary": "Adapting general Vision-Language Models (VLMs) to Autonomous Driving (AD) is thought to require heavy 3D spatial priors or intrusive architectural overhauls to compensate for a lack of spatial grounding. In this work, we...",
+        "authors": "Shengtao Wu, Zichao Dong et al.",
+        "published": "2026-11-12",
+        "link": "http://arxiv.org/pdf/2611.16727v1",
         "category": "Multimodal & World Models"
       }
     ],
     "CoWoS Packaging": [
+      {
+        "title": "Starscream: Reimagining LLM Sharding on AMD Instinct GPUs with GPU Partitioning",
+        "summary": "As GPU accelerators grow larger to meet rising compute demands, they exhibit increasingly pronounced non-uniform memory access (NUMA) characteristics that challenge existing LLM frameworks. Chiplet-based architectures pr...",
+        "authors": "Sumanth Gudaparthi, Smeet Chheda et al.",
+        "published": "2026-11-11",
+        "link": "http://arxiv.org/pdf/2611.15951v1",
+        "category": "CoWoS Packaging"
+      },
       {
         "title": "Beyond Host-Side Control: HBM Controller Partitioning Across Host and HBM Base Dies",
         "summary": "Recent generations of high bandwidth memory (HBM), such as HBM4, allow the base die of the memory stack to be manufactured using a logic process that can accommodate more complex controller functions next to the DRAM. We...",
@@ -2557,17 +2565,17 @@
         "published": "2026-10-26",
         "link": "http://arxiv.org/pdf/2610.34911v1",
         "category": "CoWoS Packaging"
-      },
-      {
-        "title": "Do Words Matter? What Text Contributes to Few and Full-Shot Vision-Language Anomaly Detection",
-        "summary": "Vision-language anomaly detectors describe normal and abnormal appearance with text, and their gains are commonly credited to the semantic content of these descriptions. This attribution is plausible in the zero-shot set...",
-        "authors": "Arda Baris Basaran, Mesut Ceylan et al.",
-        "published": "2026-10-25",
-        "link": "http://arxiv.org/pdf/2610.34610v1",
-        "category": "CoWoS Packaging"
       }
     ],
     "Silicon Photonics": [
+      {
+        "title": "Inverse Design of an On-chip Phase-Change Switch Composed of Sparse Heterogeneous Metasurfaces",
+        "summary": "Photonic switches are exploited for optical signal routing and control within optical communication systems. The integration of phase change materials with silicon photonic switches overcomes the drawbacks of the state-o...",
+        "authors": "Sanaz Zarei",
+        "published": "2026-11-12",
+        "link": "http://arxiv.org/pdf/2611.16863v1",
+        "category": "Silicon Photonics"
+      },
       {
         "title": "Silicon and silicon nitride photonic ring resonator arrays for photonic trimming metrology",
         "summary": "Proposed silicon on silicon oxide 4x4 matrix multiplier for use in refractive index measurements, based on the Advanced Micro Foundry deep ultraviolet process. Agreement between simulated spectra and analytic design spec...",
@@ -2590,14 +2598,6 @@
         "authors": "Qingyang Mo, Jiacheng Sun et al.",
         "published": "2026-11-05",
         "link": "http://arxiv.org/pdf/2611.07594v1",
-        "category": "Silicon Photonics"
-      },
-      {
-        "title": "From Fabrication Disorder to Quantum-Protocol Yield in Inverse-Designed Silicon Photonic Beam Splitters",
-        "summary": "Telecom-band silicon spin-photon qubits offer a promising platform for scalable quantum networks and distributed information processing, but their fixed emission wavelengths require compact, low-loss beam splitters with ...",
-        "authors": "Nail Letty, Tahmeed Ul Islam et al.",
-        "published": "2026-11-01",
-        "link": "http://arxiv.org/pdf/2611.02209v1",
         "category": "Silicon Photonics"
       }
     ],
