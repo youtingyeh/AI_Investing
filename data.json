@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15 10:55:42 CST (UTC+8)",
+  "last_updated": "2026-11-16 10:55:43 CST (UTC+8)",
   "status": "LIVE_CLOUD_SYNC",
   "macro_kpis": {
     "csp_capex": {
@@ -160,6 +160,22 @@
       "market_cap_usd_b": 3932.3,
       "arxiv_papers": [
         {
+          "title": "OrbitWeaver: LLM Agent Planning with Simulation Feedback for Optically Interconnected Orbital GPU Clusters",
+          "summary": "Space-based data-center designs increasingly consider GPU computing formations connected by inter-satellite optical links. With limited neighboring connections, jobs assigned disjoint GPUs can still contend on shared rel...",
+          "authors": "Pengcheng Luo, Bowen Zhang",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17850v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "CHARMING: Parallel Edge AI Acceleration Across Tensor Processing and In-Memory Computation",
+          "summary": "Edge AI increasingly relies on specialized accelerators for low-latency inference under tight resource and energy constraints, yet their efficiency remains limited by data movement. Prior work, CHARM, mitigates this over...",
+          "authors": "Md Omar Faruque, Jingang Jin et al.",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17785v1",
+          "category": "AI Accelerator"
+        },
+        {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
           "summary": "Second-order Epstein-Nesbet perturbation theory (EN-PT2) is an important tool for improving selected configuration interaction (SCI) energies, but the large external determinant space creates substantial memory and commu...",
           "authors": "Lizhong Fu, Honghui Shang et al.",
@@ -174,47 +190,31 @@
           "published": "2026-11-10",
           "link": "http://arxiv.org/pdf/2611.13437v1",
           "category": "AI Accelerator"
-        },
-        {
-          "title": "Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window for Back-End Compatible Multibit Memory",
-          "summary": "Ferroelectric field-effect transistors (FeFETs) with low-power operation and non-volatile data retention enabled by stable ferroelectric polarization switching, have emerged as promising alternatives to conventional floa...",
-          "authors": "Manisha Rajput, Farhan Ahmed Siddique et al.",
-          "published": "2026-11-07",
-          "link": "http://arxiv.org/pdf/2611.12968v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
-          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
-          "authors": "Chen-Xi Liang, Li Yan",
-          "published": "2026-11-06",
-          "link": "http://arxiv.org/pdf/2611.09643v1",
-          "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Why the biggest risk for investors in 2027 isn't Nvidia — it's inflation",
-          "link": "https://finance.yahoo.com/economy/article/why-the-biggest-risk-for-investors-in-2027-isnt-nvidia--its-inflation-160241059.html",
+          "title": "Nvidia stock steady as Jensen Huang reportedly weighs CEO comeback, Musk backs return",
+          "link": "https://finance.yahoo.com/markets/article/nvidia-stock-steady-as-jensen-huang-reportedly-weighs-ceo-comeback-musk-backs-return-015644730.html",
           "publisher": "Yahoo Finance",
-          "published": "2026-11-14"
+          "published": "2026-11-16"
         },
         {
-          "title": "Nvidia and Jensen Huang fallout: Here's everything we know after a momentous week",
-          "link": "https://finance.yahoo.com/technology/article/nvidia-and-jensen-huang-fallout-heres-everything-we-know-after-a-momentous-week-110000323.html",
+          "title": "'Massive shoes to fill': Wall Street sours on Nvidia stock after Jensen Huang's exit",
+          "link": "https://finance.yahoo.com/markets/article/massive-shoes-to-fill-wall-street-weighs-nvidia-stock-amid-ceo-fallout-131854664.html",
           "publisher": "Yahoo Finance",
-          "published": "2026-11-14"
-        },
-        {
-          "title": "Broadcom Jumped as Nvidia Fell. This Is What Has Investors Excited.",
-          "link": "https://www.fool.com/investing/2026/11/14/broadcom-jumped-as-nvidia-fell-this-is-what-has-investors-excited/",
-          "publisher": "Motley Fool",
           "published": "2026-11-15"
         },
         {
-          "title": "The Semiconductor ETF Has Lost a Quarter of Its Value Since June. Buy It Now and Hold It Through 2030.",
-          "link": "https://www.fool.com/investing/2026/11/14/the-semiconductor-etf-has-lost-a-quarter-of-its-value-since-june-buy-it-now-and-hold-it-through-2030/",
-          "publisher": "Motley Fool",
+          "title": "Jensen Huang leaves Nvidia with a $132 billion stake — here's when he can sell and why investors may not know when he does: Chart of the Day",
+          "link": "https://finance.yahoo.com/markets/article/jensen-huang-leaves-nvidia-with-a-132-billion-stake--heres-when-he-can-sell-and-why-investors-may-not-know-when-he-does-chart-of-the-day-130732443.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-15"
+        },
+        {
+          "title": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week",
+          "link": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html",
+          "publisher": "Yahoo Finance",
           "published": "2026-11-15"
         }
       ]
@@ -288,6 +288,14 @@
       "market_cap_usd_b": 1656.5,
       "arxiv_papers": [
         {
+          "title": "OrbitWeaver: LLM Agent Planning with Simulation Feedback for Optically Interconnected Orbital GPU Clusters",
+          "summary": "Space-based data-center designs increasingly consider GPU computing formations connected by inter-satellite optical links. With limited neighboring connections, jobs assigned disjoint GPUs can still contend on shared rel...",
+          "authors": "Pengcheng Luo, Bowen Zhang",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17850v1",
+          "category": "Silicon Photonics"
+        },
+        {
           "title": "Inverse Design of an On-chip Phase-Change Switch Composed of Sparse Heterogeneous Metasurfaces",
           "summary": "Photonic switches are exploited for optical signal routing and control within optical communication systems. The integration of phase change materials with silicon photonic switches overcomes the drawbacks of the state-o...",
           "authors": "Sanaz Zarei",
@@ -310,40 +318,32 @@
           "published": "2026-11-06",
           "link": "http://arxiv.org/pdf/2611.08826v1",
           "category": "Silicon Photonics"
-        },
-        {
-          "title": "Multi-Channel Non-Abelian Edge Pumping via Multi-Degeneracy Encircling",
-          "summary": "Non-Abelian operations enable sequence-dependent control of light, yet experimental realizations in wave systems have remained confined to local bulk or same-boundary modes and have often required fragile gap-closing deg...",
-          "authors": "Qingyang Mo, Jiacheng Sun et al.",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.07594v1",
-          "category": "Silicon Photonics"
         }
       ],
       "news": [
         {
-          "title": "Broadcom Jumped as Nvidia Fell. This Is What Has Investors Excited.",
-          "link": "https://www.fool.com/investing/2026/11/14/broadcom-jumped-as-nvidia-fell-this-is-what-has-investors-excited/",
+          "title": "Jensen Huang Reportedly Considers Returning To Nvidia: FT",
+          "link": "https://www.investors.com/news/technology/jensen-huang-considers-returning-to-nvidia-stock/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-16"
+        },
+        {
+          "title": "Marvell’s Trillion-Dollar Target",
+          "link": "https://www.fool.com/investing/2026/11/15/marvells-trillion-dollar-target/",
           "publisher": "Motley Fool",
+          "published": "2026-11-16"
+        },
+        {
+          "title": "Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash",
+          "link": "https://www.tikr.com/blog/nvidias-problem-openai-is-90-plus-percent-nvidia-and-its-the-lab-burning-cash?ref=yahoofinance&tlnk=yf-261115-6qwrm2q7",
+          "publisher": "TIKR",
           "published": "2026-11-15"
         },
         {
-          "title": "Top 3 AI Stocks To Watch In November 2026",
-          "link": "https://finance.yahoo.com/technology/ai/articles/top-3-ai-stocks-watch-021005217.html",
+          "title": "Broadcom Heads 3 Top Growth Stocks To Watch",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-heads-3-top-growth-180757072.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-15"
-        },
-        {
-          "title": "Nvidia Fell While AMD and Broadcom Jumped. Here’s What History Says Happens Next to All 3  Stocks.",
-          "link": "https://www.fool.com/investing/2026/11/14/nvidia-fell-while-amd-and-broadcom-jumped-here-s-what-history-says-happens-next-to-all-3-stocks/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14"
-        },
-        {
-          "title": "HSBC Just Downgraded Nvidia and Cut Its Target to $170",
-          "link": "https://247wallst.com/investing/2026/11/14/hsbc-just-downgraded-nvidia-and-cut-its-target-to-170/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-14"
         }
       ]
     },
@@ -416,6 +416,22 @@
       "market_cap_usd_b": 875.9,
       "arxiv_papers": [
         {
+          "title": "OrbitWeaver: LLM Agent Planning with Simulation Feedback for Optically Interconnected Orbital GPU Clusters",
+          "summary": "Space-based data-center designs increasingly consider GPU computing formations connected by inter-satellite optical links. With limited neighboring connections, jobs assigned disjoint GPUs can still contend on shared rel...",
+          "authors": "Pengcheng Luo, Bowen Zhang",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17850v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "CHARMING: Parallel Edge AI Acceleration Across Tensor Processing and In-Memory Computation",
+          "summary": "Edge AI increasingly relies on specialized accelerators for low-latency inference under tight resource and energy constraints, yet their efficiency remains limited by data movement. Prior work, CHARM, mitigates this over...",
+          "authors": "Md Omar Faruque, Jingang Jin et al.",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17785v1",
+          "category": "AI Accelerator"
+        },
+        {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
           "summary": "Second-order Epstein-Nesbet perturbation theory (EN-PT2) is an important tool for improving selected configuration interaction (SCI) energies, but the large external determinant space creates substantial memory and commu...",
           "authors": "Lizhong Fu, Honghui Shang et al.",
@@ -430,48 +446,32 @@
           "published": "2026-11-10",
           "link": "http://arxiv.org/pdf/2611.13437v1",
           "category": "AI Accelerator"
-        },
-        {
-          "title": "Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window for Back-End Compatible Multibit Memory",
-          "summary": "Ferroelectric field-effect transistors (FeFETs) with low-power operation and non-volatile data retention enabled by stable ferroelectric polarization switching, have emerged as promising alternatives to conventional floa...",
-          "authors": "Manisha Rajput, Farhan Ahmed Siddique et al.",
-          "published": "2026-11-07",
-          "link": "http://arxiv.org/pdf/2611.12968v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
-          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
-          "authors": "Chen-Xi Liang, Li Yan",
-          "published": "2026-11-06",
-          "link": "http://arxiv.org/pdf/2611.09643v1",
-          "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Nvidia Fell While AMD and Broadcom Jumped. Here’s What History Says Happens Next to All 3  Stocks.",
-          "link": "https://www.fool.com/investing/2026/11/14/nvidia-fell-while-amd-and-broadcom-jumped-here-s-what-history-says-happens-next-to-all-3-stocks/",
+          "title": "Jensen Huang Reportedly Considers Returning To Nvidia: FT",
+          "link": "https://www.investors.com/news/technology/jensen-huang-considers-returning-to-nvidia-stock/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-16"
+        },
+        {
+          "title": "Advanced Micro Devices (AMD) Deepens Quantum Push With New Research And Commercial Ties",
+          "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-deepens-001906359.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-16"
+        },
+        {
+          "title": "Nvidia Rival’s CEO on TSMC: “I Would Buy That Stock Every Day of the Week”",
+          "link": "https://www.tikr.com/blog/nvidia-rivals-ceo-on-tsmc-i-would-buy-that-stock-every-day-of-the-week?ref=yahoofinance&tlnk=yf-261115-r3492722",
+          "publisher": "TIKR",
+          "published": "2026-11-15"
+        },
+        {
+          "title": "3 Beaten-Down Stocks Under $10 to Buy in November",
+          "link": "https://www.fool.com/investing/2026/11/15/3-stocks-under-10-to-buy-in-november/",
           "publisher": "Motley Fool",
-          "published": "2026-11-14"
-        },
-        {
-          "title": "AMD Just Had Its Biggest Run Against Nvidia Since 1999. Can It Survive Earnings?",
-          "link": "https://beincrypto.com/amd-stock-record-run-nvidia-earnings/",
-          "publisher": "BeInCrypto",
-          "published": "2026-11-14"
-        },
-        {
-          "title": "AMD Just Crushed Nvidia by 32 Points After Scandal. Here’s How NVDA Can Come Back",
-          "link": "https://247wallst.com/investing/2026/11/14/amd-just-crushed-nvidia-by-32-points-after-scandal-heres-how-nvda-can-come-back/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-14"
-        },
-        {
-          "title": "AMD Just Beat Nvidia by the Widest Margin Since 1999",
-          "link": "https://247wallst.com/investing/2026/11/14/amd-just-beat-nvidia-by-the-widest-margin-since-1999/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-14"
+          "published": "2026-11-15"
         }
       ]
     },
@@ -544,6 +544,22 @@
       "market_cap_usd_b": 203.9,
       "arxiv_papers": [
         {
+          "title": "OrbitWeaver: LLM Agent Planning with Simulation Feedback for Optically Interconnected Orbital GPU Clusters",
+          "summary": "Space-based data-center designs increasingly consider GPU computing formations connected by inter-satellite optical links. With limited neighboring connections, jobs assigned disjoint GPUs can still contend on shared rel...",
+          "authors": "Pengcheng Luo, Bowen Zhang",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17850v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "CHARMING: Parallel Edge AI Acceleration Across Tensor Processing and In-Memory Computation",
+          "summary": "Edge AI increasingly relies on specialized accelerators for low-latency inference under tight resource and energy constraints, yet their efficiency remains limited by data movement. Prior work, CHARM, mitigates this over...",
+          "authors": "Md Omar Faruque, Jingang Jin et al.",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17785v1",
+          "category": "AI Accelerator"
+        },
+        {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
           "summary": "Second-order Epstein-Nesbet perturbation theory (EN-PT2) is an important tool for improving selected configuration interaction (SCI) energies, but the large external determinant space creates substantial memory and commu...",
           "authors": "Lizhong Fu, Honghui Shang et al.",
@@ -558,25 +574,15 @@
           "published": "2026-11-10",
           "link": "http://arxiv.org/pdf/2611.13437v1",
           "category": "AI Accelerator"
-        },
-        {
-          "title": "Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window for Back-End Compatible Multibit Memory",
-          "summary": "Ferroelectric field-effect transistors (FeFETs) with low-power operation and non-volatile data retention enabled by stable ferroelectric polarization switching, have emerged as promising alternatives to conventional floa...",
-          "authors": "Manisha Rajput, Farhan Ahmed Siddique et al.",
-          "published": "2026-11-07",
-          "link": "http://arxiv.org/pdf/2611.12968v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
-          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
-          "authors": "Chen-Xi Liang, Li Yan",
-          "published": "2026-11-06",
-          "link": "http://arxiv.org/pdf/2611.09643v1",
-          "category": "AI Accelerator"
         }
       ],
       "news": [
+        {
+          "title": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-discusses-comeback-nvidia-192628314.html",
+          "publisher": "Reuters",
+          "published": "2026-11-15"
+        },
         {
           "title": "Astera Labs vs. Arm: Which Technology Stock Is a Better Buy for 2027?",
           "link": "https://www.fool.com/coverage/better-buy/2026/11/14/astera-labs-vs-arm-which-technology-stock-is-a-better-buy-for-2027/",
@@ -594,12 +600,6 @@
           "link": "https://finance.yahoo.com/markets/stocks/articles/52-hedge-funds-back-semiconductor-152858112.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-14"
-        },
-        {
-          "title": "AMD Sinks 9%, Marvell Down 5% as Chip Rally Reverses and Treasury Yields Hit 5%",
-          "link": "https://www.tikr.com/blog/amd-sinks-9-marvell-down-5-as-chip-rally-reverses-and-treasury-yields-hit-5?ref=yahoofinance&tlnk=yf-261113-c83jxhmp",
-          "publisher": "TIKR",
-          "published": "2026-11-13"
         }
       ]
     },
@@ -706,6 +706,12 @@
       ],
       "news": [
         {
+          "title": "3 US Stocks Riding The AI Data Center Power And Cooling Buildout",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/3-us-stocks-riding-ai-130750054.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-15"
+        },
+        {
           "title": "Why Should Vertiv Stock Holders Keep Watching This Number?",
           "link": "https://www.trefis.com/stock/vrt/articles/624934/why-should-vertiv-stock-holders-keep-watching-this-number/2026-11-13",
           "publisher": "Trefis",
@@ -721,12 +727,6 @@
           "title": "Samsung Wants to Buy an American AI Data Center Cooling Company",
           "link": "https://247wallst.com/investing/2026/11/13/samsung-wants-to-buy-an-american-ai-data-center-cooling-company/",
           "publisher": "24/7 Wall St.",
-          "published": "2026-11-13"
-        },
-        {
-          "title": "Bloom Energy Soars 13%, Vertiv Up 14% in a Week as Data-Center Fears Ease",
-          "link": "https://www.tikr.com/blog/bloom-energy-soars-21-vertiv-up-19-in-a-week-as-data-center-fears-ease?ref=yahoofinance&tlnk=yf-261113-vhvqpm7w",
-          "publisher": "TIKR",
           "published": "2026-11-13"
         }
       ]
@@ -800,44 +800,62 @@
       "market_cap_usd_b": 3890.4,
       "arxiv_papers": [
         {
-          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
-          "authors": "DeepSeek-AI Research et al.",
-          "published": "2026-10-18",
-          "link": "https://arxiv.org/list/cs.CL/recent",
+          "title": "From Local Prediction Error to Final Outputs: A Theory of Expert Sharing in Multi-Step Reasoning",
+          "summary": "Mixture-of-experts (MoE) models can share experts across layers or computational steps, pooling training information from different contexts. This can reduce local prediction error, but multi-step systems are ultimately ...",
+          "authors": "Tiantong Wang, Zhiren Gong et al.",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17879v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Ultra-Sparse Mixture-of-Experts with Fine-Grained Token Routing on Multi-Node Clusters",
-          "authors": "L. Zhang, M. Chen et al.",
-          "published": "2026-10-15",
-          "link": "https://arxiv.org/list/cs.LG/recent",
+          "title": "Fuse-All MoE Inference Kernel with Load Balancing on TPUs",
+          "summary": "Mixture-of-Experts (MoE) architectures activate only a subset of experts for each token, allowing large language models (LLMs) to scale parameter capacity without a proportional increase in computation per token. However...",
+          "authors": "Rupeng Liu, Bangsheng Tang et al.",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17857v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "Do Mixture-of-Experts Routers Benefit from Ensembling?",
+          "summary": "Ensembles of neural networks have repeatedly been shown to outperform single networks. Ensemble theory attributes this gain to the accuracy of the individual members and the diversity among them. Mixture-of-experts model...",
+          "authors": "Viktor Veselý, Sebastian Jitaru",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.17472v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "Broadcast, Don't Replicate: Eliminating Weight HBM in Datacenter LLM Serving",
+          "summary": "Large language model (LLM) inference at datacenter scale is fundamentally bottlenecked by memory capacity and bandwidth limits. Because model weights are read-only and identical across instances, conventional architectur...",
+          "authors": "Hannah Atmer, Yuan Yao et al.",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.17097v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "Microsoft says AI didn’t break Outlook — its own network upgrade did",
-          "link": "https://finance.yahoo.com/markets/article/microsoft-says-ai-didnt-break-outlook--its-own-network-upgrade-did-133858185.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-13"
+          "title": "Anthropic's record IPO faces some big questions",
+          "link": "https://finance.yahoo.com/technology/ai/articles/anthropics-record-ipo-faces-big-012430589.html",
+          "publisher": "AFP",
+          "published": "2026-11-16"
         },
         {
-          "title": "Anthropic IPO to test Wall Street's faith in AI as skepticism mounts",
-          "link": "https://finance.yahoo.com/markets/stocks/article/anthropic-ipo-to-test-wall-streets-faith-in-ai-as-skepticism-mounts-180007104.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-14"
+          "title": "Americans fear the worst after Pentagon doomsday prepping, ‘Black October’ cyberattacks, stock crash, spy scandal, Microsoft outage, and airport chaos",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/americans-fear-worst-pentagon-doomsday-232109128.html",
+          "publisher": "Fortune",
+          "published": "2026-11-15"
         },
         {
-          "title": "Credo Technology Group vs. Marvell Technology: Which Technology Stock Is a Better Buy for 2027?",
-          "link": "https://www.fool.com/coverage/better-buy/2026/11/14/credo-technology-group-vs-marvell-technology-which-technology-stock-is-a-better-buy-for-2027/",
+          "title": "Rigetti Computing vs. SoundHound AI: Which Technology Stock Is a Better Buy for 2027?",
+          "link": "https://www.fool.com/coverage/better-buy/2026/11/15/rigetti-computing-vs-soundhound-ai-which-technology-stock-is-a-better-buy-for-2027/",
           "publisher": "Motley Fool",
-          "published": "2026-11-14"
+          "published": "2026-11-15"
         },
         {
-          "title": "C3.ai vs. SentinelOne: Which Technology Stock Is a Better Buy for 2027?",
-          "link": "https://www.fool.com/coverage/better-buy/2026/11/14/c3ai-vs-sentinelone-which-technology-stock-is-a-better-buy-for-2027/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14"
+          "title": "FAA Chief Warns System ‘Will Continue to Break.’ AT&T, Verizon, and Lumen Could Be Big Winners",
+          "link": "https://247wallst.com/investing/2026/11/15/faa-chief-warns-system-will-continue-to-break-att-verizon-and-lumen-could-be-big-winners/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-15"
         }
       ]
     },
@@ -910,44 +928,62 @@
       "market_cap_usd_b": 3636.2,
       "arxiv_papers": [
         {
-          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
-          "authors": "DeepSeek-AI Research et al.",
-          "published": "2026-10-18",
-          "link": "https://arxiv.org/list/cs.CL/recent",
+          "title": "From Local Prediction Error to Final Outputs: A Theory of Expert Sharing in Multi-Step Reasoning",
+          "summary": "Mixture-of-experts (MoE) models can share experts across layers or computational steps, pooling training information from different contexts. This can reduce local prediction error, but multi-step systems are ultimately ...",
+          "authors": "Tiantong Wang, Zhiren Gong et al.",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17879v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Ultra-Sparse Mixture-of-Experts with Fine-Grained Token Routing on Multi-Node Clusters",
-          "authors": "L. Zhang, M. Chen et al.",
-          "published": "2026-10-15",
-          "link": "https://arxiv.org/list/cs.LG/recent",
+          "title": "Fuse-All MoE Inference Kernel with Load Balancing on TPUs",
+          "summary": "Mixture-of-Experts (MoE) architectures activate only a subset of experts for each token, allowing large language models (LLMs) to scale parameter capacity without a proportional increase in computation per token. However...",
+          "authors": "Rupeng Liu, Bangsheng Tang et al.",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17857v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "Do Mixture-of-Experts Routers Benefit from Ensembling?",
+          "summary": "Ensembles of neural networks have repeatedly been shown to outperform single networks. Ensemble theory attributes this gain to the accuracy of the individual members and the diversity among them. Mixture-of-experts model...",
+          "authors": "Viktor Veselý, Sebastian Jitaru",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.17472v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "Broadcast, Don't Replicate: Eliminating Weight HBM in Datacenter LLM Serving",
+          "summary": "Large language model (LLM) inference at datacenter scale is fundamentally bottlenecked by memory capacity and bandwidth limits. Because model weights are read-only and identical across instances, conventional architectur...",
+          "authors": "Hannah Atmer, Yuan Yao et al.",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.17097v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076",
-          "link": "https://247wallst.com/personal-finance/2026/11/14/he-thinks-his-200000-sp-500-401k-spreads-his-ai-risk-two-alphabet-share-classes-put-10380-in-one-company-a-20-drop-could-cost-him-2076/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-14"
+          "title": "Morgan Stanley’s Q3 filing reveals $5.6 billion SpaceX stock surprise",
+          "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-spacex-13f",
+          "publisher": "TheStreet",
+          "published": "2026-11-16"
         },
         {
-          "title": "Planet Labs PBC vs. Red Cat: Which Industrials Stock Is a Better Buy for 2027?",
-          "link": "https://www.fool.com/coverage/better-buy/2026/11/14/planet-labs-pbc-vs-red-cat-which-industrials-stock-is-a-better-buy-for-2027/",
+          "title": "Anthropic's record IPO faces some big questions",
+          "link": "https://finance.yahoo.com/technology/ai/articles/anthropics-record-ipo-faces-big-012430589.html",
+          "publisher": "AFP",
+          "published": "2026-11-16"
+        },
+        {
+          "title": "Why Fervo Energy Stock Surged This Week",
+          "link": "https://www.fool.com/coverage/market-movers/2026/11/15/why-fervo-energy-stock-surged-this-week/",
           "publisher": "Motley Fool",
-          "published": "2026-11-14"
+          "published": "2026-11-15"
         },
         {
-          "title": "Crocs And 2 Other Undervalued Cash Flow Stocks",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/crocs-2-other-undervalued-cash-180928201.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-14"
-        },
-        {
-          "title": "Anthropic’s $1.4 Trillion IPO Is Nov. 19. U.S. AI Giants Are Trouncing China 10-to-1",
-          "link": "https://247wallst.com/investing/2026/11/14/anthropics-1-4-trillion-ipo-is-nov-19-u-s-ai-giants-are-trouncing-china-10-to-1/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-14"
+          "title": "Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash",
+          "link": "https://www.tikr.com/blog/nvidias-problem-openai-is-90-plus-percent-nvidia-and-its-the-lab-burning-cash?ref=yahoofinance&tlnk=yf-261115-6qwrm2q7",
+          "publisher": "TIKR",
+          "published": "2026-11-15"
         }
       ]
     },
@@ -1020,6 +1056,22 @@
       "market_cap_usd_b": 2883.4,
       "arxiv_papers": [
         {
+          "title": "OrbitWeaver: LLM Agent Planning with Simulation Feedback for Optically Interconnected Orbital GPU Clusters",
+          "summary": "Space-based data-center designs increasingly consider GPU computing formations connected by inter-satellite optical links. With limited neighboring connections, jobs assigned disjoint GPUs can still contend on shared rel...",
+          "authors": "Pengcheng Luo, Bowen Zhang",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17850v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "CHARMING: Parallel Edge AI Acceleration Across Tensor Processing and In-Memory Computation",
+          "summary": "Edge AI increasingly relies on specialized accelerators for low-latency inference under tight resource and energy constraints, yet their efficiency remains limited by data movement. Prior work, CHARM, mitigates this over...",
+          "authors": "Md Omar Faruque, Jingang Jin et al.",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17785v1",
+          "category": "AI Accelerator"
+        },
+        {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
           "summary": "Second-order Epstein-Nesbet perturbation theory (EN-PT2) is an important tool for improving selected configuration interaction (SCI) energies, but the large external determinant space creates substantial memory and commu...",
           "authors": "Lizhong Fu, Honghui Shang et al.",
@@ -1034,48 +1086,32 @@
           "published": "2026-11-10",
           "link": "http://arxiv.org/pdf/2611.13437v1",
           "category": "AI Accelerator"
-        },
-        {
-          "title": "Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window for Back-End Compatible Multibit Memory",
-          "summary": "Ferroelectric field-effect transistors (FeFETs) with low-power operation and non-volatile data retention enabled by stable ferroelectric polarization switching, have emerged as promising alternatives to conventional floa...",
-          "authors": "Manisha Rajput, Farhan Ahmed Siddique et al.",
-          "published": "2026-11-07",
-          "link": "http://arxiv.org/pdf/2611.12968v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
-          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
-          "authors": "Chen-Xi Liang, Li Yan",
-          "published": "2026-11-06",
-          "link": "http://arxiv.org/pdf/2611.09643v1",
-          "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Amazon (AMZN) Has Its First Binding Union Contract In North America",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-first-binding-union-230857139.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-14"
+          "title": "Etsy vs. Five Below: Which Growth Stock Is the Better Buy?",
+          "link": "https://www.fool.com/coverage/better-buy/2026/11/15/etsy-vs-five-below-which-growth-stock-is-the-better-buy/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-16"
         },
         {
-          "title": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076",
-          "link": "https://247wallst.com/personal-finance/2026/11/14/he-thinks-his-200000-sp-500-401k-spreads-his-ai-risk-two-alphabet-share-classes-put-10380-in-one-company-a-20-drop-could-cost-him-2076/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-14"
+          "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites",
+          "link": "https://finance.yahoo.com/news/us-rocket-fails-launch-payload-202554696.html",
+          "publisher": "Reuters",
+          "published": "2026-11-16"
         },
         {
-          "title": "Mom Drives A Honda, Flies Economy. When She Asks Her Son To Be Trustee, He Finds Nearly $30M In Assets. He Says, ‘There Were Zero Signs’",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/mom-drives-honda-flies-economy-200046195.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-14"
+          "title": "Rigetti Computing vs. SoundHound AI: Which Technology Stock Is a Better Buy for 2027?",
+          "link": "https://www.fool.com/coverage/better-buy/2026/11/15/rigetti-computing-vs-soundhound-ai-which-technology-stock-is-a-better-buy-for-2027/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-15"
         },
         {
-          "title": "Italy fines Meta $880 million over accessing users' photos",
-          "link": "https://www.cbsnews.com/news/italy-fines-meta-880-million-users-photos/",
-          "publisher": "CBS News",
-          "published": "2026-11-14"
+          "title": "Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash",
+          "link": "https://www.tikr.com/blog/nvidias-problem-openai-is-90-plus-percent-nvidia-and-its-the-lab-burning-cash?ref=yahoofinance&tlnk=yf-261115-6qwrm2q7",
+          "publisher": "TIKR",
+          "published": "2026-11-15"
         }
       ]
     },
@@ -1148,6 +1184,22 @@
       "market_cap_usd_b": 390.8,
       "arxiv_papers": [
         {
+          "title": "OrbitWeaver: LLM Agent Planning with Simulation Feedback for Optically Interconnected Orbital GPU Clusters",
+          "summary": "Space-based data-center designs increasingly consider GPU computing formations connected by inter-satellite optical links. With limited neighboring connections, jobs assigned disjoint GPUs can still contend on shared rel...",
+          "authors": "Pengcheng Luo, Bowen Zhang",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17850v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "CHARMING: Parallel Edge AI Acceleration Across Tensor Processing and In-Memory Computation",
+          "summary": "Edge AI increasingly relies on specialized accelerators for low-latency inference under tight resource and energy constraints, yet their efficiency remains limited by data movement. Prior work, CHARM, mitigates this over...",
+          "authors": "Md Omar Faruque, Jingang Jin et al.",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17785v1",
+          "category": "AI Accelerator"
+        },
+        {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
           "summary": "Second-order Epstein-Nesbet perturbation theory (EN-PT2) is an important tool for improving selected configuration interaction (SCI) energies, but the large external determinant space creates substantial memory and commu...",
           "authors": "Lizhong Fu, Honghui Shang et al.",
@@ -1162,47 +1214,31 @@
           "published": "2026-11-10",
           "link": "http://arxiv.org/pdf/2611.13437v1",
           "category": "AI Accelerator"
-        },
-        {
-          "title": "Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window for Back-End Compatible Multibit Memory",
-          "summary": "Ferroelectric field-effect transistors (FeFETs) with low-power operation and non-volatile data retention enabled by stable ferroelectric polarization switching, have emerged as promising alternatives to conventional floa...",
-          "authors": "Manisha Rajput, Farhan Ahmed Siddique et al.",
-          "published": "2026-11-07",
-          "link": "http://arxiv.org/pdf/2611.12968v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
-          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
-          "authors": "Chen-Xi Liang, Li Yan",
-          "published": "2026-11-06",
-          "link": "http://arxiv.org/pdf/2611.09643v1",
-          "category": "AI Accelerator"
         }
       ],
       "news": [
         {
+          "title": "Broadcom Heads 3 Top Growth Stocks To Watch",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-heads-3-top-growth-180757072.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-15"
+        },
+        {
+          "title": "Oracle Stock And US AI Data Center Winners Worth Watching",
+          "link": "https://finance.yahoo.com/technology/ai/articles/oracle-stock-us-ai-data-180739534.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-15"
+        },
+        {
+          "title": "Why Is Oracle (ORCL) Expanding Its Health Data Network With Federal Agencies?",
+          "link": "https://finance.yahoo.com/healthcare/articles/why-oracle-orcl-expanding-health-160716472.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-15"
+        },
+        {
           "title": "Oracle (ORCL): Can Surging Cloud Revenue Outpace Its Financing Burden?",
           "link": "https://finance.yahoo.com/technology/articles/oracle-orcl-surging-cloud-revenue-192942521.html",
           "publisher": "Insider Monkey",
-          "published": "2026-11-14"
-        },
-        {
-          "title": "Credo Technology Group vs. Marvell Technology: Which Technology Stock Is a Better Buy for 2027?",
-          "link": "https://www.fool.com/coverage/better-buy/2026/11/14/credo-technology-group-vs-marvell-technology-which-technology-stock-is-a-better-buy-for-2027/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14"
-        },
-        {
-          "title": "Nvidia’s Interim CEO Pushed Back on a “$250 Billion Credit Backstop” for OpenAI. Oracle Has the Most at Stake",
-          "link": "https://www.tikr.com/blog/nvidias-interim-ceo-pushed-back-on-a-250-billion-credit-backstop-for-openai-oracle-has-the-most-at-stake?ref=yahoofinance&tlnk=yf-261114-v5cmv78g",
-          "publisher": "TIKR",
-          "published": "2026-11-14"
-        },
-        {
-          "title": "CoreWeave Jumped 20% and Pulled Oracle Higher. Is It Time to Sell, or Load Up?",
-          "link": "https://www.tikr.com/blog/coreweave-jumped-20-and-pulled-oracle-higher-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261114-cgmj34ph",
-          "publisher": "TIKR",
           "published": "2026-11-14"
         }
       ]
@@ -1276,21 +1312,45 @@
       "market_cap_usd_b": 404.8,
       "arxiv_papers": [
         {
-          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
-          "authors": "DeepSeek-AI Research et al.",
-          "published": "2026-10-18",
-          "link": "https://arxiv.org/list/cs.CL/recent",
+          "title": "From Local Prediction Error to Final Outputs: A Theory of Expert Sharing in Multi-Step Reasoning",
+          "summary": "Mixture-of-experts (MoE) models can share experts across layers or computational steps, pooling training information from different contexts. This can reduce local prediction error, but multi-step systems are ultimately ...",
+          "authors": "Tiantong Wang, Zhiren Gong et al.",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17879v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Ultra-Sparse Mixture-of-Experts with Fine-Grained Token Routing on Multi-Node Clusters",
-          "authors": "L. Zhang, M. Chen et al.",
-          "published": "2026-10-15",
-          "link": "https://arxiv.org/list/cs.LG/recent",
+          "title": "Fuse-All MoE Inference Kernel with Load Balancing on TPUs",
+          "summary": "Mixture-of-Experts (MoE) architectures activate only a subset of experts for each token, allowing large language models (LLMs) to scale parameter capacity without a proportional increase in computation per token. However...",
+          "authors": "Rupeng Liu, Bangsheng Tang et al.",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17857v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "Do Mixture-of-Experts Routers Benefit from Ensembling?",
+          "summary": "Ensembles of neural networks have repeatedly been shown to outperform single networks. Ensemble theory attributes this gain to the accuracy of the individual members and the diversity among them. Mixture-of-experts model...",
+          "authors": "Viktor Veselý, Sebastian Jitaru",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.17472v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "Broadcast, Don't Replicate: Eliminating Weight HBM in Datacenter LLM Serving",
+          "summary": "Large language model (LLM) inference at datacenter scale is fundamentally bottlenecked by memory capacity and bandwidth limits. Because model weights are read-only and identical across instances, conventional architectur...",
+          "authors": "Hannah Atmer, Yuan Yao et al.",
+          "published": "2026-11-12",
+          "link": "http://arxiv.org/pdf/2611.17097v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
+        {
+          "title": "Top 3 Quality Stocks To Watch In November 2026",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-quality-stocks-watch-100940220.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-15"
+        },
         {
           "title": "Top 3 AI Stocks To Watch In November 2026",
           "link": "https://finance.yahoo.com/technology/ai/articles/top-3-ai-stocks-watch-021005217.html",
@@ -1308,12 +1368,6 @@
           "link": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-alex-karp-says-185402032.html",
           "publisher": "Benzinga",
           "published": "2026-11-14"
-        },
-        {
-          "title": "PLTR's Rule of 40 Hits 158%: Can This Momentum Continue?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/pltrs-rule-40-hits-158-174000798.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13"
         }
       ]
     },
@@ -1376,14 +1430,14 @@
           2600.0
         ]
       },
-      "price": 2350.0,
-      "market_cap_b": 60941.1,
+      "price": 2295.0,
+      "market_cap_b": 59514.8,
       "revenue_yoy": 50.9,
       "gross_margin": 65.8,
       "operating_margin": 58.0,
       "fcf_b": 1203.07,
       "debt_to_ebitda": 0.23,
-      "market_cap_usd_b": 1904.4,
+      "market_cap_usd_b": 1859.8,
       "arxiv_papers": [
         {
           "title": "Starscream: Reimagining LLM Sharding on AMD Instinct GPUs with GPU Partitioning",
@@ -1420,6 +1474,18 @@
       ],
       "news": [
         {
+          "title": "What TSMC Doubters Got Wrong",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-doubters-got-wrong-200527158.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-15"
+        },
+        {
+          "title": "Nvidia Rival’s CEO on TSMC: “I Would Buy That Stock Every Day of the Week”",
+          "link": "https://www.tikr.com/blog/nvidia-rivals-ceo-on-tsmc-i-would-buy-that-stock-every-day-of-the-week?ref=yahoofinance&tlnk=yf-261115-r3492722",
+          "publisher": "TIKR",
+          "published": "2026-11-15"
+        },
+        {
           "title": "“Being Prudent”: TSMC Stock Has Surged 41% in a Year. Is It Too Late to Buy?",
           "link": "https://www.tikr.com/blog/being-prudent-tsmc-stock-has-surged-41-in-a-year-is-it-too-late-to-buy?ref=yahoofinance&tlnk=yf-261114-6285hcp3",
           "publisher": "TIKR",
@@ -1429,18 +1495,6 @@
           "title": "Harvard Cut Nvidia by a Third and Bought AMD",
           "link": "https://247wallst.com/investing/2026/11/14/harvard-cut-nvidia-by-a-third-and-bought-amd/",
           "publisher": "24/7 Wall St.",
-          "published": "2026-11-14"
-        },
-        {
-          "title": "Why a Rising TSMC Challenger Could Reshape the Chip Foundry Landscape",
-          "link": "https://www.fool.com/investing/2026/11/14/why-a-rising-tsmc-challenger-could-reshape-the-chi/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14"
-        },
-        {
-          "title": "A $164 Billion Fund Dumps These 3 Stocks",
-          "link": "https://www.tikr.com/blog/a-164-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261114-g646hx73",
-          "publisher": "TIKR",
           "published": "2026-11-14"
         }
       ]
@@ -1504,15 +1558,31 @@
           75.0
         ]
       },
-      "price": 4020.0,
-      "market_cap_b": 347.1,
+      "price": 3755.0,
+      "market_cap_b": 324.2,
       "revenue_yoy": 296.5,
       "gross_margin": 26.9,
       "operating_margin": 18.4,
       "fcf_b": -21.0,
       "debt_to_ebitda": 0.03,
-      "market_cap_usd_b": 10.8,
+      "market_cap_usd_b": 10.1,
       "arxiv_papers": [
+        {
+          "title": "OrbitWeaver: LLM Agent Planning with Simulation Feedback for Optically Interconnected Orbital GPU Clusters",
+          "summary": "Space-based data-center designs increasingly consider GPU computing formations connected by inter-satellite optical links. With limited neighboring connections, jobs assigned disjoint GPUs can still contend on shared rel...",
+          "authors": "Pengcheng Luo, Bowen Zhang",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17850v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "CHARMING: Parallel Edge AI Acceleration Across Tensor Processing and In-Memory Computation",
+          "summary": "Edge AI increasingly relies on specialized accelerators for low-latency inference under tight resource and energy constraints, yet their efficiency remains limited by data movement. Prior work, CHARM, mitigates this over...",
+          "authors": "Md Omar Faruque, Jingang Jin et al.",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17785v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
           "summary": "Second-order Epstein-Nesbet perturbation theory (EN-PT2) is an important tool for improving selected configuration interaction (SCI) energies, but the large external determinant space creates substantial memory and commu...",
@@ -1527,22 +1597,6 @@
           "authors": "Sreevikram Rajaraman, Derek Ladd et al.",
           "published": "2026-11-10",
           "link": "http://arxiv.org/pdf/2611.13437v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window for Back-End Compatible Multibit Memory",
-          "summary": "Ferroelectric field-effect transistors (FeFETs) with low-power operation and non-volatile data retention enabled by stable ferroelectric polarization switching, have emerged as promising alternatives to conventional floa...",
-          "authors": "Manisha Rajput, Farhan Ahmed Siddique et al.",
-          "published": "2026-11-07",
-          "link": "http://arxiv.org/pdf/2611.12968v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
-          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
-          "authors": "Chen-Xi Liang, Li Yan",
-          "published": "2026-11-06",
-          "link": "http://arxiv.org/pdf/2611.09643v1",
           "category": "AI Accelerator"
         }
       ],
@@ -1632,15 +1686,23 @@
           150.0
         ]
       },
-      "price": 1520.0,
-      "market_cap_b": 849.5,
+      "price": 1380.0,
+      "market_cap_b": 771.3,
       "revenue_yoy": 65.5,
       "gross_margin": 18.6,
       "operating_margin": 13.8,
       "fcf_b": -24.13,
       "debt_to_ebitda": 0.39,
-      "market_cap_usd_b": 26.5,
+      "market_cap_usd_b": 24.1,
       "arxiv_papers": [
+        {
+          "title": "OrbitWeaver: LLM Agent Planning with Simulation Feedback for Optically Interconnected Orbital GPU Clusters",
+          "summary": "Space-based data-center designs increasingly consider GPU computing formations connected by inter-satellite optical links. With limited neighboring connections, jobs assigned disjoint GPUs can still contend on shared rel...",
+          "authors": "Pengcheng Luo, Bowen Zhang",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17850v1",
+          "category": "Silicon Photonics"
+        },
         {
           "title": "Inverse Design of an On-chip Phase-Change Switch Composed of Sparse Heterogeneous Metasurfaces",
           "summary": "Photonic switches are exploited for optical signal routing and control within optical communication systems. The integration of phase change materials with silicon photonic switches overcomes the drawbacks of the state-o...",
@@ -1663,14 +1725,6 @@
           "authors": "Marziyeh Rezaei, Sridhar Singhal et al.",
           "published": "2026-11-06",
           "link": "http://arxiv.org/pdf/2611.08826v1",
-          "category": "Silicon Photonics"
-        },
-        {
-          "title": "Multi-Channel Non-Abelian Edge Pumping via Multi-Degeneracy Encircling",
-          "summary": "Non-Abelian operations enable sequence-dependent control of light, yet experimental realizations in wave systems have remained confined to local bulk or same-boundary modes and have often required fragile gap-closing deg...",
-          "authors": "Qingyang Mo, Jiacheng Sun et al.",
-          "published": "2026-11-05",
-          "link": "http://arxiv.org/pdf/2611.07594v1",
           "category": "Silicon Photonics"
         }
       ],
@@ -1760,15 +1814,31 @@
           440.0
         ]
       },
-      "price": 1635.0,
-      "market_cap_b": 954.9,
+      "price": 1540.0,
+      "market_cap_b": 899.4,
       "revenue_yoy": 62.9,
       "gross_margin": 8.3,
       "operating_margin": 6.8,
       "fcf_b": -88.8,
       "debt_to_ebitda": 2.06,
-      "market_cap_usd_b": 29.8,
+      "market_cap_usd_b": 28.1,
       "arxiv_papers": [
+        {
+          "title": "OrbitWeaver: LLM Agent Planning with Simulation Feedback for Optically Interconnected Orbital GPU Clusters",
+          "summary": "Space-based data-center designs increasingly consider GPU computing formations connected by inter-satellite optical links. With limited neighboring connections, jobs assigned disjoint GPUs can still contend on shared rel...",
+          "authors": "Pengcheng Luo, Bowen Zhang",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17850v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "CHARMING: Parallel Edge AI Acceleration Across Tensor Processing and In-Memory Computation",
+          "summary": "Edge AI increasingly relies on specialized accelerators for low-latency inference under tight resource and energy constraints, yet their efficiency remains limited by data movement. Prior work, CHARM, mitigates this over...",
+          "authors": "Md Omar Faruque, Jingang Jin et al.",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17785v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
           "summary": "Second-order Epstein-Nesbet perturbation theory (EN-PT2) is an important tool for improving selected configuration interaction (SCI) energies, but the large external determinant space creates substantial memory and commu...",
@@ -1783,22 +1853,6 @@
           "authors": "Sreevikram Rajaraman, Derek Ladd et al.",
           "published": "2026-11-10",
           "link": "http://arxiv.org/pdf/2611.13437v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window for Back-End Compatible Multibit Memory",
-          "summary": "Ferroelectric field-effect transistors (FeFETs) with low-power operation and non-volatile data retention enabled by stable ferroelectric polarization switching, have emerged as promising alternatives to conventional floa...",
-          "authors": "Manisha Rajput, Farhan Ahmed Siddique et al.",
-          "published": "2026-11-07",
-          "link": "http://arxiv.org/pdf/2611.12968v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
-          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
-          "authors": "Chen-Xi Liang, Li Yan",
-          "published": "2026-11-06",
-          "link": "http://arxiv.org/pdf/2611.09643v1",
           "category": "AI Accelerator"
         }
       ],
@@ -1888,14 +1942,14 @@
           1380.0
         ]
       },
-      "price": 241.0,
-      "market_cap_b": 3391.9,
+      "price": 227.0,
+      "market_cap_b": 3194.9,
       "revenue_yoy": 46.5,
       "gross_margin": 6.0,
       "operating_margin": 3.6,
       "fcf_b": -169.24,
       "debt_to_ebitda": 3.18,
-      "market_cap_usd_b": 106.0,
+      "market_cap_usd_b": 99.8,
       "arxiv_papers": [
         {
           "title": "Starscream: Reimagining LLM Sharding on AMD Instinct GPUs with GPU Partitioning",
@@ -2016,15 +2070,31 @@
           810.0
         ]
       },
-      "price": 276.5,
-      "market_cap_b": 1133.5,
+      "price": 268.5,
+      "market_cap_b": 1100.7,
       "revenue_yoy": 125.2,
       "gross_margin": 5.1,
       "operating_margin": 3.2,
       "fcf_b": -95.05,
       "debt_to_ebitda": 3.09,
-      "market_cap_usd_b": 35.4,
+      "market_cap_usd_b": 34.4,
       "arxiv_papers": [
+        {
+          "title": "OrbitWeaver: LLM Agent Planning with Simulation Feedback for Optically Interconnected Orbital GPU Clusters",
+          "summary": "Space-based data-center designs increasingly consider GPU computing formations connected by inter-satellite optical links. With limited neighboring connections, jobs assigned disjoint GPUs can still contend on shared rel...",
+          "authors": "Pengcheng Luo, Bowen Zhang",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17850v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "CHARMING: Parallel Edge AI Acceleration Across Tensor Processing and In-Memory Computation",
+          "summary": "Edge AI increasingly relies on specialized accelerators for low-latency inference under tight resource and energy constraints, yet their efficiency remains limited by data movement. Prior work, CHARM, mitigates this over...",
+          "authors": "Md Omar Faruque, Jingang Jin et al.",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17785v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
           "summary": "Second-order Epstein-Nesbet perturbation theory (EN-PT2) is an important tool for improving selected configuration interaction (SCI) energies, but the large external determinant space creates substantial memory and commu...",
@@ -2039,22 +2109,6 @@
           "authors": "Sreevikram Rajaraman, Derek Ladd et al.",
           "published": "2026-11-10",
           "link": "http://arxiv.org/pdf/2611.13437v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window for Back-End Compatible Multibit Memory",
-          "summary": "Ferroelectric field-effect transistors (FeFETs) with low-power operation and non-volatile data retention enabled by stable ferroelectric polarization switching, have emerged as promising alternatives to conventional floa...",
-          "authors": "Manisha Rajput, Farhan Ahmed Siddique et al.",
-          "published": "2026-11-07",
-          "link": "http://arxiv.org/pdf/2611.12968v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
-          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
-          "authors": "Chen-Xi Liang, Li Yan",
-          "published": "2026-11-06",
-          "link": "http://arxiv.org/pdf/2611.09643v1",
           "category": "AI Accelerator"
         }
       ],
@@ -2144,14 +2198,14 @@
           78.0
         ]
       },
-      "price": 3040.0,
-      "market_cap_b": 1193.7,
+      "price": 2775.0,
+      "market_cap_b": 1089.7,
       "revenue_yoy": 51.8,
       "gross_margin": 30.8,
       "operating_margin": 25.5,
       "fcf_b": 32.25,
       "debt_to_ebitda": 0.7,
-      "market_cap_usd_b": 37.3,
+      "market_cap_usd_b": 34.1,
       "arxiv_papers": [
         {
           "title": "Starscream: Reimagining LLM Sharding on AMD Instinct GPUs with GPU Partitioning",
@@ -2272,15 +2326,31 @@
           350.0
         ]
       },
-      "price": 1240.0,
-      "market_cap_b": 3221.0,
+      "price": 1125.0,
+      "market_cap_b": 2922.2,
       "revenue_yoy": 31.1,
       "gross_margin": 35.3,
       "operating_margin": 16.9,
       "fcf_b": 44.52,
       "debt_to_ebitda": 0.77,
-      "market_cap_usd_b": 100.7,
+      "market_cap_usd_b": 91.3,
       "arxiv_papers": [
+        {
+          "title": "OrbitWeaver: LLM Agent Planning with Simulation Feedback for Optically Interconnected Orbital GPU Clusters",
+          "summary": "Space-based data-center designs increasingly consider GPU computing formations connected by inter-satellite optical links. With limited neighboring connections, jobs assigned disjoint GPUs can still contend on shared rel...",
+          "authors": "Pengcheng Luo, Bowen Zhang",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17850v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "CHARMING: Parallel Edge AI Acceleration Across Tensor Processing and In-Memory Computation",
+          "summary": "Edge AI increasingly relies on specialized accelerators for low-latency inference under tight resource and energy constraints, yet their efficiency remains limited by data movement. Prior work, CHARM, mitigates this over...",
+          "authors": "Md Omar Faruque, Jingang Jin et al.",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17785v1",
+          "category": "AI Accelerator"
+        },
         {
           "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
           "summary": "Second-order Epstein-Nesbet perturbation theory (EN-PT2) is an important tool for improving selected configuration interaction (SCI) energies, but the large external determinant space creates substantial memory and commu...",
@@ -2295,22 +2365,6 @@
           "authors": "Sreevikram Rajaraman, Derek Ladd et al.",
           "published": "2026-11-10",
           "link": "http://arxiv.org/pdf/2611.13437v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window for Back-End Compatible Multibit Memory",
-          "summary": "Ferroelectric field-effect transistors (FeFETs) with low-power operation and non-volatile data retention enabled by stable ferroelectric polarization switching, have emerged as promising alternatives to conventional floa...",
-          "authors": "Manisha Rajput, Farhan Ahmed Siddique et al.",
-          "published": "2026-11-07",
-          "link": "http://arxiv.org/pdf/2611.12968v1",
-          "category": "AI Accelerator"
-        },
-        {
-          "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
-          "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
-          "authors": "Chen-Xi Liang, Li Yan",
-          "published": "2026-11-06",
-          "link": "http://arxiv.org/pdf/2611.09643v1",
           "category": "AI Accelerator"
         }
       ],
@@ -2345,17 +2399,35 @@
   "arxiv_papers_by_category": {
     "LLM MoE": [
       {
-        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
-        "authors": "DeepSeek-AI Research et al.",
-        "published": "2026-10-18",
-        "link": "https://arxiv.org/list/cs.CL/recent",
+        "title": "From Local Prediction Error to Final Outputs: A Theory of Expert Sharing in Multi-Step Reasoning",
+        "summary": "Mixture-of-experts (MoE) models can share experts across layers or computational steps, pooling training information from different contexts. This can reduce local prediction error, but multi-step systems are ultimately ...",
+        "authors": "Tiantong Wang, Zhiren Gong et al.",
+        "published": "2026-11-13",
+        "link": "http://arxiv.org/pdf/2611.17879v1",
         "category": "LLM MoE"
       },
       {
-        "title": "Ultra-Sparse Mixture-of-Experts with Fine-Grained Token Routing on Multi-Node Clusters",
-        "authors": "L. Zhang, M. Chen et al.",
-        "published": "2026-10-15",
-        "link": "https://arxiv.org/list/cs.LG/recent",
+        "title": "Fuse-All MoE Inference Kernel with Load Balancing on TPUs",
+        "summary": "Mixture-of-Experts (MoE) architectures activate only a subset of experts for each token, allowing large language models (LLMs) to scale parameter capacity without a proportional increase in computation per token. However...",
+        "authors": "Rupeng Liu, Bangsheng Tang et al.",
+        "published": "2026-11-13",
+        "link": "http://arxiv.org/pdf/2611.17857v1",
+        "category": "LLM MoE"
+      },
+      {
+        "title": "Do Mixture-of-Experts Routers Benefit from Ensembling?",
+        "summary": "Ensembles of neural networks have repeatedly been shown to outperform single networks. Ensemble theory attributes this gain to the accuracy of the individual members and the diversity among them. Mixture-of-experts model...",
+        "authors": "Viktor Veselý, Sebastian Jitaru",
+        "published": "2026-11-12",
+        "link": "http://arxiv.org/pdf/2611.17472v1",
+        "category": "LLM MoE"
+      },
+      {
+        "title": "Broadcast, Don't Replicate: Eliminating Weight HBM in Datacenter LLM Serving",
+        "summary": "Large language model (LLM) inference at datacenter scale is fundamentally bottlenecked by memory capacity and bandwidth limits. Because model weights are read-only and identical across instances, conventional architectur...",
+        "authors": "Hannah Atmer, Yuan Yao et al.",
+        "published": "2026-11-12",
+        "link": "http://arxiv.org/pdf/2611.17097v1",
         "category": "LLM MoE"
       }
     ],
@@ -2429,6 +2501,14 @@
     ],
     "Multimodal & World Models": [
       {
+        "title": "AmbiSteer: Selectively Eliciting Ambiguity-Aware Responses in Vision-Language Models",
+        "summary": "Vision-language models (VLMs) often exhibit overconfidence, providing firm answers even when visual evidence is insufficient. A prominent case is referential ambiguity in Visual Question Answering (VQA), where multiple e...",
+        "authors": "Monica Riedler, Samuele Antonelli et al.",
+        "published": "2026-11-13",
+        "link": "http://arxiv.org/pdf/2611.17900v1",
+        "category": "Multimodal & World Models"
+      },
+      {
         "title": "Spatial Foundry: A Multimodal Dataset for Spatial Intelligence",
         "summary": "Spatial intelligence requires connecting visual observations to the geometry, objects, and persistent state of an environment. Images alone leave these relationships implicit, while disconnected annotations make it diffi...",
         "authors": "Ethan Lin, Yang Song",
@@ -2450,14 +2530,6 @@
         "authors": "Lyes Saad Saoud, Oualid Doukhi et al.",
         "published": "2026-11-12",
         "link": "http://arxiv.org/pdf/2611.16752v1",
-        "category": "Multimodal & World Models"
-      },
-      {
-        "title": "From Foundation VLM to Versatile Driving VLM: A Triplet Incremental Training Approach",
-        "summary": "Adapting general Vision-Language Models (VLMs) to Autonomous Driving (AD) is thought to require heavy 3D spatial priors or intrusive architectural overhauls to compensate for a lack of spatial grounding. In this work, we...",
-        "authors": "Shengtao Wu, Zichao Dong et al.",
-        "published": "2026-11-12",
-        "link": "http://arxiv.org/pdf/2611.16727v1",
         "category": "Multimodal & World Models"
       }
     ],
@@ -2497,6 +2569,14 @@
     ],
     "Silicon Photonics": [
       {
+        "title": "OrbitWeaver: LLM Agent Planning with Simulation Feedback for Optically Interconnected Orbital GPU Clusters",
+        "summary": "Space-based data-center designs increasingly consider GPU computing formations connected by inter-satellite optical links. With limited neighboring connections, jobs assigned disjoint GPUs can still contend on shared rel...",
+        "authors": "Pengcheng Luo, Bowen Zhang",
+        "published": "2026-11-13",
+        "link": "http://arxiv.org/pdf/2611.17850v1",
+        "category": "Silicon Photonics"
+      },
+      {
         "title": "Inverse Design of an On-chip Phase-Change Switch Composed of Sparse Heterogeneous Metasurfaces",
         "summary": "Photonic switches are exploited for optical signal routing and control within optical communication systems. The integration of phase change materials with silicon photonic switches overcomes the drawbacks of the state-o...",
         "authors": "Sanaz Zarei",
@@ -2519,17 +2599,25 @@
         "published": "2026-11-06",
         "link": "http://arxiv.org/pdf/2611.08826v1",
         "category": "Silicon Photonics"
-      },
-      {
-        "title": "Multi-Channel Non-Abelian Edge Pumping via Multi-Degeneracy Encircling",
-        "summary": "Non-Abelian operations enable sequence-dependent control of light, yet experimental realizations in wave systems have remained confined to local bulk or same-boundary modes and have often required fragile gap-closing deg...",
-        "authors": "Qingyang Mo, Jiacheng Sun et al.",
-        "published": "2026-11-05",
-        "link": "http://arxiv.org/pdf/2611.07594v1",
-        "category": "Silicon Photonics"
       }
     ],
     "AI Accelerator": [
+      {
+        "title": "OrbitWeaver: LLM Agent Planning with Simulation Feedback for Optically Interconnected Orbital GPU Clusters",
+        "summary": "Space-based data-center designs increasingly consider GPU computing formations connected by inter-satellite optical links. With limited neighboring connections, jobs assigned disjoint GPUs can still contend on shared rel...",
+        "authors": "Pengcheng Luo, Bowen Zhang",
+        "published": "2026-11-13",
+        "link": "http://arxiv.org/pdf/2611.17850v1",
+        "category": "AI Accelerator"
+      },
+      {
+        "title": "CHARMING: Parallel Edge AI Acceleration Across Tensor Processing and In-Memory Computation",
+        "summary": "Edge AI increasingly relies on specialized accelerators for low-latency inference under tight resource and energy constraints, yet their efficiency remains limited by data movement. Prior work, CHARM, mitigates this over...",
+        "authors": "Md Omar Faruque, Jingang Jin et al.",
+        "published": "2026-11-13",
+        "link": "http://arxiv.org/pdf/2611.17785v1",
+        "category": "AI Accelerator"
+      },
       {
         "title": "Fully GPU-accelerated semistochastic Epstein-Nesbet perturbation theory",
         "summary": "Second-order Epstein-Nesbet perturbation theory (EN-PT2) is an important tool for improving selected configuration interaction (SCI) energies, but the large external determinant space creates substantial memory and commu...",
@@ -2544,22 +2632,6 @@
         "authors": "Sreevikram Rajaraman, Derek Ladd et al.",
         "published": "2026-11-10",
         "link": "http://arxiv.org/pdf/2611.13437v1",
-        "category": "AI Accelerator"
-      },
-      {
-        "title": "Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window for Back-End Compatible Multibit Memory",
-        "summary": "Ferroelectric field-effect transistors (FeFETs) with low-power operation and non-volatile data retention enabled by stable ferroelectric polarization switching, have emerged as promising alternatives to conventional floa...",
-        "authors": "Manisha Rajput, Farhan Ahmed Siddique et al.",
-        "published": "2026-11-07",
-        "link": "http://arxiv.org/pdf/2611.12968v1",
-        "category": "AI Accelerator"
-      },
-      {
-        "title": "On the collective flow puzzle in ultra-central heavy-ion collisions",
-        "summary": "Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} a...",
-        "authors": "Chen-Xi Liang, Li Yan",
-        "published": "2026-11-06",
-        "link": "http://arxiv.org/pdf/2611.09643v1",
         "category": "AI Accelerator"
       }
     ]
