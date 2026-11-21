@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20 12:08:31 CST (UTC+8)",
+  "last_updated": "2026-11-21 12:08:03 CST (UTC+8)",
   "status": "LIVE_CLOUD_SYNC",
   "macro_kpis": {
     "csp_capex": {
@@ -150,53 +150,71 @@
           71.0
         ]
       },
-      "price": 145.98,
-      "market_cap_b": 3525.0,
+      "price": 125.53,
+      "market_cap_b": 3031.2,
       "revenue_yoy": 103.2,
       "gross_margin": 74.9,
       "operating_margin": 66.1,
       "fcf_b": 99.24,
       "debt_to_ebitda": 0.16,
-      "market_cap_usd_b": 3525.0,
+      "market_cap_usd_b": 3031.2,
       "arxiv_papers": [
         {
-          "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
-          "authors": "S. Dally, W. J. Song et al.",
-          "published": "2026-10-17",
-          "link": "https://arxiv.org/list/cs.AR/recent",
+          "title": "DexAttention: Distributed Sparse Attention through Rapid Online Planning and Persistent GPU Execution",
+          "summary": "Sparse attention reduces computation, but distributed execution may still transfer unnecessary data and incur substantial per-operation overhead. Mask-aware assignment and scheduling can reduce these costs, but replannin...",
+          "authors": "Sirui Chen, Xuehai Qian",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.23512v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "FP4 / Microscaling Formats and High-Radix NVLink Topologies for Next-Gen GPU Clusters",
-          "authors": "N. Jouppi, K. Sato et al.",
-          "published": "2026-10-13",
-          "link": "https://arxiv.org/list/cs.DC/recent",
+          "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
+          "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
+          "authors": "Patrick Iff, Torsten Hoefler",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22937v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU",
+          "summary": "For automatic optimization systems, performance portability across increasingly diverse AI accelerators remains a challenge. We investigate how well graph-level superoptimization transfers across architectures by adaptin...",
+          "authors": "Weronika Hryniewska-Guzik, Mateusz Comblik et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22844v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "PAISF: A Partially Adaptive In-Order Selection Function for Routing in On-Chip, Inter-Chiplet, and Wafer-Scale Networks",
+          "summary": "The growing number of compute elements per chip, along with advances such as chiplet systems and wafer-scale integration, drives the need for scalable and efficient routing algorithms for irregular topologies. A routing ...",
+          "authors": "Patrick Iff, Luca Oertig et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22772v1",
           "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Jensen Huang's Nvidia comeback: Why the math doesn't add up",
-          "link": "https://finance.yahoo.com/video/jensen-huangs-nvidia-comeback-why-the-math-doesnt-add-up-213021034.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-19"
+          "title": "Nvidia stock extends $2.7 trillion rout as SEC probe reportedly investigates its accounting",
+          "link": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-20"
         },
         {
-          "title": "Nvidia will not be the leader 5 years from now: Tiernan Ray",
-          "link": "https://finance.yahoo.com/video/nvidia-will-not-be-the-leader-5-years-from-now-tiernan-ray-185954396.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-19"
+          "title": "Trump critiques Jensen Huang's replacement as he wades deeper into Nvidia turmoil",
+          "link": "https://finance.yahoo.com/markets/article/trump-critiques-jensen-huangs-replacement-as-he-wades-deeper-into-nvidia-turmoil-210729338.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-20"
         },
         {
-          "title": "Why AI competition from China won't be a risk US tech companies",
-          "link": "https://finance.yahoo.com/video/why-ai-competition-from-china-wont-be-a-risk-us-tech-companies-184851467.html",
+          "title": "Market Hang: AI Reset? Anthropic's Outlook, Amodei's Future, and Who Could Dethrone NVIDIA?",
+          "link": "https://finance.yahoo.com/video/market-hang-ai-reset-anthropics-outlook-amodeis-future-and-who-could-dethrone-nvidia-210048852.html",
           "publisher": "Yahoo Finance Video",
-          "published": "2026-11-19"
+          "published": "2026-11-20"
         },
         {
-          "title": "Dan Ives Calls Tech Selloff a Panic Moment but Anthropic IPO Shows Proof of Demand",
-          "link": "https://beincrypto.com/dan-ives-anthropic-ipo-tech-selloff/",
-          "publisher": "BeInCrypto",
+          "title": "Trump on Jensen Huang: 'We're a country of second chances'",
+          "link": "https://finance.yahoo.com/video/trump-on-jensen-huang-were-a-country-of-second-chances-193647938.html",
+          "publisher": "Yahoo Finance Video",
           "published": "2026-11-20"
         }
       ]
@@ -260,54 +278,72 @@
           76.8
         ]
       },
-      "price": 346.65,
-      "market_cap_b": 1654.8,
+      "price": 304.41,
+      "market_cap_b": 1453.1,
       "revenue_yoy": 85.5,
       "gross_margin": 75.5,
       "operating_margin": 48.8,
       "fcf_b": 30.6,
       "debt_to_ebitda": 1.14,
-      "market_cap_usd_b": 1654.8,
+      "market_cap_usd_b": 1453.1,
       "arxiv_papers": [
         {
-          "title": "1.6Tbps Co-Packaged Optics (CPO) with Kerr Microcomb Laser Sources for AI Scale-Up Fabrics",
-          "authors": "A. Bergman, D. Miller et al.",
-          "published": "2026-10-16",
-          "link": "https://arxiv.org/list/physics.optics/recent",
+          "title": "Simultaneous spectral measurement and programmable filtering on a universal silicon photonic chip",
+          "summary": "Spectral measurement and spectral filtering are two fundamental operations in optics, yet they are conventionally implemented using separate optical systems, hindering their simultaneous and programmable operation on a c...",
+          "authors": "Yangyang Wan, Rui Tang et al.",
+          "published": "2026-11-18",
+          "link": "http://arxiv.org/pdf/2611.23667v1",
           "category": "Silicon Photonics"
         },
         {
-          "title": "Sub-Picojoule per Bit Silicon Photonic Transceivers for Optical Inter-Chiplet Interconnects",
-          "authors": "J. Bowers, R. Soref et al.",
-          "published": "2026-10-11",
-          "link": "https://arxiv.org/list/physics.optics/recent",
+          "title": "Bringing coherent closer to compute: coherent-lite multidimensional on-chip interconnect beyond 100 terabits per second",
+          "summary": "The continued scaling of artificial intelligence (AI) demands optical interconnects that deliver higher bandwidth density within stringent electrical-bandwidth and energy budgets. Coherent optics offers a route beyond th...",
+          "authors": "Yongzhu Hu, Aolong Sun et al.",
+          "published": "2026-11-14",
+          "link": "http://arxiv.org/pdf/2611.19254v1",
+          "category": "Silicon Photonics"
+        },
+        {
+          "title": "Chip-Based Discrete-Modulated Continuous-Variable Quantum Key Distribution with Uncertainty-Principle-Based Composable Security",
+          "summary": "Continuous-variable quantum key distribution offers a promising platform for scalable quantum networks through its compatibility with standard telecommunications technology and photonic integration. High-order discrete m...",
+          "authors": "Jiale Mi, Yiming Bian et al.",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.18288v1",
+          "category": "Silicon Photonics"
+        },
+        {
+          "title": "OrbitWeaver: LLM Agent Planning with Simulation Feedback for Optically Interconnected Orbital GPU Clusters",
+          "summary": "Space-based data-center designs increasingly consider GPU computing formations connected by inter-satellite optical links. With limited neighboring connections, jobs assigned disjoint GPUs can still contend on shared rel...",
+          "authors": "Pengcheng Luo, Bowen Zhang",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17850v1",
           "category": "Silicon Photonics"
         }
       ],
       "news": [
         {
-          "title": "Why AI competition from China won't be a risk US tech companies",
-          "link": "https://finance.yahoo.com/video/why-ai-competition-from-china-wont-be-a-risk-us-tech-companies-184851467.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-19"
-        },
-        {
-          "title": "Is Broadcom (AVGO) Stock Stretched Or Still Reasonable On Cash Flow?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-stretched-still-031317832.html",
-          "publisher": "Simply Wall St.",
+          "title": "Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down",
+          "link": "https://finance.yahoo.com/markets/article/nvidia-amd-and-broadcom-lead-chip-stocks-lower-133658985.html",
+          "publisher": "Yahoo Finance",
           "published": "2026-11-20"
         },
         {
-          "title": "Is Your VOO Fund Secretly An AI Bet?",
-          "link": "https://www.trefis.com/stock/voo/articles/626646/is-your-voo-fund-secretly-an-ai-bet/2026-11-19",
-          "publisher": "Trefis",
+          "title": "Data Center AI Chips Could Change the Winners: Broadcom and Marvell",
+          "link": "https://247wallst.com/investing/2026/11/20/data-center-ai-chips-could-change-the-winners-broadcom-and-marvell/",
+          "publisher": "24/7 Wall St.",
           "published": "2026-11-20"
         },
         {
-          "title": "This Beaten-Down Semiconductor Stock Could Soar in 2027",
-          "link": "https://www.fool.com/investing/2026/11/19/this-beaten-down-semiconductor-stock-could-soar-in-2027/",
+          "title": "Stock Market Today, Nov. 20: Stocks Plunge as AI Trade Unwinds",
+          "link": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-stocks-plunge-as-ai-trade-unwinds/",
           "publisher": "Motley Fool",
-          "published": "2026-11-19"
+          "published": "2026-11-20"
+        },
+        {
+          "title": "Tech sees huge sell-off as Anthropic IPO fails to lift the market",
+          "link": "https://finance.yahoo.com/video/tech-sees-huge-sell-off-as-anthropic-ipo-fails-to-lift-the-market-221925316.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-20"
         }
       ]
     },
@@ -370,53 +406,71 @@
           14.2
         ]
       },
-      "price": 489.19,
-      "market_cap_b": 809.6,
+      "price": 424.39,
+      "market_cap_b": 702.4,
       "revenue_yoy": 44.7,
       "gross_margin": 56.0,
       "operating_margin": 17.8,
       "fcf_b": 7.36,
       "debt_to_ebitda": 0.83,
-      "market_cap_usd_b": 809.6,
+      "market_cap_usd_b": 702.4,
       "arxiv_papers": [
         {
-          "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
-          "authors": "S. Dally, W. J. Song et al.",
-          "published": "2026-10-17",
-          "link": "https://arxiv.org/list/cs.AR/recent",
+          "title": "DexAttention: Distributed Sparse Attention through Rapid Online Planning and Persistent GPU Execution",
+          "summary": "Sparse attention reduces computation, but distributed execution may still transfer unnecessary data and incur substantial per-operation overhead. Mask-aware assignment and scheduling can reduce these costs, but replannin...",
+          "authors": "Sirui Chen, Xuehai Qian",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.23512v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "FP4 / Microscaling Formats and High-Radix NVLink Topologies for Next-Gen GPU Clusters",
-          "authors": "N. Jouppi, K. Sato et al.",
-          "published": "2026-10-13",
-          "link": "https://arxiv.org/list/cs.DC/recent",
+          "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
+          "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
+          "authors": "Patrick Iff, Torsten Hoefler",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22937v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU",
+          "summary": "For automatic optimization systems, performance portability across increasingly diverse AI accelerators remains a challenge. We investigate how well graph-level superoptimization transfers across architectures by adaptin...",
+          "authors": "Weronika Hryniewska-Guzik, Mateusz Comblik et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22844v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "PAISF: A Partially Adaptive In-Order Selection Function for Routing in On-Chip, Inter-Chiplet, and Wafer-Scale Networks",
+          "summary": "The growing number of compute elements per chip, along with advances such as chiplet systems and wafer-scale integration, drives the need for scalable and efficient routing algorithms for irregular topologies. A routing ...",
+          "authors": "Patrick Iff, Luca Oertig et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22772v1",
           "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Nvidia, Broadcom, and Micron stocks decline as Anthropic goes public",
-          "link": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html",
+          "title": "Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down",
+          "link": "https://finance.yahoo.com/markets/article/nvidia-amd-and-broadcom-lead-chip-stocks-lower-133658985.html",
           "publisher": "Yahoo Finance",
-          "published": "2026-11-19"
+          "published": "2026-11-20"
         },
         {
-          "title": "AMD stock drops after Hunterbrook Media raises export control concerns",
-          "link": "https://finance.yahoo.com/technology/article/amd-stock-drops-after-hunterbrook-media-raises-export-control-concerns-171508145.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-19"
-        },
-        {
-          "title": "Blacklisted Chinese server maker kept getting AMD firmware updates: Hunterbrook",
-          "link": "https://finance.yahoo.com/video/blacklisted-chinese-server-maker-kept-getting-amd-firmware-updates-hunterbrook-162807931.html",
+          "title": "Sozzi: Anthropic’s IPO Surges; Is AMD’s Pullback a Buy?",
+          "link": "https://finance.yahoo.com/video/sozzi-anthropics-ipo-surges-is-amds-pullback-a-buy-181915349.html",
           "publisher": "Yahoo Finance Video",
-          "published": "2026-11-19"
+          "published": "2026-11-20"
         },
         {
-          "title": "Dan Ives Calls Tech Selloff a Panic Moment but Anthropic IPO Shows Proof of Demand",
-          "link": "https://beincrypto.com/dan-ives-anthropic-ipo-tech-selloff/",
-          "publisher": "BeInCrypto",
+          "title": "Why the markets are being hit with a 'perfect storm' for AI",
+          "link": "https://finance.yahoo.com/video/why-the-markets-are-being-hit-with-a-perfect-storm-for-ai-154128015.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-20"
+        },
+        {
+          "title": "What to consider with AMD after reading short seller report",
+          "link": "https://finance.yahoo.com/video/what-to-consider-with-amd-after-reading-short-seller-report-150257404.html",
+          "publisher": "Yahoo Finance Video",
           "published": "2026-11-20"
         }
       ]
@@ -480,54 +534,72 @@
           2.75
         ]
       },
-      "price": 177.17,
-      "market_cap_b": 189.6,
+      "price": 152.2,
+      "market_cap_b": 162.9,
       "revenue_yoy": 27.1,
       "gross_margin": 97.4,
       "operating_margin": 17.0,
       "fcf_b": 1.14,
       "debt_to_ebitda": 0.44,
-      "market_cap_usd_b": 189.6,
+      "market_cap_usd_b": 162.9,
       "arxiv_papers": [
         {
-          "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
-          "authors": "S. Dally, W. J. Song et al.",
-          "published": "2026-10-17",
-          "link": "https://arxiv.org/list/cs.AR/recent",
+          "title": "DexAttention: Distributed Sparse Attention through Rapid Online Planning and Persistent GPU Execution",
+          "summary": "Sparse attention reduces computation, but distributed execution may still transfer unnecessary data and incur substantial per-operation overhead. Mask-aware assignment and scheduling can reduce these costs, but replannin...",
+          "authors": "Sirui Chen, Xuehai Qian",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.23512v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "FP4 / Microscaling Formats and High-Radix NVLink Topologies for Next-Gen GPU Clusters",
-          "authors": "N. Jouppi, K. Sato et al.",
-          "published": "2026-10-13",
-          "link": "https://arxiv.org/list/cs.DC/recent",
+          "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
+          "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
+          "authors": "Patrick Iff, Torsten Hoefler",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22937v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU",
+          "summary": "For automatic optimization systems, performance portability across increasingly diverse AI accelerators remains a challenge. We investigate how well graph-level superoptimization transfers across architectures by adaptin...",
+          "authors": "Weronika Hryniewska-Guzik, Mateusz Comblik et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22844v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "PAISF: A Partially Adaptive In-Order Selection Function for Routing in On-Chip, Inter-Chiplet, and Wafer-Scale Networks",
+          "summary": "The growing number of compute elements per chip, along with advances such as chiplet systems and wafer-scale integration, drives the need for scalable and efficient routing algorithms for irregular topologies. A routing ...",
+          "authors": "Patrick Iff, Luca Oertig et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22772v1",
           "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Is Tech in a Bear Market? 20 Tech Stocks Fall Up to 76% From Highs",
-          "link": "https://beincrypto.com/tech-stocks-bear-market-record-highs/",
-          "publisher": "BeInCrypto",
-          "published": "2026-11-19"
+          "title": "Arm (ARM) Stock Looks Undervalued Despite Rich Sales Expectations",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/arm-arm-stock-looks-undervalued-021442325.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-21"
         },
         {
-          "title": "The 25 Biggest US IPOs of All Time",
-          "link": "https://www.kiplinger.com/slideshow/investing/t052-s001-the-25-biggest-ipos-in-u-s-history/index.html",
-          "publisher": "Kiplinger",
-          "published": "2026-11-19"
+          "title": "Prediction: Nvidia Stock Will Do This in the 6 Months After a New CEO Takes Over, According to History",
+          "link": "https://www.fool.com/investing/2026/11/20/prediction-nvidia-stock-will-do-this-in-the-6-months-after-a-new-ceo-takes-over-according-to-history/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-21"
         },
         {
           "title": "At AI Summit, Industry Titans Wave Off Market Woes—and Defend Jensen Huang",
           "link": "https://www.barrons.com/articles/ai-trade-stocks-bull-bear-anthropic-ipo-4139cf71?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
-          "published": "2026-11-19"
+          "published": "2026-11-20"
         },
         {
-          "title": "Arm Just Dropped 21% in a Month. Will ARM Stock Hit $150 or $200 First?",
-          "link": "https://247wallst.com/investing/2026/11/19/arm-just-dropped-21-in-a-month-will-arm-stock-hit-150-or-200-first/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-19"
+          "title": "A $9.7 Billion Fund Bought These 3 Stocks Last Quarter",
+          "link": "https://www.tikr.com/blog/a-9-7-billion-fund-bought-these-3-stocks-last-quarter?ref=yahoofinance&tlnk=yf-261120-83gq9xg9",
+          "publisher": "TIKR",
+          "published": "2026-11-20"
         }
       ]
     },
@@ -590,54 +662,72 @@
           7.9
         ]
       },
-      "price": 184.99,
-      "market_cap_b": 71.2,
+      "price": 166.24,
+      "market_cap_b": 64.0,
       "revenue_yoy": 61.2,
       "gross_margin": 38.1,
       "operating_margin": 21.1,
       "fcf_b": 2.96,
       "debt_to_ebitda": 1.05,
-      "market_cap_usd_b": 71.2,
+      "market_cap_usd_b": 64.0,
       "arxiv_papers": [
         {
-          "title": "Thermal-Mechanical Reliability of CoWoS-L Silicon Interposers for 1000W+ AI Accelerators",
-          "authors": "Y. T. Lin, H. C. Kuo et al.",
-          "published": "2026-10-14",
-          "link": "https://arxiv.org/list/physics.app-ph/recent",
+          "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
+          "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
+          "authors": "Patrick Iff, Torsten Hoefler",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22937v1",
           "category": "CoWoS Packaging"
         },
         {
-          "title": "3D SoIC Hybrid Bonding and Micro-Channel Direct Liquid Cooling for HBM4 Integration",
-          "authors": "S. W. Chen, K. P. Wu et al.",
-          "published": "2026-10-10",
-          "link": "https://arxiv.org/list/cs.AR/recent",
+          "title": "PAISF: A Partially Adaptive In-Order Selection Function for Routing in On-Chip, Inter-Chiplet, and Wafer-Scale Networks",
+          "summary": "The growing number of compute elements per chip, along with advances such as chiplet systems and wafer-scale integration, drives the need for scalable and efficient routing algorithms for irregular topologies. A routing ...",
+          "authors": "Patrick Iff, Luca Oertig et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22772v1",
+          "category": "CoWoS Packaging"
+        },
+        {
+          "title": "ThermLeT: Transformer-based Temperature Prediction for 2.5D Chiplet Architecture",
+          "summary": "The drive toward heterogeneous 2.5D chiplet packages promises unmatched performance and customization, yet the resulting density amplifies thermal challenges. To facilitate rapid design space exploration, we present Ther...",
+          "authors": "Varun Darshana Parekh, Anusha Devulapally et al.",
+          "published": "2026-11-16",
+          "link": "http://arxiv.org/pdf/2611.21954v1",
+          "category": "CoWoS Packaging"
+        },
+        {
+          "title": "An Open-Source da Vinci X/Xi Instrument Module for Laparoscopic Surgery Research",
+          "summary": "Studying electrosurgical tasks on a research robot requires control of both instrument motion and energy activation, along with a record of when each action occurs. This paper presents an open-source module for da Vinci ...",
+          "authors": "Douglas McDonough, Justin Liao et al.",
+          "published": "2026-11-16",
+          "link": "http://arxiv.org/pdf/2611.21771v1",
           "category": "CoWoS Packaging"
         }
       ],
       "news": [
         {
-          "title": "Anthropic's Record IPO: Can It Lift AI Stocks?",
-          "link": "https://finance.yahoo.com/technology/ai/articles/anthropics-record-ipo-lift-ai-185300518.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19"
-        },
-        {
-          "title": "Vertiv's 800 VDC Push Boosts AI Prospects: Can It Beat APH and SMCI?",
-          "link": "https://finance.yahoo.com/technology/ai/articles/vertivs-800-vdc-push-boosts-164600968.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19"
-        },
-        {
-          "title": "GE Vernova Is Down 34% From Its July High Despite 3 Guidance Raises. Is It Time to Buy?",
-          "link": "https://www.tikr.com/blog/ge-vernova-stock-down-35-percent-guidance-raises-buy?ref=yahoofinance&tlnk=yf-261119-9mr8jmc3",
+          "title": "AI Racks Are Now “Too Heavy for Most Old Datacenters.” That’s a Bottleneck for Nvidia’s Vera Rubin",
+          "link": "https://www.tikr.com/blog/ai-racks-are-now-too-heavy-for-most-old-datacenters-thats-a-bottleneck-for-nvidias-vera-rubin?ref=yahoofinance&tlnk=yf-261120-pvv6fq57",
           "publisher": "TIKR",
-          "published": "2026-11-19"
+          "published": "2026-11-20"
         },
         {
-          "title": "4 Stocks Analysts and Hedge Funds Surprisingly Prefer Over Tesla",
-          "link": "https://247wallst.com/investing/2026/11/19/4-stocks-analysts-and-hedge-funds-surprisingly-prefer-over-tesla/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-19"
+          "title": "Vertiv Holdings Co (VRT) Deepens AI Data Center Liquid Cooling Push",
+          "link": "https://finance.yahoo.com/technology/ai/articles/vertiv-holdings-co-vrt-deepens-161049822.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20"
+        },
+        {
+          "title": "Caterpillar Sinks 11% in a Week to a New 52-Week Low. Is the Selling Overdone?",
+          "link": "https://www.tikr.com/blog/caterpillar-sinks-11-in-a-week-to-a-new-52-week-low-is-the-selling-overdone?ref=yahoofinance&tlnk=yf-261120-w3r4pmj4",
+          "publisher": "TIKR",
+          "published": "2026-11-20"
+        },
+        {
+          "title": "AI trade stocks hit hardest after Jensen Huang’s exit from Nvidia",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/ai-trade-stocks-hit-hardest-152651279.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-20"
         }
       ]
     },
@@ -700,54 +790,72 @@
           312.0
         ]
       },
-      "price": 498.3,
-      "market_cap_b": 3700.5,
+      "price": 484.52,
+      "market_cap_b": 3598.1,
       "revenue_yoy": 18.8,
       "gross_margin": 67.7,
       "operating_margin": 47.1,
       "fcf_b": 2.99,
       "debt_to_ebitda": 0.65,
-      "market_cap_usd_b": 3700.5,
+      "market_cap_usd_b": 3598.1,
       "arxiv_papers": [
         {
-          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
-          "authors": "DeepSeek-AI Research et al.",
-          "published": "2026-10-18",
-          "link": "https://arxiv.org/list/cs.CL/recent",
+          "title": "Beam Model Technical Report",
+          "summary": "Beam is a sparse Mixture-of-Experts (MoE) model with 501.3B total parameters and 23.4B active parameters, specifically built and optimized for coding, reasoning, and agentic workloads. Beam delivers frontier level reason...",
+          "authors": "Reflection Team, Adam Abdulhamid et al.",
+          "published": "2026-11-19",
+          "link": "http://arxiv.org/pdf/2611.26358v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Ultra-Sparse Mixture-of-Experts with Fine-Grained Token Routing on Multi-Node Clusters",
-          "authors": "L. Zhang, M. Chen et al.",
-          "published": "2026-10-15",
-          "link": "https://arxiv.org/list/cs.LG/recent",
+          "title": "Understanding MoE Decisions Beyond Gradients",
+          "summary": "Understanding a language model's decision requires knowing how its internal computations affect its preference between answers. Gradient-based methods estimate this influence by predicting the effect of changing those co...",
+          "authors": "Zhen Xu, Zitao Zhang et al.",
+          "published": "2026-11-19",
+          "link": "http://arxiv.org/pdf/2611.26075v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "Validation-driven Deployment of LLM Inference Platforms for Agentic Workloads",
+          "summary": "Enterprises are moving agentic workloads from closed APIs to their own open-weight model deployments. For this reason, lifecycle-wide validation, from small-scale testing through sizing and pre-production to production, ...",
+          "authors": "Shai Gretz, Alon Halfon et al.",
+          "published": "2026-11-19",
+          "link": "http://arxiv.org/pdf/2611.25905v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "RouteVerify: Routing Interventions for Step-Level Verification in Mixture-of-Experts Models",
+          "summary": "Routing states in mixture-of-experts (MoE) models can distinguish correct from erroneous reasoning steps. If changing routing also changes a model's step-level verification judgment, it is tempting to conclude that the j...",
+          "authors": "Yucheng Du, Ryan A. Rossi et al.",
+          "published": "2026-11-19",
+          "link": "http://arxiv.org/pdf/2611.25780v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-          "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-satya-nadella-explains-004256847.html",
-          "publisher": "TechCrunch",
-          "published": "2026-11-19"
-        },
-        {
-          "title": "Microsoft CEO Nadella faces uncomfortable reality after outage",
-          "link": "https://www.thestreet.com/technology/microsoft-ceo-nadella-faces-uncomfortable-reality-after-outage",
-          "publisher": "TheStreet",
+          "title": "Mercedes F1's drivers still get the final say, even as it utilizes AI agents",
+          "link": "https://finance.yahoo.com/video/mercedes-f1s-drivers-still-get-the-final-say-even-as-it-utilizes-ai-agents-222256690.html",
+          "publisher": "Yahoo Finance Video",
           "published": "2026-11-20"
         },
         {
-          "title": "Akamai Technologies (AKAM) Expands Mobile Enterprise Browser Security",
-          "link": "https://finance.yahoo.com/technology/articles/akamai-technologies-akam-expands-mobile-031634349.html",
-          "publisher": "Simply Wall St.",
+          "title": "Could a handful of tech giants control the future of AI?",
+          "link": "https://finance.yahoo.com/video/could-a-handful-of-tech-giants-control-the-future-of-ai-180645576.html",
+          "publisher": "Yahoo Finance Video",
           "published": "2026-11-20"
         },
         {
-          "title": "Tech takes a beating as AI trade comes unstuck despite Anthropic surge",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/tech-takes-beating-ai-trade-030257717.html",
-          "publisher": "AFP",
+          "title": "Can Microsoft catch up in the frontier AI race?",
+          "link": "https://finance.yahoo.com/video/can-microsoft-catch-up-in-the-frontier-ai-race-161613530.html",
+          "publisher": "Yahoo Finance Video",
           "published": "2026-11-20"
+        },
+        {
+          "title": "Billionaire Bill Ackman’s Top 5 Stocks After Selling Stakes to Open a Brand-New Position",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-top-5-013837421.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-21"
         }
       ]
     },
@@ -810,54 +918,72 @@
           92.4
         ]
       },
-      "price": 272.66,
-      "market_cap_b": 3352.1,
+      "price": 265.29,
+      "market_cap_b": 3261.5,
       "revenue_yoy": 24.7,
       "gross_margin": 60.9,
       "operating_margin": 33.3,
       "fcf_b": -1.16,
       "debt_to_ebitda": 0.81,
-      "market_cap_usd_b": 3352.1,
+      "market_cap_usd_b": 3261.5,
       "arxiv_papers": [
         {
-          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
-          "authors": "DeepSeek-AI Research et al.",
-          "published": "2026-10-18",
-          "link": "https://arxiv.org/list/cs.CL/recent",
+          "title": "Beam Model Technical Report",
+          "summary": "Beam is a sparse Mixture-of-Experts (MoE) model with 501.3B total parameters and 23.4B active parameters, specifically built and optimized for coding, reasoning, and agentic workloads. Beam delivers frontier level reason...",
+          "authors": "Reflection Team, Adam Abdulhamid et al.",
+          "published": "2026-11-19",
+          "link": "http://arxiv.org/pdf/2611.26358v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Ultra-Sparse Mixture-of-Experts with Fine-Grained Token Routing on Multi-Node Clusters",
-          "authors": "L. Zhang, M. Chen et al.",
-          "published": "2026-10-15",
-          "link": "https://arxiv.org/list/cs.LG/recent",
+          "title": "Understanding MoE Decisions Beyond Gradients",
+          "summary": "Understanding a language model's decision requires knowing how its internal computations affect its preference between answers. Gradient-based methods estimate this influence by predicting the effect of changing those co...",
+          "authors": "Zhen Xu, Zitao Zhang et al.",
+          "published": "2026-11-19",
+          "link": "http://arxiv.org/pdf/2611.26075v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "Validation-driven Deployment of LLM Inference Platforms for Agentic Workloads",
+          "summary": "Enterprises are moving agentic workloads from closed APIs to their own open-weight model deployments. For this reason, lifecycle-wide validation, from small-scale testing through sizing and pre-production to production, ...",
+          "authors": "Shai Gretz, Alon Halfon et al.",
+          "published": "2026-11-19",
+          "link": "http://arxiv.org/pdf/2611.25905v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "RouteVerify: Routing Interventions for Step-Level Verification in Mixture-of-Experts Models",
+          "summary": "Routing states in mixture-of-experts (MoE) models can distinguish correct from erroneous reasoning steps. If changing routing also changes a model's step-level verification judgment, it is tempting to conclude that the j...",
+          "authors": "Yucheng Du, Ryan A. Rossi et al.",
+          "published": "2026-11-19",
+          "link": "http://arxiv.org/pdf/2611.25780v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "How High Can ANT Stock Go? Wall Street Debut Sparks Valuation Debate – One Analyst Sees Amazon-Google Scale Opportunity In Anthropic",
-          "link": "https://stocktwits.com/news-articles/markets/equity/how-high-can-ant-stock-go-wall-street-valuation-analyst-amazon-google-scale-opportunity/cNbSG4tR90C",
-          "publisher": "Stocktwits",
-          "published": "2026-11-20"
+          "title": "Top 5 Stocks to Buy According to Billionaire George Soros",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-stocks-buy-according-010421254.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-21"
         },
         {
-          "title": "Nvidia Backed AI Data Center Demand Puts Schneider Electric Stock In Focus",
-          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-ai-data-center-021420909.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-20"
+          "title": "Morgan Stanley sends a strong signal to Google stock investors",
+          "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-sends-a-strong-signal-to-google-stock-investors",
+          "publisher": "TheStreet",
+          "published": "2026-11-21"
         },
         {
-          "title": "Is Your VOO Fund Secretly An AI Bet?",
-          "link": "https://www.trefis.com/stock/voo/articles/626646/is-your-voo-fund-secretly-an-ai-bet/2026-11-19",
-          "publisher": "Trefis",
-          "published": "2026-11-20"
+          "title": "Review & Preview: Hype Halted",
+          "link": "https://www.barrons.com/articles/stocks-today-indexes-enter-correction-tech-downturn-12e9de94?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-21"
         },
         {
-          "title": "Anthropic’s Margins Will Be “Probably Better Than a Hyperscaler,” Says Its Most Bullish Analyst. Here’s What That Takes",
-          "link": "https://www.tikr.com/blog/anthropics-margins-will-be-probably-better-than-a-hyperscaler-says-its-most-bullish-analyst-heres-what-that-takes?ref=yahoofinance&tlnk=yf-261119-7x5g2cff",
-          "publisher": "TIKR",
-          "published": "2026-11-20"
+          "title": "Has AI's honeymoon ended on Wall Street?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/ais-honeymoon-ended-wall-street-004604807.html",
+          "publisher": "AFP",
+          "published": "2026-11-21"
         }
       ]
     },
@@ -920,54 +1046,72 @@
           171.5
         ]
       },
-      "price": 257.37,
-      "market_cap_b": 2783.0,
+      "price": 246.82,
+      "market_cap_b": 2668.9,
       "revenue_yoy": 12.1,
       "gross_margin": 51.4,
       "operating_margin": 13.1,
       "fcf_b": -34.73,
       "debt_to_ebitda": 1.66,
-      "market_cap_usd_b": 2783.0,
+      "market_cap_usd_b": 2668.9,
       "arxiv_papers": [
         {
-          "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
-          "authors": "S. Dally, W. J. Song et al.",
-          "published": "2026-10-17",
-          "link": "https://arxiv.org/list/cs.AR/recent",
+          "title": "DexAttention: Distributed Sparse Attention through Rapid Online Planning and Persistent GPU Execution",
+          "summary": "Sparse attention reduces computation, but distributed execution may still transfer unnecessary data and incur substantial per-operation overhead. Mask-aware assignment and scheduling can reduce these costs, but replannin...",
+          "authors": "Sirui Chen, Xuehai Qian",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.23512v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "FP4 / Microscaling Formats and High-Radix NVLink Topologies for Next-Gen GPU Clusters",
-          "authors": "N. Jouppi, K. Sato et al.",
-          "published": "2026-10-13",
-          "link": "https://arxiv.org/list/cs.DC/recent",
+          "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
+          "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
+          "authors": "Patrick Iff, Torsten Hoefler",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22937v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU",
+          "summary": "For automatic optimization systems, performance portability across increasingly diverse AI accelerators remains a challenge. We investigate how well graph-level superoptimization transfers across architectures by adaptin...",
+          "authors": "Weronika Hryniewska-Guzik, Mateusz Comblik et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22844v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "PAISF: A Partially Adaptive In-Order Selection Function for Routing in On-Chip, Inter-Chiplet, and Wafer-Scale Networks",
+          "summary": "The growing number of compute elements per chip, along with advances such as chiplet systems and wafer-scale integration, drives the need for scalable and efficient routing algorithms for irregular topologies. A routing ...",
+          "authors": "Patrick Iff, Luca Oertig et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22772v1",
           "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Tech takes a beating as AI trade comes unstuck despite Anthropic surge",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/tech-takes-beating-ai-trade-030257717.html",
-          "publisher": "AFP",
-          "published": "2026-11-20"
+          "title": "Dow Jones Futures: Market Has Worst Week Since Covid Amid Nvidia, Anthropic. Does Fear Gauge Offer Hope?",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-worst-week-covid-nvidia-anthropic-vix-fear-gauge/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-21"
         },
         {
-          "title": "How High Can ANT Stock Go? Wall Street Debut Sparks Valuation Debate – One Analyst Sees Amazon-Google Scale Opportunity In Anthropic",
-          "link": "https://stocktwits.com/news-articles/markets/equity/how-high-can-ant-stock-go-wall-street-valuation-analyst-amazon-google-scale-opportunity/cNbSG4tR90C",
-          "publisher": "Stocktwits",
-          "published": "2026-11-20"
+          "title": "Amazon's re:Invent Conference Starts Nov. 30. Here's What the Stock Did in the Month After the Last 10.",
+          "link": "https://www.fool.com/investing/2026/11/20/amazon-s-re-invent-conference-starts-nov-30-here-s-what-the-stock-did-in-the-month-after-the-last-10/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-21"
         },
         {
-          "title": "Nvidia Backed AI Data Center Demand Puts Schneider Electric Stock In Focus",
-          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-ai-data-center-021420909.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-20"
+          "title": "Billionaire Bill Ackman’s Top 5 Stocks After Selling Stakes to Open a Brand-New Position",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-top-5-013837421.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-21"
         },
         {
-          "title": "Peter Thiel Now Has as Much Money in an Argentine Oil Stock as in Amazon. It’s Down 23% Since September 30",
-          "link": "https://247wallst.com/investing/2026/11/19/peter-thiel-now-has-as-much-money-in-an-argentine-oil-stock-as-in-amazon-its-down-23-since-september-30/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-20"
+          "title": "Top 5 Stocks to Buy According to Billionaire George Soros",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-stocks-buy-according-010421254.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-21"
         }
       ]
     },
@@ -1030,54 +1174,72 @@
           108.0
         ]
       },
-      "price": 110.57,
-      "market_cap_b": 344.7,
+      "price": 101.19,
+      "market_cap_b": 315.5,
       "revenue_yoy": 29.6,
       "gross_margin": 64.0,
       "operating_margin": 34.3,
       "fcf_b": -45.85,
       "debt_to_ebitda": 4.91,
-      "market_cap_usd_b": 344.7,
+      "market_cap_usd_b": 315.5,
       "arxiv_papers": [
         {
-          "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
-          "authors": "S. Dally, W. J. Song et al.",
-          "published": "2026-10-17",
-          "link": "https://arxiv.org/list/cs.AR/recent",
+          "title": "DexAttention: Distributed Sparse Attention through Rapid Online Planning and Persistent GPU Execution",
+          "summary": "Sparse attention reduces computation, but distributed execution may still transfer unnecessary data and incur substantial per-operation overhead. Mask-aware assignment and scheduling can reduce these costs, but replannin...",
+          "authors": "Sirui Chen, Xuehai Qian",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.23512v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "FP4 / Microscaling Formats and High-Radix NVLink Topologies for Next-Gen GPU Clusters",
-          "authors": "N. Jouppi, K. Sato et al.",
-          "published": "2026-10-13",
-          "link": "https://arxiv.org/list/cs.DC/recent",
+          "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
+          "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
+          "authors": "Patrick Iff, Torsten Hoefler",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22937v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU",
+          "summary": "For automatic optimization systems, performance portability across increasingly diverse AI accelerators remains a challenge. We investigate how well graph-level superoptimization transfers across architectures by adaptin...",
+          "authors": "Weronika Hryniewska-Guzik, Mateusz Comblik et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22844v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "PAISF: A Partially Adaptive In-Order Selection Function for Routing in On-Chip, Inter-Chiplet, and Wafer-Scale Networks",
+          "summary": "The growing number of compute elements per chip, along with advances such as chiplet systems and wafer-scale integration, drives the need for scalable and efficient routing algorithms for irregular topologies. A routing ...",
+          "authors": "Patrick Iff, Luca Oertig et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22772v1",
           "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Oracle (ORCL) Stock May Be 39% Undervalued As Nashville Buildout Starts",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-stock-may-39-002103750.html",
-          "publisher": "Simply Wall St.",
+          "title": "Oracle says OpenAI contract is fully funded, addresses market financing scrutiny",
+          "link": "https://finance.yahoo.com/technology/ai/articles/oracle-says-openai-contract-fully-224306974.html",
+          "publisher": "Investing.com",
           "published": "2026-11-20"
         },
         {
-          "title": "Is Tech in a Bear Market? 20 Tech Stocks Fall Up to 76% From Highs",
-          "link": "https://beincrypto.com/tech-stocks-bear-market-record-highs/",
-          "publisher": "BeInCrypto",
-          "published": "2026-11-19"
+          "title": "Credo Technology Group vs. Western Digital: Which Technology Stock Is a Better Buy for 2027?",
+          "link": "https://www.fool.com/coverage/better-buy/2026/11/20/credo-technology-group-vs-western-digital-which-technology-stock-is-a-better-buy-for-2027/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-20"
         },
         {
-          "title": "The Biggest Fear Around Oracle Could Soon End. Wall Street Sees ORCL Stock Surging 100% From Here.",
-          "link": "https://www.barchart.com/story/news/8925367/the-biggest-fear-around-oracle-could-soon-end-wall-street-sees-orcl-stock-surging-100-from-here",
-          "publisher": "Barchart",
-          "published": "2026-11-19"
+          "title": "Billionaire Dan Loeb’s “Bear Math”: AI Needs $2-3 Trillion of New Yearly Revenue. He Sold Amazon",
+          "link": "https://www.tikr.com/blog/billionaire-dan-loebs-bear-math-ai-needs-2-3-trillion-of-new-yearly-revenue-he-sold-amazon?ref=yahoofinance&tlnk=yf-261120-5qww8h93",
+          "publisher": "TIKR",
+          "published": "2026-11-20"
         },
         {
-          "title": "Intuit (INTU) Q1 Earnings and Revenues Top Estimates",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/intuit-intu-q1-earnings-revenues-211001053.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19"
+          "title": "Cerebras Stock Looks Like a Buy as Customer Base Expands",
+          "link": "https://www.fool.com/investing/2026/11/20/cerebras-stock-looks-like-a-buy-as-customer-base-expands/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-20"
         }
       ]
     },
@@ -1140,54 +1302,72 @@
           4.9
         ]
       },
-      "price": 153.68,
-      "market_cap_b": 370.3,
+      "price": 143.49,
+      "market_cap_b": 345.7,
       "revenue_yoy": 95.9,
       "gross_margin": 84.7,
       "operating_margin": 45.6,
       "fcf_b": 2.65,
       "debt_to_ebitda": 0.07,
-      "market_cap_usd_b": 370.3,
+      "market_cap_usd_b": 345.7,
       "arxiv_papers": [
         {
-          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
-          "authors": "DeepSeek-AI Research et al.",
-          "published": "2026-10-18",
-          "link": "https://arxiv.org/list/cs.CL/recent",
+          "title": "Beam Model Technical Report",
+          "summary": "Beam is a sparse Mixture-of-Experts (MoE) model with 501.3B total parameters and 23.4B active parameters, specifically built and optimized for coding, reasoning, and agentic workloads. Beam delivers frontier level reason...",
+          "authors": "Reflection Team, Adam Abdulhamid et al.",
+          "published": "2026-11-19",
+          "link": "http://arxiv.org/pdf/2611.26358v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Ultra-Sparse Mixture-of-Experts with Fine-Grained Token Routing on Multi-Node Clusters",
-          "authors": "L. Zhang, M. Chen et al.",
-          "published": "2026-10-15",
-          "link": "https://arxiv.org/list/cs.LG/recent",
+          "title": "Understanding MoE Decisions Beyond Gradients",
+          "summary": "Understanding a language model's decision requires knowing how its internal computations affect its preference between answers. Gradient-based methods estimate this influence by predicting the effect of changing those co...",
+          "authors": "Zhen Xu, Zitao Zhang et al.",
+          "published": "2026-11-19",
+          "link": "http://arxiv.org/pdf/2611.26075v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "Validation-driven Deployment of LLM Inference Platforms for Agentic Workloads",
+          "summary": "Enterprises are moving agentic workloads from closed APIs to their own open-weight model deployments. For this reason, lifecycle-wide validation, from small-scale testing through sizing and pre-production to production, ...",
+          "authors": "Shai Gretz, Alon Halfon et al.",
+          "published": "2026-11-19",
+          "link": "http://arxiv.org/pdf/2611.25905v1",
+          "category": "LLM MoE"
+        },
+        {
+          "title": "RouteVerify: Routing Interventions for Step-Level Verification in Mixture-of-Experts Models",
+          "summary": "Routing states in mixture-of-experts (MoE) models can distinguish correct from erroneous reasoning steps. If changing routing also changes a model's step-level verification judgment, it is tempting to conclude that the j...",
+          "authors": "Yucheng Du, Ryan A. Rossi et al.",
+          "published": "2026-11-19",
+          "link": "http://arxiv.org/pdf/2611.25780v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "Palantir Technologies (PLTR) Gets A Fresh AI Signal From A Key Platform Partner",
-          "link": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-gets-fresh-200954508.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-19"
+          "title": "If You Invest $500 in Palantir Each Month Starting Now, This is What You’d Have in 5 Years",
+          "link": "https://247wallst.com/investing/2026/11/20/if-you-invest-500-in-palantir-each-month-starting-now-this-is-what-youd-have-in-5-years/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-20"
         },
         {
-          "title": "Salesforce vs. Palantir Technologies: Which Software Stock Is a Better Buy for 2027?",
-          "link": "https://www.fool.com/coverage/better-buy/2026/11/19/salesforce-vs-palantir-technologies-which-software-stock-is-a-better-buy-for-2027/",
+          "title": "Cathie Wood's Ark Has Been Selling Palantir Stock. Under $160, I'd Buy It Now.",
+          "link": "https://www.fool.com/investing/2026/11/20/cathie-wood-s-ark-has-been-selling-palantir-stock-under-usd160-i-d-buy-it-now/",
           "publisher": "Motley Fool",
-          "published": "2026-11-19"
+          "published": "2026-11-20"
         },
         {
-          "title": "How Does Palantir Technologies (PLTR) FedStart Milestone Change Its Federal AI Case?",
-          "link": "https://finance.yahoo.com/technology/ai/articles/does-palantir-technologies-pltr-fedstart-191135783.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-19"
+          "title": "One Number That Makes Palantir A Buy",
+          "link": "https://www.trefis.com/stock/pltr/articles/627270/one-number-that-makes-palantir-a-buy/2026-11-20",
+          "publisher": "Trefis",
+          "published": "2026-11-20"
         },
         {
-          "title": "Why Palantir Stock is Jumping Today",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-stock-jumping-today-185046983.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-19"
+          "title": "Investors Heavily Search Palantir Technologies Inc. (PLTR): Here is What You Need to Know",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-palantir-technologies-130003474.html",
+          "publisher": "Zacks",
+          "published": "2026-11-20"
         }
       ]
     },
@@ -1250,54 +1430,72 @@
           2600.0
         ]
       },
-      "price": 2020.0,
-      "market_cap_b": 52383.4,
+      "price": 2000.0,
+      "market_cap_b": 51864.7,
       "revenue_yoy": 50.9,
       "gross_margin": 65.8,
       "operating_margin": 58.0,
       "fcf_b": 1042.59,
       "debt_to_ebitda": 0.3,
-      "market_cap_usd_b": 1637.0,
+      "market_cap_usd_b": 1620.8,
       "arxiv_papers": [
         {
-          "title": "Thermal-Mechanical Reliability of CoWoS-L Silicon Interposers for 1000W+ AI Accelerators",
-          "authors": "Y. T. Lin, H. C. Kuo et al.",
-          "published": "2026-10-14",
-          "link": "https://arxiv.org/list/physics.app-ph/recent",
+          "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
+          "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
+          "authors": "Patrick Iff, Torsten Hoefler",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22937v1",
           "category": "CoWoS Packaging"
         },
         {
-          "title": "3D SoIC Hybrid Bonding and Micro-Channel Direct Liquid Cooling for HBM4 Integration",
-          "authors": "S. W. Chen, K. P. Wu et al.",
-          "published": "2026-10-10",
-          "link": "https://arxiv.org/list/cs.AR/recent",
+          "title": "PAISF: A Partially Adaptive In-Order Selection Function for Routing in On-Chip, Inter-Chiplet, and Wafer-Scale Networks",
+          "summary": "The growing number of compute elements per chip, along with advances such as chiplet systems and wafer-scale integration, drives the need for scalable and efficient routing algorithms for irregular topologies. A routing ...",
+          "authors": "Patrick Iff, Luca Oertig et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22772v1",
+          "category": "CoWoS Packaging"
+        },
+        {
+          "title": "ThermLeT: Transformer-based Temperature Prediction for 2.5D Chiplet Architecture",
+          "summary": "The drive toward heterogeneous 2.5D chiplet packages promises unmatched performance and customization, yet the resulting density amplifies thermal challenges. To facilitate rapid design space exploration, we present Ther...",
+          "authors": "Varun Darshana Parekh, Anusha Devulapally et al.",
+          "published": "2026-11-16",
+          "link": "http://arxiv.org/pdf/2611.21954v1",
+          "category": "CoWoS Packaging"
+        },
+        {
+          "title": "An Open-Source da Vinci X/Xi Instrument Module for Laparoscopic Surgery Research",
+          "summary": "Studying electrosurgical tasks on a research robot requires control of both instrument motion and energy activation, along with a record of when each action occurs. This paper presents an open-source module for da Vinci ...",
+          "authors": "Douglas McDonough, Justin Liao et al.",
+          "published": "2026-11-16",
+          "link": "http://arxiv.org/pdf/2611.21771v1",
           "category": "CoWoS Packaging"
         }
       ],
       "news": [
         {
-          "title": "South Korea’s Stock Market and the Nikkei 225 Sink More Than 4% as the AI Selloff Spreads From Wall Street. Here’s How Much of a Target-Date Fund Is in Samsung, SK Hynix and TSMC",
-          "link": "https://247wallst.com/investing/2026/11/19/south-koreas-stock-market-and-the-nikkei-225-sink-more-than-4-as-the-ai-selloff-spreads-from-wall-street-heres-how-much-of-a-target-date-fund-is-in-samsung-sk-hynix-and-tsmc/",
-          "publisher": "24/7 Wall St.",
+          "title": "Top 5 Stocks to Buy According to Billionaire George Soros",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-stocks-buy-according-010421254.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-21"
+        },
+        {
+          "title": "Anthropic Stocks Jump 17.07% in Record Debut as $26 Billion Chipmaker Placement Lands",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-stocks-jump-17-07-214150203.html",
+          "publisher": "GuruFocus.com",
           "published": "2026-11-20"
         },
         {
-          "title": "Nikkei 225 Falls 4.5% and SoftBank Plunges 15% as Wall Street’s AI Selloff Puts Asian Stocks on Track for Their Worst Week Since 2020",
-          "link": "https://247wallst.com/investing/2026/11/19/nikkei-225-falls-4-5-and-softbank-plunges-15-as-wall-streets-ai-selloff-puts-asian-stocks-on-track-for-their-worst-week-since-2020/",
-          "publisher": "24/7 Wall St.",
+          "title": "A $9.7 Billion Fund Bought These 3 Stocks Last Quarter",
+          "link": "https://www.tikr.com/blog/a-9-7-billion-fund-bought-these-3-stocks-last-quarter?ref=yahoofinance&tlnk=yf-261120-83gq9xg9",
+          "publisher": "TIKR",
           "published": "2026-11-20"
         },
         {
-          "title": "TSMC halts advanced chip orders from Chinese designers in Taiwan",
-          "link": "http://www.intellinews.com/tsmc-halts-advanced-chip-orders-from-chinese-designers-in-taiwan-486911/",
-          "publisher": "IntelliNews",
+          "title": "Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down",
+          "link": "https://finance.yahoo.com/markets/article/nvidia-amd-and-broadcom-lead-chip-stocks-lower-133658985.html",
+          "publisher": "Yahoo Finance",
           "published": "2026-11-20"
-        },
-        {
-          "title": "Cracks in the \"AI\" Cap-Ex Boom Have Emerged",
-          "link": "https://finance.yahoo.com/technology/ai/articles/cracks-ai-cap-ex-boom-215000924.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19"
         }
       ]
     },
@@ -1360,27 +1558,45 @@
           75.0
         ]
       },
-      "price": 3330.0,
-      "market_cap_b": 287.5,
+      "price": 3240.0,
+      "market_cap_b": 279.8,
       "revenue_yoy": 296.5,
       "gross_margin": 26.9,
       "operating_margin": 18.4,
       "fcf_b": -21.0,
       "debt_to_ebitda": 0.03,
-      "market_cap_usd_b": 9.0,
+      "market_cap_usd_b": 8.7,
       "arxiv_papers": [
         {
-          "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
-          "authors": "S. Dally, W. J. Song et al.",
-          "published": "2026-10-17",
-          "link": "https://arxiv.org/list/cs.AR/recent",
+          "title": "DexAttention: Distributed Sparse Attention through Rapid Online Planning and Persistent GPU Execution",
+          "summary": "Sparse attention reduces computation, but distributed execution may still transfer unnecessary data and incur substantial per-operation overhead. Mask-aware assignment and scheduling can reduce these costs, but replannin...",
+          "authors": "Sirui Chen, Xuehai Qian",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.23512v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "FP4 / Microscaling Formats and High-Radix NVLink Topologies for Next-Gen GPU Clusters",
-          "authors": "N. Jouppi, K. Sato et al.",
-          "published": "2026-10-13",
-          "link": "https://arxiv.org/list/cs.DC/recent",
+          "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
+          "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
+          "authors": "Patrick Iff, Torsten Hoefler",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22937v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU",
+          "summary": "For automatic optimization systems, performance portability across increasingly diverse AI accelerators remains a challenge. We investigate how well graph-level superoptimization transfers across architectures by adaptin...",
+          "authors": "Weronika Hryniewska-Guzik, Mateusz Comblik et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22844v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "PAISF: A Partially Adaptive In-Order Selection Function for Routing in On-Chip, Inter-Chiplet, and Wafer-Scale Networks",
+          "summary": "The growing number of compute elements per chip, along with advances such as chiplet systems and wafer-scale integration, drives the need for scalable and efficient routing algorithms for irregular topologies. A routing ...",
+          "authors": "Patrick Iff, Luca Oertig et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22772v1",
           "category": "AI Accelerator"
         }
       ],
@@ -1470,27 +1686,45 @@
           150.0
         ]
       },
-      "price": 1250.0,
-      "market_cap_b": 698.6,
+      "price": 1230.0,
+      "market_cap_b": 687.5,
       "revenue_yoy": 65.5,
       "gross_margin": 18.6,
       "operating_margin": 13.8,
       "fcf_b": -24.13,
       "debt_to_ebitda": 0.39,
-      "market_cap_usd_b": 21.8,
+      "market_cap_usd_b": 21.5,
       "arxiv_papers": [
         {
-          "title": "1.6Tbps Co-Packaged Optics (CPO) with Kerr Microcomb Laser Sources for AI Scale-Up Fabrics",
-          "authors": "A. Bergman, D. Miller et al.",
-          "published": "2026-10-16",
-          "link": "https://arxiv.org/list/physics.optics/recent",
+          "title": "Simultaneous spectral measurement and programmable filtering on a universal silicon photonic chip",
+          "summary": "Spectral measurement and spectral filtering are two fundamental operations in optics, yet they are conventionally implemented using separate optical systems, hindering their simultaneous and programmable operation on a c...",
+          "authors": "Yangyang Wan, Rui Tang et al.",
+          "published": "2026-11-18",
+          "link": "http://arxiv.org/pdf/2611.23667v1",
           "category": "Silicon Photonics"
         },
         {
-          "title": "Sub-Picojoule per Bit Silicon Photonic Transceivers for Optical Inter-Chiplet Interconnects",
-          "authors": "J. Bowers, R. Soref et al.",
-          "published": "2026-10-11",
-          "link": "https://arxiv.org/list/physics.optics/recent",
+          "title": "Bringing coherent closer to compute: coherent-lite multidimensional on-chip interconnect beyond 100 terabits per second",
+          "summary": "The continued scaling of artificial intelligence (AI) demands optical interconnects that deliver higher bandwidth density within stringent electrical-bandwidth and energy budgets. Coherent optics offers a route beyond th...",
+          "authors": "Yongzhu Hu, Aolong Sun et al.",
+          "published": "2026-11-14",
+          "link": "http://arxiv.org/pdf/2611.19254v1",
+          "category": "Silicon Photonics"
+        },
+        {
+          "title": "Chip-Based Discrete-Modulated Continuous-Variable Quantum Key Distribution with Uncertainty-Principle-Based Composable Security",
+          "summary": "Continuous-variable quantum key distribution offers a promising platform for scalable quantum networks through its compatibility with standard telecommunications technology and photonic integration. High-order discrete m...",
+          "authors": "Jiale Mi, Yiming Bian et al.",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.18288v1",
+          "category": "Silicon Photonics"
+        },
+        {
+          "title": "OrbitWeaver: LLM Agent Planning with Simulation Feedback for Optically Interconnected Orbital GPU Clusters",
+          "summary": "Space-based data-center designs increasingly consider GPU computing formations connected by inter-satellite optical links. With limited neighboring connections, jobs assigned disjoint GPUs can still contend on shared rel...",
+          "authors": "Pengcheng Luo, Bowen Zhang",
+          "published": "2026-11-13",
+          "link": "http://arxiv.org/pdf/2611.17850v1",
           "category": "Silicon Photonics"
         }
       ],
@@ -1580,27 +1814,45 @@
           440.0
         ]
       },
-      "price": 1345.0,
-      "market_cap_b": 785.5,
+      "price": 1325.0,
+      "market_cap_b": 773.8,
       "revenue_yoy": 62.9,
       "gross_margin": 8.3,
       "operating_margin": 6.8,
       "fcf_b": -88.8,
       "debt_to_ebitda": 2.06,
-      "market_cap_usd_b": 24.5,
+      "market_cap_usd_b": 24.2,
       "arxiv_papers": [
         {
-          "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
-          "authors": "S. Dally, W. J. Song et al.",
-          "published": "2026-10-17",
-          "link": "https://arxiv.org/list/cs.AR/recent",
+          "title": "DexAttention: Distributed Sparse Attention through Rapid Online Planning and Persistent GPU Execution",
+          "summary": "Sparse attention reduces computation, but distributed execution may still transfer unnecessary data and incur substantial per-operation overhead. Mask-aware assignment and scheduling can reduce these costs, but replannin...",
+          "authors": "Sirui Chen, Xuehai Qian",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.23512v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "FP4 / Microscaling Formats and High-Radix NVLink Topologies for Next-Gen GPU Clusters",
-          "authors": "N. Jouppi, K. Sato et al.",
-          "published": "2026-10-13",
-          "link": "https://arxiv.org/list/cs.DC/recent",
+          "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
+          "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
+          "authors": "Patrick Iff, Torsten Hoefler",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22937v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU",
+          "summary": "For automatic optimization systems, performance portability across increasingly diverse AI accelerators remains a challenge. We investigate how well graph-level superoptimization transfers across architectures by adaptin...",
+          "authors": "Weronika Hryniewska-Guzik, Mateusz Comblik et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22844v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "PAISF: A Partially Adaptive In-Order Selection Function for Routing in On-Chip, Inter-Chiplet, and Wafer-Scale Networks",
+          "summary": "The growing number of compute elements per chip, along with advances such as chiplet systems and wafer-scale integration, drives the need for scalable and efficient routing algorithms for irregular topologies. A routing ...",
+          "authors": "Patrick Iff, Luca Oertig et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22772v1",
           "category": "AI Accelerator"
         }
       ],
@@ -1690,54 +1942,72 @@
           1380.0
         ]
       },
-      "price": 212.0,
-      "market_cap_b": 2983.7,
+      "price": 210.0,
+      "market_cap_b": 2955.6,
       "revenue_yoy": 46.5,
       "gross_margin": 6.0,
       "operating_margin": 3.6,
       "fcf_b": -203.72,
       "debt_to_ebitda": 3.27,
-      "market_cap_usd_b": 93.2,
+      "market_cap_usd_b": 92.4,
       "arxiv_papers": [
         {
-          "title": "Thermal-Mechanical Reliability of CoWoS-L Silicon Interposers for 1000W+ AI Accelerators",
-          "authors": "Y. T. Lin, H. C. Kuo et al.",
-          "published": "2026-10-14",
-          "link": "https://arxiv.org/list/physics.app-ph/recent",
+          "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
+          "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
+          "authors": "Patrick Iff, Torsten Hoefler",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22937v1",
           "category": "CoWoS Packaging"
         },
         {
-          "title": "3D SoIC Hybrid Bonding and Micro-Channel Direct Liquid Cooling for HBM4 Integration",
-          "authors": "S. W. Chen, K. P. Wu et al.",
-          "published": "2026-10-10",
-          "link": "https://arxiv.org/list/cs.AR/recent",
+          "title": "PAISF: A Partially Adaptive In-Order Selection Function for Routing in On-Chip, Inter-Chiplet, and Wafer-Scale Networks",
+          "summary": "The growing number of compute elements per chip, along with advances such as chiplet systems and wafer-scale integration, drives the need for scalable and efficient routing algorithms for irregular topologies. A routing ...",
+          "authors": "Patrick Iff, Luca Oertig et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22772v1",
+          "category": "CoWoS Packaging"
+        },
+        {
+          "title": "ThermLeT: Transformer-based Temperature Prediction for 2.5D Chiplet Architecture",
+          "summary": "The drive toward heterogeneous 2.5D chiplet packages promises unmatched performance and customization, yet the resulting density amplifies thermal challenges. To facilitate rapid design space exploration, we present Ther...",
+          "authors": "Varun Darshana Parekh, Anusha Devulapally et al.",
+          "published": "2026-11-16",
+          "link": "http://arxiv.org/pdf/2611.21954v1",
+          "category": "CoWoS Packaging"
+        },
+        {
+          "title": "An Open-Source da Vinci X/Xi Instrument Module for Laparoscopic Surgery Research",
+          "summary": "Studying electrosurgical tasks on a research robot requires control of both instrument motion and energy activation, along with a record of when each action occurs. This paper presents an open-source module for da Vinci ...",
+          "authors": "Douglas McDonough, Justin Liao et al.",
+          "published": "2026-11-16",
+          "link": "http://arxiv.org/pdf/2611.21771v1",
           "category": "CoWoS Packaging"
         }
       ],
       "news": [
         {
+          "title": "Bentley supplier starts work on new axle plant",
+          "link": "https://www.wardsauto.com/news/bentley-supplier-starts-work-on-new-axle-plant/875158/",
+          "publisher": "Wards Auto",
+          "published": "2026-11-20"
+        },
+        {
+          "title": "European Tech Stocks Tumble as AI Selloff Intensifies",
+          "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-dragged-by-chip-metals-stocks-0601645e?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-20"
+        },
+        {
+          "title": "Asian Equities Tumble as AI Stock Selloff Deepens",
+          "link": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-20"
+        },
+        {
           "title": "Saudi EV brand Ceer secures $693m financing",
           "link": "https://www.just-auto.com/news/ceer-secures-693m-financing/",
           "publisher": "Just Auto",
           "published": "2026-11-19"
-        },
-        {
-          "title": "Hon Hai to acquire Sony’s automotive camera module business",
-          "link": "https://www.just-auto.com/news/hon-hai-to-acquire-sonys-automotive-camera-module-business/",
-          "publisher": "Just Auto",
-          "published": "2026-11-19"
-        },
-        {
-          "title": "India says Xiaomi, Flextronics hid royalty deals in tariff fight",
-          "link": "https://finance.yahoo.com/economy/policy/articles/india-says-xiaomi-flextronics-hid-101045878.html",
-          "publisher": "Reuters",
-          "published": "2026-11-17"
-        },
-        {
-          "title": "Huang’s ‘trillion-dollar dinners’ with Taiwan chip bosses were Nvidia’s secret weapon. Now he’s out. Can he be replaced?",
-          "link": "https://finance.yahoo.com/technology/articles/huang-trillion-dollar-dinners-taiwan-230000506.html",
-          "publisher": "Moneywise",
-          "published": "2026-11-16"
         }
       ]
     },
@@ -1800,8 +2070,8 @@
           810.0
         ]
       },
-      "price": 252.5,
-      "market_cap_b": 1035.1,
+      "price": 252.0,
+      "market_cap_b": 1033.1,
       "revenue_yoy": 125.2,
       "gross_margin": 5.1,
       "operating_margin": 3.2,
@@ -1810,21 +2080,45 @@
       "market_cap_usd_b": 32.3,
       "arxiv_papers": [
         {
-          "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
-          "authors": "S. Dally, W. J. Song et al.",
-          "published": "2026-10-17",
-          "link": "https://arxiv.org/list/cs.AR/recent",
+          "title": "DexAttention: Distributed Sparse Attention through Rapid Online Planning and Persistent GPU Execution",
+          "summary": "Sparse attention reduces computation, but distributed execution may still transfer unnecessary data and incur substantial per-operation overhead. Mask-aware assignment and scheduling can reduce these costs, but replannin...",
+          "authors": "Sirui Chen, Xuehai Qian",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.23512v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "FP4 / Microscaling Formats and High-Radix NVLink Topologies for Next-Gen GPU Clusters",
-          "authors": "N. Jouppi, K. Sato et al.",
-          "published": "2026-10-13",
-          "link": "https://arxiv.org/list/cs.DC/recent",
+          "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
+          "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
+          "authors": "Patrick Iff, Torsten Hoefler",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22937v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU",
+          "summary": "For automatic optimization systems, performance portability across increasingly diverse AI accelerators remains a challenge. We investigate how well graph-level superoptimization transfers across architectures by adaptin...",
+          "authors": "Weronika Hryniewska-Guzik, Mateusz Comblik et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22844v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "PAISF: A Partially Adaptive In-Order Selection Function for Routing in On-Chip, Inter-Chiplet, and Wafer-Scale Networks",
+          "summary": "The growing number of compute elements per chip, along with advances such as chiplet systems and wafer-scale integration, drives the need for scalable and efficient routing algorithms for irregular topologies. A routing ...",
+          "authors": "Patrick Iff, Luca Oertig et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22772v1",
           "category": "AI Accelerator"
         }
       ],
       "news": [
+        {
+          "title": "This Man FINESSED Facebook and Google",
+          "link": "https://myfirstmillion.videonest.co/videos/1787260/this-man-finessed-facebook-and-google-9hwv2Nj7qD",
+          "publisher": "My First Million",
+          "published": "2026-11-20"
+        },
         {
           "title": "Huang’s ‘trillion-dollar dinners’ with Taiwan chip bosses were Nvidia’s secret weapon. Now he’s out. Can he be replaced?",
           "link": "https://finance.yahoo.com/technology/articles/huang-trillion-dollar-dinners-taiwan-230000506.html",
@@ -1842,12 +2136,6 @@
           "link": "https://www.barchart.com/story/news/3890927/this-quantum-computing-stock-just-scored-a-major-breakthrough-deal-how-to-play-qnt-here",
           "publisher": "Barchart",
           "published": "2026-08-17"
-        },
-        {
-          "title": "This Analyst Just Cut His Price Target on Dell Stock. Here's Why.",
-          "link": "https://www.barchart.com/story/news/3644888/this-analyst-just-cut-its-price-target-on-dell-stock-here-s-why",
-          "publisher": "Barchart",
-          "published": "2026-08-04"
         }
       ]
     },
@@ -1920,38 +2208,56 @@
       "market_cap_usd_b": 27.1,
       "arxiv_papers": [
         {
-          "title": "Thermal-Mechanical Reliability of CoWoS-L Silicon Interposers for 1000W+ AI Accelerators",
-          "authors": "Y. T. Lin, H. C. Kuo et al.",
-          "published": "2026-10-14",
-          "link": "https://arxiv.org/list/physics.app-ph/recent",
+          "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
+          "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
+          "authors": "Patrick Iff, Torsten Hoefler",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22937v1",
           "category": "CoWoS Packaging"
         },
         {
-          "title": "3D SoIC Hybrid Bonding and Micro-Channel Direct Liquid Cooling for HBM4 Integration",
-          "authors": "S. W. Chen, K. P. Wu et al.",
-          "published": "2026-10-10",
-          "link": "https://arxiv.org/list/cs.AR/recent",
+          "title": "PAISF: A Partially Adaptive In-Order Selection Function for Routing in On-Chip, Inter-Chiplet, and Wafer-Scale Networks",
+          "summary": "The growing number of compute elements per chip, along with advances such as chiplet systems and wafer-scale integration, drives the need for scalable and efficient routing algorithms for irregular topologies. A routing ...",
+          "authors": "Patrick Iff, Luca Oertig et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22772v1",
+          "category": "CoWoS Packaging"
+        },
+        {
+          "title": "ThermLeT: Transformer-based Temperature Prediction for 2.5D Chiplet Architecture",
+          "summary": "The drive toward heterogeneous 2.5D chiplet packages promises unmatched performance and customization, yet the resulting density amplifies thermal challenges. To facilitate rapid design space exploration, we present Ther...",
+          "authors": "Varun Darshana Parekh, Anusha Devulapally et al.",
+          "published": "2026-11-16",
+          "link": "http://arxiv.org/pdf/2611.21954v1",
+          "category": "CoWoS Packaging"
+        },
+        {
+          "title": "An Open-Source da Vinci X/Xi Instrument Module for Laparoscopic Surgery Research",
+          "summary": "Studying electrosurgical tasks on a research robot requires control of both instrument motion and energy activation, along with a record of when each action occurs. This paper presents an open-source module for da Vinci ...",
+          "authors": "Douglas McDonough, Justin Liao et al.",
+          "published": "2026-11-16",
+          "link": "http://arxiv.org/pdf/2611.21771v1",
           "category": "CoWoS Packaging"
         }
       ],
       "news": [
         {
+          "title": "Taiwan Stocks Plunge 2,393 Points; AI High-Flyers Elite Material, Unimicron, Asia Vital Components Hit Limit Down as Foreign Brokerage Says Valuation Overcorrected - BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oeDRXYlZOeHZOQ1FJVnlBdnI3V3BFR0NBbk1aRFlsNFFVSVBudlRaUUxmVFRJOTdMck44RXBwWTF0djdocTdIZHpyMTRkTzRhR2VNUGtGSlA5STNzenBuanJHRWFoOUoxYzViYXhhWHlaS1hibkE?oc=5",
+          "publisher": "Google News",
+          "published": "Fri, 20 Nov 2026"
+        },
+        {
+          "title": "Asia Vital Components Co., Ltd. Earnings Call - November 10, 2026 - finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeU5CSDBuSmpTNjdzUmh0Qk1pbWRuZndYNTVrZS03cVVxdUt4Y0RLdDdYYnJLRU5zb0hpdEhiYTZQT25sem1VNlZvSm43cHRUdlBRand1TVRYT2d2Uk5rVmpRQUNDQnB0SE9SVC16Zkc5NlllYzBqM25KWG1Rb0ZuTg?oc=5",
+          "publisher": "Google News",
+          "published": "Tue, 10 Nov 2026"
+        },
+        {
           "title": "Asia Vital Components' October Revenue Surges to NT$22.1 Billion, Up 34% Year-over-Year, Marking Fourth Straight Monthly Record - BigGo Finance",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BYWtWM0lIYk5xRFZQcVI0UFkzQW9Id3hLRHFZQnI2QlN0VDljN2ttdV9lQlFiOFZvalVaV1hNUndiTjlDclZLMGlsYWJSc01ZWDF0dTc3enF5emRtUXdjNjZUdHNadmF2SHdNOUxBbDAtTmRyZGc?oc=5",
           "publisher": "Google News",
           "published": "Sun, 08 Nov 2026"
-        },
-        {
-          "title": "Taiwan's Investigation Bureau Searches Xinzhuang Plant; Asia Vital Components and Fositek Say Operations, Finances Unaffected - finance.biggo.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IYlZqejBfalMzYlFmQ3dmMEIyWExabzNjRTJJQjFnLUhjSGdnbmVLa2kyR3ZyM2NSVDRzX3oxVVllWGdjV1FHdVo5bV81S1RlOHFoZWh4QVhuY1I1MUxFdWQzeTFpM0VTZDJac0FxdkJ6V0NrNmc?oc=5",
-          "publisher": "Google News",
-          "published": "Wed, 07 Oct 2026"
-        },
-        {
-          "title": "[奇鋐 Q3 2026 Earnings Call] AVC Posts Record 33.86% Gross Margin as EPS More Than Doubles to NT$29.32; Says 2027 ASIC Revenue Will Surpass GPU - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TcFIyUk1xR3l1Y19IMXJWaTkweG1lQkdScm01bmtQem0wTUR2VzlXX3paZXY3eHZMUEJVbXdWUHVkNkhVRlMtUVFGRWxUZjZVQzU3ak1HWE1paGV2MXNTS3Zn?oc=5",
-          "publisher": "Google News",
-          "published": "Tue, 10 Nov 2026"
         },
         {
           "title": "Asia Vital Components Co., Ltd. (3017.TW) stock price, news, quote and history - Yahoo Finance Singapore",
@@ -2030,21 +2336,45 @@
       "market_cap_usd_b": 73.1,
       "arxiv_papers": [
         {
-          "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
-          "authors": "S. Dally, W. J. Song et al.",
-          "published": "2026-10-17",
-          "link": "https://arxiv.org/list/cs.AR/recent",
+          "title": "DexAttention: Distributed Sparse Attention through Rapid Online Planning and Persistent GPU Execution",
+          "summary": "Sparse attention reduces computation, but distributed execution may still transfer unnecessary data and incur substantial per-operation overhead. Mask-aware assignment and scheduling can reduce these costs, but replannin...",
+          "authors": "Sirui Chen, Xuehai Qian",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.23512v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "FP4 / Microscaling Formats and High-Radix NVLink Topologies for Next-Gen GPU Clusters",
-          "authors": "N. Jouppi, K. Sato et al.",
-          "published": "2026-10-13",
-          "link": "https://arxiv.org/list/cs.DC/recent",
+          "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
+          "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
+          "authors": "Patrick Iff, Torsten Hoefler",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22937v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU",
+          "summary": "For automatic optimization systems, performance portability across increasingly diverse AI accelerators remains a challenge. We investigate how well graph-level superoptimization transfers across architectures by adaptin...",
+          "authors": "Weronika Hryniewska-Guzik, Mateusz Comblik et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22844v1",
+          "category": "AI Accelerator"
+        },
+        {
+          "title": "PAISF: A Partially Adaptive In-Order Selection Function for Routing in On-Chip, Inter-Chiplet, and Wafer-Scale Networks",
+          "summary": "The growing number of compute elements per chip, along with advances such as chiplet systems and wafer-scale integration, drives the need for scalable and efficient routing algorithms for irregular topologies. A routing ...",
+          "authors": "Patrick Iff, Luca Oertig et al.",
+          "published": "2026-11-17",
+          "link": "http://arxiv.org/pdf/2611.22772v1",
           "category": "AI Accelerator"
         }
       ],
       "news": [
+        {
+          "title": "Taiwan Stock Market Falls 6.2% to Cap Its Worst Week Since 1991 as KOSPI Closes Down 5.2% and Nikkei 225 Drops 5.1% in AI Chip Selloff",
+          "link": "https://247wallst.com/investing/2026/11/20/taiwan-stock-market-falls-6-2-to-cap-its-worst-week-since-1991-as-kospi-closes-down-5-2-and-nikkei-225-drops-5-1-in-ai-chip-selloff/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-20"
+        },
         {
           "title": "Trump Signs Thailand Trade Deal: Which Stocks Will Benefit?",
           "link": "https://beincrypto.com/trump-thailand-trade-deal-tariffs-stocks/",
@@ -2062,12 +2392,6 @@
           "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-nvidia-nvda-ai-021743091.html",
           "publisher": "Simply Wall St.",
           "published": "2026-10-16"
-        },
-        {
-          "title": "3 AI Infrastructure Stocks for Data Center Growth Investors Are Watching",
-          "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-data-131015044.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-10-07"
         }
       ]
     }
@@ -2075,134 +2399,239 @@
   "arxiv_papers_by_category": {
     "LLM MoE": [
       {
-        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
-        "authors": "DeepSeek-AI Research et al.",
-        "published": "2026-10-18",
-        "link": "https://arxiv.org/list/cs.CL/recent",
+        "title": "Beam Model Technical Report",
+        "summary": "Beam is a sparse Mixture-of-Experts (MoE) model with 501.3B total parameters and 23.4B active parameters, specifically built and optimized for coding, reasoning, and agentic workloads. Beam delivers frontier level reason...",
+        "authors": "Reflection Team, Adam Abdulhamid et al.",
+        "published": "2026-11-19",
+        "link": "http://arxiv.org/pdf/2611.26358v1",
         "category": "LLM MoE"
       },
       {
-        "title": "Ultra-Sparse Mixture-of-Experts with Fine-Grained Token Routing on Multi-Node Clusters",
-        "authors": "L. Zhang, M. Chen et al.",
-        "published": "2026-10-15",
-        "link": "https://arxiv.org/list/cs.LG/recent",
+        "title": "Understanding MoE Decisions Beyond Gradients",
+        "summary": "Understanding a language model's decision requires knowing how its internal computations affect its preference between answers. Gradient-based methods estimate this influence by predicting the effect of changing those co...",
+        "authors": "Zhen Xu, Zitao Zhang et al.",
+        "published": "2026-11-19",
+        "link": "http://arxiv.org/pdf/2611.26075v1",
+        "category": "LLM MoE"
+      },
+      {
+        "title": "Validation-driven Deployment of LLM Inference Platforms for Agentic Workloads",
+        "summary": "Enterprises are moving agentic workloads from closed APIs to their own open-weight model deployments. For this reason, lifecycle-wide validation, from small-scale testing through sizing and pre-production to production, ...",
+        "authors": "Shai Gretz, Alon Halfon et al.",
+        "published": "2026-11-19",
+        "link": "http://arxiv.org/pdf/2611.25905v1",
+        "category": "LLM MoE"
+      },
+      {
+        "title": "RouteVerify: Routing Interventions for Step-Level Verification in Mixture-of-Experts Models",
+        "summary": "Routing states in mixture-of-experts (MoE) models can distinguish correct from erroneous reasoning steps. If changing routing also changes a model's step-level verification judgment, it is tempting to conclude that the j...",
+        "authors": "Yucheng Du, Ryan A. Rossi et al.",
+        "published": "2026-11-19",
+        "link": "http://arxiv.org/pdf/2611.25780v1",
         "category": "LLM MoE"
       }
     ],
     "Transformer & Attention": [
       {
-        "title": "Multi-Head Latent Attention (MLA) and Low-Rank KV Cache Compression for 1M+ Context LLMs",
-        "authors": "H. Liu, Y. Wang et al.",
-        "published": "2026-10-18",
-        "link": "https://arxiv.org/list/cs.CL/recent",
+        "title": "Online Temporal Rotations for 2 Bit KV-Cache Quantization in Video Diffusion Transformers",
+        "summary": "Video diffusion transformers reuse key--value (KV) caches across denoising steps, which quickly becomes a bottleneck for long video generation. We find that quantizing temporally distant cache vectors leads to a large ra...",
+        "authors": "Ryan Lucas, Petros Prastakos et al.",
+        "published": "2026-11-19",
+        "link": "http://arxiv.org/pdf/2611.26334v1",
         "category": "Transformer & Attention"
       },
       {
-        "title": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision FP8/FP4",
-        "authors": "T. Dao, J. Shah et al.",
-        "published": "2026-10-15",
-        "link": "https://arxiv.org/list/cs.LG/recent",
+        "title": "Learn, Freeze, and Transfer an Activation Function Across Architectures",
+        "summary": "Transfer learning typically reuses knowledge acquired by a source network through its learned weights. We investigate whether a learned activation function can also be transferred and remain useful in networks trained fr...",
+        "authors": "Arun Prakash A",
+        "published": "2026-11-19",
+        "link": "http://arxiv.org/pdf/2611.26201v1",
         "category": "Transformer & Attention"
       },
       {
-        "title": "Hybrid Mamba-Transformer State Space Architectures for Linear-Time Long-Sequence Modeling",
-        "authors": "A. Gu, T. Dao et al.",
-        "published": "2026-10-12",
-        "link": "https://arxiv.org/list/cs.LG/recent",
+        "title": "Ask in the Crowd: Differentially Private LLM Inference via Dummy-Augmented Shuffling",
+        "summary": "Large language models are increasingly deployed as LLM-as-a-Service (LLMaaS), where user queries are sent to remote LLMs for inference, raising severe privacy concerns about the exposure of sensitive user inputs. Differe...",
+        "authors": "Zhihao Liu, Zixiong Guo et al.",
+        "published": "2026-11-19",
+        "link": "http://arxiv.org/pdf/2611.25669v1",
+        "category": "Transformer & Attention"
+      },
+      {
+        "title": "NIMIS: A Structure-Agnostic, Chemically Informed Slot-Attention Framework for Demixing 1D $^1$H-NMR Mixture Spectra",
+        "summary": "The products of chemical reactions are usually complex mixtures that must be separated into their components before interpretable $^1$H-NMR spectra can be obtained. Direct analysis of the spectra of crude mixtures would ...",
+        "authors": "Anna Marija Sumrova, Jonathan M. Goodman",
+        "published": "2026-11-19",
+        "link": "http://arxiv.org/pdf/2611.25629v1",
         "category": "Transformer & Attention"
       }
     ],
     "RL & Test-Time Compute": [
       {
-        "title": "Scaling Test-Time Compute Optimally Can Be More Effective Than Scaling Model Parameters",
-        "authors": "C. Snell, A. Kumar et al.",
-        "published": "2026-10-18",
-        "link": "https://arxiv.org/list/cs.LG/recent",
+        "title": "Training LLMs to Follow Reasoning Instructions with Minimal Edits",
+        "summary": "Large language models increasingly rely on extended reasoning traces, yet the training signals used to shape this behavior remain coarse. Supervised fine-tuning on full trajectories forces the model to imitate an entire ...",
+        "authors": "Alexandra Yakovleva, Luat Gia Khoi Nguyen et al.",
+        "published": "2026-11-19",
+        "link": "http://arxiv.org/pdf/2611.26342v1",
         "category": "RL & Test-Time Compute"
       },
       {
-        "title": "Group Relative Policy Optimization (GRPO) for Critic-Free Mathematical & Code Reasoning",
-        "authors": "Z. Shao, P. Wang et al.",
-        "published": "2026-10-16",
-        "link": "https://arxiv.org/list/cs.AI/recent",
+        "title": "Decision-Focused Reinforcement Learning for LLM Post-Training",
+        "summary": "Large language models (LLMs) have shown promise as predictors across various tasks, benefiting from their ability to use information from unstructured context. However, when predictions serve as parameters of downstream ...",
+        "authors": "Haotian Zhai, Leqi Liu",
+        "published": "2026-11-19",
+        "link": "http://arxiv.org/pdf/2611.25597v1",
         "category": "RL & Test-Time Compute"
       },
       {
-        "title": "Process Reward Models (PRM) and Monte Carlo Tree Search in Large Reasoning Models",
-        "authors": "J. Lightman, H. Sutskever et al.",
-        "published": "2026-10-13",
-        "link": "https://arxiv.org/list/cs.AI/recent",
+        "title": "Self-Rewarded Reinforcement Learning for Better-Structured Medical Explanations in Small Language Models",
+        "summary": "Small language models (SLMs) can run on commodity hardware and support privacy-preserving, on-premises clinical deployment, but their medical explanations are often short and poorly structured compared with large languag...",
+        "authors": "Prakhar Mishra, Bhavya Yajush Awasthi et al.",
+        "published": "2026-11-18",
+        "link": "http://arxiv.org/pdf/2611.24650v2",
+        "category": "RL & Test-Time Compute"
+      },
+      {
+        "title": "From Restoration to Redrawing: Revitalizing Ancient Chinese Characters by SVG Code Generation and Editing",
+        "summary": "Hanjian manuscripts written on Han Dynasty bamboo and wooden slips are invaluable heritage of ancient Chinese writing but suffer from damaged ink and incomplete strokes. Existing image-to-image restoration methods may al...",
+        "authors": "Weiguang Zhang, Linhua Dong et al.",
+        "published": "2026-11-18",
+        "link": "http://arxiv.org/pdf/2611.24084v1",
         "category": "RL & Test-Time Compute"
       }
     ],
     "Multimodal & World Models": [
       {
-        "title": "Native Autoregressive Multimodal Pre-training Across Text, Audio, Image, and Video Tokens",
-        "authors": "Gemini Core Team et al.",
-        "published": "2026-10-17",
-        "link": "https://arxiv.org/list/cs.CV/recent",
+        "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+        "summary": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel ...",
+        "authors": "Jiahao Huang, Jun Wang",
+        "published": "2026-11-19",
+        "link": "http://arxiv.org/pdf/2611.26590v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "Diffusion-Transformer (DiT) World Simulators with 3D Spatio-Temporal Physics Consistency",
-        "authors": "B. Peebles, S. Xie et al.",
-        "published": "2026-10-14",
-        "link": "https://arxiv.org/list/cs.CV/recent",
+        "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+        "summary": "Embodied intelligence aims to let robots perform complex physical tasks with human-like adaptability and reliability, which requires three complementary capabilities: history-based cognitive reasoning, precise and timely...",
+        "authors": "Yuzhi Huang, Jie Wu et al.",
+        "published": "2026-11-19",
+        "link": "http://arxiv.org/pdf/2611.26444v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "Autonomous GUI Computer-Use Agents via Vision-Language Reinforcement Learning",
-        "authors": "Anthropic Agent Research et al.",
-        "published": "2026-10-11",
-        "link": "https://arxiv.org/list/cs.AI/recent",
+        "title": "ResVision: Spectrum-Matched Resizing and Context-Preserving Inspection for Visual Reasoning",
+        "summary": "Agentic visual reasoning improves vision-language models by selectively enlarging evidence without adding new scene content, but the benefit depends on whether fine structure remains accessible and whether local observat...",
+        "authors": "Guojian Zhan, Jiahao Xu et al.",
+        "published": "2026-11-19",
+        "link": "http://arxiv.org/pdf/2611.26318v1",
+        "category": "Multimodal & World Models"
+      },
+      {
+        "title": "FastRoverVLA: Fast Vision-Language-Action Execution for Off-Road Autonomous Driving",
+        "summary": "Off-road vision-language-action (VLA) models generate scene-conditioned plans, but frequent trajectory updates can repeatedly invoke expensive multimodal inference. Reusing a prediction reduces this demand while leaving ...",
+        "authors": "Changtao Zhao, Yingxue Guan et al.",
+        "published": "2026-11-19",
+        "link": "http://arxiv.org/pdf/2611.26242v1",
         "category": "Multimodal & World Models"
       }
     ],
     "CoWoS Packaging": [
       {
-        "title": "Thermal-Mechanical Reliability of CoWoS-L Silicon Interposers for 1000W+ AI Accelerators",
-        "authors": "Y. T. Lin, H. C. Kuo et al.",
-        "published": "2026-10-14",
-        "link": "https://arxiv.org/list/physics.app-ph/recent",
+        "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
+        "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
+        "authors": "Patrick Iff, Torsten Hoefler",
+        "published": "2026-11-17",
+        "link": "http://arxiv.org/pdf/2611.22937v1",
         "category": "CoWoS Packaging"
       },
       {
-        "title": "3D SoIC Hybrid Bonding and Micro-Channel Direct Liquid Cooling for HBM4 Integration",
-        "authors": "S. W. Chen, K. P. Wu et al.",
-        "published": "2026-10-10",
-        "link": "https://arxiv.org/list/cs.AR/recent",
+        "title": "PAISF: A Partially Adaptive In-Order Selection Function for Routing in On-Chip, Inter-Chiplet, and Wafer-Scale Networks",
+        "summary": "The growing number of compute elements per chip, along with advances such as chiplet systems and wafer-scale integration, drives the need for scalable and efficient routing algorithms for irregular topologies. A routing ...",
+        "authors": "Patrick Iff, Luca Oertig et al.",
+        "published": "2026-11-17",
+        "link": "http://arxiv.org/pdf/2611.22772v1",
+        "category": "CoWoS Packaging"
+      },
+      {
+        "title": "ThermLeT: Transformer-based Temperature Prediction for 2.5D Chiplet Architecture",
+        "summary": "The drive toward heterogeneous 2.5D chiplet packages promises unmatched performance and customization, yet the resulting density amplifies thermal challenges. To facilitate rapid design space exploration, we present Ther...",
+        "authors": "Varun Darshana Parekh, Anusha Devulapally et al.",
+        "published": "2026-11-16",
+        "link": "http://arxiv.org/pdf/2611.21954v1",
+        "category": "CoWoS Packaging"
+      },
+      {
+        "title": "An Open-Source da Vinci X/Xi Instrument Module for Laparoscopic Surgery Research",
+        "summary": "Studying electrosurgical tasks on a research robot requires control of both instrument motion and energy activation, along with a record of when each action occurs. This paper presents an open-source module for da Vinci ...",
+        "authors": "Douglas McDonough, Justin Liao et al.",
+        "published": "2026-11-16",
+        "link": "http://arxiv.org/pdf/2611.21771v1",
         "category": "CoWoS Packaging"
       }
     ],
     "Silicon Photonics": [
       {
-        "title": "1.6Tbps Co-Packaged Optics (CPO) with Kerr Microcomb Laser Sources for AI Scale-Up Fabrics",
-        "authors": "A. Bergman, D. Miller et al.",
-        "published": "2026-10-16",
-        "link": "https://arxiv.org/list/physics.optics/recent",
+        "title": "Simultaneous spectral measurement and programmable filtering on a universal silicon photonic chip",
+        "summary": "Spectral measurement and spectral filtering are two fundamental operations in optics, yet they are conventionally implemented using separate optical systems, hindering their simultaneous and programmable operation on a c...",
+        "authors": "Yangyang Wan, Rui Tang et al.",
+        "published": "2026-11-18",
+        "link": "http://arxiv.org/pdf/2611.23667v1",
         "category": "Silicon Photonics"
       },
       {
-        "title": "Sub-Picojoule per Bit Silicon Photonic Transceivers for Optical Inter-Chiplet Interconnects",
-        "authors": "J. Bowers, R. Soref et al.",
-        "published": "2026-10-11",
-        "link": "https://arxiv.org/list/physics.optics/recent",
+        "title": "Bringing coherent closer to compute: coherent-lite multidimensional on-chip interconnect beyond 100 terabits per second",
+        "summary": "The continued scaling of artificial intelligence (AI) demands optical interconnects that deliver higher bandwidth density within stringent electrical-bandwidth and energy budgets. Coherent optics offers a route beyond th...",
+        "authors": "Yongzhu Hu, Aolong Sun et al.",
+        "published": "2026-11-14",
+        "link": "http://arxiv.org/pdf/2611.19254v1",
+        "category": "Silicon Photonics"
+      },
+      {
+        "title": "Chip-Based Discrete-Modulated Continuous-Variable Quantum Key Distribution with Uncertainty-Principle-Based Composable Security",
+        "summary": "Continuous-variable quantum key distribution offers a promising platform for scalable quantum networks through its compatibility with standard telecommunications technology and photonic integration. High-order discrete m...",
+        "authors": "Jiale Mi, Yiming Bian et al.",
+        "published": "2026-11-13",
+        "link": "http://arxiv.org/pdf/2611.18288v1",
+        "category": "Silicon Photonics"
+      },
+      {
+        "title": "OrbitWeaver: LLM Agent Planning with Simulation Feedback for Optically Interconnected Orbital GPU Clusters",
+        "summary": "Space-based data-center designs increasingly consider GPU computing formations connected by inter-satellite optical links. With limited neighboring connections, jobs assigned disjoint GPUs can still contend on shared rel...",
+        "authors": "Pengcheng Luo, Bowen Zhang",
+        "published": "2026-11-13",
+        "link": "http://arxiv.org/pdf/2611.17850v1",
         "category": "Silicon Photonics"
       }
     ],
     "AI Accelerator": [
       {
-        "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
-        "authors": "S. Dally, W. J. Song et al.",
-        "published": "2026-10-17",
-        "link": "https://arxiv.org/list/cs.AR/recent",
+        "title": "DexAttention: Distributed Sparse Attention through Rapid Online Planning and Persistent GPU Execution",
+        "summary": "Sparse attention reduces computation, but distributed execution may still transfer unnecessary data and incur substantial per-operation overhead. Mask-aware assignment and scheduling can reduce these costs, but replannin...",
+        "authors": "Sirui Chen, Xuehai Qian",
+        "published": "2026-11-17",
+        "link": "http://arxiv.org/pdf/2611.23512v1",
         "category": "AI Accelerator"
       },
       {
-        "title": "FP4 / Microscaling Formats and High-Radix NVLink Topologies for Next-Gen GPU Clusters",
-        "authors": "N. Jouppi, K. Sato et al.",
-        "published": "2026-10-13",
-        "link": "https://arxiv.org/list/cs.DC/recent",
+        "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
+        "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
+        "authors": "Patrick Iff, Torsten Hoefler",
+        "published": "2026-11-17",
+        "link": "http://arxiv.org/pdf/2611.22937v1",
+        "category": "AI Accelerator"
+      },
+      {
+        "title": "How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU",
+        "summary": "For automatic optimization systems, performance portability across increasingly diverse AI accelerators remains a challenge. We investigate how well graph-level superoptimization transfers across architectures by adaptin...",
+        "authors": "Weronika Hryniewska-Guzik, Mateusz Comblik et al.",
+        "published": "2026-11-17",
+        "link": "http://arxiv.org/pdf/2611.22844v1",
+        "category": "AI Accelerator"
+      },
+      {
+        "title": "PAISF: A Partially Adaptive In-Order Selection Function for Routing in On-Chip, Inter-Chiplet, and Wafer-Scale Networks",
+        "summary": "The growing number of compute elements per chip, along with advances such as chiplet systems and wafer-scale integration, drives the need for scalable and efficient routing algorithms for irregular topologies. A routing ...",
+        "authors": "Patrick Iff, Luca Oertig et al.",
+        "published": "2026-11-17",
+        "link": "http://arxiv.org/pdf/2611.22772v1",
         "category": "AI Accelerator"
       }
     ]
