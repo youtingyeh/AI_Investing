@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23 11:53:10 CST (UTC+8)",
+  "last_updated": "2026-11-24 15:00:40 CST (UTC+8)",
   "status": "LIVE_CLOUD_SYNC",
   "macro_kpis": {
     "csp_capex": {
@@ -150,14 +150,14 @@
           71.0
         ]
       },
-      "price": 125.53,
-      "market_cap_b": 3031.2,
+      "price": 165.05,
+      "market_cap_b": 3985.5,
       "revenue_yoy": 103.2,
       "gross_margin": 74.9,
       "operating_margin": 66.1,
       "fcf_b": 99.24,
       "debt_to_ebitda": 0.16,
-      "market_cap_usd_b": 3031.2,
+      "market_cap_usd_b": 3985.5,
       "arxiv_papers": [
         {
           "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
@@ -176,28 +176,28 @@
       ],
       "news": [
         {
-          "title": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day",
-          "link": "https://finance.yahoo.com/markets/article/gpu-prices-are-rising-for-nvidias-older-chips-even-as-the-stock-keeps-going-down-chart-of-the-day-123721121.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-22"
+          "title": "Bitcoin And Stocks Are Moving In Different Directions: Arthur Hayes Says Nvidia's Rally Is The 'Worst Thing' For Crypto",
+          "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/arthur-hayes-nvidia-rally-bitcoin-november-selloff/cNbrzA2R9k3",
+          "publisher": "Stocktwits",
+          "published": "2026-11-24"
         },
         {
-          "title": "Dow Jones Futures Rise As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-worst-week-covid-nvidia-anthropic-vix-fear-gauge/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-23"
-        },
-        {
-          "title": "Asia stocks slide as AI rout deepens despite rebound in U.S. futures",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-slide-ai-rout-033321972.html",
+          "title": "Bitcoin hovers around $60k amid little relief from rate, regulatory jitters",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-hovers-around-60k-amid-064423052.html",
           "publisher": "Investing.com",
-          "published": "2026-11-23"
+          "published": "2026-11-24"
         },
         {
-          "title": "Worried About Nvidia? Buy This Fantastic Artificial Intelligence (AI) Stock Instead",
-          "link": "https://www.fool.com/investing/2026/11/22/worried-about-nvidia-buy-this-fantastic-artificial-intelligence-ai-stock-instead/",
+          "title": "Prediction: 1 \"Magnificent Seven\" Stock That Will Lag the Market in 2027",
+          "link": "https://www.fool.com/investing/2026/11/24/prediction-1-magnificent-seven-stock-that-will-lag-the-market-in-2027/",
           "publisher": "Motley Fool",
-          "published": "2026-11-23"
+          "published": "2026-11-24"
+        },
+        {
+          "title": "Asian stocks rally as Huang's return to Nvidia revives the AI trade",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html",
+          "publisher": "Reuters",
+          "published": "2026-11-24"
         }
       ]
     },
@@ -260,14 +260,14 @@
           76.8
         ]
       },
-      "price": 304.41,
-      "market_cap_b": 1453.1,
+      "price": 313.55,
+      "market_cap_b": 1496.8,
       "revenue_yoy": 85.5,
       "gross_margin": 75.5,
       "operating_margin": 48.8,
       "fcf_b": 30.6,
       "debt_to_ebitda": 1.14,
-      "market_cap_usd_b": 1453.1,
+      "market_cap_usd_b": 1496.8,
       "arxiv_papers": [
         {
           "title": "1.6Tbps Co-Packaged Optics (CPO) with Kerr Microcomb Laser Sources for AI Scale-Up Fabrics",
@@ -286,28 +286,28 @@
       ],
       "news": [
         {
-          "title": "Her $420,000 in Employer Stock Inside Her 401(k) Lost 11% in a Day. Rolling It Into an IRA Would Turn Her Long-Term Gain Into Ordinary Income",
-          "link": "https://247wallst.com/personal-finance/2026/11/22/her-420000-in-employer-stock-inside-her-401k-lost-11-in-a-day-rolling-it-into-an-ira-would-turn-her-long-term-gain-into-ordinary-income/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-22"
+          "title": "Nvidia soars 31% as board reinstates Jensen Huang as CEO, chip stocks jump",
+          "link": "https://finance.yahoo.com/markets/article/nvidia-soars-25-as-board-reinstates-jensen-huang-as-ceo-chip-stocks-jump-142353537.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-23"
         },
         {
-          "title": "Google’s 2027 chip plan is bad news for Broadcom",
-          "link": "https://www.thestreet.com/technology/google-2027-chip-plan-broadcom",
-          "publisher": "TheStreet",
-          "published": "2026-11-22"
+          "title": "Jensen Huang's return to Nvidia: Long or short accountability?",
+          "link": "https://finance.yahoo.com/video/jensen-huangs-return-to-nvidia-long-or-short-accountability-185949254.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23"
         },
         {
-          "title": "Here's What a $1,000 Investment in Broadcom Stock Could Be Worth By 2035",
-          "link": "https://www.fool.com/investing/2026/11/22/here-s-what-a-usd1-000-investment-in-broadcom-stock-could-be-worth-by-2035/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-22"
+          "title": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
+          "link": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23"
         },
         {
-          "title": "Prediction: Dec. 9 Will Be a Huge Day for the Stock Market",
-          "link": "https://www.fool.com/investing/2026/11/22/prediction-dec-9-will-be-a-huge-day-for-the-stock-market/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-22"
+          "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
+          "link": "https://finance.yahoo.com/video/jensen-huang-back-as-nvidia-ceo-after-12-days-shares-surge-30-161302539.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23"
         }
       ]
     },
@@ -370,14 +370,14 @@
           14.2
         ]
       },
-      "price": 424.39,
-      "market_cap_b": 702.4,
+      "price": 453.46,
+      "market_cap_b": 750.5,
       "revenue_yoy": 44.7,
       "gross_margin": 56.0,
       "operating_margin": 17.8,
       "fcf_b": 7.36,
       "debt_to_ebitda": 0.83,
-      "market_cap_usd_b": 702.4,
+      "market_cap_usd_b": 750.5,
       "arxiv_papers": [
         {
           "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
@@ -396,28 +396,28 @@
       ],
       "news": [
         {
-          "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says ‘Bears Feel Validated,’ But There’s No Stopping The AI Wave",
-          "link": "https://stocktwits.com/news-articles/markets/equity/nvda-intc-mu-amd-chip-stocks-rip-higher-dan-ives-says-bears-feel-validated-but-there-s-no-stopping-the-ai-wave/cNbYZnYR916",
-          "publisher": "Stocktwits",
+          "title": "Nvidia soars 31% as board reinstates Jensen Huang as CEO, chip stocks jump",
+          "link": "https://finance.yahoo.com/markets/article/nvidia-soars-25-as-board-reinstates-jensen-huang-as-ceo-chip-stocks-jump-142353537.html",
+          "publisher": "Yahoo Finance",
           "published": "2026-11-23"
         },
         {
-          "title": "AMD vs. Nvidia Stock After Jensen Huang’s Exit: 1 Trades at Nearly 4x the Other’s Earnings Multiple. Here’s the AI Chip Stock I’d Buy Now.",
-          "link": "https://www.barchart.com/story/news/8957514/amd-vs-nvidia-stock-after-jensen-huangs-exit-1-trades-at-nearly-4x-the-others-earnings-multiple-heres-the-ai-chip-stock-id-buy-now",
-          "publisher": "Barchart",
-          "published": "2026-11-22"
+          "title": "Why Jensen Huang is the 'key man' behind the market rally",
+          "link": "https://finance.yahoo.com/video/why-jensen-huang-is-the-key-man-behind-the-market-rally-193849634.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23"
         },
         {
-          "title": "AMD Gained From Nvidia’s China Scandal. Now a Short Seller Says AMD Has a China Problem Too.",
-          "link": "https://www.barchart.com/story/news/8957111/amd-gained-from-nvidias-china-scandal-now-a-short-seller-says-amd-has-a-china-problem-too",
-          "publisher": "Barchart",
-          "published": "2026-11-22"
+          "title": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
+          "link": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23"
         },
         {
-          "title": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters",
-          "link": "https://finance.yahoo.com/markets/article/stocks-are-on-fire-sale-as-anthropic-ipo-fails-to-calm-ai-trade-jitters-190051253.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-22"
+          "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
+          "link": "https://finance.yahoo.com/video/jensen-huang-back-as-nvidia-ceo-after-12-days-shares-surge-30-161302539.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23"
         }
       ]
     },
@@ -480,14 +480,14 @@
           2.75
         ]
       },
-      "price": 152.2,
-      "market_cap_b": 162.9,
+      "price": 176.67,
+      "market_cap_b": 189.0,
       "revenue_yoy": 27.1,
       "gross_margin": 97.4,
       "operating_margin": 17.0,
       "fcf_b": 1.14,
       "debt_to_ebitda": 0.44,
-      "market_cap_usd_b": 162.9,
+      "market_cap_usd_b": 189.0,
       "arxiv_papers": [
         {
           "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
@@ -506,28 +506,28 @@
       ],
       "news": [
         {
-          "title": "Arm vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy for 2027?",
-          "link": "https://www.fool.com/coverage/better-buy/2026/11/22/arm-vs-marvell-technology-which-artificial-intelligence-stock-is-a-better-buy-for-2027/",
-          "publisher": "Motley Fool",
+          "title": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
+          "link": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html",
+          "publisher": "Yahoo Finance Video",
           "published": "2026-11-23"
         },
         {
-          "title": "Arm Sinks 20% in a Week as Chips Slide and Nvidia’s Headhunters Approach CEO Rene Haas. Time to Buy?",
-          "link": "https://www.tikr.com/blog/arm-sinks-20-in-a-week-as-chips-slide-and-nvidias-headhunters-approach-ceo-rene-haas-time-to-buy?ref=yahoofinance&tlnk=yf-261122-5qfprg9c",
-          "publisher": "TIKR",
-          "published": "2026-11-22"
+          "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
+          "link": "https://finance.yahoo.com/video/jensen-huang-back-as-nvidia-ceo-after-12-days-shares-surge-30-161302539.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23"
         },
         {
-          "title": "SoftBank Falls 14%, and 72% of Arm’s Shares Sit Pledged Behind Its Loans",
-          "link": "https://www.tikr.com/blog/softbank-falls-14-and-72-of-arms-shares-sit-pledged-behind-its-loans?ref=yahoofinance&tlnk=yf-261121-m4r44cf9",
-          "publisher": "TIKR",
-          "published": "2026-11-21"
+          "title": "Nvidia’s Board Had Other Options: Robert Maciejko",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-board-had-other-options-222213836.html",
+          "publisher": "CorpGov.com",
+          "published": "2026-11-23"
         },
         {
-          "title": "Arm (ARM) Stock Looks Undervalued Despite Rich Sales Expectations",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/arm-arm-stock-looks-undervalued-021442325.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-21"
+          "title": "Nvidia, Dell, Micron, Anthropic, CrowdStrike, UnitedHealth, and More Stocks That Explain Today’s Market",
+          "link": "https://www.barrons.com/articles/stock-movers-901d6342?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-23"
         }
       ]
     },
@@ -590,14 +590,14 @@
           7.9
         ]
       },
-      "price": 166.24,
-      "market_cap_b": 64.0,
+      "price": 186.35,
+      "market_cap_b": 71.8,
       "revenue_yoy": 61.2,
       "gross_margin": 38.1,
       "operating_margin": 21.1,
       "fcf_b": 2.96,
       "debt_to_ebitda": 1.05,
-      "market_cap_usd_b": 64.0,
+      "market_cap_usd_b": 71.8,
       "arxiv_papers": [
         {
           "title": "Thermal-Mechanical Reliability of CoWoS-L Silicon Interposers for 1000W+ AI Accelerators",
@@ -616,28 +616,28 @@
       ],
       "news": [
         {
-          "title": "“An Unpowered Data Center Is Just a Warehouse”: GE Vernova’s Slots Are 80% Sold Through 2032",
-          "link": "https://www.tikr.com/blog/an-unpowered-data-center-is-just-a-warehouse-ge-vernovas-slots-are-80-sold-through-2032?ref=yahoofinance&tlnk=yf-261122-g6mjq3hv",
-          "publisher": "TIKR",
-          "published": "2026-11-22"
+          "title": "POET Technologies Is Just One Of 3 Top Growth Stocks",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/poet-technologies-just-one-3-031509221.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-24"
         },
         {
-          "title": "3 Data Center Power Stocks Down More Than a Third From Their Records to Buy Now and Hold Through 2030",
-          "link": "https://www.fool.com/investing/2026/11/21/3-data-center-power-stocks-down-more-than-a-third-from-their-records-to-buy-now-and-hold-through-2030/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-21"
+          "title": "Top Stock Picks for Week of November 23, 2026",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-picks-week-november-204400074.html",
+          "publisher": "Zacks",
+          "published": "2026-11-23"
         },
         {
-          "title": "Bloom Energy Sinks 26% in a Week, Vertiv Down 18%, as Nvidia’s Turmoil Hits AI Power Stocks. Time to Buy?",
-          "link": "https://www.tikr.com/blog/bloom-energy-sinks-26-in-a-week-vertiv-down-18-as-nvidias-turmoil-hits-ai-power-stocks-time-to-buy?ref=yahoofinance&tlnk=yf-261121-fv95h3w4",
+          "title": "Baird Just Downgraded Vertiv With a $200 Target, and It’s Not About Earnings",
+          "link": "https://www.tikr.com/blog/baird-just-downgraded-vertiv-with-a-200-target-and-its-not-about-earnings?ref=yahoofinance&tlnk=yf-261123-g87p3x5x",
           "publisher": "TIKR",
-          "published": "2026-11-21"
+          "published": "2026-11-23"
         },
         {
-          "title": "AI Racks Are Now “Too Heavy for Most Old Datacenters.” That’s a Bottleneck for Nvidia’s Vera Rubin",
-          "link": "https://www.tikr.com/blog/ai-racks-are-now-too-heavy-for-most-old-datacenters-thats-a-bottleneck-for-nvidias-vera-rubin?ref=yahoofinance&tlnk=yf-261120-pvv6fq57",
-          "publisher": "TIKR",
-          "published": "2026-11-20"
+          "title": "Who's Buying And Who's Selling AI? The Full List, Next To 2000",
+          "link": "https://www.trefis.com/stock/nvda/articles/627430/who-s-buying-and-who-s-selling-ai-the-full-list-next-to-2000/2026-11-23",
+          "publisher": "Trefis",
+          "published": "2026-11-23"
         }
       ]
     },
@@ -700,14 +700,14 @@
           312.0
         ]
       },
-      "price": 484.52,
-      "market_cap_b": 3598.1,
+      "price": 492.5,
+      "market_cap_b": 3657.4,
       "revenue_yoy": 18.8,
       "gross_margin": 67.7,
       "operating_margin": 47.1,
       "fcf_b": 2.99,
       "debt_to_ebitda": 0.65,
-      "market_cap_usd_b": 3598.1,
+      "market_cap_usd_b": 3657.4,
       "arxiv_papers": [
         {
           "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
@@ -726,28 +726,28 @@
       ],
       "news": [
         {
-          "title": "Amazon Spent $1.82 For Every $1 Of Cash Last Quarter. Can It Keep Going?",
-          "link": "https://www.trefis.com/stock/amzn/articles/627456/amazon-spent-1-82-for-every-1-of-cash-last-quarter-can-it-keep-going/2026-11-22",
-          "publisher": "Trefis",
+          "title": "Nvidia gains nearly $1T as Trump says nobody could 'revive the stock like it's being revived'",
+          "link": "https://finance.yahoo.com/markets/article/nvidia-gains-nearly-1t-as-trump-says-nobody-could-revive-the-stock-like-its-being-revived-194634496.html",
+          "publisher": "Yahoo Finance",
           "published": "2026-11-23"
         },
         {
-          "title": "How Did Dell Grow From $56 Billion To $151 Billion In 20 Years?",
-          "link": "https://www.trefis.com/stock/dell/articles/624827/how-did-dell-grow-from-56-billion-to-151-billion-in-20-years/2026-11-22",
-          "publisher": "Trefis",
+          "title": "Jensen Huang's return to Nvidia: Long or short accountability?",
+          "link": "https://finance.yahoo.com/video/jensen-huangs-return-to-nvidia-long-or-short-accountability-185949254.html",
+          "publisher": "Yahoo Finance Video",
           "published": "2026-11-23"
         },
         {
-          "title": "15% of parents already cut college savings after Microsoft AI CEO told a mom 'probably not' to bother saving",
-          "link": "https://finance.yahoo.com/technology/ai/articles/15-parents-already-cut-college-211500548.html",
-          "publisher": "Moneywise",
-          "published": "2026-11-22"
+          "title": "The 10-Year Topped 5% For The First Time Since 2007. What Happened Next?",
+          "link": "https://www.trefis.com/stock/spy/articles/627401/the-10-year-topped-5-for-the-first-time-since-2007-what-happened-next/2026-11-23",
+          "publisher": "Trefis",
+          "published": "2026-11-24"
         },
         {
-          "title": "Microsoft Remains Attractively Valued as Azure and Cloud Drive Growth",
-          "link": "https://www.barchart.com/story/news/8957349/microsoft-remains-attractively-valued-as-azure-and-cloud-drive-growth",
-          "publisher": "Barchart",
-          "published": "2026-11-22"
+          "title": "Why Did Palo Alto Networks Stock Fall?",
+          "link": "https://www.trefis.com/stock/panw/articles/627845/why-is-palo-alto-networks-stock-falling/2026-11-23",
+          "publisher": "Trefis",
+          "published": "2026-11-24"
         }
       ]
     },
@@ -810,14 +810,14 @@
           92.4
         ]
       },
-      "price": 265.29,
-      "market_cap_b": 3261.5,
+      "price": 282.1,
+      "market_cap_b": 3468.1,
       "revenue_yoy": 24.7,
       "gross_margin": 60.9,
       "operating_margin": 33.3,
       "fcf_b": -1.16,
       "debt_to_ebitda": 0.81,
-      "market_cap_usd_b": 3261.5,
+      "market_cap_usd_b": 3468.1,
       "arxiv_papers": [
         {
           "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
@@ -836,28 +836,28 @@
       ],
       "news": [
         {
-          "title": "Amazon Spent $1.82 For Every $1 Of Cash Last Quarter. Can It Keep Going?",
-          "link": "https://www.trefis.com/stock/amzn/articles/627456/amazon-spent-1-82-for-every-1-of-cash-last-quarter-can-it-keep-going/2026-11-22",
+          "title": "Google's Gemini 4 Neon gains momentum ahead of OpenAI, data shows",
+          "link": "https://finance.yahoo.com/video/googles-gemini-4-neon-gains-momentum-ahead-of-openai-data-shows-223324082.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23"
+        },
+        {
+          "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
+          "link": "https://finance.yahoo.com/video/jensen-huang-back-as-nvidia-ceo-after-12-days-shares-surge-30-161302539.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23"
+        },
+        {
+          "title": "Not Starlink. Not Starship. This SpaceX Business Could Be Worth $80 Billion on Its Own.",
+          "link": "https://www.fool.com/investing/2026/11/24/not-starlink-not-starship-this-spacex-business-could-be-worth-usd80-billion-on-its-own/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-24"
+        },
+        {
+          "title": "1966 Or 1995: Which Way Does America's $2.1 Trillion Deficit Go?",
+          "link": "https://www.trefis.com/stock/spy/articles/627413/1966-or-1995-which-way-does-america-s-2-1-trillion-deficit-go/2026-11-23",
           "publisher": "Trefis",
-          "published": "2026-11-23"
-        },
-        {
-          "title": "Jim Cramer sends a strong signal to Google stock investors",
-          "link": "https://www.thestreet.com/investing/stocks/jim-cramer-sends-a-strong-signal-to-google-stock-investors",
-          "publisher": "TheStreet",
-          "published": "2026-11-23"
-        },
-        {
-          "title": "Her $420,000 in Employer Stock Inside Her 401(k) Lost 11% in a Day. Rolling It Into an IRA Would Turn Her Long-Term Gain Into Ordinary Income",
-          "link": "https://247wallst.com/personal-finance/2026/11/22/her-420000-in-employer-stock-inside-her-401k-lost-11-in-a-day-rolling-it-into-an-ira-would-turn-her-long-term-gain-into-ordinary-income/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-22"
-        },
-        {
-          "title": "Google’s 2027 chip plan is bad news for Broadcom",
-          "link": "https://www.thestreet.com/technology/google-2027-chip-plan-broadcom",
-          "publisher": "TheStreet",
-          "published": "2026-11-22"
+          "published": "2026-11-24"
         }
       ]
     },
@@ -920,14 +920,14 @@
           171.5
         ]
       },
-      "price": 246.82,
-      "market_cap_b": 2668.9,
+      "price": 255.39,
+      "market_cap_b": 2761.6,
       "revenue_yoy": 12.1,
       "gross_margin": 51.4,
       "operating_margin": 13.1,
       "fcf_b": -34.73,
       "debt_to_ebitda": 1.66,
-      "market_cap_usd_b": 2668.9,
+      "market_cap_usd_b": 2761.6,
       "arxiv_papers": [
         {
           "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
@@ -946,28 +946,28 @@
       ],
       "news": [
         {
-          "title": "Dow Jones Futures Rise As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-worst-week-covid-nvidia-anthropic-vix-fear-gauge/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
+          "title": "Jensen Huang's return to Nvidia: Long or short accountability?",
+          "link": "https://finance.yahoo.com/video/jensen-huangs-return-to-nvidia-long-or-short-accountability-185949254.html",
+          "publisher": "Yahoo Finance Video",
           "published": "2026-11-23"
         },
         {
-          "title": "Amazon Spent $1.82 For Every $1 Of Cash Last Quarter. Can It Keep Going?",
-          "link": "https://www.trefis.com/stock/amzn/articles/627456/amazon-spent-1-82-for-every-1-of-cash-last-quarter-can-it-keep-going/2026-11-22",
+          "title": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
+          "link": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-23"
+        },
+        {
+          "title": "Stocks Opened Up, Then Fell 3% By The Close. What Happened The Last 45 Times?",
+          "link": "https://www.trefis.com/stock/spy/articles/627441/stocks-opened-up-then-fell-3-by-the-close-what-happened-the-last-45-times/2026-11-23",
           "publisher": "Trefis",
-          "published": "2026-11-23"
+          "published": "2026-11-24"
         },
         {
-          "title": "Jeff Bezos sends a strong signal to Nvidia stock investors as CEO search heats up",
-          "link": "https://www.thestreet.com/investing/jeff-bezos-sends-a-strong-signal-to-nvidia-stock-investors-as-ceo-search-heats-up",
-          "publisher": "TheStreet",
-          "published": "2026-11-22"
-        },
-        {
-          "title": "e.l.f. Beauty vs. Monster Beverage: Which Consumer Goods Stock Is a Better Buy for 2027?",
-          "link": "https://www.fool.com/coverage/better-buy/2026/11/22/elf-beauty-vs-monster-beverage-which-consumer-goods-stock-is-a-better-buy-for-2027/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-22"
+          "title": "1966 Or 1995: Which Way Does America's $2.1 Trillion Deficit Go?",
+          "link": "https://www.trefis.com/stock/spy/articles/627413/1966-or-1995-which-way-does-america-s-2-1-trillion-deficit-go/2026-11-23",
+          "publisher": "Trefis",
+          "published": "2026-11-24"
         }
       ]
     },
@@ -1030,14 +1030,14 @@
           108.0
         ]
       },
-      "price": 101.19,
-      "market_cap_b": 315.5,
+      "price": 113.68,
+      "market_cap_b": 354.4,
       "revenue_yoy": 29.6,
       "gross_margin": 64.0,
       "operating_margin": 34.3,
       "fcf_b": -45.85,
       "debt_to_ebitda": 4.91,
-      "market_cap_usd_b": 315.5,
+      "market_cap_usd_b": 354.4,
       "arxiv_papers": [
         {
           "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
@@ -1056,28 +1056,28 @@
       ],
       "news": [
         {
-          "title": "Dow Jones Futures Rise As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-worst-week-covid-nvidia-anthropic-vix-fear-gauge/?src=A00220&yptr=yahoo",
+          "title": "Bloom Energy Stock What Changed in AI Data Center Demand",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-changed-ai-011325575.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-24"
+        },
+        {
+          "title": "Jensen Huang Is Back and Nvidia Just Soared 31%. Here’s What 6 Giant Stocks Did the Week and the Year After a Day Like This",
+          "link": "https://247wallst.com/investing/2026/11/23/jensen-huang-is-back-and-nvidia-just-soared-31-heres-what-6-giant-stocks-did-the-week-and-the-year-after-a-day-like-this/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-23"
+        },
+        {
+          "title": "Steve Eisman Says “Stock Picking Is Back” Now That AI Is “No Longer One Trade”",
+          "link": "https://247wallst.com/investing/2026/11/23/steve-eisman-says-stock-picking-is-back-now-that-ai-is-no-longer-one-trade/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-23"
+        },
+        {
+          "title": "AI Energy Stocks, From Fuel Cells To Uranium, Rebound As Nvidia Soars",
+          "link": "https://www.investors.com/news/ai-energy-stocks-bloom-vernova-oklo-rally-nvidia-rebound-trade/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-23"
-        },
-        {
-          "title": "Amazon Spent $1.82 For Every $1 Of Cash Last Quarter. Can It Keep Going?",
-          "link": "https://www.trefis.com/stock/amzn/articles/627456/amazon-spent-1-82-for-every-1-of-cash-last-quarter-can-it-keep-going/2026-11-22",
-          "publisher": "Trefis",
-          "published": "2026-11-23"
-        },
-        {
-          "title": "Cathie Wood Just Bought $22 Million of CoreWeave Across 2 ARK Funds",
-          "link": "https://www.tikr.com/blog/cathie-wood-just-bought-22-million-of-coreweave-across-2-ark-funds?ref=yahoofinance&tlnk=yf-261122-j9c6cpqw",
-          "publisher": "TIKR",
-          "published": "2026-11-22"
-        },
-        {
-          "title": "Billionaire David Tepper’s Appaloosa Opened a $172 Million Stake in Oracle",
-          "link": "https://247wallst.com/investing/2026/11/22/billionaire-david-teppers-appaloosa-opened-a-172-million-stake-in-oracle/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-22"
         }
       ]
     },
@@ -1140,14 +1140,14 @@
           4.9
         ]
       },
-      "price": 143.49,
-      "market_cap_b": 345.7,
+      "price": 159.36,
+      "market_cap_b": 384.0,
       "revenue_yoy": 95.9,
       "gross_margin": 84.7,
       "operating_margin": 45.6,
       "fcf_b": 2.65,
       "debt_to_ebitda": 0.07,
-      "market_cap_usd_b": 345.7,
+      "market_cap_usd_b": 384.0,
       "arxiv_papers": [
         {
           "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
@@ -1166,28 +1166,28 @@
       ],
       "news": [
         {
-          "title": "Palantir Technologies (PLTR) Co Hosts Sovereign AI Defense Summit",
-          "link": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-co-hosts-210650181.html",
+          "title": "Nvidia Stock Rebound Puts AI Infrastructure Stocks Back On The Radar",
+          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-rebound-puts-ai-021257945.html",
           "publisher": "Simply Wall St.",
-          "published": "2026-11-22"
+          "published": "2026-11-24"
         },
         {
-          "title": "Palantir Stock Could Finish 2026 Lower. Its Only 2 Losing Years Ended Very Differently.",
-          "link": "https://www.fool.com/investing/2026/11/22/palantir-stock-could-finish-2026-lower-its-only-2-losing-years-ended-very-differently/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-22"
+          "title": "Zeta Global Targets $2.3 Billion in 2028 Revenue as Organic Growth Accelerates",
+          "link": "https://www.marketbeat.com/instant-alerts/event-zeta-global-targets-23-billion-in-2028-revenue-as-organic-growth-accelerates-2026-11-23/?utm_source=yahoofinance&utm_medium=yahoofinance",
+          "publisher": "MarketBeat",
+          "published": "2026-11-24"
         },
         {
-          "title": "UiPath vs. Palantir Technologies: Which AI Automation Platform Makes a Better Stock Buy for 2027?",
-          "link": "https://www.fool.com/coverage/better-buy/2026/11/22/uipath-vs-palantir-technologies-which-ai-automation-platform-makes-a-better-stock-buy-for-2027/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-22"
+          "title": "Where the AI Trade Goes After Jensen Huang",
+          "link": "https://www.barrons.com/articles/ai-trade-after-jensen-huang-shift-chips-to-applications-4753c1b9?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-23"
         },
         {
-          "title": "Stanley Druckenmiller and 16 Other Big Funds Bought Palantir Last Quarter, While 6 Sold. Who’s Right?",
-          "link": "https://www.tikr.com/blog/stanley-druckenmiller-and-16-other-big-funds-bought-palantir-last-quarter-while-6-sold-whos-right?ref=yahoofinance&tlnk=yf-261122-8gjfqxv4",
+          "title": "Chamath Says Microsoft “Clearly Is Going to Need to Have a Frontier Model.” Nadella Is Betting It Won’t",
+          "link": "https://www.tikr.com/blog/chamath-says-microsoft-clearly-is-going-to-need-to-have-a-frontier-model-nadella-is-betting-it-wont?ref=yahoofinance&tlnk=yf-261123-rjg9hgh9",
           "publisher": "TIKR",
-          "published": "2026-11-22"
+          "published": "2026-11-23"
         }
       ]
     },
@@ -1250,14 +1250,14 @@
           2600.0
         ]
       },
-      "price": 2040.0,
-      "market_cap_b": 52902.0,
+      "price": 2230.0,
+      "market_cap_b": 57829.2,
       "revenue_yoy": 50.9,
       "gross_margin": 65.8,
       "operating_margin": 58.0,
       "fcf_b": 1042.59,
       "debt_to_ebitda": 0.3,
-      "market_cap_usd_b": 1653.2,
+      "market_cap_usd_b": 1807.2,
       "arxiv_papers": [
         {
           "title": "Thermal-Mechanical Reliability of CoWoS-L Silicon Interposers for 1000W+ AI Accelerators",
@@ -1276,28 +1276,28 @@
       ],
       "news": [
         {
-          "title": "Worried About Nvidia? Buy This Fantastic Artificial Intelligence (AI) Stock Instead",
-          "link": "https://www.fool.com/investing/2026/11/22/worried-about-nvidia-buy-this-fantastic-artificial-intelligence-ai-stock-instead/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-23"
+          "title": "Asian stocks rally as Huang's return to Nvidia revives the AI trade",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html",
+          "publisher": "Reuters",
+          "published": "2026-11-24"
         },
         {
-          "title": "Taiwan stocks suffer worst week since 1990 as AI rout drains emerging Asia",
-          "link": "http://www.intellinews.com/taiwan-stocks-suffer-worst-week-since-1990-as-ai-rout-drains-emerging-asia-487378/",
-          "publisher": "IntelliNews",
-          "published": "2026-11-22"
+          "title": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia’s CEO",
+          "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-wall-street-033125464.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-24"
         },
         {
-          "title": "Stanley Druckenmiller, Leopold Aschenbrenner and 25 Other Big Funds Sold Taiwan Semiconductor Last Quarter, While 38 Bought. Who’s Right?",
-          "link": "https://www.tikr.com/blog/stanley-druckenmiller-leopold-aschenbrenner-and-25-other-big-funds-sold-taiwan-semiconductor-last-quarter-while-38-bought-whos-right?ref=yahoofinance&tlnk=yf-261122-frx2h3mh",
-          "publisher": "TIKR",
-          "published": "2026-11-22"
+          "title": "Taiwan Stocks Jump 9%, Beating Korea and Japan on Huang's Nvidia Return",
+          "link": "https://beincrypto.com/taiwan-stocks-jump-huang-nvidia-return/",
+          "publisher": "BeInCrypto",
+          "published": "2026-11-24"
         },
         {
-          "title": "5 Best American Stocks to Buy for 2027",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-american-stocks-buy-142133267.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-22"
+          "title": "Asia chipmaking stocks soar tracking Nvidia rally; S.Korea, Taiwan lead",
+          "link": "https://finance.yahoo.com/technology/ai/articles/asia-chipmaking-stocks-soar-tracking-021520376.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-24"
         }
       ]
     },
@@ -1360,14 +1360,14 @@
           75.0
         ]
       },
-      "price": 3560.0,
-      "market_cap_b": 307.4,
+      "price": 3915.0,
+      "market_cap_b": 338.1,
       "revenue_yoy": 296.5,
       "gross_margin": 26.9,
       "operating_margin": 18.4,
       "fcf_b": -21.0,
       "debt_to_ebitda": 0.03,
-      "market_cap_usd_b": 9.6,
+      "market_cap_usd_b": 10.6,
       "arxiv_papers": [
         {
           "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
@@ -1470,14 +1470,14 @@
           150.0
         ]
       },
-      "price": 1350.0,
-      "market_cap_b": 754.5,
+      "price": 1485.0,
+      "market_cap_b": 830.0,
       "revenue_yoy": 65.5,
       "gross_margin": 18.6,
       "operating_margin": 13.8,
       "fcf_b": -24.13,
       "debt_to_ebitda": 0.39,
-      "market_cap_usd_b": 23.6,
+      "market_cap_usd_b": 25.9,
       "arxiv_papers": [
         {
           "title": "1.6Tbps Co-Packaged Optics (CPO) with Kerr Microcomb Laser Sources for AI Scale-Up Fabrics",
@@ -1580,14 +1580,14 @@
           440.0
         ]
       },
-      "price": 1395.0,
-      "market_cap_b": 814.7,
+      "price": 1510.0,
+      "market_cap_b": 881.9,
       "revenue_yoy": 62.9,
       "gross_margin": 8.3,
       "operating_margin": 6.8,
       "fcf_b": -88.8,
       "debt_to_ebitda": 2.06,
-      "market_cap_usd_b": 25.5,
+      "market_cap_usd_b": 27.6,
       "arxiv_papers": [
         {
           "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
@@ -1690,14 +1690,14 @@
           1380.0
         ]
       },
-      "price": 210.5,
-      "market_cap_b": 2962.6,
+      "price": 226.5,
+      "market_cap_b": 3187.8,
       "revenue_yoy": 46.5,
       "gross_margin": 6.0,
       "operating_margin": 3.6,
       "fcf_b": -203.72,
       "debt_to_ebitda": 3.27,
-      "market_cap_usd_b": 92.6,
+      "market_cap_usd_b": 99.6,
       "arxiv_papers": [
         {
           "title": "Thermal-Mechanical Reliability of CoWoS-L Silicon Interposers for 1000W+ AI Accelerators",
@@ -1716,6 +1716,12 @@
       ],
       "news": [
         {
+          "title": "Asian stocks rally as Huang's return to Nvidia revives the AI trade",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html",
+          "publisher": "Reuters",
+          "published": "2026-11-24"
+        },
+        {
           "title": "Bentley supplier starts work on new axle plant",
           "link": "https://www.wardsauto.com/news/bentley-supplier-starts-work-on-new-axle-plant/875158/",
           "publisher": "Wards Auto",
@@ -1732,12 +1738,6 @@
           "link": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-20"
-        },
-        {
-          "title": "Saudi EV brand Ceer secures $693m financing",
-          "link": "https://www.just-auto.com/news/ceer-secures-693m-financing/",
-          "publisher": "Just Auto",
-          "published": "2026-11-19"
         }
       ]
     },
@@ -1800,14 +1800,14 @@
           810.0
         ]
       },
-      "price": 258.5,
-      "market_cap_b": 1059.7,
+      "price": 282.5,
+      "market_cap_b": 1158.1,
       "revenue_yoy": 125.2,
       "gross_margin": 5.1,
       "operating_margin": 3.2,
       "fcf_b": -95.05,
       "debt_to_ebitda": 3.09,
-      "market_cap_usd_b": 33.1,
+      "market_cap_usd_b": 36.2,
       "arxiv_papers": [
         {
           "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
@@ -1910,14 +1910,14 @@
           78.0
         ]
       },
-      "price": 2375.0,
-      "market_cap_b": 932.6,
+      "price": 2600.0,
+      "market_cap_b": 1020.9,
       "revenue_yoy": 51.8,
       "gross_margin": 30.8,
       "operating_margin": 25.5,
       "fcf_b": 32.25,
       "debt_to_ebitda": 0.7,
-      "market_cap_usd_b": 29.1,
+      "market_cap_usd_b": 31.9,
       "arxiv_papers": [
         {
           "title": "Thermal-Mechanical Reliability of CoWoS-L Silicon Interposers for 1000W+ AI Accelerators",
@@ -2020,14 +2020,14 @@
           350.0
         ]
       },
-      "price": 990.0,
-      "market_cap_b": 2571.6,
+      "price": 1085.0,
+      "market_cap_b": 2818.3,
       "revenue_yoy": 31.1,
       "gross_margin": 35.3,
       "operating_margin": 16.9,
       "fcf_b": 44.52,
       "debt_to_ebitda": 0.77,
-      "market_cap_usd_b": 80.4,
+      "market_cap_usd_b": 88.1,
       "arxiv_papers": [
         {
           "title": "Wafer-Scale Photonic-Electronic Heterogeneous Accelerators for Trillion-Parameter LLM Inference",
