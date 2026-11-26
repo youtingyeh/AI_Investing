@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25 13:34:18 CST (UTC+8)",
+  "last_updated": "2026-11-26 13:16:05 CST (UTC+8)",
   "status": "LIVE_CLOUD_SYNC",
   "macro_kpis": {
     "csp_capex": {
@@ -150,71 +150,71 @@
           71.0
         ]
       },
-      "price": 155.38,
-      "market_cap_b": 3752.0,
+      "price": 149.3,
+      "market_cap_b": 3605.1,
       "revenue_yoy": 103.2,
       "gross_margin": 74.9,
       "operating_margin": 66.1,
       "fcf_b": 99.24,
       "debt_to_ebitda": 0.16,
-      "market_cap_usd_b": 3752.0,
+      "market_cap_usd_b": 3605.1,
       "arxiv_papers": [
         {
-          "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
-          "summary": "A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and s...",
-          "authors": "Guangyuan Wang, Chengran Li et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.33093v1",
+          "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
+          "summary": "Optical circuit switches (OCSes) provide high-bandwidth point-to-point circuits in GPU clusters, but each optical port attaches to only one peer at a time, and reconfiguring a connection interrupts transmission. In large...",
+          "authors": "Xinchi Han, Weihao Jiang et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34759v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Real-Time AI Acceleration on a 2D Spatial Dataflow Architecture",
-          "summary": "Machine Learning (ML) is increasingly being integrated into real-time systems, which makes the timing analysis of ML accelerators necessary. However, the most popular commercial accelerator, the Graphics Processing Unit ...",
-          "authors": "Shriram Raja, Anton Njavro et al.",
-          "published": "2026-11-23",
-          "link": "http://arxiv.org/pdf/2611.31556v1",
+          "title": "PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving",
+          "summary": "Pipeline parallelism can serve long-context language models on PCIe servers and across heterogeneous GPU clusters. Existing engines split prefill into token chunks to limit decode stalls. The chunk size also sets the GPU...",
+          "authors": "Xiaoqiang Guo, Yifan Lin et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34615v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Fully solid-state all-2D micro-supercapacitors for on-chip energy storage",
-          "summary": "Integrating energy storage directly into microelectronic platforms remains a major challenge. Although solid-state micro-supercapacitors (MSCs) have been previously demonstrated, most still rely on liquid or solvent-cont...",
-          "authors": "Bar Favelukis, Andreas Furchner et al.",
-          "published": "2026-11-22",
-          "link": "http://arxiv.org/pdf/2611.29476v1",
+          "title": "Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation",
+          "summary": "Multi-turn AI agents execute iterative loops of large language model (LLM) inference and external tool calls, transforming cluster serving into a dynamic resource-allocation problem where routing and key-value (KV) cache...",
+          "authors": "Sentao Miao, Tianjiao Nie et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34584v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction",
-          "summary": "Researchers submitting deep learning jobs to shared GPU clusters need runtime estimates to request time limits, choose hardware, and budget compute. Large language models (LLMs) offer a tempting shortcut: describe the jo...",
-          "authors": "Ashish Molakalapalli, Kangda Wei et al.",
-          "published": "2026-11-19",
-          "link": "http://arxiv.org/pdf/2611.26875v1",
+          "title": "CoordRoute: Coordinated Multi-Model Routing for Maximum Compute-Budget Utility",
+          "summary": "Model routing sends each request to one of several large language models (LLMs) of different sizes. In practice, requests share a fixed compute budget: a spending cap on rented model APIs or the capacity of a private GPU...",
+          "authors": "Boning Huangfu, Boxiao Du et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34161v1",
           "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Why Trump wanted Jensen Huang back at the helm of Nvidia",
-          "link": "https://finance.yahoo.com/markets/article/why-trump-wanted-jensen-huang-back-at-the-helm-of-nvidia-224325153.html",
+          "title": "Jensen Huang reclaims throne at Nvidia: Here's the bottom line for investors",
+          "link": "https://finance.yahoo.com/video/jensen-huang-reclaims-throne-at-nvidia-heres-the-bottom-line-for-investors-212803135.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-25"
+        },
+        {
+          "title": "Jensen Huang's return, neocloud risk, and a holiday retail rally",
+          "link": "https://finance.yahoo.com/video/jensen-huangs-return-neocloud-risk-and-a-holiday-retail-rally-222042649.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-25"
+        },
+        {
+          "title": "Nvidia is cheap on paper, so why won't the market buy it?",
+          "link": "https://finance.yahoo.com/video/nvidia-is-cheap-on-paper-so-why-wont-the-market-buy-it-192215326.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-25"
+        },
+        {
+          "title": "Why Nvidia's 'Jensen put' failed to stop the AI trade meltdown",
+          "link": "https://finance.yahoo.com/markets/article/why-nvidias-jensen-put-did-little-to-ease-the-ai-trade-meltdown-185334279.html",
           "publisher": "Yahoo Finance",
-          "published": "2026-11-24"
-        },
-        {
-          "title": "Anthropic falls below IPO price as Nvidia gives back gains",
-          "link": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-24"
-        },
-        {
-          "title": "Why Nvidia is 'bar none' the 'cheapest growth stock in the market'",
-          "link": "https://finance.yahoo.com/video/why-nvidia-is-bar-none-the-cheapest-growth-stock-in-the-market-213425021.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-24"
-        },
-        {
-          "title": "Donald Trump Floats Jensen Huang Pardon, US Stake In Nvidia – But NVDA Loses Momentum",
-          "link": "https://stocktwits.com/news-articles/markets/equity/donald-trump-floats-jensen-huang-pardon-us-stake-in-nvidia-but-nvda-loses-momentum/cNbHPnyR9lL",
-          "publisher": "Stocktwits",
           "published": "2026-11-25"
         }
       ]
@@ -278,15 +278,23 @@
           76.8
         ]
       },
-      "price": 301.08,
-      "market_cap_b": 1437.2,
+      "price": 300.86,
+      "market_cap_b": 1436.2,
       "revenue_yoy": 85.5,
       "gross_margin": 75.5,
       "operating_margin": 48.8,
       "fcf_b": 30.6,
       "debt_to_ebitda": 1.14,
-      "market_cap_usd_b": 1437.2,
+      "market_cap_usd_b": 1436.2,
       "arxiv_papers": [
+        {
+          "title": "Ferroionic CuCrP2S6 Integrated Silicon Photonics for Neuromorphic Computing",
+          "summary": "Neuromorphic photonic computing calls for optical states that combine stimulus accumulation, spontaneous relaxation, and nonvolatile state retention without continuous power dissipation. Here, we demonstrate a ferroionic...",
+          "authors": "Ghada Dushaq, Srinivasa R. Tamalampudi et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.33954v1",
+          "category": "Silicon Photonics"
+        },
         {
           "title": "2D MXene integrated optical polarizers based on TiO2 with high performance",
           "summary": "Polarization control is essential for modern optical systems. Recently, two dimensional (2D) materials featuring highly anisotropic absorption across broad wavelength regions have emerged as a promising solution for real...",
@@ -310,40 +318,32 @@
           "published": "2026-11-18",
           "link": "http://arxiv.org/pdf/2611.23667v1",
           "category": "Silicon Photonics"
-        },
-        {
-          "title": "Bringing coherent closer to compute: coherent-lite multidimensional on-chip interconnect beyond 100 terabits per second",
-          "summary": "The continued scaling of artificial intelligence (AI) demands optical interconnects that deliver higher bandwidth density within stringent electrical-bandwidth and energy budgets. Coherent optics offers a route beyond th...",
-          "authors": "Yongzhu Hu, Aolong Sun et al.",
-          "published": "2026-11-14",
-          "link": "http://arxiv.org/pdf/2611.19254v1",
-          "category": "Silicon Photonics"
         }
       ],
       "news": [
         {
-          "title": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
-          "link": "https://finance.yahoo.com/markets/article/nvidia-amd-broadcom-lead-chip-stocks-lower-as-ai-trade-comes-under-pressure-141635463.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-24"
+          "title": "Why Retail Investors Are Watching AMD and AI Infrastructure Stocks After SpaceX Satellite News",
+          "link": "https://finance.yahoo.com/technology/ai/articles/why-retail-investors-watching-amd-021215050.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-26"
         },
         {
-          "title": "Stocks give back gains as Anthropic dips below IPO price",
-          "link": "https://finance.yahoo.com/video/stocks-give-back-gains-as-anthropic-dips-below-ipo-price-154408548.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-24"
-        },
-        {
-          "title": "Arista Networks vs. SentinelOne: Which Technology Stock Is a Better Buy for 2027?",
-          "link": "https://www.fool.com/coverage/better-buy/2026/11/24/arista-networks-vs-sentinelone-which-technology-stock-is-a-better-buy-for-2027/",
+          "title": "Broadcom Stock Hasn't Traded This Low Since July 2025. I Think It's a Buy.",
+          "link": "https://www.fool.com/investing/2026/11/25/broadcom-stock-hasn-t-traded-this-low-since-july-2025-i-think-it-s-a-buy/",
           "publisher": "Motley Fool",
-          "published": "2026-11-25"
+          "published": "2026-11-26"
         },
         {
-          "title": "Novanta Shares Just Jumped And We’re Buying This Robotics Play",
-          "link": "https://247wallst.com/videos/novanta-shares-just-jumped-and-were-buying-this-robotics-play/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-24"
+          "title": "5 Best Strong Buy Growth Stocks to Buy for 2027",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-strong-buy-growth-004610627.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-26"
+        },
+        {
+          "title": "AI stock rout deepens but damage is limited by afternoon bounce",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-rout-deepens-damage-222733772.html",
+          "publisher": "Reuters",
+          "published": "2026-11-25"
         }
       ]
     },
@@ -406,72 +406,72 @@
           14.2
         ]
       },
-      "price": 413.27,
-      "market_cap_b": 684.0,
+      "price": 406.03,
+      "market_cap_b": 672.0,
       "revenue_yoy": 44.7,
       "gross_margin": 56.0,
       "operating_margin": 17.8,
       "fcf_b": 7.36,
       "debt_to_ebitda": 0.83,
-      "market_cap_usd_b": 684.0,
+      "market_cap_usd_b": 672.0,
       "arxiv_papers": [
         {
-          "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
-          "summary": "A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and s...",
-          "authors": "Guangyuan Wang, Chengran Li et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.33093v1",
+          "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
+          "summary": "Optical circuit switches (OCSes) provide high-bandwidth point-to-point circuits in GPU clusters, but each optical port attaches to only one peer at a time, and reconfiguring a connection interrupts transmission. In large...",
+          "authors": "Xinchi Han, Weihao Jiang et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34759v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Real-Time AI Acceleration on a 2D Spatial Dataflow Architecture",
-          "summary": "Machine Learning (ML) is increasingly being integrated into real-time systems, which makes the timing analysis of ML accelerators necessary. However, the most popular commercial accelerator, the Graphics Processing Unit ...",
-          "authors": "Shriram Raja, Anton Njavro et al.",
-          "published": "2026-11-23",
-          "link": "http://arxiv.org/pdf/2611.31556v1",
+          "title": "PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving",
+          "summary": "Pipeline parallelism can serve long-context language models on PCIe servers and across heterogeneous GPU clusters. Existing engines split prefill into token chunks to limit decode stalls. The chunk size also sets the GPU...",
+          "authors": "Xiaoqiang Guo, Yifan Lin et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34615v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Fully solid-state all-2D micro-supercapacitors for on-chip energy storage",
-          "summary": "Integrating energy storage directly into microelectronic platforms remains a major challenge. Although solid-state micro-supercapacitors (MSCs) have been previously demonstrated, most still rely on liquid or solvent-cont...",
-          "authors": "Bar Favelukis, Andreas Furchner et al.",
-          "published": "2026-11-22",
-          "link": "http://arxiv.org/pdf/2611.29476v1",
+          "title": "Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation",
+          "summary": "Multi-turn AI agents execute iterative loops of large language model (LLM) inference and external tool calls, transforming cluster serving into a dynamic resource-allocation problem where routing and key-value (KV) cache...",
+          "authors": "Sentao Miao, Tianjiao Nie et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34584v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction",
-          "summary": "Researchers submitting deep learning jobs to shared GPU clusters need runtime estimates to request time limits, choose hardware, and budget compute. Large language models (LLMs) offer a tempting shortcut: describe the jo...",
-          "authors": "Ashish Molakalapalli, Kangda Wei et al.",
-          "published": "2026-11-19",
-          "link": "http://arxiv.org/pdf/2611.26875v1",
+          "title": "CoordRoute: Coordinated Multi-Model Routing for Maximum Compute-Budget Utility",
+          "summary": "Model routing sends each request to one of several large language models (LLMs) of different sizes. In practice, requests share a fixed compute budget: a spending cap on rented model APIs or the capacity of a private GPU...",
+          "authors": "Boning Huangfu, Boxiao Du et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34161v1",
           "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Anthropic falls below IPO price as Nvidia gives back gains",
-          "link": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-24"
-        },
-        {
-          "title": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
-          "link": "https://finance.yahoo.com/markets/article/nvidia-amd-broadcom-lead-chip-stocks-lower-as-ai-trade-comes-under-pressure-141635463.html",
+          "title": "Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade",
+          "link": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-stocks-sink-as-investors-flee-ai-trade-134518921.html",
           "publisher": "Yahoo Finance",
-          "published": "2026-11-24"
-        },
-        {
-          "title": "Stocks give back gains as Anthropic dips below IPO price",
-          "link": "https://finance.yahoo.com/video/stocks-give-back-gains-as-anthropic-dips-below-ipo-price-154408548.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-24"
-        },
-        {
-          "title": "Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-anthropic-ai-retreat-fed-inflation-data/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
           "published": "2026-11-25"
+        },
+        {
+          "title": "Why Retail Investors Are Watching AMD and AI Infrastructure Stocks After SpaceX Satellite News",
+          "link": "https://finance.yahoo.com/technology/ai/articles/why-retail-investors-watching-amd-021215050.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-26"
+        },
+        {
+          "title": "Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return?",
+          "link": "https://beincrypto.com/tech-stocks-stall-thanksgiving-nvidia-rebound/",
+          "publisher": "BeInCrypto",
+          "published": "2026-11-26"
+        },
+        {
+          "title": "Big AI Buyers Want a Second Source. Is AMD (AMD) It?",
+          "link": "https://finance.yahoo.com/technology/ai/articles/big-ai-buyers-want-second-005602621.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-26"
         }
       ]
     },
@@ -534,72 +534,72 @@
           2.75
         ]
       },
-      "price": 161.56,
-      "market_cap_b": 172.9,
+      "price": 161.51,
+      "market_cap_b": 172.8,
       "revenue_yoy": 27.1,
       "gross_margin": 97.4,
       "operating_margin": 17.0,
       "fcf_b": 1.14,
       "debt_to_ebitda": 0.44,
-      "market_cap_usd_b": 172.9,
+      "market_cap_usd_b": 172.8,
       "arxiv_papers": [
         {
-          "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
-          "summary": "A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and s...",
-          "authors": "Guangyuan Wang, Chengran Li et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.33093v1",
+          "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
+          "summary": "Optical circuit switches (OCSes) provide high-bandwidth point-to-point circuits in GPU clusters, but each optical port attaches to only one peer at a time, and reconfiguring a connection interrupts transmission. In large...",
+          "authors": "Xinchi Han, Weihao Jiang et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34759v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Real-Time AI Acceleration on a 2D Spatial Dataflow Architecture",
-          "summary": "Machine Learning (ML) is increasingly being integrated into real-time systems, which makes the timing analysis of ML accelerators necessary. However, the most popular commercial accelerator, the Graphics Processing Unit ...",
-          "authors": "Shriram Raja, Anton Njavro et al.",
-          "published": "2026-11-23",
-          "link": "http://arxiv.org/pdf/2611.31556v1",
+          "title": "PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving",
+          "summary": "Pipeline parallelism can serve long-context language models on PCIe servers and across heterogeneous GPU clusters. Existing engines split prefill into token chunks to limit decode stalls. The chunk size also sets the GPU...",
+          "authors": "Xiaoqiang Guo, Yifan Lin et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34615v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Fully solid-state all-2D micro-supercapacitors for on-chip energy storage",
-          "summary": "Integrating energy storage directly into microelectronic platforms remains a major challenge. Although solid-state micro-supercapacitors (MSCs) have been previously demonstrated, most still rely on liquid or solvent-cont...",
-          "authors": "Bar Favelukis, Andreas Furchner et al.",
-          "published": "2026-11-22",
-          "link": "http://arxiv.org/pdf/2611.29476v1",
+          "title": "Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation",
+          "summary": "Multi-turn AI agents execute iterative loops of large language model (LLM) inference and external tool calls, transforming cluster serving into a dynamic resource-allocation problem where routing and key-value (KV) cache...",
+          "authors": "Sentao Miao, Tianjiao Nie et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34584v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction",
-          "summary": "Researchers submitting deep learning jobs to shared GPU clusters need runtime estimates to request time limits, choose hardware, and budget compute. Large language models (LLMs) offer a tempting shortcut: describe the jo...",
-          "authors": "Ashish Molakalapalli, Kangda Wei et al.",
-          "published": "2026-11-19",
-          "link": "http://arxiv.org/pdf/2611.26875v1",
+          "title": "CoordRoute: Coordinated Multi-Model Routing for Maximum Compute-Budget Utility",
+          "summary": "Model routing sends each request to one of several large language models (LLMs) of different sizes. In practice, requests share a fixed compute budget: a spending cap on rented model APIs or the capacity of a private GPU...",
+          "authors": "Boning Huangfu, Boxiao Du et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34161v1",
           "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
-          "link": "https://finance.yahoo.com/markets/article/nvidia-amd-broadcom-lead-chip-stocks-lower-as-ai-trade-comes-under-pressure-141635463.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-24"
+          "title": "Nvidia Sinks 9% as Huang Rally Fades: Stephanie Link Sees “A Cloud Over It”",
+          "link": "https://www.tikr.com/blog/nvidia-sinks-9-as-huang-rally-fades-stephanie-link-sees-a-cloud-over-it?ref=yahoofinance&tlnk=yf-261125-q8ch658v",
+          "publisher": "TIKR",
+          "published": "2026-11-25"
         },
         {
-          "title": "Stocks give back gains as Anthropic dips below IPO price",
-          "link": "https://finance.yahoo.com/video/stocks-give-back-gains-as-anthropic-dips-below-ipo-price-154408548.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-24"
+          "title": "Chip stocks tumble as Nvidia-led AI rally unravels, tariff fears weigh",
+          "link": "https://www.proactiveinvestors.com/companies/news/1102454/chip-stocks-tumble-as-nvidia-led-ai-rally-unravels-tariff-fears-weigh-1102454.html",
+          "publisher": "Proactive",
+          "published": "2026-11-25"
         },
         {
-          "title": "Anthropic IPO Shares: Flip Now Or Hold A Year?",
-          "link": "https://www.trefis.com/stock/ant/articles/628272/anthropic-ipo-shares-flip-now-or-hold-a-year/2026-11-24",
-          "publisher": "Trefis",
-          "published": "2026-11-24"
+          "title": "Dow Craters Over 1000 Points, Nasdaq Slips 4% As AI Trade Unravels – Investors Digest PCE Inflation, Fresh Tariff Proposal",
+          "link": "https://stocktwits.com/news-articles/markets/equity/dow-craters-over-1000-points-nasdaq-slips-4-as-ai-trade-unravels-investors-digest-pce-inflation-fresh-tariff-proposal/cNbHjJvR9mj",
+          "publisher": "Stocktwits",
+          "published": "2026-11-25"
         },
         {
-          "title": "Arm Holdings Stocks Fall 4.89% as Chip Rally Cools After Haas Commits Through 2033",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-stocks-fall-4-172748336.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-24"
+          "title": "ARM Holdings near-term technical outlook: bearish setup with key levels to watch",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-near-term-technical-130314923.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-25"
         }
       ]
     },
@@ -662,15 +662,23 @@
           7.9
         ]
       },
-      "price": 173.82,
-      "market_cap_b": 66.9,
+      "price": 173.37,
+      "market_cap_b": 66.8,
       "revenue_yoy": 61.2,
       "gross_margin": 38.1,
       "operating_margin": 21.1,
       "fcf_b": 2.96,
       "debt_to_ebitda": 1.05,
-      "market_cap_usd_b": 66.9,
+      "market_cap_usd_b": 66.8,
       "arxiv_papers": [
+        {
+          "title": "L2C2: Enhancing Large-scale Chiplets for Agent Long-Context LLM Inference with Sparse and Distributed Attention",
+          "summary": "Long-context inference is a rising demand for LLMs, especially for agent applications. Sparse attention (SpAt) and chiplet technology are promising solutions to reduce computations and scale hardware performance. However...",
+          "authors": "Kangbo Bai, Zhonghua Mu et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.33691v1",
+          "category": "CoWoS Packaging"
+        },
         {
           "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
           "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
@@ -694,40 +702,32 @@
           "published": "2026-11-16",
           "link": "http://arxiv.org/pdf/2611.21954v1",
           "category": "CoWoS Packaging"
-        },
-        {
-          "title": "An Open-Source da Vinci X/Xi Instrument Module for Laparoscopic Surgery Research",
-          "summary": "Studying electrosurgical tasks on a research robot requires control of both instrument motion and energy activation, along with a record of when each action occurs. This paper presents an open-source module for da Vinci ...",
-          "authors": "Douglas McDonough, Justin Liao et al.",
-          "published": "2026-11-16",
-          "link": "http://arxiv.org/pdf/2611.21771v1",
-          "category": "CoWoS Packaging"
         }
       ],
       "news": [
         {
-          "title": "nVent Electric (NVT) Stock Is Down 8.4% Today: AI Chip Selloff Drags Power Peers",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nvent-electric-nvt-stock-down-210145373.html",
+          "title": "Why ADS-TEC Energy (ADSE) Stock Is Up 6.8% Today Without Company News",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-ads-tec-energy-adse-194516791.html",
           "publisher": "GuruFocus.com",
-          "published": "2026-11-24"
+          "published": "2026-11-25"
         },
         {
-          "title": "Advanced Energy (AEIS) Stock Is Down 9.6% Today Without Company News",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-energy-aeis-stock-down-210130944.html",
+          "title": "Plug Power (PLUG) Stock Is Up 12.2% Today Without Company News",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/plug-power-plug-stock-12-184517404.html",
           "publisher": "GuruFocus.com",
-          "published": "2026-11-24"
+          "published": "2026-11-25"
         },
         {
-          "title": "Can Eaton's Solid Order Backlog Sustain Its Growth Momentum?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/eatons-solid-order-backlog-sustain-165600161.html",
-          "publisher": "Zacks",
-          "published": "2026-11-24"
+          "title": "Vertiv jumps 17 spots on the Roundtable 100",
+          "link": "https://www.thestreet.com/crypto/markets/vertiv-jumps-17-spots-on-the-roundtable-100",
+          "publisher": "TheStreet",
+          "published": "2026-11-25"
         },
         {
-          "title": "Comfort Systems vs. Vertiv: Which AI Cooling Stock Is a Better Buy?",
-          "link": "https://finance.yahoo.com/technology/ai/articles/comfort-systems-vs-vertiv-ai-163100993.html",
+          "title": "DELL Q3 Earnings Beat Estimates, Robust AI Demand Drives Revenues",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/dell-q3-earnings-beat-estimates-142800972.html",
           "publisher": "Zacks",
-          "published": "2026-11-24"
+          "published": "2026-11-25"
         }
       ]
     },
@@ -790,54 +790,60 @@
           312.0
         ]
       },
-      "price": 496.13,
-      "market_cap_b": 3684.4,
+      "price": 489.93,
+      "market_cap_b": 3638.3,
       "revenue_yoy": 18.8,
       "gross_margin": 67.7,
       "operating_margin": 47.1,
       "fcf_b": 2.99,
       "debt_to_ebitda": 0.65,
-      "market_cap_usd_b": 3684.4,
+      "market_cap_usd_b": 3638.3,
       "arxiv_papers": [
         {
-          "title": "LazUnirec: Unifying Retrieval and Ranking in Multi-scenario Industrial Recommendation",
-          "summary": "Modern industrial recommendation systems typically divide retrieval and ranking into two separate cascaded stages, leading to inconsistent optimization objectives, redundant encoding of user sequences, and a waste of com...",
-          "authors": "Xiaodong Li, Junfeng Zhang et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.32590v1",
+          "title": "LoopTitan: What Does Parameter Revisit Buy a Mixture-of-Experts?",
+          "summary": "Looped Mixture-of-Experts (MoE) architectures revisit layer parameters across depths. This design increases effective depth without adding parameters. Recent looped MoE studies report substantial gains over the standard ...",
+          "authors": "Zichen Tian, Yudong Lu et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34821v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Breaking Routing And Inter-device Dependencies in Mixture-of-Experts",
-          "summary": "As Mixture-of-Experts (MoE) models scale, Expert Parallelism (EP) becomes increasingly important for distributing experts across devices. However, the resulting token dispatch and combine operations can become a major bo...",
-          "authors": "John Zarka, Danyal Ahmed et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.32572v1",
+          "title": "PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving",
+          "summary": "Pipeline parallelism can serve long-context language models on PCIe servers and across heterogeneous GPU clusters. Existing engines split prefill into token chunks to limit decode stalls. The chunk size also sets the GPU...",
+          "authors": "Xiaoqiang Guo, Yifan Lin et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34615v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Inference-Aware Congestion Control for Distributed MoE Inference",
-          "summary": "Congestion control is central to low-latency datacenter communication, yet link utilization and queue state do not reveal whether delivered bytes advance an application. This distinction matters in distributed mixture-of...",
-          "authors": "Weiye Chen, Qi Xin et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.32083v1",
+          "title": "Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation",
+          "summary": "Multi-turn AI agents execute iterative loops of large language model (LLM) inference and external tool calls, transforming cluster serving into a dynamic resource-allocation problem where routing and key-value (KV) cache...",
+          "authors": "Sentao Miao, Tianjiao Nie et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34584v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Generalized Tensor Parallelism: Powering Trillion-Parameter LLM Training at 10+ EFLOP/s",
-          "summary": "Pretraining state-of-the-art large language models (LLMs) with up to trillions of parameters is memory- and compute-intensive. Existing parallelization schemes compromise on either per-GPU memory or throughput: data para...",
-          "authors": "Shiqing Fan, Deepak Narayanan et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.32057v1",
+          "title": "AliceAI-Foundation-80B-A3B-Base",
+          "summary": "We present AliceAI-Foundation-80B-A3B-Base, a mixture-of-experts language model with 80 billion total parameters and approximately 3 billion active parameters per token, trained from scratch at Yandex and released under ...",
+          "authors": "Nikolay Skachkov, Ekaterina Redina et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34529v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "Anthropic falls below IPO price as Nvidia gives back gains",
-          "link": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
+          "title": "Japan's biggest banks pick Solana as Fidelity adds DeFi tokens",
+          "link": "https://finance.yahoo.com/video/japans-biggest-banks-pick-solana-as-fidelity-adds-defi-tokens-222056705.html",
           "publisher": "Yahoo Finance Video",
-          "published": "2026-11-24"
+          "published": "2026-11-25"
+        },
+        {
+          "title": "Tariffs are back as Anthropic sinks further below its IPO price",
+          "link": "https://finance.yahoo.com/video/tariffs-are-back-as-anthropic-sinks-further-below-its-ipo-price-160524926.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-25"
         },
         {
           "title": "Microsoft declares a code red in the middle of a 'Patchpocalypse'",
@@ -846,16 +852,10 @@
           "published": "2026-11-24"
         },
         {
-          "title": "Who is holding Jensen Huang accountable? It sure looks like nobody",
-          "link": "https://finance.yahoo.com/video/who-is-holding-jensen-huang-accountable-it-sure-looks-like-nobody-154255467.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-24"
-        },
-        {
-          "title": "Nvidia-Backed Nscale Reportedly Eyes Private Route As AI Market Sell-Off Clouds $35B IPO Plans",
-          "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-backed-nscale-reportedly-eyes-private-route-as-ai-market-sell-off-clouds-35-b-ipo-plans/cNbuDjYR9lc",
+          "title": "Nvidia’s Market Cap Falls Below Microsoft’s: Analyst Flags Five Overhangs For NVDA Stock",
+          "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-s-market-cap-falls-below-microsoft-s-analyst-flags-five-overhangs-for-nvda-stock/cNbx4KZR9Z3",
           "publisher": "Stocktwits",
-          "published": "2026-11-25"
+          "published": "2026-11-26"
         }
       ]
     },
@@ -918,72 +918,72 @@
           92.4
         ]
       },
-      "price": 279.05,
-      "market_cap_b": 3430.6,
+      "price": 273.1,
+      "market_cap_b": 3357.5,
       "revenue_yoy": 24.7,
       "gross_margin": 60.9,
       "operating_margin": 33.3,
       "fcf_b": -1.16,
       "debt_to_ebitda": 0.81,
-      "market_cap_usd_b": 3430.6,
+      "market_cap_usd_b": 3357.5,
       "arxiv_papers": [
         {
-          "title": "LazUnirec: Unifying Retrieval and Ranking in Multi-scenario Industrial Recommendation",
-          "summary": "Modern industrial recommendation systems typically divide retrieval and ranking into two separate cascaded stages, leading to inconsistent optimization objectives, redundant encoding of user sequences, and a waste of com...",
-          "authors": "Xiaodong Li, Junfeng Zhang et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.32590v1",
+          "title": "LoopTitan: What Does Parameter Revisit Buy a Mixture-of-Experts?",
+          "summary": "Looped Mixture-of-Experts (MoE) architectures revisit layer parameters across depths. This design increases effective depth without adding parameters. Recent looped MoE studies report substantial gains over the standard ...",
+          "authors": "Zichen Tian, Yudong Lu et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34821v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Breaking Routing And Inter-device Dependencies in Mixture-of-Experts",
-          "summary": "As Mixture-of-Experts (MoE) models scale, Expert Parallelism (EP) becomes increasingly important for distributing experts across devices. However, the resulting token dispatch and combine operations can become a major bo...",
-          "authors": "John Zarka, Danyal Ahmed et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.32572v1",
+          "title": "PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving",
+          "summary": "Pipeline parallelism can serve long-context language models on PCIe servers and across heterogeneous GPU clusters. Existing engines split prefill into token chunks to limit decode stalls. The chunk size also sets the GPU...",
+          "authors": "Xiaoqiang Guo, Yifan Lin et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34615v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Inference-Aware Congestion Control for Distributed MoE Inference",
-          "summary": "Congestion control is central to low-latency datacenter communication, yet link utilization and queue state do not reveal whether delivered bytes advance an application. This distinction matters in distributed mixture-of...",
-          "authors": "Weiye Chen, Qi Xin et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.32083v1",
+          "title": "Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation",
+          "summary": "Multi-turn AI agents execute iterative loops of large language model (LLM) inference and external tool calls, transforming cluster serving into a dynamic resource-allocation problem where routing and key-value (KV) cache...",
+          "authors": "Sentao Miao, Tianjiao Nie et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34584v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Generalized Tensor Parallelism: Powering Trillion-Parameter LLM Training at 10+ EFLOP/s",
-          "summary": "Pretraining state-of-the-art large language models (LLMs) with up to trillions of parameters is memory- and compute-intensive. Existing parallelization schemes compromise on either per-GPU memory or throughput: data para...",
-          "authors": "Shiqing Fan, Deepak Narayanan et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.32057v1",
+          "title": "AliceAI-Foundation-80B-A3B-Base",
+          "summary": "We present AliceAI-Foundation-80B-A3B-Base, a mixture-of-experts language model with 80 billion total parameters and approximately 3 billion active parameters per token, trained from scratch at Yandex and released under ...",
+          "authors": "Nikolay Skachkov, Ekaterina Redina et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34529v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "Stocks give back gains as Anthropic dips below IPO price",
-          "link": "https://finance.yahoo.com/video/stocks-give-back-gains-as-anthropic-dips-below-ipo-price-154408548.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-24"
+          "title": "SpaceX gets approval for 1 million data center satellites",
+          "link": "https://finance.yahoo.com/technology/ai/articles/spacex-gets-approval-1-million-023847485.html",
+          "publisher": "LA Times",
+          "published": "2026-11-26"
         },
         {
-          "title": "Have robotaxis hit a tipping point? Wall Street and experts are split.",
-          "link": "https://finance.yahoo.com/markets/stocks/article/have-robotaxis-hit-a-tipping-point-wall-street-and-experts-are-split-150000412.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-24"
+          "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
+          "link": "https://beincrypto.com/apple-stock-ai-selloff-safe-haven/",
+          "publisher": "BeInCrypto",
+          "published": "2026-11-26"
         },
         {
-          "title": "Your $300,000 in XLC Holds $130,206 in Just Meta and Alphabet",
-          "link": "https://247wallst.com/investing/etf/2026/11/24/your-300000-in-xlc-holds-130206-in-just-meta-and-alphabet/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-25"
+          "title": "5 Best Strong Buy Growth Stocks to Buy for 2027",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-strong-buy-growth-004610627.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-26"
         },
         {
-          "title": "5 Sleeper Blue-Chip Stock Picks for Steady Long-Term Gains",
-          "link": "https://www.kiplinger.com/investing/blue-chip-stocks/sleeper-blue-chip-stock-picks-for-steady-long-term-gains",
-          "publisher": "Kiplinger",
-          "published": "2026-11-25"
+          "title": "SpaceX wins approval to launch one million AI data centre satellites",
+          "link": "https://www.proactiveinvestors.com/companies/news/1102478/spacex-wins-approval-to-launch-one-million-ai-data-centre-satellites-1102478.html",
+          "publisher": "Proactive",
+          "published": "2026-11-26"
         }
       ]
     },
@@ -1046,71 +1046,71 @@
           171.5
         ]
       },
-      "price": 252.29,
-      "market_cap_b": 2728.0,
+      "price": 244.43,
+      "market_cap_b": 2643.1,
       "revenue_yoy": 12.1,
       "gross_margin": 51.4,
       "operating_margin": 13.1,
       "fcf_b": -34.73,
       "debt_to_ebitda": 1.66,
-      "market_cap_usd_b": 2728.0,
+      "market_cap_usd_b": 2643.1,
       "arxiv_papers": [
         {
-          "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
-          "summary": "A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and s...",
-          "authors": "Guangyuan Wang, Chengran Li et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.33093v1",
+          "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
+          "summary": "Optical circuit switches (OCSes) provide high-bandwidth point-to-point circuits in GPU clusters, but each optical port attaches to only one peer at a time, and reconfiguring a connection interrupts transmission. In large...",
+          "authors": "Xinchi Han, Weihao Jiang et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34759v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Real-Time AI Acceleration on a 2D Spatial Dataflow Architecture",
-          "summary": "Machine Learning (ML) is increasingly being integrated into real-time systems, which makes the timing analysis of ML accelerators necessary. However, the most popular commercial accelerator, the Graphics Processing Unit ...",
-          "authors": "Shriram Raja, Anton Njavro et al.",
-          "published": "2026-11-23",
-          "link": "http://arxiv.org/pdf/2611.31556v1",
+          "title": "PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving",
+          "summary": "Pipeline parallelism can serve long-context language models on PCIe servers and across heterogeneous GPU clusters. Existing engines split prefill into token chunks to limit decode stalls. The chunk size also sets the GPU...",
+          "authors": "Xiaoqiang Guo, Yifan Lin et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34615v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Fully solid-state all-2D micro-supercapacitors for on-chip energy storage",
-          "summary": "Integrating energy storage directly into microelectronic platforms remains a major challenge. Although solid-state micro-supercapacitors (MSCs) have been previously demonstrated, most still rely on liquid or solvent-cont...",
-          "authors": "Bar Favelukis, Andreas Furchner et al.",
-          "published": "2026-11-22",
-          "link": "http://arxiv.org/pdf/2611.29476v1",
+          "title": "Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation",
+          "summary": "Multi-turn AI agents execute iterative loops of large language model (LLM) inference and external tool calls, transforming cluster serving into a dynamic resource-allocation problem where routing and key-value (KV) cache...",
+          "authors": "Sentao Miao, Tianjiao Nie et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34584v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction",
-          "summary": "Researchers submitting deep learning jobs to shared GPU clusters need runtime estimates to request time limits, choose hardware, and budget compute. Large language models (LLMs) offer a tempting shortcut: describe the jo...",
-          "authors": "Ashish Molakalapalli, Kangda Wei et al.",
-          "published": "2026-11-19",
-          "link": "http://arxiv.org/pdf/2611.26875v1",
+          "title": "CoordRoute: Coordinated Multi-Model Routing for Maximum Compute-Budget Utility",
+          "summary": "Model routing sends each request to one of several large language models (LLMs) of different sizes. In practice, requests share a fixed compute budget: a spending cap on rented model APIs or the capacity of a private GPU...",
+          "authors": "Boning Huangfu, Boxiao Du et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34161v1",
           "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Anthropic falls below IPO price as Nvidia gives back gains",
-          "link": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
+          "title": "Jensen Huang's return, neocloud risk, and a holiday retail rally",
+          "link": "https://finance.yahoo.com/video/jensen-huangs-return-neocloud-risk-and-a-holiday-retail-rally-222042649.html",
           "publisher": "Yahoo Finance Video",
-          "published": "2026-11-24"
-        },
-        {
-          "title": "Stocks give back gains as Anthropic dips below IPO price",
-          "link": "https://finance.yahoo.com/video/stocks-give-back-gains-as-anthropic-dips-below-ipo-price-154408548.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-24"
-        },
-        {
-          "title": "Amazon ‘Trying to Trick’ You With Black Friday Offers That Aren’t Really Deals, Says Elizabeth Warren: E-Commerce Giant Pushes Back",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-trying-trick-black-friday-025557873.html",
-          "publisher": "Benzinga",
           "published": "2026-11-25"
         },
         {
-          "title": "e.l.f. Beauty vs. Hershey: Which Consumer Goods Stock Is a Better Buy for 2027?",
-          "link": "https://www.fool.com/coverage/better-buy/2026/11/24/elf-beauty-vs-hershey-which-consumer-goods-stock-is-a-better-buy-for-2027/",
-          "publisher": "Motley Fool",
+          "title": "Nvidia is cheap on paper, so why won't the market buy it?",
+          "link": "https://finance.yahoo.com/video/nvidia-is-cheap-on-paper-so-why-wont-the-market-buy-it-192215326.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-25"
+        },
+        {
+          "title": "Tariffs are back as Anthropic sinks further below its IPO price",
+          "link": "https://finance.yahoo.com/video/tariffs-are-back-as-anthropic-sinks-further-below-its-ipo-price-160524926.html",
+          "publisher": "Yahoo Finance Video",
+          "published": "2026-11-25"
+        },
+        {
+          "title": "Amazon and Meta are negotiating the future of AI shopping. Consumers aren't quite there yet.",
+          "link": "https://finance.yahoo.com/technology/article/amazon-and-meta-are-negotiating-the-future-of-ai-shopping-consumers-arent-quite-there-yet-144215428.html",
+          "publisher": "Yahoo Finance",
           "published": "2026-11-25"
         }
       ]
@@ -1174,72 +1174,72 @@
           108.0
         ]
       },
-      "price": 109.5,
-      "market_cap_b": 341.4,
+      "price": 103.88,
+      "market_cap_b": 323.9,
       "revenue_yoy": 29.6,
       "gross_margin": 64.0,
       "operating_margin": 34.3,
       "fcf_b": -45.85,
       "debt_to_ebitda": 4.91,
-      "market_cap_usd_b": 341.4,
+      "market_cap_usd_b": 323.9,
       "arxiv_papers": [
         {
-          "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
-          "summary": "A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and s...",
-          "authors": "Guangyuan Wang, Chengran Li et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.33093v1",
+          "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
+          "summary": "Optical circuit switches (OCSes) provide high-bandwidth point-to-point circuits in GPU clusters, but each optical port attaches to only one peer at a time, and reconfiguring a connection interrupts transmission. In large...",
+          "authors": "Xinchi Han, Weihao Jiang et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34759v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Real-Time AI Acceleration on a 2D Spatial Dataflow Architecture",
-          "summary": "Machine Learning (ML) is increasingly being integrated into real-time systems, which makes the timing analysis of ML accelerators necessary. However, the most popular commercial accelerator, the Graphics Processing Unit ...",
-          "authors": "Shriram Raja, Anton Njavro et al.",
-          "published": "2026-11-23",
-          "link": "http://arxiv.org/pdf/2611.31556v1",
+          "title": "PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving",
+          "summary": "Pipeline parallelism can serve long-context language models on PCIe servers and across heterogeneous GPU clusters. Existing engines split prefill into token chunks to limit decode stalls. The chunk size also sets the GPU...",
+          "authors": "Xiaoqiang Guo, Yifan Lin et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34615v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Fully solid-state all-2D micro-supercapacitors for on-chip energy storage",
-          "summary": "Integrating energy storage directly into microelectronic platforms remains a major challenge. Although solid-state micro-supercapacitors (MSCs) have been previously demonstrated, most still rely on liquid or solvent-cont...",
-          "authors": "Bar Favelukis, Andreas Furchner et al.",
-          "published": "2026-11-22",
-          "link": "http://arxiv.org/pdf/2611.29476v1",
+          "title": "Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation",
+          "summary": "Multi-turn AI agents execute iterative loops of large language model (LLM) inference and external tool calls, transforming cluster serving into a dynamic resource-allocation problem where routing and key-value (KV) cache...",
+          "authors": "Sentao Miao, Tianjiao Nie et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34584v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction",
-          "summary": "Researchers submitting deep learning jobs to shared GPU clusters need runtime estimates to request time limits, choose hardware, and budget compute. Large language models (LLMs) offer a tempting shortcut: describe the jo...",
-          "authors": "Ashish Molakalapalli, Kangda Wei et al.",
-          "published": "2026-11-19",
-          "link": "http://arxiv.org/pdf/2611.26875v1",
+          "title": "CoordRoute: Coordinated Multi-Model Routing for Maximum Compute-Budget Utility",
+          "summary": "Model routing sends each request to one of several large language models (LLMs) of different sizes. In practice, requests share a fixed compute budget: a spending cap on rented model APIs or the capacity of a private GPU...",
+          "authors": "Boning Huangfu, Boxiao Du et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34161v1",
           "category": "AI Accelerator"
         }
       ],
       "news": [
         {
-          "title": "Oracle (ORCL) Falls More Steeply Than Broader Market: What Investors Need to Know",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-falls-more-steeply-214502238.html",
-          "publisher": "Zacks",
-          "published": "2026-11-24"
+          "title": "Is Oracle the First AI Casualty as It Sheds 70% of Its Value?",
+          "link": "https://beincrypto.com/oracle-stock-falls-70-ai-debt/",
+          "publisher": "BeInCrypto",
+          "published": "2026-11-26"
         },
         {
-          "title": "GDS Holdings And 2 Other AI Infrastructure Stocks",
-          "link": "https://finance.yahoo.com/technology/ai/articles/gds-holdings-2-other-ai-211422515.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-24"
+          "title": "Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return?",
+          "link": "https://beincrypto.com/tech-stocks-stall-thanksgiving-nvidia-rebound/",
+          "publisher": "BeInCrypto",
+          "published": "2026-11-26"
         },
         {
-          "title": "Dropbox (DBX) Stock Is Up 5.8% Today Without Company News",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/dropbox-dbx-stock-5-8-203052038.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-24"
+          "title": "Wall Street Can’t Seem to Find Its Footing in the Chaos of the New AI Trade",
+          "link": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-25"
         },
         {
-          "title": "Nutanix (NTNX) Stock Is Down 7.2% Today in Tech Selloff",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nutanix-ntnx-stock-down-7-203019506.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-24"
+          "title": "Stocks to Watch Recap: Nvidia, Anthropic, Dell",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026/card/stocks-to-watch-nvidia-anthropic-dell-wt2HkwvR171Ilamwyc6E?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-25"
         }
       ]
     },
@@ -1302,72 +1302,72 @@
           4.9
         ]
       },
-      "price": 161.18,
-      "market_cap_b": 388.4,
+      "price": 163.59,
+      "market_cap_b": 394.2,
       "revenue_yoy": 95.9,
       "gross_margin": 84.7,
       "operating_margin": 45.6,
       "fcf_b": 2.65,
       "debt_to_ebitda": 0.07,
-      "market_cap_usd_b": 388.4,
+      "market_cap_usd_b": 394.2,
       "arxiv_papers": [
         {
-          "title": "LazUnirec: Unifying Retrieval and Ranking in Multi-scenario Industrial Recommendation",
-          "summary": "Modern industrial recommendation systems typically divide retrieval and ranking into two separate cascaded stages, leading to inconsistent optimization objectives, redundant encoding of user sequences, and a waste of com...",
-          "authors": "Xiaodong Li, Junfeng Zhang et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.32590v1",
+          "title": "LoopTitan: What Does Parameter Revisit Buy a Mixture-of-Experts?",
+          "summary": "Looped Mixture-of-Experts (MoE) architectures revisit layer parameters across depths. This design increases effective depth without adding parameters. Recent looped MoE studies report substantial gains over the standard ...",
+          "authors": "Zichen Tian, Yudong Lu et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34821v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Breaking Routing And Inter-device Dependencies in Mixture-of-Experts",
-          "summary": "As Mixture-of-Experts (MoE) models scale, Expert Parallelism (EP) becomes increasingly important for distributing experts across devices. However, the resulting token dispatch and combine operations can become a major bo...",
-          "authors": "John Zarka, Danyal Ahmed et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.32572v1",
+          "title": "PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving",
+          "summary": "Pipeline parallelism can serve long-context language models on PCIe servers and across heterogeneous GPU clusters. Existing engines split prefill into token chunks to limit decode stalls. The chunk size also sets the GPU...",
+          "authors": "Xiaoqiang Guo, Yifan Lin et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34615v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Inference-Aware Congestion Control for Distributed MoE Inference",
-          "summary": "Congestion control is central to low-latency datacenter communication, yet link utilization and queue state do not reveal whether delivered bytes advance an application. This distinction matters in distributed mixture-of...",
-          "authors": "Weiye Chen, Qi Xin et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.32083v1",
+          "title": "Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation",
+          "summary": "Multi-turn AI agents execute iterative loops of large language model (LLM) inference and external tool calls, transforming cluster serving into a dynamic resource-allocation problem where routing and key-value (KV) cache...",
+          "authors": "Sentao Miao, Tianjiao Nie et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34584v1",
           "category": "LLM MoE"
         },
         {
-          "title": "Generalized Tensor Parallelism: Powering Trillion-Parameter LLM Training at 10+ EFLOP/s",
-          "summary": "Pretraining state-of-the-art large language models (LLMs) with up to trillions of parameters is memory- and compute-intensive. Existing parallelization schemes compromise on either per-GPU memory or throughput: data para...",
-          "authors": "Shiqing Fan, Deepak Narayanan et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.32057v1",
+          "title": "AliceAI-Foundation-80B-A3B-Base",
+          "summary": "We present AliceAI-Foundation-80B-A3B-Base, a mixture-of-experts language model with 80 billion total parameters and approximately 3 billion active parameters per token, trained from scratch at Yandex and released under ...",
+          "authors": "Nikolay Skachkov, Ekaterina Redina et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34529v1",
           "category": "LLM MoE"
         }
       ],
       "news": [
         {
-          "title": "Anthropic falls below IPO price as Nvidia gives back gains",
-          "link": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-24"
+          "title": "Michael Burry Says His Portfolio Was Discussed 'About the Time the Market Reversed Off Its Lows': He Is 'Temporarily Almost Entirely Long'",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-portfolio-discussed-025825540.html",
+          "publisher": "Benzinga",
+          "published": "2026-11-26"
         },
         {
-          "title": "Dropbox (DBX) Stock Is Up 5.8% Today Without Company News",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/dropbox-dbx-stock-5-8-203052038.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-24"
-        },
-        {
-          "title": "Axon Enterprise vs. Palantir Technologies: Which Law Enforcement Stock Is a Better Buy for 2027?",
-          "link": "https://www.fool.com/coverage/better-buy/2026/11/24/axon-enterprise-vs-palantir-technologies-which-law-enforcement-stock-is-a-better-buy-for-2027/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-24"
-        },
-        {
-          "title": "What Will Decide Snowflake Stock Over The Next Six Months?",
-          "link": "https://www.trefis.com/stock/snow/articles/628289/what-will-decide-snowflake-stock-over-the-next-six-months/2026-11-24",
+          "title": "Are You Overpaying For Palantir Stock Versus Its Rivals?",
+          "link": "https://www.trefis.com/stock/pltr/articles/628772/are-you-overpaying-for-palantir-stock-versus-its-rivals/2026-11-25",
           "publisher": "Trefis",
-          "published": "2026-11-24"
+          "published": "2026-11-25"
+        },
+        {
+          "title": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
+          "link": "https://www.fool.com/investing/2026/11/25/big-short-investor-michael-burry-just-closed-his-bet-against-the-nasdaq-here-s-what-investors-should-do-now/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-25"
+        },
+        {
+          "title": "Goldman Sachs bets on Palantir's 'mega customers' after NYC demo",
+          "link": "https://www.thestreet.com/investing/palantir-mega-customers-goldman-sachs",
+          "publisher": "TheStreet",
+          "published": "2026-11-25"
         }
       ]
     },
@@ -1430,15 +1430,23 @@
           2600.0
         ]
       },
-      "price": 2140.0,
-      "market_cap_b": 55495.3,
+      "price": 2150.0,
+      "market_cap_b": 55754.6,
       "revenue_yoy": 50.9,
       "gross_margin": 65.8,
       "operating_margin": 58.0,
       "fcf_b": 1042.59,
       "debt_to_ebitda": 0.3,
-      "market_cap_usd_b": 1734.2,
+      "market_cap_usd_b": 1742.3,
       "arxiv_papers": [
+        {
+          "title": "L2C2: Enhancing Large-scale Chiplets for Agent Long-Context LLM Inference with Sparse and Distributed Attention",
+          "summary": "Long-context inference is a rising demand for LLMs, especially for agent applications. Sparse attention (SpAt) and chiplet technology are promising solutions to reduce computations and scale hardware performance. However...",
+          "authors": "Kangbo Bai, Zhonghua Mu et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.33691v1",
+          "category": "CoWoS Packaging"
+        },
         {
           "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
           "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
@@ -1462,40 +1470,32 @@
           "published": "2026-11-16",
           "link": "http://arxiv.org/pdf/2611.21954v1",
           "category": "CoWoS Packaging"
-        },
-        {
-          "title": "An Open-Source da Vinci X/Xi Instrument Module for Laparoscopic Surgery Research",
-          "summary": "Studying electrosurgical tasks on a research robot requires control of both instrument motion and energy activation, along with a record of when each action occurs. This paper presents an open-source module for da Vinci ...",
-          "authors": "Douglas McDonough, Justin Liao et al.",
-          "published": "2026-11-16",
-          "link": "http://arxiv.org/pdf/2611.21771v1",
-          "category": "CoWoS Packaging"
         }
       ],
       "news": [
         {
-          "title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-mostly-decline-ai-040526833.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-25"
+          "title": "Taiwan shares tumble 4.8% as AI chip stocks slump",
+          "link": "http://www.intellinews.com/taiwan-shares-tumble-4-8-as-ai-chip-stocks-slump-488520/",
+          "publisher": "IntelliNews",
+          "published": "2026-11-26"
         },
         {
-          "title": "Novanta Shares Just Jumped And We’re Buying This Robotics Play",
-          "link": "https://247wallst.com/videos/novanta-shares-just-jumped-and-were-buying-this-robotics-play/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-24"
+          "title": "Asian tech stocks jump as bargain buyers boost battered AI trade",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/asian-tech-stocks-jump-bargain-030316035.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-26"
         },
         {
-          "title": "5 High-Conviction Stocks Billionaire Philippe Laffont Is Betting On for 2027",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/5-high-conviction-stocks-billionaire-212307906.html",
+          "title": "5 Best Strong Buy Growth Stocks to Buy for 2027",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-strong-buy-growth-004610627.html",
           "publisher": "Insider Monkey",
-          "published": "2026-11-24"
+          "published": "2026-11-26"
         },
         {
-          "title": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
-          "link": "https://finance.yahoo.com/markets/article/nvidia-amd-broadcom-lead-chip-stocks-lower-as-ai-trade-comes-under-pressure-141635463.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-24"
+          "title": "Altimeter’s Brad Gerstner Says Nvidia Was Priced for “Negative Growth for 2028 and 2029.” Wall Street Expects 29%",
+          "link": "https://www.tikr.com/blog/altimeters-brad-gerstner-says-nvidia-was-priced-for-negative-growth-for-2028-and-2029-wall-street-expects-29?ref=yahoofinance&tlnk=yf-261125-3qj6vf95",
+          "publisher": "TIKR",
+          "published": "2026-11-25"
         }
       ]
     },
@@ -1558,45 +1558,45 @@
           75.0
         ]
       },
-      "price": 3590.0,
-      "market_cap_b": 310.0,
+      "price": 3740.0,
+      "market_cap_b": 322.9,
       "revenue_yoy": 296.5,
       "gross_margin": 26.9,
       "operating_margin": 18.4,
       "fcf_b": -21.0,
       "debt_to_ebitda": 0.03,
-      "market_cap_usd_b": 9.7,
+      "market_cap_usd_b": 10.1,
       "arxiv_papers": [
         {
-          "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
-          "summary": "A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and s...",
-          "authors": "Guangyuan Wang, Chengran Li et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.33093v1",
+          "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
+          "summary": "Optical circuit switches (OCSes) provide high-bandwidth point-to-point circuits in GPU clusters, but each optical port attaches to only one peer at a time, and reconfiguring a connection interrupts transmission. In large...",
+          "authors": "Xinchi Han, Weihao Jiang et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34759v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Real-Time AI Acceleration on a 2D Spatial Dataflow Architecture",
-          "summary": "Machine Learning (ML) is increasingly being integrated into real-time systems, which makes the timing analysis of ML accelerators necessary. However, the most popular commercial accelerator, the Graphics Processing Unit ...",
-          "authors": "Shriram Raja, Anton Njavro et al.",
-          "published": "2026-11-23",
-          "link": "http://arxiv.org/pdf/2611.31556v1",
+          "title": "PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving",
+          "summary": "Pipeline parallelism can serve long-context language models on PCIe servers and across heterogeneous GPU clusters. Existing engines split prefill into token chunks to limit decode stalls. The chunk size also sets the GPU...",
+          "authors": "Xiaoqiang Guo, Yifan Lin et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34615v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Fully solid-state all-2D micro-supercapacitors for on-chip energy storage",
-          "summary": "Integrating energy storage directly into microelectronic platforms remains a major challenge. Although solid-state micro-supercapacitors (MSCs) have been previously demonstrated, most still rely on liquid or solvent-cont...",
-          "authors": "Bar Favelukis, Andreas Furchner et al.",
-          "published": "2026-11-22",
-          "link": "http://arxiv.org/pdf/2611.29476v1",
+          "title": "Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation",
+          "summary": "Multi-turn AI agents execute iterative loops of large language model (LLM) inference and external tool calls, transforming cluster serving into a dynamic resource-allocation problem where routing and key-value (KV) cache...",
+          "authors": "Sentao Miao, Tianjiao Nie et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34584v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction",
-          "summary": "Researchers submitting deep learning jobs to shared GPU clusters need runtime estimates to request time limits, choose hardware, and budget compute. Large language models (LLMs) offer a tempting shortcut: describe the jo...",
-          "authors": "Ashish Molakalapalli, Kangda Wei et al.",
-          "published": "2026-11-19",
-          "link": "http://arxiv.org/pdf/2611.26875v1",
+          "title": "CoordRoute: Coordinated Multi-Model Routing for Maximum Compute-Budget Utility",
+          "summary": "Model routing sends each request to one of several large language models (LLMs) of different sizes. In practice, requests share a fixed compute budget: a spending cap on rented model APIs or the capacity of a private GPU...",
+          "authors": "Boning Huangfu, Boxiao Du et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34161v1",
           "category": "AI Accelerator"
         }
       ],
@@ -1686,15 +1686,23 @@
           150.0
         ]
       },
-      "price": 1485.0,
-      "market_cap_b": 830.0,
+      "price": 1620.0,
+      "market_cap_b": 905.4,
       "revenue_yoy": 65.5,
       "gross_margin": 18.6,
       "operating_margin": 13.8,
       "fcf_b": -24.13,
       "debt_to_ebitda": 0.39,
-      "market_cap_usd_b": 25.9,
+      "market_cap_usd_b": 28.3,
       "arxiv_papers": [
+        {
+          "title": "Ferroionic CuCrP2S6 Integrated Silicon Photonics for Neuromorphic Computing",
+          "summary": "Neuromorphic photonic computing calls for optical states that combine stimulus accumulation, spontaneous relaxation, and nonvolatile state retention without continuous power dissipation. Here, we demonstrate a ferroionic...",
+          "authors": "Ghada Dushaq, Srinivasa R. Tamalampudi et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.33954v1",
+          "category": "Silicon Photonics"
+        },
         {
           "title": "2D MXene integrated optical polarizers based on TiO2 with high performance",
           "summary": "Polarization control is essential for modern optical systems. Recently, two dimensional (2D) materials featuring highly anisotropic absorption across broad wavelength regions have emerged as a promising solution for real...",
@@ -1717,14 +1725,6 @@
           "authors": "Yangyang Wan, Rui Tang et al.",
           "published": "2026-11-18",
           "link": "http://arxiv.org/pdf/2611.23667v1",
-          "category": "Silicon Photonics"
-        },
-        {
-          "title": "Bringing coherent closer to compute: coherent-lite multidimensional on-chip interconnect beyond 100 terabits per second",
-          "summary": "The continued scaling of artificial intelligence (AI) demands optical interconnects that deliver higher bandwidth density within stringent electrical-bandwidth and energy budgets. Coherent optics offers a route beyond th...",
-          "authors": "Yongzhu Hu, Aolong Sun et al.",
-          "published": "2026-11-14",
-          "link": "http://arxiv.org/pdf/2611.19254v1",
           "category": "Silicon Photonics"
         }
       ],
@@ -1814,45 +1814,45 @@
           440.0
         ]
       },
-      "price": 1430.0,
-      "market_cap_b": 835.2,
+      "price": 1570.0,
+      "market_cap_b": 916.9,
       "revenue_yoy": 62.9,
       "gross_margin": 8.3,
       "operating_margin": 6.8,
       "fcf_b": -88.8,
       "debt_to_ebitda": 2.06,
-      "market_cap_usd_b": 26.1,
+      "market_cap_usd_b": 28.7,
       "arxiv_papers": [
         {
-          "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
-          "summary": "A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and s...",
-          "authors": "Guangyuan Wang, Chengran Li et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.33093v1",
+          "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
+          "summary": "Optical circuit switches (OCSes) provide high-bandwidth point-to-point circuits in GPU clusters, but each optical port attaches to only one peer at a time, and reconfiguring a connection interrupts transmission. In large...",
+          "authors": "Xinchi Han, Weihao Jiang et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34759v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Real-Time AI Acceleration on a 2D Spatial Dataflow Architecture",
-          "summary": "Machine Learning (ML) is increasingly being integrated into real-time systems, which makes the timing analysis of ML accelerators necessary. However, the most popular commercial accelerator, the Graphics Processing Unit ...",
-          "authors": "Shriram Raja, Anton Njavro et al.",
-          "published": "2026-11-23",
-          "link": "http://arxiv.org/pdf/2611.31556v1",
+          "title": "PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving",
+          "summary": "Pipeline parallelism can serve long-context language models on PCIe servers and across heterogeneous GPU clusters. Existing engines split prefill into token chunks to limit decode stalls. The chunk size also sets the GPU...",
+          "authors": "Xiaoqiang Guo, Yifan Lin et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34615v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Fully solid-state all-2D micro-supercapacitors for on-chip energy storage",
-          "summary": "Integrating energy storage directly into microelectronic platforms remains a major challenge. Although solid-state micro-supercapacitors (MSCs) have been previously demonstrated, most still rely on liquid or solvent-cont...",
-          "authors": "Bar Favelukis, Andreas Furchner et al.",
-          "published": "2026-11-22",
-          "link": "http://arxiv.org/pdf/2611.29476v1",
+          "title": "Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation",
+          "summary": "Multi-turn AI agents execute iterative loops of large language model (LLM) inference and external tool calls, transforming cluster serving into a dynamic resource-allocation problem where routing and key-value (KV) cache...",
+          "authors": "Sentao Miao, Tianjiao Nie et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34584v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction",
-          "summary": "Researchers submitting deep learning jobs to shared GPU clusters need runtime estimates to request time limits, choose hardware, and budget compute. Large language models (LLMs) offer a tempting shortcut: describe the jo...",
-          "authors": "Ashish Molakalapalli, Kangda Wei et al.",
-          "published": "2026-11-19",
-          "link": "http://arxiv.org/pdf/2611.26875v1",
+          "title": "CoordRoute: Coordinated Multi-Model Routing for Maximum Compute-Budget Utility",
+          "summary": "Model routing sends each request to one of several large language models (LLMs) of different sizes. In practice, requests share a fixed compute budget: a spending cap on rented model APIs or the capacity of a private GPU...",
+          "authors": "Boning Huangfu, Boxiao Du et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34161v1",
           "category": "AI Accelerator"
         }
       ],
@@ -1942,15 +1942,23 @@
           1380.0
         ]
       },
-      "price": 206.0,
-      "market_cap_b": 2899.3,
+      "price": 218.0,
+      "market_cap_b": 3068.2,
       "revenue_yoy": 46.5,
       "gross_margin": 6.0,
       "operating_margin": 3.6,
       "fcf_b": -203.72,
       "debt_to_ebitda": 3.27,
-      "market_cap_usd_b": 90.6,
+      "market_cap_usd_b": 95.9,
       "arxiv_papers": [
+        {
+          "title": "L2C2: Enhancing Large-scale Chiplets for Agent Long-Context LLM Inference with Sparse and Distributed Attention",
+          "summary": "Long-context inference is a rising demand for LLMs, especially for agent applications. Sparse attention (SpAt) and chiplet technology are promising solutions to reduce computations and scale hardware performance. However...",
+          "authors": "Kangbo Bai, Zhonghua Mu et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.33691v1",
+          "category": "CoWoS Packaging"
+        },
         {
           "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
           "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
@@ -1974,17 +1982,15 @@
           "published": "2026-11-16",
           "link": "http://arxiv.org/pdf/2611.21954v1",
           "category": "CoWoS Packaging"
-        },
-        {
-          "title": "An Open-Source da Vinci X/Xi Instrument Module for Laparoscopic Surgery Research",
-          "summary": "Studying electrosurgical tasks on a research robot requires control of both instrument motion and energy activation, along with a record of when each action occurs. This paper presents an open-source module for da Vinci ...",
-          "authors": "Douglas McDonough, Justin Liao et al.",
-          "published": "2026-11-16",
-          "link": "http://arxiv.org/pdf/2611.21771v1",
-          "category": "CoWoS Packaging"
         }
       ],
       "news": [
+        {
+          "title": "Asian tech stocks jump as bargain buyers boost battered AI trade",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/asian-tech-stocks-jump-bargain-030316035.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-26"
+        },
         {
           "title": "Market Chatter: Foxconn's India Unit Delays Vendor Payments, Faces Insolvency Petition",
           "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-foxconn-apos-india-005309008.html",
@@ -2002,12 +2008,6 @@
           "link": "https://finance.yahoo.com/news/tsmc-gains-158-billion-value-070556999.html",
           "publisher": "Fortune",
           "published": "2026-11-24"
-        },
-        {
-          "title": "Bentley supplier starts work on new axle plant",
-          "link": "https://www.wardsauto.com/news/bentley-supplier-starts-work-on-new-axle-plant/875158/",
-          "publisher": "Wards Auto",
-          "published": "2026-11-20"
         }
       ]
     },
@@ -2070,45 +2070,45 @@
           810.0
         ]
       },
-      "price": 259.5,
-      "market_cap_b": 1063.8,
+      "price": 282.5,
+      "market_cap_b": 1158.1,
       "revenue_yoy": 125.2,
       "gross_margin": 5.1,
       "operating_margin": 3.2,
       "fcf_b": -95.05,
       "debt_to_ebitda": 3.09,
-      "market_cap_usd_b": 33.2,
+      "market_cap_usd_b": 36.2,
       "arxiv_papers": [
         {
-          "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
-          "summary": "A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and s...",
-          "authors": "Guangyuan Wang, Chengran Li et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.33093v1",
+          "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
+          "summary": "Optical circuit switches (OCSes) provide high-bandwidth point-to-point circuits in GPU clusters, but each optical port attaches to only one peer at a time, and reconfiguring a connection interrupts transmission. In large...",
+          "authors": "Xinchi Han, Weihao Jiang et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34759v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Real-Time AI Acceleration on a 2D Spatial Dataflow Architecture",
-          "summary": "Machine Learning (ML) is increasingly being integrated into real-time systems, which makes the timing analysis of ML accelerators necessary. However, the most popular commercial accelerator, the Graphics Processing Unit ...",
-          "authors": "Shriram Raja, Anton Njavro et al.",
-          "published": "2026-11-23",
-          "link": "http://arxiv.org/pdf/2611.31556v1",
+          "title": "PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving",
+          "summary": "Pipeline parallelism can serve long-context language models on PCIe servers and across heterogeneous GPU clusters. Existing engines split prefill into token chunks to limit decode stalls. The chunk size also sets the GPU...",
+          "authors": "Xiaoqiang Guo, Yifan Lin et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34615v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Fully solid-state all-2D micro-supercapacitors for on-chip energy storage",
-          "summary": "Integrating energy storage directly into microelectronic platforms remains a major challenge. Although solid-state micro-supercapacitors (MSCs) have been previously demonstrated, most still rely on liquid or solvent-cont...",
-          "authors": "Bar Favelukis, Andreas Furchner et al.",
-          "published": "2026-11-22",
-          "link": "http://arxiv.org/pdf/2611.29476v1",
+          "title": "Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation",
+          "summary": "Multi-turn AI agents execute iterative loops of large language model (LLM) inference and external tool calls, transforming cluster serving into a dynamic resource-allocation problem where routing and key-value (KV) cache...",
+          "authors": "Sentao Miao, Tianjiao Nie et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34584v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction",
-          "summary": "Researchers submitting deep learning jobs to shared GPU clusters need runtime estimates to request time limits, choose hardware, and budget compute. Large language models (LLMs) offer a tempting shortcut: describe the jo...",
-          "authors": "Ashish Molakalapalli, Kangda Wei et al.",
-          "published": "2026-11-19",
-          "link": "http://arxiv.org/pdf/2611.26875v1",
+          "title": "CoordRoute: Coordinated Multi-Model Routing for Maximum Compute-Budget Utility",
+          "summary": "Model routing sends each request to one of several large language models (LLMs) of different sizes. In practice, requests share a fixed compute budget: a spending cap on rented model APIs or the capacity of a private GPU...",
+          "authors": "Boning Huangfu, Boxiao Du et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34161v1",
           "category": "AI Accelerator"
         }
       ],
@@ -2198,15 +2198,23 @@
           78.0
         ]
       },
-      "price": 2575.0,
-      "market_cap_b": 1015.8,
+      "price": 2795.0,
+      "market_cap_b": 1102.6,
       "revenue_yoy": 51.8,
       "gross_margin": 30.8,
       "operating_margin": 25.5,
       "fcf_b": 32.25,
       "debt_to_ebitda": 0.7,
-      "market_cap_usd_b": 31.7,
+      "market_cap_usd_b": 34.5,
       "arxiv_papers": [
+        {
+          "title": "L2C2: Enhancing Large-scale Chiplets for Agent Long-Context LLM Inference with Sparse and Distributed Attention",
+          "summary": "Long-context inference is a rising demand for LLMs, especially for agent applications. Sparse attention (SpAt) and chiplet technology are promising solutions to reduce computations and scale hardware performance. However...",
+          "authors": "Kangbo Bai, Zhonghua Mu et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.33691v1",
+          "category": "CoWoS Packaging"
+        },
         {
           "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
           "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
@@ -2230,14 +2238,6 @@
           "published": "2026-11-16",
           "link": "http://arxiv.org/pdf/2611.21954v1",
           "category": "CoWoS Packaging"
-        },
-        {
-          "title": "An Open-Source da Vinci X/Xi Instrument Module for Laparoscopic Surgery Research",
-          "summary": "Studying electrosurgical tasks on a research robot requires control of both instrument motion and energy activation, along with a record of when each action occurs. This paper presents an open-source module for da Vinci ...",
-          "authors": "Douglas McDonough, Justin Liao et al.",
-          "published": "2026-11-16",
-          "link": "http://arxiv.org/pdf/2611.21771v1",
-          "category": "CoWoS Packaging"
         }
       ],
       "news": [
@@ -2260,10 +2260,10 @@
           "published": "Tue, 10 Nov 2026"
         },
         {
-          "title": "Asia Vital Components Co., Ltd. (3017.TW) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lTGtzdnJzbkVOcnJ5aC1XajF3OGdYN1pLTnJkZG5zS3g5QXlSWGVLTDZqR0xWNTdtV3NQTDlzR1hsaFpHRWQ2MzJ2ZGkyaTEzSjJlSGhB?oc=5",
+          "title": "Asia Vital Components' October Revenue Surges to NT$22.1 Billion, Up 34% Year-over-Year, Marking Fourth Straight Monthly Record - BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BYWtWM0lIYk5xRFZQcVI0UFkzQW9Id3hLRHFZQnI2QlN0VDljN2ttdV9lQlFiOFZvalVaV1hNUndiTjlDclZLMGlsYWJSc01ZWDF0dTc3enF5emRtUXdjNjZUdHNadmF2SHdNOUxBbDAtTmRyZGc?oc=5",
           "publisher": "Google News",
-          "published": "Sat, 02 Jun 2018"
+          "published": "Sun, 08 Nov 2026"
         }
       ]
     },
@@ -2326,45 +2326,45 @@
           350.0
         ]
       },
-      "price": 1055.0,
-      "market_cap_b": 2740.4,
+      "price": 1120.0,
+      "market_cap_b": 2909.2,
       "revenue_yoy": 31.1,
       "gross_margin": 35.3,
       "operating_margin": 16.9,
       "fcf_b": 44.52,
       "debt_to_ebitda": 0.77,
-      "market_cap_usd_b": 85.6,
+      "market_cap_usd_b": 90.9,
       "arxiv_papers": [
         {
-          "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
-          "summary": "A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and s...",
-          "authors": "Guangyuan Wang, Chengran Li et al.",
-          "published": "2026-11-24",
-          "link": "http://arxiv.org/pdf/2611.33093v1",
+          "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
+          "summary": "Optical circuit switches (OCSes) provide high-bandwidth point-to-point circuits in GPU clusters, but each optical port attaches to only one peer at a time, and reconfiguring a connection interrupts transmission. In large...",
+          "authors": "Xinchi Han, Weihao Jiang et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34759v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Real-Time AI Acceleration on a 2D Spatial Dataflow Architecture",
-          "summary": "Machine Learning (ML) is increasingly being integrated into real-time systems, which makes the timing analysis of ML accelerators necessary. However, the most popular commercial accelerator, the Graphics Processing Unit ...",
-          "authors": "Shriram Raja, Anton Njavro et al.",
-          "published": "2026-11-23",
-          "link": "http://arxiv.org/pdf/2611.31556v1",
+          "title": "PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving",
+          "summary": "Pipeline parallelism can serve long-context language models on PCIe servers and across heterogeneous GPU clusters. Existing engines split prefill into token chunks to limit decode stalls. The chunk size also sets the GPU...",
+          "authors": "Xiaoqiang Guo, Yifan Lin et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34615v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "Fully solid-state all-2D micro-supercapacitors for on-chip energy storage",
-          "summary": "Integrating energy storage directly into microelectronic platforms remains a major challenge. Although solid-state micro-supercapacitors (MSCs) have been previously demonstrated, most still rely on liquid or solvent-cont...",
-          "authors": "Bar Favelukis, Andreas Furchner et al.",
-          "published": "2026-11-22",
-          "link": "http://arxiv.org/pdf/2611.29476v1",
+          "title": "Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation",
+          "summary": "Multi-turn AI agents execute iterative loops of large language model (LLM) inference and external tool calls, transforming cluster serving into a dynamic resource-allocation problem where routing and key-value (KV) cache...",
+          "authors": "Sentao Miao, Tianjiao Nie et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34584v1",
           "category": "AI Accelerator"
         },
         {
-          "title": "How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction",
-          "summary": "Researchers submitting deep learning jobs to shared GPU clusters need runtime estimates to request time limits, choose hardware, and budget compute. Large language models (LLMs) offer a tempting shortcut: describe the jo...",
-          "authors": "Ashish Molakalapalli, Kangda Wei et al.",
-          "published": "2026-11-19",
-          "link": "http://arxiv.org/pdf/2611.26875v1",
+          "title": "CoordRoute: Coordinated Multi-Model Routing for Maximum Compute-Budget Utility",
+          "summary": "Model routing sends each request to one of several large language models (LLMs) of different sizes. In practice, requests share a fixed compute budget: a spending cap on rented model APIs or the capacity of a private GPU...",
+          "authors": "Boning Huangfu, Boxiao Du et al.",
+          "published": "2026-11-25",
+          "link": "http://arxiv.org/pdf/2611.34161v1",
           "category": "AI Accelerator"
         }
       ],
@@ -2399,39 +2399,55 @@
   "arxiv_papers_by_category": {
     "LLM MoE": [
       {
-        "title": "LazUnirec: Unifying Retrieval and Ranking in Multi-scenario Industrial Recommendation",
-        "summary": "Modern industrial recommendation systems typically divide retrieval and ranking into two separate cascaded stages, leading to inconsistent optimization objectives, redundant encoding of user sequences, and a waste of com...",
-        "authors": "Xiaodong Li, Junfeng Zhang et al.",
-        "published": "2026-11-24",
-        "link": "http://arxiv.org/pdf/2611.32590v1",
+        "title": "LoopTitan: What Does Parameter Revisit Buy a Mixture-of-Experts?",
+        "summary": "Looped Mixture-of-Experts (MoE) architectures revisit layer parameters across depths. This design increases effective depth without adding parameters. Recent looped MoE studies report substantial gains over the standard ...",
+        "authors": "Zichen Tian, Yudong Lu et al.",
+        "published": "2026-11-25",
+        "link": "http://arxiv.org/pdf/2611.34821v1",
         "category": "LLM MoE"
       },
       {
-        "title": "Breaking Routing And Inter-device Dependencies in Mixture-of-Experts",
-        "summary": "As Mixture-of-Experts (MoE) models scale, Expert Parallelism (EP) becomes increasingly important for distributing experts across devices. However, the resulting token dispatch and combine operations can become a major bo...",
-        "authors": "John Zarka, Danyal Ahmed et al.",
-        "published": "2026-11-24",
-        "link": "http://arxiv.org/pdf/2611.32572v1",
+        "title": "PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving",
+        "summary": "Pipeline parallelism can serve long-context language models on PCIe servers and across heterogeneous GPU clusters. Existing engines split prefill into token chunks to limit decode stalls. The chunk size also sets the GPU...",
+        "authors": "Xiaoqiang Guo, Yifan Lin et al.",
+        "published": "2026-11-25",
+        "link": "http://arxiv.org/pdf/2611.34615v1",
         "category": "LLM MoE"
       },
       {
-        "title": "Inference-Aware Congestion Control for Distributed MoE Inference",
-        "summary": "Congestion control is central to low-latency datacenter communication, yet link utilization and queue state do not reveal whether delivered bytes advance an application. This distinction matters in distributed mixture-of...",
-        "authors": "Weiye Chen, Qi Xin et al.",
-        "published": "2026-11-24",
-        "link": "http://arxiv.org/pdf/2611.32083v1",
+        "title": "Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation",
+        "summary": "Multi-turn AI agents execute iterative loops of large language model (LLM) inference and external tool calls, transforming cluster serving into a dynamic resource-allocation problem where routing and key-value (KV) cache...",
+        "authors": "Sentao Miao, Tianjiao Nie et al.",
+        "published": "2026-11-25",
+        "link": "http://arxiv.org/pdf/2611.34584v1",
         "category": "LLM MoE"
       },
       {
-        "title": "Generalized Tensor Parallelism: Powering Trillion-Parameter LLM Training at 10+ EFLOP/s",
-        "summary": "Pretraining state-of-the-art large language models (LLMs) with up to trillions of parameters is memory- and compute-intensive. Existing parallelization schemes compromise on either per-GPU memory or throughput: data para...",
-        "authors": "Shiqing Fan, Deepak Narayanan et al.",
-        "published": "2026-11-24",
-        "link": "http://arxiv.org/pdf/2611.32057v1",
+        "title": "AliceAI-Foundation-80B-A3B-Base",
+        "summary": "We present AliceAI-Foundation-80B-A3B-Base, a mixture-of-experts language model with 80 billion total parameters and approximately 3 billion active parameters per token, trained from scratch at Yandex and released under ...",
+        "authors": "Nikolay Skachkov, Ekaterina Redina et al.",
+        "published": "2026-11-25",
+        "link": "http://arxiv.org/pdf/2611.34529v1",
         "category": "LLM MoE"
       }
     ],
     "Transformer & Attention": [
+      {
+        "title": "Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation",
+        "summary": "Multi-turn AI agents execute iterative loops of large language model (LLM) inference and external tool calls, transforming cluster serving into a dynamic resource-allocation problem where routing and key-value (KV) cache...",
+        "authors": "Sentao Miao, Tianjiao Nie et al.",
+        "published": "2026-11-25",
+        "link": "http://arxiv.org/pdf/2611.34584v1",
+        "category": "Transformer & Attention"
+      },
+      {
+        "title": "State Space Attention: Learning Context-Dependent Memory Retention",
+        "summary": "Standard attention's key-value cache grows linearly with context length. Bounding it raises the question of what a sequence model should retain for long-context reasoning. We argue this choice should be learned, and intr...",
+        "authors": "Ege Çakar, Cengiz Pehlevan",
+        "published": "2026-11-25",
+        "link": "http://arxiv.org/pdf/2611.33625v1",
+        "category": "Transformer & Attention"
+      },
       {
         "title": "Simultaneously Boosting Efficiency and Capability for Linear Attention via Adaptive Channel Compression and Activation Purification",
         "summary": "Self-attention's quadratic complexity constitutes a core bottleneck for Vision Transformers (ViTs). Existing efficiency-oriented optimizations, including softmax-based and linear attention (LA) variants, generally compro...",
@@ -2446,22 +2462,6 @@
         "authors": "Salome Gobbi, Nicolas Atienza et al.",
         "published": "2026-11-24",
         "link": "http://arxiv.org/pdf/2611.32504v1",
-        "category": "Transformer & Attention"
-      },
-      {
-        "title": "PVFormer: Proper Velocity Transformer for Stable and Scalable Hyperbolic Representation Learning",
-        "summary": "Hyperbolic representations have shown remarkable success on hierarchical and tree-like data, and Transformers have become a central architecture for representation learning. However, a principled construction of hyperbol...",
-        "authors": "Xianglong Shi, Nicu Sebe et al.",
-        "published": "2026-11-23",
-        "link": "http://arxiv.org/pdf/2611.30785v1",
-        "category": "Transformer & Attention"
-      },
-      {
-        "title": "Rewirable Circuits in Transformers with Loom Attention",
-        "summary": "We propose loom attention, which allows a Transformer to dynamically rewire its circuits at every token by interweaving a head's vertical attention over the outputs of earlier heads (to obtain its query, key and value) w...",
-        "authors": "Da Xiao, Qingye Meng et al.",
-        "published": "2026-11-23",
-        "link": "http://arxiv.org/pdf/2611.30634v2",
         "category": "Transformer & Attention"
       }
     ],
@@ -2501,39 +2501,47 @@
     ],
     "Multimodal & World Models": [
       {
-        "title": "Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild",
-        "summary": "Embodied Spatial Reasoning (ESR) is central to deploying Vision-Language Models (VLMs) in real-world embodied tasks, yet remains inadequately evaluated. Existing benchmarks primarily assess spatial reasoning in static im...",
-        "authors": "Zehan Zheng, Yanyuan Chen et al.",
-        "published": "2026-11-24",
-        "link": "http://arxiv.org/pdf/2611.33145v1",
+        "title": "Can image generation help visual reasoning? An empirical study",
+        "summary": "Language models think in words; then multimodal models might think in images. We test whether a generated helper improves the answer to a visual question. A model describes the helper it needs and then answers using the ...",
+        "authors": "Xueyang Yu, Yifan Jing et al.",
+        "published": "2026-11-25",
+        "link": "http://arxiv.org/pdf/2611.34935v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "SAVERA: Bridging Frozen Vision and Language Models via Sparse Alignment and Visual Evidence Reuse",
-        "summary": "Independently pretrained vision and language models may learn shared structures of the same underlying world, providing a foundation for combining them to build multimodal capabilities. However, a key challenge remains i...",
-        "authors": "Jiajun Shen, Chuancheng Shi et al.",
-        "published": "2026-11-24",
-        "link": "http://arxiv.org/pdf/2611.32828v1",
+        "title": "Stranger Things: When Objects Appear Without Their Typical Neighbors",
+        "summary": "Visual context is a powerful cue for object recognition: scenes inform what, where, and at what scale objects are likely to appear. Yet over-reliance on context becomes a failure mode when models predict objects based on...",
+        "authors": "Siddhartha Gairola, Jiahao Xie et al.",
+        "published": "2026-11-25",
+        "link": "http://arxiv.org/pdf/2611.34881v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "Beyond Image-Text Pairs: Aligning Semantic Changes for Fine-Grained Visual Understanding",
-        "summary": "Image-text alignment serves as a foundation for modern vision-language models (VLMs), yet prevailing training paradigms provide limited supervision for learning how semantic changes correspond across modalities. To addre...",
-        "authors": "Yujie Sun, Zeqing Wang et al.",
-        "published": "2026-11-24",
-        "link": "http://arxiv.org/pdf/2611.32817v1",
+        "title": "Find the Clue, Not the Scene: Rethinking Reasoning for Entity Recognition in Vision-Language Models",
+        "summary": "Answering a knowledge-based visual question requires first recognizing the entity in the image and then recalling knowledge about it. Thinking vision-language models (VLMs) reason for thousands of tokens before answering...",
+        "authors": "Kyungmin Min, Soyeon Kim et al.",
+        "published": "2026-11-25",
+        "link": "http://arxiv.org/pdf/2611.34681v1",
         "category": "Multimodal & World Models"
       },
       {
-        "title": "Describe, Don't Ask: Caption-Driven On-Policy Distillation for Fine-Grained Visual Perception",
-        "summary": "Vision-language models (VLMs) often recognize fine-grained details more accurately in a relevant crop than in the full image. Multimodal on-policy distillation (OPD) methods exploit this by transferring the advantage of ...",
-        "authors": "Haozhan Shen, Liangbo He et al.",
-        "published": "2026-11-24",
-        "link": "http://arxiv.org/pdf/2611.32463v1",
+        "title": "M$^{2}$AdaptVLA: Multimodal Memory-Augmented Vision-Language-Action Model with Predictive Test-Time Adaptation",
+        "summary": "Effective robotic manipulation calls for multimodal memory and rapid adaptation to shifts in contact dynamics. However, many existing policies, which retain either visual or wrench history, may miss key cues from the oth...",
+        "authors": "Liufan Tan, Tong Wang et al.",
+        "published": "2026-11-25",
+        "link": "http://arxiv.org/pdf/2611.34560v1",
         "category": "Multimodal & World Models"
       }
     ],
     "CoWoS Packaging": [
+      {
+        "title": "L2C2: Enhancing Large-scale Chiplets for Agent Long-Context LLM Inference with Sparse and Distributed Attention",
+        "summary": "Long-context inference is a rising demand for LLMs, especially for agent applications. Sparse attention (SpAt) and chiplet technology are promising solutions to reduce computations and scale hardware performance. However...",
+        "authors": "Kangbo Bai, Zhonghua Mu et al.",
+        "published": "2026-11-25",
+        "link": "http://arxiv.org/pdf/2611.33691v1",
+        "category": "CoWoS Packaging"
+      },
       {
         "title": "LASH-PAT: Deadlock-Free Adaptive Shortest-Path Routing for Inter-Chiplet Interconnects",
         "summary": "With the slowdown of transistor scaling, chipletbased systems, and in particular chiplet-based wafer-scale integration, have emerged as a promising approach to sustain growth in computing capability per cost for modern p...",
@@ -2557,17 +2565,17 @@
         "published": "2026-11-16",
         "link": "http://arxiv.org/pdf/2611.21954v1",
         "category": "CoWoS Packaging"
-      },
-      {
-        "title": "An Open-Source da Vinci X/Xi Instrument Module for Laparoscopic Surgery Research",
-        "summary": "Studying electrosurgical tasks on a research robot requires control of both instrument motion and energy activation, along with a record of when each action occurs. This paper presents an open-source module for da Vinci ...",
-        "authors": "Douglas McDonough, Justin Liao et al.",
-        "published": "2026-11-16",
-        "link": "http://arxiv.org/pdf/2611.21771v1",
-        "category": "CoWoS Packaging"
       }
     ],
     "Silicon Photonics": [
+      {
+        "title": "Ferroionic CuCrP2S6 Integrated Silicon Photonics for Neuromorphic Computing",
+        "summary": "Neuromorphic photonic computing calls for optical states that combine stimulus accumulation, spontaneous relaxation, and nonvolatile state retention without continuous power dissipation. Here, we demonstrate a ferroionic...",
+        "authors": "Ghada Dushaq, Srinivasa R. Tamalampudi et al.",
+        "published": "2026-11-25",
+        "link": "http://arxiv.org/pdf/2611.33954v1",
+        "category": "Silicon Photonics"
+      },
       {
         "title": "2D MXene integrated optical polarizers based on TiO2 with high performance",
         "summary": "Polarization control is essential for modern optical systems. Recently, two dimensional (2D) materials featuring highly anisotropic absorption across broad wavelength regions have emerged as a promising solution for real...",
@@ -2591,47 +2599,39 @@
         "published": "2026-11-18",
         "link": "http://arxiv.org/pdf/2611.23667v1",
         "category": "Silicon Photonics"
-      },
-      {
-        "title": "Bringing coherent closer to compute: coherent-lite multidimensional on-chip interconnect beyond 100 terabits per second",
-        "summary": "The continued scaling of artificial intelligence (AI) demands optical interconnects that deliver higher bandwidth density within stringent electrical-bandwidth and energy budgets. Coherent optics offers a route beyond th...",
-        "authors": "Yongzhu Hu, Aolong Sun et al.",
-        "published": "2026-11-14",
-        "link": "http://arxiv.org/pdf/2611.19254v1",
-        "category": "Silicon Photonics"
       }
     ],
     "AI Accelerator": [
       {
-        "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
-        "summary": "A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and s...",
-        "authors": "Guangyuan Wang, Chengran Li et al.",
-        "published": "2026-11-24",
-        "link": "http://arxiv.org/pdf/2611.33093v1",
+        "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
+        "summary": "Optical circuit switches (OCSes) provide high-bandwidth point-to-point circuits in GPU clusters, but each optical port attaches to only one peer at a time, and reconfiguring a connection interrupts transmission. In large...",
+        "authors": "Xinchi Han, Weihao Jiang et al.",
+        "published": "2026-11-25",
+        "link": "http://arxiv.org/pdf/2611.34759v1",
         "category": "AI Accelerator"
       },
       {
-        "title": "Real-Time AI Acceleration on a 2D Spatial Dataflow Architecture",
-        "summary": "Machine Learning (ML) is increasingly being integrated into real-time systems, which makes the timing analysis of ML accelerators necessary. However, the most popular commercial accelerator, the Graphics Processing Unit ...",
-        "authors": "Shriram Raja, Anton Njavro et al.",
-        "published": "2026-11-23",
-        "link": "http://arxiv.org/pdf/2611.31556v1",
+        "title": "PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving",
+        "summary": "Pipeline parallelism can serve long-context language models on PCIe servers and across heterogeneous GPU clusters. Existing engines split prefill into token chunks to limit decode stalls. The chunk size also sets the GPU...",
+        "authors": "Xiaoqiang Guo, Yifan Lin et al.",
+        "published": "2026-11-25",
+        "link": "http://arxiv.org/pdf/2611.34615v1",
         "category": "AI Accelerator"
       },
       {
-        "title": "Fully solid-state all-2D micro-supercapacitors for on-chip energy storage",
-        "summary": "Integrating energy storage directly into microelectronic platforms remains a major challenge. Although solid-state micro-supercapacitors (MSCs) have been previously demonstrated, most still rely on liquid or solvent-cont...",
-        "authors": "Bar Favelukis, Andreas Furchner et al.",
-        "published": "2026-11-22",
-        "link": "http://arxiv.org/pdf/2611.29476v1",
+        "title": "Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation",
+        "summary": "Multi-turn AI agents execute iterative loops of large language model (LLM) inference and external tool calls, transforming cluster serving into a dynamic resource-allocation problem where routing and key-value (KV) cache...",
+        "authors": "Sentao Miao, Tianjiao Nie et al.",
+        "published": "2026-11-25",
+        "link": "http://arxiv.org/pdf/2611.34584v1",
         "category": "AI Accelerator"
       },
       {
-        "title": "How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction",
-        "summary": "Researchers submitting deep learning jobs to shared GPU clusters need runtime estimates to request time limits, choose hardware, and budget compute. Large language models (LLMs) offer a tempting shortcut: describe the jo...",
-        "authors": "Ashish Molakalapalli, Kangda Wei et al.",
-        "published": "2026-11-19",
-        "link": "http://arxiv.org/pdf/2611.26875v1",
+        "title": "CoordRoute: Coordinated Multi-Model Routing for Maximum Compute-Budget Utility",
+        "summary": "Model routing sends each request to one of several large language models (LLMs) of different sizes. In practice, requests share a fixed compute budget: a spending cap on rented model APIs or the capacity of a private GPU...",
+        "authors": "Boning Huangfu, Boxiao Du et al.",
+        "published": "2026-11-25",
+        "link": "http://arxiv.org/pdf/2611.34161v1",
         "category": "AI Accelerator"
       }
     ]
