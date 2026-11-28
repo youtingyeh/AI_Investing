@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27 13:13:37 CST (UTC+8)",
+  "last_updated": "2026-11-28 12:50:02 CST (UTC+8)",
   "status": "LIVE_CLOUD_SYNC",
   "macro_kpis": {
     "csp_capex": {
@@ -150,14 +150,14 @@
           71.0
         ]
       },
-      "price": 149.3,
-      "market_cap_b": 3605.1,
+      "price": 150.49,
+      "market_cap_b": 3633.9,
       "revenue_yoy": 103.2,
       "gross_margin": 74.9,
       "operating_margin": 66.1,
       "fcf_b": 99.24,
       "debt_to_ebitda": 0.16,
-      "market_cap_usd_b": 3605.1,
+      "market_cap_usd_b": 3633.9,
       "arxiv_papers": [
         {
           "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
@@ -194,27 +194,27 @@
       ],
       "news": [
         {
-          "title": "Will Jensen Huang's second act as Nvidia CEO be different?",
-          "link": "https://finance.yahoo.com/video/jensen-huangs-second-act-nvidia-140000599.html",
+          "title": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
+          "link": "https://finance.yahoo.com/markets/article/stocks-snap-from-a-6-trillion-washout-to-a-3-trillion-surge-as-nvidia-micron-and-spacex-bounce-back-151218930.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-27"
+        },
+        {
+          "title": "Why this portfolio manager says investors should 'avoid the neoclouds'",
+          "link": "https://finance.yahoo.com/video/why-this-portfolio-manager-says-investors-should-avoid-the-neoclouds-160003179.html",
           "publisher": "Yahoo Finance Video",
-          "published": "2026-11-26"
-        },
-        {
-          "title": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
           "published": "2026-11-27"
         },
         {
-          "title": "Nvidia (NVDA) Stock Fair Value Falls After Analysts Reassess Leadership And Regulatory Risks",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-fair-value-042301514.html",
-          "publisher": "Simply Wall St.",
+          "title": "PacSun CEO talks brand resurgence, holiday shopping season boom",
+          "link": "https://finance.yahoo.com/video/pacsun-ceo-talks-brand-resurgence-holiday-shopping-season-boom-154316985.html",
+          "publisher": "Yahoo Finance Video",
           "published": "2026-11-27"
         },
         {
-          "title": "Asian stocks rise as tech rebound, easing U.S. trade concerns lift sentiment",
-          "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-tech-rebound-041727436.html",
-          "publisher": "Investing.com",
+          "title": "Can AI earn a spot in the creative world? Ja Rule think so.",
+          "link": "https://finance.yahoo.com/video/can-ai-earn-a-spot-in-the-creative-world-ja-rule-think-so-152828382.html",
+          "publisher": "Yahoo Finance Video",
           "published": "2026-11-27"
         }
       ]
@@ -278,14 +278,14 @@
           76.8
         ]
       },
-      "price": 300.86,
-      "market_cap_b": 1436.2,
+      "price": 312.34,
+      "market_cap_b": 1491.0,
       "revenue_yoy": 85.5,
       "gross_margin": 75.5,
       "operating_margin": 48.8,
       "fcf_b": 30.6,
       "debt_to_ebitda": 1.14,
-      "market_cap_usd_b": 1436.2,
+      "market_cap_usd_b": 1491.0,
       "arxiv_papers": [
         {
           "title": "Ferroionic CuCrP2S6 Integrated Silicon Photonics for Neuromorphic Computing",
@@ -322,28 +322,28 @@
       ],
       "news": [
         {
-          "title": "Why Redburn Downgraded Broadcom (AVGO) Despite Surging AI Revenue",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-redburn-downgraded-broadcom-avgo-035057918.html",
-          "publisher": "Insider Monkey",
+          "title": "Plot Twist: Nvidia’s Vera Rubin Gets 2-6.5x GB300’s Tokens per Dollar. Amazon’s Trainium Edge Was Against the Old Chip",
+          "link": "https://www.tikr.com/blog/plot-twist-nvidias-vera-rubin-gets-2-6-5x-gb300s-tokens-per-dollar-amazons-trainium-edge-was-against-the-old-chip?ref=yahoofinance&tlnk=yf-261127-2mxwqf36",
+          "publisher": "TIKR",
           "published": "2026-11-27"
         },
         {
-          "title": "Broadcom (AVGO) Could Be the Biggest Winner From the Shift to Custom AI Chips",
-          "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-could-biggest-winner-031533044.html",
-          "publisher": "Insider Monkey",
+          "title": "Jensen Huang Is Back. Nvidia’s (NVDA) Bull Case Remains",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-back-nvidia-nvda-210600721.html",
+          "publisher": "TipRanks",
           "published": "2026-11-27"
         },
         {
-          "title": "These 2 AI Chip Stocks Are Down 36% to 39% From Their Highs. Here’s What History Says Happens Next.",
-          "link": "https://www.fool.com/investing/2026/11/26/these-2-ai-chip-stocks-are-down-36-to-39-from-their-highs-here-s-what-history-says-happens-next/",
-          "publisher": "Motley Fool",
+          "title": "What Broadcom Stock's Google Chip Order Cut Means For Shareholders",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-google-chip-order-201047235.html",
+          "publisher": "Simply Wall St.",
           "published": "2026-11-27"
         },
         {
-          "title": "5 Most Oversold Semiconductor Stocks to Buy for 2027",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-oversold-semiconductor-stocks-194738573.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-26"
+          "title": "Broadcom Stocks Climb 2.19% as $1 Billion Anthropic Stake Turns Positive",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-climb-2-19-194642288.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-27"
         }
       ]
     },
@@ -406,14 +406,14 @@
           14.2
         ]
       },
-      "price": 406.03,
-      "market_cap_b": 672.0,
+      "price": 424.54,
+      "market_cap_b": 702.6,
       "revenue_yoy": 44.7,
       "gross_margin": 56.0,
       "operating_margin": 17.8,
       "fcf_b": 7.36,
       "debt_to_ebitda": 0.83,
-      "market_cap_usd_b": 672.0,
+      "market_cap_usd_b": 702.6,
       "arxiv_papers": [
         {
           "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
@@ -450,28 +450,28 @@
       ],
       "news": [
         {
-          "title": "Eric Trump-Backed Robot Startup’s Employees Lose Health Insurance After Weeks Without Pay as Company Scrambles for $150 Million Lifeline: Report",
-          "link": "https://finance.yahoo.com/healthcare/articles/eric-trump-backed-robot-startup-023005325.html",
-          "publisher": "Benzinga",
+          "title": "Jensen Huang Is Back. Nvidia’s (NVDA) Bull Case Remains",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-back-nvidia-nvda-210600721.html",
+          "publisher": "TipRanks",
           "published": "2026-11-27"
         },
         {
-          "title": "5 Most Oversold Semiconductor Stocks to Buy for 2027",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-oversold-semiconductor-stocks-194738573.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-26"
-        },
-        {
-          "title": "KHC, PINS, AMD: 3 Bets I’d Consider Waging From Thanksgiving Eve’s Top 25 Unusually Active Options",
-          "link": "https://www.barchart.com/story/news/9022595/khc-pins-amd-3-bets-id-consider-waging-from-thanksgiving-eves-top-25-unusually-active-options",
-          "publisher": "Barchart",
-          "published": "2026-11-26"
-        },
-        {
-          "title": "AMD Stocks Slip 1.75% After Filing Registers 337 Million Shares for Resale",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-slip-1-75-182928246.html",
+          "title": "AMD Stocks Rise Despite Erste Group Downgrade on Valuation",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-rise-despite-erste-191808508.html",
           "publisher": "GuruFocus.com",
-          "published": "2026-11-26"
+          "published": "2026-11-27"
+        },
+        {
+          "title": "Jim Cramer Is Still Bullish On These 5 Tech Stocks Despite AI Bear Market",
+          "link": "https://finance.yahoo.com/technology/articles/jim-cramer-still-bullish-5-184921596.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-27"
+        },
+        {
+          "title": "Not AMD. This Is the 1 Company Nvidia Should Worry About Most.",
+          "link": "https://www.fool.com/investing/2026/11/27/not-amd-this-is-the-1-company-nvidia-should-worry-about-most/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-27"
         }
       ]
     },
@@ -534,14 +534,14 @@
           2.75
         ]
       },
-      "price": 161.51,
-      "market_cap_b": 172.8,
+      "price": 171.55,
+      "market_cap_b": 183.6,
       "revenue_yoy": 27.1,
       "gross_margin": 97.4,
       "operating_margin": 17.0,
       "fcf_b": 1.14,
       "debt_to_ebitda": 0.44,
-      "market_cap_usd_b": 172.8,
+      "market_cap_usd_b": 183.6,
       "arxiv_papers": [
         {
           "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
@@ -578,28 +578,28 @@
       ],
       "news": [
         {
-          "title": "3 AI Infrastructure Stocks Retail Investors Are Watching As Compute Spending Shifts",
-          "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-retail-201110278.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-26"
-        },
-        {
-          "title": "Is Astera Labs, Inc. (ALAB) One of the Best Oversold AI Semiconductor Stocks to Buy?",
-          "link": "https://finance.yahoo.com/technology/ai/articles/astera-labs-inc-alab-one-194946194.html",
+          "title": "Jim Cramer Likes Arm Holdings With One Supply Caveat",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-likes-arm-holdings-184936769.html",
           "publisher": "Insider Monkey",
-          "published": "2026-11-26"
+          "published": "2026-11-27"
         },
         {
-          "title": "Arm Holdings plc (ARM) Is Down 63%: Why the Stock Could Rebound in 2027",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-plc-arm-down-194930844.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-26"
+          "title": "Arm Holdings Stocks Climb 3.12% as CEO Haas Commits Through 2033",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-stocks-climb-3-180219496.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-27"
         },
         {
-          "title": "Did Arm CEO Rene Haas Dodge a Bullet With Jensen Huang’s Reinstatement at Nvidia?",
-          "link": "https://247wallst.com/investing/2026/11/26/did-arm-ceo-rene-haas-dodge-a-bullet-with-jensen-huangs-reinstatement-at-nvidia/",
+          "title": "PLTR vs. ARM: Which AI-Tech Stock is Better Positioned Now?",
+          "link": "https://finance.yahoo.com/technology/ai/articles/pltr-vs-arm-ai-tech-165200990.html",
+          "publisher": "Zacks",
+          "published": "2026-11-27"
+        },
+        {
+          "title": "AMD Rises 4% Despite Erste Group Downgrade on Valuation; Marvell Climbs 6%, Intel Gains 5%",
+          "link": "https://247wallst.com/investing/2026/11/27/amd-rises-4-despite-erste-group-downgrade-on-valuation-marvell-climbs-6-intel-gains-5/",
           "publisher": "24/7 Wall St.",
-          "published": "2026-11-26"
+          "published": "2026-11-27"
         }
       ]
     },
@@ -662,14 +662,14 @@
           7.9
         ]
       },
-      "price": 173.37,
-      "market_cap_b": 66.8,
+      "price": 178.71,
+      "market_cap_b": 68.8,
       "revenue_yoy": 61.2,
       "gross_margin": 38.1,
       "operating_margin": 21.1,
       "fcf_b": 2.96,
       "debt_to_ebitda": 1.05,
-      "market_cap_usd_b": 66.8,
+      "market_cap_usd_b": 68.8,
       "arxiv_papers": [
         {
           "title": "L2C2: Enhancing Large-scale Chiplets for Agent Long-Context LLM Inference with Sparse and Distributed Attention",
@@ -706,28 +706,28 @@
       ],
       "news": [
         {
-          "title": "Bloom Energy Issued Oracle 2.15 Million Shares. Now Oracle’s Credit Is Cracking",
-          "link": "https://www.tikr.com/blog/bloom-energy-issued-oracle-2-15-million-shares-now-oracles-credit-is-cracking?ref=yahoofinance&tlnk=yf-261126-v76w4j96",
-          "publisher": "TIKR",
-          "published": "2026-11-26"
+          "title": "Is NextEra A Safe Shelter Or A Fast Borrower?",
+          "link": "https://www.trefis.com/stock/nee/articles/629223/is-nextera-a-safe-shelter-or-a-fast-borrower/2026-11-27",
+          "publisher": "Trefis",
+          "published": "2026-11-27"
         },
         {
-          "title": "Morgan Stanley’s $335 Target Says Bloom Energy’s Selloff Went Too Far",
-          "link": "https://www.tikr.com/blog/morgan-stanleys-335-target-says-bloom-energys-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261126-27xrg2g9",
-          "publisher": "TIKR",
-          "published": "2026-11-26"
+          "title": "T1 Energy (TE) Stock Is Up 21.4% Today Without Company News",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/t1-energy-te-stock-21-171519888.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-27"
         },
         {
-          "title": "Best Growth Stocks to Buy for November 26th",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/best-growth-stocks-buy-november-095800515.html",
-          "publisher": "Zacks",
-          "published": "2026-11-26"
+          "title": "Vertiv Stock Has Fallen Hard. Buy Now Or Wait?",
+          "link": "https://www.trefis.com/stock/vrt/articles/629407/vertiv-stock-has-fallen-hard-buy-now-or-wait/2026-11-27",
+          "publisher": "Trefis",
+          "published": "2026-11-27"
         },
         {
-          "title": "Could Vertiv Actually Climb 117%? Or Is Bernstein Totally Wrong?",
-          "link": "https://www.tikr.com/blog/could-vertiv-actually-climb-116-or-is-bernstein-totally-wrong?ref=yahoofinance&tlnk=yf-261126-m678vrm7",
-          "publisher": "TIKR",
-          "published": "2026-11-25"
+          "title": "3 Growth Stocks With Earnings Growth Up To 86% To Watch",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-161308522.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-27"
         }
       ]
     },
@@ -790,14 +790,14 @@
           312.0
         ]
       },
-      "price": 489.93,
-      "market_cap_b": 3638.3,
+      "price": 492.85,
+      "market_cap_b": 3660.0,
       "revenue_yoy": 18.8,
       "gross_margin": 67.7,
       "operating_margin": 47.1,
       "fcf_b": 2.99,
       "debt_to_ebitda": 0.65,
-      "market_cap_usd_b": 3638.3,
+      "market_cap_usd_b": 3660.0,
       "arxiv_papers": [
         {
           "title": "LoopTitan: What Does Parameter Revisit Buy a Mixture-of-Experts?",
@@ -834,15 +834,21 @@
       ],
       "news": [
         {
-          "title": "Microsoft’s Brad Smith Says ‘We Didn’t Know’ $10 Million Trump Ballroom Donation Would Involve Demolition of the East Wing: ’We Never Expect to Get Everything Perfect",
-          "link": "https://finance.yahoo.com/technology/articles/microsoft-brad-smith-says-didn-033007136.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-27"
+          "title": "Are recent outages bad for software?",
+          "link": "https://finance.yahoo.com/technology/articles/recent-outages-bad-software-033947446.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-28"
         },
         {
-          "title": "5 Best Quantum Computing Stocks To Buy for 2027",
-          "link": "https://finance.yahoo.com/technology/articles/5-best-quantum-computing-stocks-032149616.html",
-          "publisher": "Insider Monkey",
+          "title": "Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off.",
+          "link": "https://www.fool.com/investing/2026/11/27/vanguard-s-growth-etf-has-3-stocks-making-up-more-than-a-third-of-it-only-1-has-held-up-in-the-tech-sell-off/",
+          "publisher": "Motley Fool",
+          "published": "2026-11-28"
+        },
+        {
+          "title": "Billionaire Chase Coleman’s Tiger Global Raised Its Cerebras Stake 48% to $790 Million",
+          "link": "https://247wallst.com/investing/2026/11/27/billionaire-chase-colemans-tiger-global-raised-its-cerebras-stake-48-to-790-million/",
+          "publisher": "24/7 Wall St.",
           "published": "2026-11-27"
         },
         {
@@ -850,12 +856,6 @@
           "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-27"
-        },
-        {
-          "title": "Tech Stock Sell-Off: Down 13%, Is Microsoft a Buy Now?",
-          "link": "https://www.fool.com/investing/2026/11/26/tech-stock-sell-off-down-13-is-microsoft-a-buy-now/",
-          "publisher": "Motley Fool",
-          "published": "2026-11-26"
         }
       ]
     },
@@ -918,14 +918,14 @@
           92.4
         ]
       },
-      "price": 273.1,
-      "market_cap_b": 3357.5,
+      "price": 274.96,
+      "market_cap_b": 3380.4,
       "revenue_yoy": 24.7,
       "gross_margin": 60.9,
       "operating_margin": 33.3,
       "fcf_b": -1.16,
       "debt_to_ebitda": 0.81,
-      "market_cap_usd_b": 3357.5,
+      "market_cap_usd_b": 3380.4,
       "arxiv_papers": [
         {
           "title": "LoopTitan: What Does Parameter Revisit Buy a Mixture-of-Experts?",
@@ -962,9 +962,21 @@
       ],
       "news": [
         {
-          "title": "5 Best Quantum Computing Stocks To Buy for 2027",
-          "link": "https://finance.yahoo.com/technology/articles/5-best-quantum-computing-stocks-032149616.html",
-          "publisher": "Insider Monkey",
+          "title": "Plot Twist: Nvidia’s Vera Rubin Gets 2-6.5x GB300’s Tokens per Dollar. Amazon’s Trainium Edge Was Against the Old Chip",
+          "link": "https://www.tikr.com/blog/plot-twist-nvidias-vera-rubin-gets-2-6-5x-gb300s-tokens-per-dollar-amazons-trainium-edge-was-against-the-old-chip?ref=yahoofinance&tlnk=yf-261127-2mxwqf36",
+          "publisher": "TIKR",
+          "published": "2026-11-27"
+        },
+        {
+          "title": "Amazon Hits Its Lowest P/E Ever. Jim Cramer Predicts It Will “Prove to Be the Winner”",
+          "link": "https://www.tikr.com/blog/amazon-hits-its-lowest-p-e-ever-jim-cramer-predicts-it-will-prove-to-be-the-winner?ref=yahoofinance&tlnk=yf-261127-6f785p32",
+          "publisher": "TIKR",
+          "published": "2026-11-27"
+        },
+        {
+          "title": "Warning for Alphabet Investors: MScience Data Show Q4 Search Revenue Tracking Below Consensus",
+          "link": "https://www.tikr.com/blog/warning-for-alphabet-investors-mscience-data-show-q4-search-revenue-tracking-below-consensus?ref=yahoofinance&tlnk=yf-261127-64qqmx2j",
+          "publisher": "TIKR",
           "published": "2026-11-27"
         },
         {
@@ -972,18 +984,6 @@
           "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-27"
-        },
-        {
-          "title": "‘How Can TSLA Compete With Waymo?’ Gary Black Questions Tesla’s Robotaxi Strategy, Predicts Waymo Will Lead in Miles and Trips",
-          "link": "https://finance.yahoo.com/technology/articles/tsla-compete-waymo-gary-black-013007370.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-27"
-        },
-        {
-          "title": "Jim Lebenthal Says This Is “a Correction, Not Something Worse.” Why He’s Buying More Alphabet",
-          "link": "https://247wallst.com/investing/2026/11/26/jim-lebenthal-says-this-is-a-correction-not-something-worse-why-hes-buying-more-alphabet/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-26"
         }
       ]
     },
@@ -1046,14 +1046,14 @@
           171.5
         ]
       },
-      "price": 244.43,
-      "market_cap_b": 2643.1,
+      "price": 254.12,
+      "market_cap_b": 2747.8,
       "revenue_yoy": 12.1,
       "gross_margin": 51.4,
       "operating_margin": 13.1,
       "fcf_b": -34.73,
       "debt_to_ebitda": 1.66,
-      "market_cap_usd_b": 2643.1,
+      "market_cap_usd_b": 2747.8,
       "arxiv_papers": [
         {
           "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
@@ -1090,27 +1090,27 @@
       ],
       "news": [
         {
-          "title": "Amazon Lost 40 Satellites on a Boeing-Lockheed Rocket in November. SpaceX Is the Only Company That Can Fix Amazon’s Problem. Is the Stock a Buy Near $130?",
-          "link": "https://www.fool.com/investing/2026/11/26/amazon-lost-40-satellites-on-a-boeing-lockheed-rocket-in-november-spacex-is-the-only-company-that-can-fix-amazon-s-problem-is-the-stock-a-buy-near-usd130/",
+          "title": "Amazon takes its car store abroad for the first time in 2027",
+          "link": "https://www.thestreet.com/automotive/amazon-takes-its-car-store-abroad-britain-uk-for-first-time-2027",
+          "publisher": "TheStreet",
+          "published": "2026-11-28"
+        },
+        {
+          "title": "U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
+          "link": "https://finance.yahoo.com/economy/articles/u-black-friday-online-sales-012646652.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-28"
+        },
+        {
+          "title": "e.l.f. Beauty vs. Wendy's: Which Consumer Goods Stock Is a Better Buy for 2027?",
+          "link": "https://www.fool.com/coverage/better-buy/2026/11/27/elf-beauty-vs-wendys-which-consumer-goods-stock-is-a-better-buy-for-2027/",
           "publisher": "Motley Fool",
           "published": "2026-11-27"
         },
         {
-          "title": "Can Amazon (AMZN) Turn Its AWS Growth Outlook Into Cash?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-turn-aws-growth-035240906.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-27"
-        },
-        {
-          "title": "5 Best Quantum Computing Stocks To Buy for 2027",
-          "link": "https://finance.yahoo.com/technology/articles/5-best-quantum-computing-stocks-032149616.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-27"
-        },
-        {
-          "title": "5 Best Tech Stocks to Buy for 2027 According to Hedge Funds",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html",
-          "publisher": "Insider Monkey",
+          "title": "Plot Twist: Nvidia’s Vera Rubin Gets 2-6.5x GB300’s Tokens per Dollar. Amazon’s Trainium Edge Was Against the Old Chip",
+          "link": "https://www.tikr.com/blog/plot-twist-nvidias-vera-rubin-gets-2-6-5x-gb300s-tokens-per-dollar-amazons-trainium-edge-was-against-the-old-chip?ref=yahoofinance&tlnk=yf-261127-2mxwqf36",
+          "publisher": "TIKR",
           "published": "2026-11-27"
         }
       ]
@@ -1174,14 +1174,14 @@
           108.0
         ]
       },
-      "price": 103.88,
-      "market_cap_b": 323.9,
+      "price": 107.13,
+      "market_cap_b": 334.0,
       "revenue_yoy": 29.6,
       "gross_margin": 64.0,
       "operating_margin": 34.3,
       "fcf_b": -45.85,
       "debt_to_ebitda": 4.91,
-      "market_cap_usd_b": 323.9,
+      "market_cap_usd_b": 334.0,
       "arxiv_papers": [
         {
           "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
@@ -1218,28 +1218,28 @@
       ],
       "news": [
         {
-          "title": "Wondering Why Oracle Fell? Here's What The Bears Saw",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/wondering-why-oracle-fell-heres-012625677.html",
+          "title": "Amazon Hits Its Lowest P/E Ever. Jim Cramer Predicts It Will “Prove to Be the Winner”",
+          "link": "https://www.tikr.com/blog/amazon-hits-its-lowest-p-e-ever-jim-cramer-predicts-it-will-prove-to-be-the-winner?ref=yahoofinance&tlnk=yf-261127-6f785p32",
+          "publisher": "TIKR",
+          "published": "2026-11-27"
+        },
+        {
+          "title": "3 Undervalued Stocks Trading Up To 40% Below Cash Flow Value",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-trading-40-221348295.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-27"
         },
         {
-          "title": "‘Room to Spare,’ Says Investor About Oracle Stock",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/room-spare-says-investor-oracle-215243159.html",
-          "publisher": "TipRanks",
-          "published": "2026-11-26"
-        },
-        {
-          "title": "Fleeing Stocks at 63, She Parks $700,000 of Her 401(k) in a Corporate Bond Fund for Safety. As Banks Dump Data Center Loans, a 5% Slide in Her “Safe” Fund Would Cost Her $35,000",
-          "link": "https://247wallst.com/personal-finance/2026/11/26/fleeing-stocks-at-63-she-parks-700000-of-her-401k-in-a-corporate-bond-fund-for-safety-as-banks-dump-data-center-loans-a-5-slide-in-her-safe-fund-would-cost-her-35000/",
+          "title": "Billionaire Chase Coleman’s Tiger Global Raised Its Cerebras Stake 48% to $790 Million",
+          "link": "https://247wallst.com/investing/2026/11/27/billionaire-chase-colemans-tiger-global-raised-its-cerebras-stake-48-to-790-million/",
           "publisher": "24/7 Wall St.",
-          "published": "2026-11-26"
+          "published": "2026-11-27"
         },
         {
-          "title": "Alphabet Stocks Slip 2.13% as Credit Swaps Hit Record Amid $9.1 Billion Cash Burn",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-slip-2-13-182601811.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-26"
+          "title": "Oracle is Living on a Prayer and It’s Not Even Halfway There",
+          "link": "https://app.moby.co/home/news/news-oracle-is-living-on-a-prayer-and-theyre-not-even-halfway-there?utm_source=yahoo_finance&utm_medium=rss",
+          "publisher": "Moby",
+          "published": "2026-11-27"
         }
       ]
     },
@@ -1302,14 +1302,14 @@
           4.9
         ]
       },
-      "price": 163.59,
-      "market_cap_b": 394.2,
+      "price": 172.17,
+      "market_cap_b": 414.8,
       "revenue_yoy": 95.9,
       "gross_margin": 84.7,
       "operating_margin": 45.6,
       "fcf_b": 2.65,
       "debt_to_ebitda": 0.07,
-      "market_cap_usd_b": 394.2,
+      "market_cap_usd_b": 414.8,
       "arxiv_papers": [
         {
           "title": "LoopTitan: What Does Parameter Revisit Buy a Mixture-of-Experts?",
@@ -1346,28 +1346,28 @@
       ],
       "news": [
         {
-          "title": "Palantir Stocks Rise 1.5% After Peter Thiel Discloses a $122 Million Share Purchase",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stocks-rise-1-5-183642789.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-26"
+          "title": "Michael Burry still sees 2 stocks worth betting against",
+          "link": "https://www.thestreet.com/investing/michael-burry-palantir-metlife-puts",
+          "publisher": "TheStreet",
+          "published": "2026-11-28"
         },
         {
-          "title": "Palantir Closed 212 Deals Worth at Least $1 Million. Here’s What That Means for Its Growth",
-          "link": "https://247wallst.com/investing/2026/11/26/palantir-closed-212-deals-worth-at-least-1-million-heres-what-that-means-for-its-growth/",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-26"
+          "title": "Palantir Technologies (PLTR) Signed A Poland Defense Software Agreement",
+          "link": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-signed-poland-020938771.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-28"
         },
         {
-          "title": "Michael Burry exits Nasdaq-100 short",
-          "link": "https://www.proactiveinvestors.com/companies/news/1102534/michael-burry-exits-nasdaq-100-short-1102534.html",
-          "publisher": "Proactive",
-          "published": "2026-11-26"
+          "title": "Palantir's new military AI deal has a surprising catch",
+          "link": "https://www.thestreet.com/investing/palantirs-new-military-ai-deal-has-a-surprising-catch",
+          "publisher": "TheStreet",
+          "published": "2026-11-28"
         },
         {
-          "title": "Michael Burry Turns Bullish, Exits Nasdaq Shorts but Eyes Nvidia at $200",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-turns-bullish-exits-113036657.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-26"
+          "title": "Palantir Stock (PLTR) Has No Room for Error at This Valuation",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-pltr-no-room-213800829.html",
+          "publisher": "TipRanks",
+          "published": "2026-11-27"
         }
       ]
     },
@@ -1430,14 +1430,14 @@
           2600.0
         ]
       },
-      "price": 2175.0,
-      "market_cap_b": 56402.9,
+      "price": 2180.0,
+      "market_cap_b": 56532.6,
       "revenue_yoy": 50.9,
       "gross_margin": 65.8,
       "operating_margin": 58.0,
       "fcf_b": 1042.59,
       "debt_to_ebitda": 0.3,
-      "market_cap_usd_b": 1762.6,
+      "market_cap_usd_b": 1766.6,
       "arxiv_papers": [
         {
           "title": "L2C2: Enhancing Large-scale Chiplets for Agent Long-Context LLM Inference with Sparse and Distributed Attention",
@@ -1474,28 +1474,28 @@
       ],
       "news": [
         {
-          "title": "TSMC (TSM) Is Building a Semiconductor Moat That Rivals May Struggle to Cross",
-          "link": "https://finance.yahoo.com/technology/articles/tsmc-tsm-building-semiconductor-moat-031114980.html",
-          "publisher": "Insider Monkey",
+          "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-climb-1-84-194609822.html",
+          "publisher": "GuruFocus.com",
           "published": "2026-11-27"
         },
         {
-          "title": "Taiwan Semiconductor Stocks Slip 1.96% as Taiwan's Market Sinks 4.8% in Chip Rout",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-stocks-slip-1-190319001.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-26"
+          "title": "Stanley Druckenmiller, David Tepper and 5 Other Famous Investors Own Taiwan Semiconductor. Here’s Who Sold Recently",
+          "link": "https://www.tikr.com/blog/stanley-druckenmiller-david-tepper-and-5-other-famous-investors-own-taiwan-semiconductor-heres-who-sold-recently?ref=yahoofinance&tlnk=yf-261127-678h6x89",
+          "publisher": "TIKR",
+          "published": "2026-11-27"
         },
         {
-          "title": "3 Top Stocks to Buy Before 2027 as Quantum Enters AI Data Centers",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/3-top-stocks-buy-2027-190000024.html",
-          "publisher": "Zacks",
-          "published": "2026-11-26"
-        },
-        {
-          "title": "This AI Investing Prodigy Lost 65% in a Single Quarter and Is Still Up 88.5% in 2026. Here’s the Lesson for Investors.",
-          "link": "https://247wallst.com/investing/2026/11/26/this-ai-investing-prodigy-lost-65-in-a-single-quarter-and-is-still-up-88-5-in-2026-heres-the-lesson-for-investors/",
+          "title": "Trump Is Heading to Arizona to Break Ground on TSMC’s Newest Chip Plant",
+          "link": "https://247wallst.com/investing/2026/11/27/trump-is-heading-to-arizona-to-break-ground-on-tsmcs-newest-chip-plant/",
           "publisher": "24/7 Wall St.",
-          "published": "2026-11-26"
+          "published": "2026-11-27"
+        },
+        {
+          "title": "No Threat to TSMC Before 2028: Intel’s Foundry Gap Is Still Huge",
+          "link": "https://247wallst.com/investing/2026/11/27/no-threat-to-tsmc-before-2028-intels-foundry-gap-is-still-huge/",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-27"
         }
       ]
     },
@@ -1558,8 +1558,8 @@
           75.0
         ]
       },
-      "price": 3610.0,
-      "market_cap_b": 311.7,
+      "price": 3595.0,
+      "market_cap_b": 310.4,
       "revenue_yoy": 296.5,
       "gross_margin": 26.9,
       "operating_margin": 18.4,
@@ -1686,14 +1686,14 @@
           150.0
         ]
       },
-      "price": 1570.0,
-      "market_cap_b": 877.5,
+      "price": 1555.0,
+      "market_cap_b": 869.1,
       "revenue_yoy": 65.5,
       "gross_margin": 18.6,
       "operating_margin": 13.8,
       "fcf_b": -24.13,
       "debt_to_ebitda": 0.39,
-      "market_cap_usd_b": 27.4,
+      "market_cap_usd_b": 27.2,
       "arxiv_papers": [
         {
           "title": "Ferroionic CuCrP2S6 Integrated Silicon Photonics for Neuromorphic Computing",
@@ -1814,14 +1814,14 @@
           440.0
         ]
       },
-      "price": 1680.0,
-      "market_cap_b": 981.2,
+      "price": 1670.0,
+      "market_cap_b": 975.3,
       "revenue_yoy": 62.9,
       "gross_margin": 8.3,
       "operating_margin": 6.8,
       "fcf_b": -88.8,
       "debt_to_ebitda": 2.06,
-      "market_cap_usd_b": 30.7,
+      "market_cap_usd_b": 30.5,
       "arxiv_papers": [
         {
           "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
@@ -1942,14 +1942,14 @@
           1380.0
         ]
       },
-      "price": 221.0,
-      "market_cap_b": 3110.4,
+      "price": 219.0,
+      "market_cap_b": 3082.3,
       "revenue_yoy": 46.5,
       "gross_margin": 6.0,
       "operating_margin": 3.6,
       "fcf_b": -203.72,
       "debt_to_ebitda": 3.27,
-      "market_cap_usd_b": 97.2,
+      "market_cap_usd_b": 96.3,
       "arxiv_papers": [
         {
           "title": "L2C2: Enhancing Large-scale Chiplets for Agent Long-Context LLM Inference with Sparse and Distributed Attention",
@@ -2070,14 +2070,14 @@
           810.0
         ]
       },
-      "price": 281.0,
-      "market_cap_b": 1152.0,
+      "price": 278.0,
+      "market_cap_b": 1139.7,
       "revenue_yoy": 125.2,
       "gross_margin": 5.1,
       "operating_margin": 3.2,
       "fcf_b": -95.05,
       "debt_to_ebitda": 3.09,
-      "market_cap_usd_b": 36.0,
+      "market_cap_usd_b": 35.6,
       "arxiv_papers": [
         {
           "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
@@ -2198,14 +2198,14 @@
           78.0
         ]
       },
-      "price": 2845.0,
-      "market_cap_b": 1122.3,
+      "price": 2805.0,
+      "market_cap_b": 1106.5,
       "revenue_yoy": 51.8,
       "gross_margin": 30.8,
       "operating_margin": 25.5,
       "fcf_b": 32.25,
       "debt_to_ebitda": 0.7,
-      "market_cap_usd_b": 35.1,
+      "market_cap_usd_b": 34.6,
       "arxiv_papers": [
         {
           "title": "L2C2: Enhancing Large-scale Chiplets for Agent Long-Context LLM Inference with Sparse and Distributed Attention",
@@ -2260,10 +2260,10 @@
           "published": "Tue, 10 Nov 2026"
         },
         {
-          "title": "Taiwan Stocks Plunge 2,393 Points; AI High-Flyers Elite Material, Unimicron, Asia Vital Components Hit Limit Down as Foreign Brokerage Says Valuation Overcorrected - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oeDRXYlZOeHZOQ1FJVnlBdnI3V3BFR0NBbk1aRFlsNFFVSVBudlRaUUxmVFRJOTdMck44RXBwWTF0djdocTdIZHpyMTRkTzRhR2VNUGtGSlA5STNzenBuanJHRWFoOUoxYzViYXhhWHlaS1hibkE?oc=5",
+          "title": "Asia Vital Components' October Revenue Surges to NT$22.1 Billion, Up 34% Year-over-Year, Marking Fourth Straight Monthly Record - BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BYWtWM0lIYk5xRFZQcVI0UFkzQW9Id3hLRHFZQnI2QlN0VDljN2ttdV9lQlFiOFZvalVaV1hNUndiTjlDclZLMGlsYWJSc01ZWDF0dTc3enF5emRtUXdjNjZUdHNadmF2SHdNOUxBbDAtTmRyZGc?oc=5",
           "publisher": "Google News",
-          "published": "Fri, 20 Nov 2026"
+          "published": "Sun, 08 Nov 2026"
         }
       ]
     },
@@ -2326,14 +2326,14 @@
           350.0
         ]
       },
-      "price": 1120.0,
-      "market_cap_b": 2909.2,
+      "price": 1125.0,
+      "market_cap_b": 2922.2,
       "revenue_yoy": 31.1,
       "gross_margin": 35.3,
       "operating_margin": 16.9,
       "fcf_b": 44.52,
       "debt_to_ebitda": 0.77,
-      "market_cap_usd_b": 90.9,
+      "market_cap_usd_b": 91.3,
       "arxiv_papers": [
         {
           "title": "Minimizing Optical Circuit Reconfigurations for Concurrent Collectives",
